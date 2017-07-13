@@ -19,9 +19,9 @@ ms.lasthandoff: 06/26/2017
 # Vítejte v Dynamics NAV
 <a id="welcome-to-dynamics-nav" class="xliff"></a>
 
-Dynamics NAV je podnikové řešení pro pro malé a střední organizace, které automatizuje a zjednodušuje obchodní procesy a pomáhá vám řídit vaše podnikání. Demonstrační společnost obsahuje ukázkové data, ale můžete například vytvořit vlastní prodejní doklady nebo si založit bankovní účet.  
+Dynamics NAV je podnikové řešení pro malé a střední organizace, které automatizuje a zjednodušuje obchodní procesy a pomáhá vám řídit vaše podnikání. Demonstrační společnost obsahuje ukázkové data, ale můžete také například vytvořit vlastní prodejní doklady nebo si založit bankovní účet.  
 
-V centru role vlastníka firmy naleznete akci Asistované nastavení a úkoly. de naleznete seznam asistovaných nastavení, která vám pomohou začít. V okně Asistované nastavení naleznete následující:
+V centru role vlastníka firmy naleznete akci Asistované nastavení a úkoly. Zde naleznete seznam asistovaných nastavení, která vám pomohou začít. V okně Asistované nastavení naleznete následující:
 
 |Asistované nastavení           |Popis                                                                                      |
 |-------------------------|-------------------------------------------------------------------------------------------------|
