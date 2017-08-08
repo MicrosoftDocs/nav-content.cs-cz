@@ -16,12 +16,11 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# Vítejte v Dynamics NAV
-<a id="welcome-to-dynamics-nav" class="xliff"></a>
+# <a name="welcome-to-dynamics-nav"></a>Vítejte v Dynamics NAV
 
-Dynamics NAV je podnikové řešení pro malé a střední organizace, které automatizuje a zjednodušuje obchodní procesy a pomáhá vám řídit vaše podnikání. Demonstrační společnost obsahuje ukázkové data, ale můžete také například vytvořit vlastní prodejní doklady nebo si založit bankovní účet.  
+Dynamics NAV je podnikové řešení pro pro malé a střední organizace, které automatizuje a zjednodušuje obchodní procesy a pomáhá vám řídit vaše podnikání. Demonstrační společnost obsahuje ukázkové data, ale můžete například vytvořit vlastní prodejní doklady nebo si založit bankovní účet.  
 
-V centru role vlastníka firmy naleznete akci Asistované nastavení a úkoly. Zde naleznete seznam asistovaných nastavení, která vám pomohou začít. V okně Asistované nastavení naleznete následující:
+V centru role vlastníka firmy naleznete akci Asistované nastavení a úkoly. de naleznete seznam asistovaných nastavení, která vám pomohou začít. V okně Asistované nastavení naleznete následující:
 
 |Asistované nastavení           |Popis                                                                                      |
 |-------------------------|-------------------------------------------------------------------------------------------------|
@@ -37,8 +36,7 @@ V centru role vlastníka firmy naleznete akci Asistované nastavení a úkoly. Z
 Po spuštění asistovaného nastavení je označeno jako dokončeno. Chcete-li spustit asistované nastavení, zvolte tři tečky, které reprezentují kontextovou nabídku, a potom zvolte možnost spustit instalaci.
 
 
-## Viz také
-<a id="see-also" class="xliff"></a>
+## <a name="see-also"></a>Viz také
 [Nastavení](setup.md)  
 [Finance](finance-setup.md)  
 [Přizpůsobení Dynamics NAV pomocí rozšíření](ui-extensions.md)  

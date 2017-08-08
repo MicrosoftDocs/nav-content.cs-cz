@@ -1,0 +1,1 @@
+Pouze klient Microsoft Dynamics NAV Windows
