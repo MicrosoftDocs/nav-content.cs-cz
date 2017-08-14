@@ -31,7 +31,7 @@ Každý dlouhodobý majetek může být připojený k jedné nebo více pojistn�
 
 Následující tabulka popisuje sekvekci úloh s odkazy na témata, které je popisují.
 
-| K | Viz |
+| Viz | také |
 |----|-----|
 |Nastavte výchozí hodnoty, účetnictví dlouhodobého majetku, účtovací skupiny, přidělené klíče, deníky a účtovací typy.|[Nastavit dlouhodobý majetek](fa-setup.md)|
 |Vytvořit dlouhodobý majetek, připojit metody odpisu, účtování pořízení, konečné zůstatkové hodnoty a tisk seznamů dlouhodobého majetku.|[Návody: Získat dlouhodobý majetek](fa-how-acquire.md)|

@@ -17,7 +17,7 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="sales-tax-and-goods-and-services-tax-in-canada"></a>Daň z prodeje a ze zboží a služeb v Kanadě
-V Kanadě, pokud dodavatel nemá obchodní zastoupení v provincii, ve které jsou uskutečněny nákupy, bude prodejce účtovat pouze daně ze zboží a služeb (GST) nebo harmonizovanou daň z prodeje (HST). Pokud však provincie má provinční daně z prodeje (PST), kupující musí ještě vypočítat PST a zaplatit ji přímo provincii. Pokud je vybrán kód provinční daňové oblasti, Dynamics NAV ji použije k výpočtu PST a zaúčtování, takže existuje daňová povinnost jak v hlavní knize, tak v evidenci daňových vstupů. Zde by měl být kód daňové oblasti vybrán tak, aby zahrnoval pouze PST, nikoliv GST.  
+V Kanadě pokud dodavatel nemá obchodní zastoupení v provincii, ve které jsou uskutečněny nákupy, bude prodejce účtovat pouze daně ze zboží a služeb (GST) nebo harmonizovanou daň z prodeje (HST). Pokud však provincie má provinční daně z prodeje (PST), kupující musí ještě vypočítat PST a zaplatit ji přímo provincii. Pokud je vybrán kód provinční daňové oblasti, Dynamics NAV ji použije k výpočtu PST a zaúčtování, takže existuje daňová povinnost jak v hlavní knize, tak v evidenci daňových vstupů. Zde by měl být kód daňové oblasti vybrán tak, aby zahrnoval pouze PST, nikoliv GST.  
 Další informace o prodejních daních v [Daně z prodeje a daňové skupiny v USA a Kanadě](us-finance-setup-sales-tax.md).  
 
 ## <a name="submitting-the-gsthst-file"></a>Odeslání souboru GST / HST

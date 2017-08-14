@@ -1,5 +1,5 @@
 ---
-title: "Správa bankovních účtů."
+title: "Správa bankovních účtů"
 author: SorenGP
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,8 +16,8 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="manage-bank-accounts"></a>Správa bankovních účtů.
-V pravidelných intervalech musíte odsouhlasit bankovní položky v Dynamics NAV se souvisejícími bankovními transakcemi na bankovních účtech u vaší banky a pak musíte zaúčtovat zůstatek na vašem bankovním účtu. Tuto úlohu můžete provést jako součást zpracování plateb uvedených v bankovním výpisu v **Deník odsouhlasení plateb**. Případně můžete úlohu provádět odděleně od zpracování plateb v **Odsouhlasení bankovních účtů**, které podporuje kontrolu položek knihy. V obou případech vyplníte okna importováním bankovního výpisu do Dynamics NAV.
+# <a name="manage-bank-accounts"></a>Správa bankovních účtů
+V pravidelných intervalech musíte odsouhlasit bankovní položky v Dynamics NAV se souvisejícími bankovními transakcemi na bankovních účtech u vaší banky a pak musíte zaúčtovat zůstatek na vašem bankovním účtu. Tuto úlohu můžete provést jako součást zpracování plateb uvedených v bankovním výpisu v **Deník odsouhlasení plateb**. Případně můžete úlohu provádět odděleně od zpracování plateb v **Odsouhlasení bank. účtů**, které podporuje kontrolu položek knihy. V obou případech vyplníte okna importováním bankovního výpisu do Dynamics NAV.
 
 Někdy je třeba převést částky mezi bankovním účtem v Dynamics NAV tak, aby odrážely převody ve vaší bance. Tento úkol provedete v okně **Finanční deník** různými způsoby v závislosti na měně finančních prostředků.
 
@@ -25,10 +25,10 @@ Než budete moci spravovat bankovní účty, musíte nastavit každý bankovní 
 
 Následující tabulka popisuje postup úkolů s odkazy na téma, která je popisují.
 
-|K |Viz |
+|Pro |Viz |
 |---|----|
-|Odsouhlaste bankovní účty v souvislosti se zpracováním plateb v okně **Deník odsouhlasení plateb**.|[Použití automatických plateb a odsouhlasení bankovních účtů](receivables-apply-payments-auto-reconcile-bank-accounts.md)|
-|Odsouhlaste bankovní účty, včetně položek v knize, jako samostatný úkol v okně **Odsouhlasení bankovních účtů**.|[Návod: Odsouhlasení bankovních účtů zvlášť](bank-how-reconcile-bank-accounts-separately.md)|
+|Odsouhlasení bankovních účtů v souvislosti se zpracováním plateb v okně **Deník odsouhlasení plateb**.|[Použití automatických plateb a odsouhlasení bankovních účtů](receivables-apply-payments-auto-reconcile-bank-accounts.md)|
+|Odsouhlasení bankovních účtů, včetně položek v knize, jako samostatný úkol v okně **Odsouhlasení bank. účtů**.|[Návod: Odsouhlasení bankovních účtů zvlášť](bank-how-reconcile-bank-accounts-separately.md)|
 |Zaúčtování převodu mezi bankovními účty ve stejné měně nebo v různých měnách.|[Návod: Převod bankovních prostředků](bank-how-transfer-bank-funds.md)
 ## <a name="see-also"></a>Viz také  
 [Nastavení bankovnictví](bank-setup-banking.md)  

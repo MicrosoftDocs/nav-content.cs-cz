@@ -17,7 +17,7 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="account-schedules"></a>Účetní schémata
-S účetními schématy můžete získat detailní pohled do vašich finančích dat. Můžete nastavit různá rozložení k definování informací, které chcete extrahovat z účtové osnovy. Účtová osnova uchovává vaše finanční data, ale občas můžete chtít získat pohled na data, který účtová osnova nemůže ukázat. Tak použijete účetní schémata pro analýzu čísel na účtech hlavní knihy a pro porovnání položek hlavní knihy s položkami rozpočtu.
+S účetními schématy můžete získat detajlní pohled do vašich finančích dat. Můžete nastavit různá rozložení k definování informací, které chcete extrahovat z účtové osnovy. Účtová osnova uchovává vaše finanční data, ale občas můžete chtít získat pohled na data, který účtová osnova nemůže ukázat. Tak použijete účetní schémata pro analýzu čísel na účtech hlavní knihy a pro porovnání položek hlavní knihy s položkami rozpočtu.
 Například chcete spočítat mezisoučty pro skupiny účtů a chcete zahrnout tyto mezisoučty do nových součtů atd.
 Dynamics NAV obsahuje ukázkové účetní schémata, která slouží ke generování grafů na domovské stránce. Můžetet také vytvořit účetní schémata k výpočtu marží na dimenzích jako oddělení nebo skupina odběratelů.  
 

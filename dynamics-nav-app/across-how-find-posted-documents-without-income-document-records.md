@@ -1,5 +1,5 @@
 ---
-title: "Návod: Vyhledání zaúčtovaných dokumentů bez záznamů příchozího dokumentu"
+title: "Návod: Vyhledání zaúčtovaných dokladů bez záznamů došlého dokladu"
 author: SorenGP
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,27 +16,27 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-find-posted-documents-without-incoming-document-records"></a>Návod: Vyhledání zaúčtovaných dokumentů bez záznamů příchozího dokumentu
-Z okna **Účtová osnova** a **Položek hlavní knihy** můžete pomocí vyhledávací funkce vyhledat položky hlavní knihy pro zaúčtované nákupní a prodejní dokumenty, které nemají záznamy příchozího dokumentu a poté centrálně odkazovat na existující záznamy nebo vytvářet nové dokumenty s přiloženými soubory.
+# <a name="how-to-find-posted-documents-without-incoming-document-records"></a>Návod: Vyhledání zaúčtovaných dokladů bez záznamů došlého dokladu
+Z okna **Účetní osnova** a **Položky hlavní knihy** můžete pomocí vyhledávací funkce vyhledat položky hlavní knihy pro zaúčtované nákupní a prodejní doklady, které nemají záznamy došlého dokladu a poté centrálně odkazovat na existující záznamy nebo vytvářet nové doklady s přiloženými soubory.
 
-## <a name="to-find-posted-documents-without-incoming-document-records"></a>Vyhledání zaúčtovaných dokumentů bez záznamů příchozího dokumentu
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Účtová osnova** a pak vyberte související odkaz.
-2. Vyberte řádek pro finanční účet, kde jsou položky hlavní knihy, které chcete zaúčtovat jako nákupní a prodejní dokumenty bez záznamů příchozího dokumentu a pak zvolte akci **Zaúčtovat dokumenty bez příchozího dokumentu**.
+## <a name="to-find-posted-documents-without-incoming-document-records"></a>Vyhledání zaúčtovaných dokladů bez záznamů došlého dokladu
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Účetní osnova** a pak vyberte související odkaz.
+2. Vyberte řádek pro finanční účet, kde jsou položky hlavní knihy, které chcete zaúčtovat jako nákupní a prodejní doklady bez záznamů došlého dokladu a pak zvolte akci **Zaúčtovat doklad bez došlého dokladu**.
 3. Alternativně zvolte akci **Položky knihy**.
-4. V okně **Položky hlavní knihy** zvolte akci **Zaúčtovat dokumenty bez příchozího dokumentu**.
+4. V okně **Položky hlavní knihy** zvolte akci **Zaúčtovat doklady bez došlých dokladů**.
 
-Okno **Zaúčtované dokumenty bez příchozího dokumentu** otevře zaúčtované nákupní a prodejní dokumenty bez záznamů příchozího dokumentu reprezentovány položkami hlavní knihy ve finančním účtu, který pro toto okno otevřete. Okno může ukázat maximum 1000 řádků. Ve výchozím nastavení pole **Filtr data** omezuje řádky na položky s daty zveřejnění od začátku účetního období do data práce.
+Okno **Zaúčtované doklady bez došlých dokladů** otevře zaúčtované nákupní a prodejní doklady bez záznamů došlého dokladu reprezentovány položkami hlavní knihy ve finančním účtu, který pro toto okno otevřete. Okno může ukázat maximum 1000 řádků. Ve výchozím nastavení pole **Filtr data** omezuje řádky na položky s daty zveřejnění od začátku účetního období do pracovního data.
 
-## <a name="to-connect-found-documents-to-existing-incoming-document-records"></a>Připojení nalezených dokumentů k existujícím záznamům příchozího dokumentu
-1. V okně **Zaúčtované dokumenty bez příchozího dokumentu** vyberte řádek pro zaúčtovaný dokument, který chcete připojit k existujícímu záznamu příchozího dokumentu a pak zvolte akci **Vybrat příchozí dokument**.
-2. V okně **Příchozí dokumenty** vyberte záznam příchozího dokumentu, který chcete připojit k zaúčtovanému dokumentu a pak zvolte tlačítko **OK**.
-3. V okně **Zaúčtované dokumenty bez příchozího dokumentu** vyberte záznam příchozího dokument, který je nyní připojen k zaúčtovanému dokumentu, jak můžete vidět v okně s fakty **Soubory příchozího dokumentu**.
+## <a name="to-connect-found-documents-to-existing-incoming-document-records"></a>Připojení nalezených dokladů k existujícím záznamům došlého dokladu
+1. V okně **Zaúčtované doklady bez došlého dokladu** vyberte řádek pro zaúčtovaný doklad, který chcete připojit k existujícímu záznamu došlého dokladu a pak zvolte akci **Vybrat došlý doklad**.
+2. V okně **Došlé doklady** vyberte záznam došlého dokladu, který chcete připojit k zaúčtovanému dokladu a pak zvolte tlačítko **OK**.
+3. V okně **Zaúčtované doklady bez došlého dokladu** vyberte záznam došlého dokladu, který je nyní připojen k zaúčtovanému dokladu, jak můžete vidět v okně s fakty **Soubory došlého dokladu**.
 
-Pokud v okně **Příchozí dokumenty** neexistuje příslušný záznam příchozího dokumentu, můžete jej vytvořit. Další informace naleznete v [Návod: Vytvořit záznamy příchozího dokumentu](across-how-create-income-document-records.md).
+Pokud v okně **Došlé doklady** neexistuje příslušný záznam došlého dokladu, můžete jej vytvořit. Další informace naleznete v [Návod: Vytvoření záznamů došlého dokladu](across-how-create-income-document-records.md).
 
 ## <a name="see-also"></a>Viz také  
-[Proces Příchozího dokumentu](across-process-income-documents.md)  
-[Příchozí dokumenty](across-income-documents.md)  
+[Proces Došlých dokladů](across-process-income-documents.md)  
+[Došlé doklady](across-income-documents.md)  
 [Správa nákupu](purchasing-manage-purchasing.md)  
 [Práce s Dynamics NAV](ui-work-product.md)
 
