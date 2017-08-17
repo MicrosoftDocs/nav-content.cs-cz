@@ -17,7 +17,7 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="how-to-acquire-fixed-assets"></a>Návod: Pořízení DM
-Pro každý dlouhodobý majetek musíte nastavit kartu obsahující informace o majetku. Můžete si nastavit budovy nebo výrobní zařízení jako hlavní majetek součástí seznamu a můžete je seskupit různými způsoby, například podle třídy, oddělení nebo umístění. Odpisová kniha musí být nastavena a přiřazena každému dlouhodobému majetku předtím, než si jej můžete pořídit.
+Pro každý dlouhodobý majetek musíte nastavit kartu obsahující informace o majetku. Můžete si nastavit budovy nebo výrobní zařízení jako hlavní majetek součástí seznamu a můžete je seskupit různými způsoby například podle třídy, oddělení nebo umístění. Odpisová kniha musí být nastavena a přiřazena každému dlouhodobému majetku předtím, než si jej můžete pořídit.
 
 Pokud je dlouhodobý majetek nastaven a je přiřazena odpisová kniha, musíte si pořídit dlouhodobý majetek. Chcete-li si pořídit dlouhodobý majetek, zaznamenáte jeho pořizovací cenu na příslušný finanční účet, bankovní účet nebo prodejci zaúčtováním pořizovací transakce v okně **Finanční deník DM**. Můžete použít okno **Pořízení DM** k vytvoření a zaúčtování požadovaných řádků finančního deníku automaticky.
 

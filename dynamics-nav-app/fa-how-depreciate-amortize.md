@@ -17,7 +17,7 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="how-to-depreciate-or-amortize-fixed-assets"></a>Návod: Odpis a amortizace DM
-Odpisy se používají k rozdělení nákladů na dlouhodobý majetek, jako jsou stroje a zařízení, na dobu jejich odpisovatelného života. Pro každý dlouhodobý majetek musíte definovat, jak bude odpisován.  
+Odpisy se používají k rozdělení nákladů na dlouhodobý majetek, jako jsou stroje a zařízení na dobu jejich odpisovatelného života. Pro každý dlouhodobý majetek musíte definovat, jak bude odpisován.  
 
  Existují dva způsoby, jak zaúčtovat odpis:
 - Automaticky spuštěním dávkové úlohy **Výpočet odpisu**.
@@ -91,7 +91,7 @@ Můžete kopírovat položky z jedné odpisové knihy do jiné s dávkovou úloh
 3. V okně **Kopírovat odpisovou knihu** vyplňte pole podle potřeby.  
 4. Zvolte tlačítko **OK**.  
 
-Zkopírované řádky jsou vytvářeny buď ve finančním deníku DM nebo deníku DM, v závislosti na tom, zda je odpisová kniha, kterou kopírujete, integrována do hlavní knihy.
+Zkopírované řádky jsou vytvářeny buď ve finančním deníku DM nebo deníku DM v závislosti na tom, zda je odpisová kniha, kterou kopírujete integrována do hlavní knihy.
 
 ## <a name="see-also"></a>Viz také
 [Správa DM](fa-manage.md)  

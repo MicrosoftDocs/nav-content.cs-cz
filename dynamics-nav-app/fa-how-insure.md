@@ -51,7 +51,7 @@ Následující postup vysvětluje, jak ručně vytvořit řádek pojistného den
 **Poznámka**: Položky z deníku pojištění jsou zaúčtovány pouze do knihy pojištění.  
 
 ## <a name="to-update-the-insurance-value-of-a-fixed-asset"></a>Aktualizace ceny pojištění DM
-Můžete použít dávkovou úlohu **Index pojištění** k aktualizaci hodnoty DM, který je pokryt.
+Můžete použít dávkovou úlohu **Indexovat pojištění** k aktualizaci hodnoty DM, který je pokryt.
 
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Index pojištění** a pak vyberte související odkaz.
 2. Vyplňte pole podle potřeby.

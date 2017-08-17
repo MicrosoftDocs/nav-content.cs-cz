@@ -19,7 +19,7 @@ ms.lasthandoff: 06/26/2017
 # <a name="how-to-dispose-of-or-retire-fixed-assets"></a>Návod: Vyřazení nebo odebrání DM
 Při prodeji nebo jiném vyřazování DM musí být hodnota vyřazení zaúčtována k výpočtu a zaznamenání zisku nebo ztrát. Vyřazená položka musí být poslední položkou zaúčtovanou pro dlouhodobý majetek. Pro částečné vyřazení DM můžete zaúčtovat více než jednu vyřazenou položku. Všechny zaúčtované částky musí činit částku Dal.
 
- **POZNÁMKA**: Pokud obchodujete s dlouhodobým majetkem, musíte zaznamenat jak prodej starého majetku (vyřazení), tak i nákup nového (pořízení). Další informace naleznete v [Návod: Pořízení DM](fa-how-acquire.md).
+ **POZNÁMKA**: Pokud obchodujete s dlouhodobým majetkem musíte zaznamenat, jak prodej starého majetku (vyřazení) tak i nákup nového (pořízení). Další informace naleznete v [Návod: Pořízení DM](fa-how-acquire.md).
 
 ## <a name="to-post-a-disposal-from-the-fixed-asset-gl-journal"></a>Zaúčtování vyřazeného DM z finančního deníku  
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Finanční deník DM** a pak vyberte související odkaz.  

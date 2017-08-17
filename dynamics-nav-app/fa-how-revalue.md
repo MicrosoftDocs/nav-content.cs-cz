@@ -78,7 +78,7 @@ Dávková úloha **Výpočet odpisů** je spuštěna 31. srpna 2000. Odpisy se v
 
 *účetní hodnota x počet dnů odpisování / celkový počet dnů odpisování = 4800 x 30/1440 = 100*  
 
-Dne 15. září 2000 byla zaúčtována faktura pro maľování stroje. Částka faktury je 480.
+Dne 15. září 2000 byla zaúčtována faktura pro malování stroje. Částka faktury je 480.
 
 Pokud jste vybrali zaškrtávací políčko **Depr. dokud datum zaúčtování DM** na faktuře před zaúčtováním, provede se následující výpočet:  
 

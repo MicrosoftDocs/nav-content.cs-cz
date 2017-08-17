@@ -51,7 +51,7 @@ Pro výpočet budoucího odpisu můžete použít výkaz **Dlouhodobý majetek -
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Odhadovaná hodnota DM** a pak vyberte související odkaz.
 2. Vyplňte pole podle potřeby.
 3. Chcete-li zobrazit souhrnné hodnoty pro všechen majetek, zrušte zaškrtnutí políčka **Tisk dle DM**.
-4. Ponechte záložku s náhledem **Dlouhodobý majetek** prázdnou, aby byl zahrnut všechen majetek. Do pole **Rozpočtový majetek** zadejte **Ne** chcete-li vyloučit rozpočtovaný majetek nebo **Ano**, abyste viděli pouze rozpočtovaný majetek.
+4. Ponechte záložku s náhledem **Dlouhodobý majetek** prázdnou, aby byl zahrnut všechen majetek. Do pole **Rozpočtový majetek** zadejte **Ne**, chcete-li vyloučit rozpočtovaný majetek nebo **Ano**, abyste viděli pouze rozpočtovaný majetek.
 5. Zvolte tlačítko **Tisk** nebo **Náhled**.
 
 ## <a name="see-also"></a>Viz také

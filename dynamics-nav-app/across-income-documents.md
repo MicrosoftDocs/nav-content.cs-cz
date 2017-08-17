@@ -28,7 +28,7 @@ Proces došlých dokladů se může skládat z následujících hlavních činno
 * Nahrání externích dokladů do Dynamics NAV vytvořením řádků v okně **Došlé doklady** jedním z následujících způsobů:
     * Manuálně pomocí jednoduchých funkcí, ať už z počítače nebo z mobilního zařízení, jedním z následujících způsobů:
         * Pomocí tlačítka **Vytvořit ze souboru** a vyplněním příslušného pole v okně **Došlé doklady**. Soubor je automaticky připojen.  
-        * Použití tlačítko **Nový** a potom vyplněním příslušných polí v okně **Došlé doklady** a ručním připojením příslušného souboru.
+        * Použití tlačítka **Nový** a potom vyplněním příslušných polí v okně **Došlé doklady** a ručním připojením příslušného souboru.
         * Z tabletu nebo telefonu použitím tlačítka **Vytvořit z fotoaparátu** pro vytvoření nového záznamu došlého dokladu a poté jejím odesláním například do služby OCR.
     * Automaticky získáním dokumentu ze služby OCR jako elektronického dokladu po odeslání příslušného souboru PDF nebo obrázkového souboru elektronickou poštou do služby OCR. Záložka s náhledem **Finanční informace** se automaticky vyplní v okně **Došlé doklady**. 
 * Služba OCR slouží k tomu, aby se soubory PDF nebo obrázkové soubory převedly na elektronické doklady, které můžou být převedeny na záznamy dokladu v Dynamics NAV.

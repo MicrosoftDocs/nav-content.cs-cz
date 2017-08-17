@@ -38,9 +38,9 @@ Někdy chcete vidět více polí, které můžete mít v doplňku, například k
 ## <a name="quick-document-lookup"></a>Rychlé vyhledávání dokumentů
 Doplněk Dynamics NAV Document Links poskytuje rychlý přístup k dokladům uvedeným v e-mailových zprávách. Doplněk je k dispozici pro e-mailovou zprávu, pokud je číslo dokladu rozpoznáno v textu zprávy. Otevření doplňku poskytuje rychlý přístup k dokladu.  
 
-Pokud například obdržíte e-mailovou zprávu, která uvádí text *S-QUO100*, Dynamics NAV toto identifikuje jako prodejní nabídka, a proto můžete tento doklad otevřít v aplikaci Outlook. V aplikaci Outlook vyberte tlačítko **Odkazy na doklad** bezprostředně nad textem e-mailové zprávy. Ve webové aplikaci Outlook vyberte text *S-QUO1001* v textu e-mailové zprávy.  
+Pokud například obdržíte e-mailovou zprávu, která uvádí text *S-QUO100*, Dynamics NAV toto identifikuje jako prodejní nabídka a proto můžete tento doklad otevřít v aplikaci Outlook. V aplikaci Outlook vyberte tlačítko **Odkazy na doklad** bezprostředně nad textem e-mailové zprávy. Ve webové aplikaci Outlook vyberte text *S-QUO1001* v textu e-mailové zprávy.  
 
-V doplňku Document Links můžete upravovat a provádět akce s dokladem, stejně jako v Dynamics NAV.
+V doplňku Document Links můžete upravovat a provádět akce s dokladem stejně jako v Dynamics NAV.
 
 ## <a name="see-also"></a>Viz také
 [Vítejte v Dynamics NAV](across-get-started.md)  

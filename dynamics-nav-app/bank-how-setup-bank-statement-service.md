@@ -17,7 +17,7 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="how-to-set-up-the-envestnet-yodlee-bank-feeds-service"></a>Návod: Nastavení Envestnet Yodlee Bank Feeds Service
-Můžete importovat elektronické bankovní výpisy z vaší banky pro rychlé naplnění v okně **Deník odsouhlasení plateb**, abyste mohli zaplatit a odsouhlasit bankovní účet. Další informace naleznete v části [Použití plateb automaticky a odsouhlasení bankovních účtů](receivables-apply-payments-auto-reconcile-bank-accounts.md).
+Můžete importovat elektronické bankovní výpisy z vaší banky pro rychlé naplnění v okně **Deník odsouhlasení plateb**, abyste mohli zaplatit a odsouhlasit bankovní účet. Další informace naleznete v části [Automatické vyrovnání plateb a odsouhlasení bankovních účtů](receivables-apply-payments-auto-reconcile-bank-accounts.md).
 
 **Poznámka**: The Envestnet Yodlee Bank Feeds service nebo jiný poskytovatel bankovních služeb nemusí být ve vašem systému k dispozici. Obraťte se na svého partnera Microsoft, chcete-li pro import bankovních výpisů použít bankovní službu.
 
@@ -67,7 +67,7 @@ Bankovní služba bude aktivována, když propojíte bankovní účet s jeho sou
 
 ## <a name="to-link-a-bank-account-to-an-online-bank-account"></a>Propojení bankovního účtu s bankovním účtem online
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Bankovní účty** a pak vyberte související odkaz.
-2. Vyberte řádek pro bankovní účet, který není propojen s bankovním účtem online, a poté vyberte akci **Propojit s bankovním účtem online**. Otevře se okno **Propojení online bankovního účtu** s názvem banky, která je vyplněna v podokně **Propojení účtu**.
+2. Vyberte řádek pro bankovní účet, který není propojen s bankovním účtem online a poté vyberte akci **Propojit s bankovním účtem online**. Otevře se okno **Propojení online bankovního účtu** s názvem banky, která je vyplněna v podokně **Propojení účtu**.
 3. Vyberte název banky. Otevře se podokno **Přihlášení**.
 4. Zadejte uživatelské jméno a heslo, které používáte pro přihlášení do online banky a poté zvolte tlačítko **Další**.
 

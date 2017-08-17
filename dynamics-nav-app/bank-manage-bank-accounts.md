@@ -27,7 +27,7 @@ Následující tabulka popisuje postup úkolů s odkazy na téma, která je popi
 
 |Pro |Viz |
 |---|----|
-|Odsouhlasení bankovních účtů v souvislosti se zpracováním plateb v okně **Deník odsouhlasení plateb**.|[Použití automatických plateb a odsouhlasení bankovních účtů](receivables-apply-payments-auto-reconcile-bank-accounts.md)|
+|Odsouhlasení bankovních účtů v souvislosti se zpracováním plateb v okně **Deník odsouhlasení plateb**.|[Automatické vyrovnání plateb a odsouhlasení bankovních účtů](receivables-apply-payments-auto-reconcile-bank-accounts.md)|
 |Odsouhlasení bankovních účtů, včetně položek v knize, jako samostatný úkol v okně **Odsouhlasení bank. účtů**.|[Návod: Odsouhlasení bankovních účtů zvlášť](bank-how-reconcile-bank-accounts-separately.md)|
 |Zaúčtování převodu mezi bankovními účty ve stejné měně nebo v různých měnách.|[Návod: Převod bankovních prostředků](bank-how-transfer-bank-funds.md)
 ## <a name="see-also"></a>Viz také  

@@ -23,16 +23,16 @@ Jako alternativu k odeslání souboru z okna **Došlé doklady**, můžete odesl
 
 Po několika sekundách obdržíte soubor zpět od služby OCR jako elektronickou fakturu, kterou lze převést na nákupní fakturu dodavatele. Toto je popsáno v třetí proceduře.
 
-Vzhledem k tomu, že OCR je založen na optickém rozpoznávání, je pravděpodobné, že služba OCR interpretuje znaky ve vašem souboru PDF nebo obrázkových souborů nesprávně, když například nejprve zpracuje doklady konkrétního dodavatele. Nemusí správně interpretovat logo společnosti jako jméno prodejce, nebo může nesprávně interpretovat celkovou částku na příjemce kvůli jejímu rozložení. Chcete-li se těmto chybám vyhnout, můžete chyby opravit v samostatné verzi v okně **Došlé doklady**.  Poté odešlete opravy zpět do služby OCR, aby mohli správně interpretovat specifické znaky při příštím zpracování dokumentu PDF nebo obrázkového souboru pro stejného dodavatele. Další informace naleznete v části „Zlepšení služby OCR k vyhnutím se chybám“.
+Vzhledem k tomu, že OCR je založen na optickém rozpoznávání, je pravděpodobné, že služba OCR interpretuje znaky ve vašem souboru PDF nebo obrázkových souborů nesprávně, když například nejprve zpracuje doklady konkrétního dodavatele. Nemusí správně interpretovat logo společnosti jako jméno prodejce, nebo může nesprávně interpretovat celkovou částku na příjemce kvůli jejímu rozložení. Chcete-li se těmto chybám vyhnout, můžete chyby opravit v samostatné verzi v okně **Došlé doklady**.  Poté odešlete opravy zpět do služby OCR, aby se mohli správně interpretovat specifické znaky při příštím zpracování dokumentu PDF nebo obrázkového souboru pro stejného dodavatele. Další informace naleznete v části „Zlepšení služby OCR k vyhnutím se chybám“.
 
 Přenos souborů do a ze služby OCR je zpracována položka vyhrazená frontou úloh, která se automaticky vytvoří při povolení příslušného připojení služby. Další informace naleznete v [Návod: Nastavení došlých dokladů](across-how-setup-income-documents.md).
 
 ## <a name="to-send-a-pdf-or-image-file-to-the-ocr-service-from-the-incoming-documents-window"></a>Odeslání souboru PDF nebo obrázkového souboru do služby OCR z okna **Došlé doklady**
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Došlé doklady** a pak vyberte související odkaz. 
-2. Vytvořit nový záznam došlého dokladu a připojit soubor. Další informace naleznete v [Návod: Vytvořit záznamy došlého dokladu](across-how-create-income-document-records.md).  
+2. Vytvořte nový záznam došlého dokladu a připojte soubor. Další informace naleznete v [Návod: Vytvořit záznamy došlého dokladu](across-how-create-income-document-records.md).  
 3. V okně **Došlé doklady** vyberte jeden nebo více řádků a pak zvolte akci **Odeslat do fronty úloh**.
 
-    Hodnota pole **Stav OCR** se změní na **Připraveno**. Odeslat přiložený soubor PDF nebo obrázkový soubor do služby OCR frontou úloh podle plánu za předpokladu, že se nevyskytnou žádné chyby.
+    Hodnota pole **Stav OCR** se změní na **Připraveno**. Odešle se přiložený soubor PDF nebo obrázkový soubor do služby OCR frontou úloh podle plánu za předpokladu, že se nevyskytnou žádné chyby.
 5. Případně v okně **Došlé doklady** vyberte jeden nebo více řádků a poté zvolte akci **Odeslat do služby OCR**.
 
 Hodnota v poli **Stav OCR** se změní na Odesláno, pokud neexistují žádné chyby.
@@ -68,14 +68,14 @@ Nyní můžete manuálně nebo automaticky vytvářet záznamy dokladu pro přij
 ## <a name="to-create-a-purchase-invoice-from-an-electronic-document-received-from-the-ocr-service"></a>Vytvoření nákupní faktury z elektronického dokladu obdrženého od služby OCR
 Následující postup popisuje, jak vytvořit záznam o nákupní faktuře z faktury dodavatele obdržené jako elektronický doklad od služby OCR. Postup je stejný, jako když vytvoříte například řádek finančního deníku z výdajů příjemky.
 
-**Poznámka**: Pole **Popis** a **Číslo** na vytvořených řádcích dokladu budou vyplněny pouze tehdy, pokud jste poprvé namapovali text v dokumentu OCR na dvě pole v aplikaci Dynamics NAV. Můžete to udělat buď jako křížové odkazy položky pro řádky dokladů typu Zboží nebo jako mapování textu k účtům pro doklad nebo řádky finančního deníku. Další informace naleznete v popisu tlačítka akce **Křížové odkazy** na kartách položek a související procedury [Návod: Mapový text o opakovaných platbách na účtech pro automatické odsouhlasení](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
+**Poznámka**: Pole **Popis** a **Číslo** na vytvořených řádcích dokladu budou vyplněny pouze tehdy, pokud jste poprvé namapovali text v dokumentu OCR na dvě pole v aplikaci Dynamics NAV. Můžete to udělat buď jako křížové odkazy položky pro řádky dokladů typu Zboží nebo jako mapování textu k účtům pro doklad nebo řádky finančního deníku. Další informace naleznete v popisu tlačítka akce **Křížové odkazy** na kartách položek a související procedury [Návod: Mapovat text o opakovaných platbách na účtech pro automatické odsouhlasení](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
 
 U došlých dokladů typicky použijete **Mapovat text na účet**, abyste definovali, že určitý text na faktuře dodavatele je přijatý ze služby OCR a je mapován na určitý účet dodavatele. Jakákoliv část popisu došlého dokladu, která existuje jako mapovací text, znamená, že pole **Číslo** na výsledných dokumentech nebo řádcích finančního deníku je vyplněno dotyčným prodejcem.
 
 Kromě mapování na účet prodejce nebo na finanční účet můžete také mapovat na bankovní účet. To je praktické například u elektronických dokladů o výdajích, které jsou již zaplaceny, vytvořeny na řádcích finančního deníku a připraveny k zaúčtování na bankovní účet.
 
 1. Vyberte řádek došlého dokladu pro elektronický doklad dodavatele přijatý službou OCR.
-2. Chcete-li namapovat text v dokladu v účtu dodavatele MD, zvolte akci **Mapovat text na účet** a pak vyplňte okno **Mapování textu na účet** s informacemi, které se budou vztahovat na předávajícího dodavatele. Další informace naleznete v [Návod: Namapovaný text o opakovaných platbách na účtech pro automatické odsouhlasení](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
+2. Chcete-li namapovat text v dokladu v účtu dodavatele MD, zvolte akci **Mapovat text na účet** a pak vyplňte okno **Mapování textu na účet** s informacemi, které se budou vztahovat na předávajícího dodavatele. Další informace naleznete v [Návod: Mapovat text o opakovaných platbách na účtech pro automatické odsouhlasení](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
 3. Chcete-li namapovat čísla zboží na dokladu do popisu položek dodavatele, otevřete kartu každé položky a potom vyberte akci **Křížové odkazy** a nastavte křížové odkazy mezi vašimi popisy zboží a těmi u prodejce.
 4. V okně **Došlé doklady** zvolte akci **Vytvořit dokument**.
 

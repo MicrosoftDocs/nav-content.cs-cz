@@ -1,0 +1,1 @@
+Webový klient Microsoft Dynamics NAV

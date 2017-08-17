@@ -17,7 +17,7 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="how-to-set-up-fixed-asset-depreciation"></a>Návod: Nastavení odpisů DM
- Můžete použít různé metody odpisování pro sestavení finančního výkazu a daně z příjmu. Mnoho velkých společností používá přímé odpisy v jejich finančních výkazech, protože toto obecně umožňuje vykazovat vyšší výdělky. Pro účely daně z příjmů však mnoho podniků používá metodu urychlené odpisování. Další informace naleznete v [Metody odpisování](fa-depreciation-methods.md).
+ Můžete použít různé metody odpisování pro sestavení finančního výkazu a daně z příjmu. Mnoho velkých společností používá přímé odpisy v jejich finančních výkazech, protože toto obecně umožňuje vykazovat vyšší výdělky. Pro účely daně z příjmů však mnoho podniků používá metodu urychleného odpisování. Další informace naleznete v [Metody odpisování](fa-depreciation-methods.md).
 
  Když jste vytvořili příslušné odpisové knihy, musíte každému dlouhodobému majetku přiřadit jeden nebo více odpisových knih. Odpisová kniha, která je přidělena k dlouhodobému majetku, se označuje jako odpisová kniha DM. Okno pro přidělené odpisové knihy se jmenuje **Odpisové knihy DM**.
 
@@ -38,7 +38,7 @@ V odpisové knize DM specifikujete, jak je odpisován dlouhodobý majetek. Chcet
 4. Pokud potřebujete přiřadit k dlouhodobému majetku více než jednu knihu odpisů, zvolte akci **Přidat více knih odpisů**.
 5. Případně vyberte akci **Odpisové knihy** k určení jedné nebo více odpisových knih DM.
 
-**Poznámka**: Pokud používáte ruční metodu odpisů, je nutné ručně zadat odpis DM ve finančním deníku. Funkce **Výpočet odpisů** vynechává dlouhodobý majetek, který používá metodu ručního odpisování. Tuto metodu můžete použít pro majetek, který nepodléhá odpisům, například pozemky.
+**Poznámka**: Pokud používáte ruční metodu odpisů, je nutné ručně zadat odpis DM ve finančním deníku. Funkce **Výpočet odpisů** vynechává dlouhodobý majetek, který používá metodu ručního odpisování. Tuto metodu můžete použít pro majetek, který nepodléhá odpisům například pozemky.
 
 ## <a name="to-assign-a-depreciation-book-to-multiple-fixed-assets-with-a-batch-job"></a>Přidělení odpisové knihy do více dlouhodobých aktiv s dávkovou úlohou
 Chcete-li přiřadit odpisovou knihu k několika dlouhodobému majetku, můžete použít dávkovou úlohu **Vytvořit odpisové knihy DM**, abyste v Dynamics NAV automaticky vytvořili potřebné odpisové knihy DM.  
@@ -64,9 +64,9 @@ Doporučujeme, abyste nezměnili nastavení odpisových knih pro položky, kter�
 
 ## <a name="to-set-up-default-templates-and-batches-for-fixed-asset-depreciation"></a>Nastavení výchozích šablon a dávek pro odpisy DM  
 Pro každou odpisovou knihu definujete výchozí nastavení šablon a dávek. Tyto výchozí hodnoty používejte k:
-- Duplikace řádků z jednoho deníku do druhého.
-- Vytvořte řádky deníku pomocí dávkových úloh **Výpočet odpisů** nebo **Indexovat DM**.
-- Duplikace pořizovací ceny v deníku pojištění.
+- Duplikaci řádků z jednoho deníku do druhého.
+- Vytvoření řádků deníku pomocí dávkových úloh **Výpočet odpisů** nebo **Indexovat DM**.
+- Duplikaci pořizovací ceny v deníku pojištění.
 
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Odpisové knihy** a pak vyberte související odkaz.
 2. Vyberte odpisovou knihu, pro kterou chcete definovat výchozí deník a poté vyberte akci **Nastavení deníku DM**.

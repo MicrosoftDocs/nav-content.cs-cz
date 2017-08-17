@@ -29,7 +29,7 @@ Chcete-li používat služby elektronického bankovnictví k importu bankovních
 |Nastavte externí službu, která umožňuje exportovat platby do banky za účelem zpracování a importu bankovních výpisů, jakožto bankovních souborů pro účely platby a bankovního odsouhlasení.|[Návod: Nastavení služby převodu bankovních dat](bank-how-setup-bank-data-conversion-service.md)|
 
 ## <a name="see-also"></a>Viz také
-[Spravovat bankovní účty.](bank-manage-bank-accounts.md)  
+[Spravovat bankovní účty](bank-manage-bank-accounts.md)  
 [Správa pohledávek](receivables-manage-receivables.md)  
 [Správa závazků](payables-manage-payables.md)
 

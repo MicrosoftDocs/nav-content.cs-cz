@@ -30,7 +30,7 @@ Když je nastavena funkce Došlých dokladů, můžete použít různé funkce p
 2. Vyplňte pole podle potřeby. Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.
 
 ## <a name="to-set-up-approvers-of-incoming-document-records"></a>Nastavení schvalovatelů záznamů došlého dokladu
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Nastavení příchozích dokumentů** a pak vyberte související odkaz.  
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Nastavení došlých dokladů** a pak vyberte související odkaz.  
 2. V okně **Nastavení došlých dokladů** zvolte akci **Schvalovatelé**. 
 
     Okno **Schvalovatelé došlých dokladů** ukáže všechny uživatele, kteří jsou nastaveni v Dynamics NAV.  

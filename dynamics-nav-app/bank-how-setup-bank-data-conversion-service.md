@@ -17,11 +17,11 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="how-to-set-up-the-bank-data-conversion-service"></a>Návod: Nastavení služby převodu bankovních dat
-Můžete exportovat platební řádky z okna **Deník plateb** do datového proudu, který pak nahrajete do své banky pro automatické zpracování, takže nemusíte provádět elektronické platby individuálně. Další informace naleznete v [Návod: Exportní platby do bankovního souboru](payables-how-export-payments-bank-file.md).
+Můžete exportovat platební řádky z okna **Deník plateb** do datového proudu, který pak nahrajete do své banky pro automatické zpracování, takže nemusíte provádět elektronické platby individuálně. Další informace naleznete v [Návod: Export plateb do bankovního souboru](payables-how-export-payments-bank-file.md).
 
 Globální poskytovatel služeb, který převádí informace o platbách do libovolného formátu dat, který banka vyžaduje, je připojen a připraven k zapnutí v Dynamics NAV.
 
-Jako alternativu k službě Envestnet Bank Data Feeds service můžete také využít službu převodu bankovních dat, abyste měli bankovní výpis, který obdržíte od své banky, převeden na datový tok, který můžete importovat do Dynamics NAV. Další informace naleznete v [Návod: Použití plateb automaticky a odsouhlasení bankovních účtů](receivables-apply-payments-auto-reconcile-bank-accounts.md).
+Jako alternativu k službě Envestnet Bank Data Feeds service můžete také využít službu převodu bankovních dat, abyste měli bankovní výpis, který obdržíte od své banky, převeden na datový tok, který můžete importovat do Dynamics NAV. Další informace naleznete v [Návod: Automatické vyrovnání plateb a odsouhlasení bankovních účtů](receivables-apply-payments-auto-reconcile-bank-accounts.md).
 
 **Poznámka**: Služba převodu bankovních dat může omezit počet řádků, které lze exportovat do jednoho souboru. Při překročení limitu se zobrazí chybová zpráva. Doporučuje se, aby soubory bankovních výpisů nepřekročily 1000 řádků, jelikož doba zpracování v bankovní službě převodu dat se může výrazně zvýšit.
 
@@ -63,5 +63,5 @@ Nyní jste se zaregistrovali na službu převodu bankovních dat. Postupujte pod
 
 ## <a name="see-also"></a>Viz také  
 [Nastavení bankovnictví](bank-setup-banking.md)  
-[Správa bankovních účtů.](bank-manage-bank-accounts.md)
+[Správa bankovních účtů](bank-manage-bank-accounts.md)
 
