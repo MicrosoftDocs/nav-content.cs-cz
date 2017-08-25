@@ -17,7 +17,7 @@ ms.lasthandoff: 06/26/2017
 ---
 
 #<a name="how-to-work-with-gifi-codes-in-canada"></a>Návod: Práce s kódy GIFI v Kanadě
-Fiskální informace mohou zahrnovat účty hlavní knihy, výkazy, výkazy zisku a ztrát, rozvahy a výkazy nerozděleného zisku. Fiskální informace jsou klasifikovány pomocí kódů. Používání kódů pomáhá vládě zpracovávat informace, připravovat se na elektronické podání a ověřovat daňové informace elektronicky. Používání kódů také pomáhá statistickým organizacím pracovat efektivněji, protože finanční informace jsou snadněji dostupné. Další informace naleznete v části [Kanadská agentura pro daňovou agendu](http://www.cra-arc.gc.ca/).
+Fiskální informace mohou zahrnovat účty hlavní knihy, výkazy, výkazy zisku a ztrát, rozvahy a výkazy nerozděleného zisku. Fiskální informace jsou klasifikovány pomocí kódů. Používání kódů pomáhá vládě zpracovávat informace, připravovat se na elektronické podání a ověřovat daňové informace elektronicky. Používání kódů také pomáhá statistickým organizacím pracovat efektivněji, protože finanční informace jsou snadněji dostupné. Další informace naleznete v tématu [Kanadská agentura pro daňovou agendu](http://www.cra-arc.gc.ca/).
 
 Kanadská daňová agentura využívá kódy obecného indexu finančních informací (GIFI) pro shromažďování, ověřování a zpracování finančních a daňových informací elektronicky. Nejlepším postupem je přiřadit kódy GIFI pouze zaúčtovaným účtům, takže celkový součet je prováděn pomocí softwaru pro daňovou přípravu.
 
@@ -49,7 +49,7 @@ Zůstatek účtu můžete zkontrolovat podle kódu GIFI pomocí přehledu **Zůs
 ## <a name="to-export-balance-information-using-gifi-codes"></a>Export informací o zůstatcích pomocí kódu GIFI
 Informace o exportu zůstatků pomocí kódů GIFI a uložení exportovaného souboru v aplikaci Excel. Můžete upravit, uložit nebo smazat soubor. Soubor můžete použít k přenosu informací do softwaru pro daňové zpracování.
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Export GIFI Info. to Excel** a pak vyberte související odkaz.
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Export GIFI info. do Excelu** a pak vyberte související odkaz.
 2. Určete, co exportovat do aplikace Excel vyplněním polí. Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.
 3. Zvolte tlačítko **OK**.
 

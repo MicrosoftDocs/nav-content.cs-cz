@@ -1,5 +1,5 @@
 ---
-title: "Návody: Specifikovat účtovací období"
+title: "Návod: Specifikace účtovacího období"
 author: jswymer
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,17 +16,17 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-specify-posting-periods"></a>Návody: Specifikovat účtovací období
+# <a name="how-to-specify-posting-periods"></a>Návod: Specifikace účtovacího období
 Když specifikujete účtovací období, omezujete období, ve kterých je účtování povoleno.
 
-## <a name="to-specify-posting-periods"></a>Ke specifikaci účtovacího období
-1. V pravém horním rohu vyberte ikonu **Hledat stránku nebo sestavu**, zadejte **Nastavení hlavní knihy **, a pak zvolte související link.
-2. V okně **Nastavení hlavní knihy**, zadejte datum do pole **Povolit zaúčtování od** ke specifikaci začátku období.
+## <a name="to-specify-posting-periods"></a>Specifikace účtovacího období
+1. V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu** zadejte **Nastavení hlavní knihy** a pak zvolte související odkaz.
+2. V okně **Nastavení hlavní knihy** zadejte datum do pole **Povolit zaúčtování od** ke specifikaci začátku období.
 3. Zadejte datum v poli **Povolit zaúčtování do** ke specifikaci konce období.
 
-Data, které tu definujete, se používají na společnost a všechny uživatele.
+Data, které tu definujete, se používají pro společnost a všechny uživatele.
 
-**Poznámka**: Pokud chcete definovat různé účtovací období pro různé uživatele, můžete jim nastavit pro každého uživatele v okně **Nastavení uživatele**. Pokud zadáte data v okně **Nastavení uživatele**, data zadány v okně **Nastavení hlavní knihy** se nepoužijí na tyto uživatele.
+**Poznámka**: Pokud chcete definovat různé účtovací období pro různé uživatele, můžete jim nastavit pro každého uživatele v okně **Nastavení uživatele**. Pokud zadáte data v okně **Nastavení uživatele**, data zadány v okně **Nastavení hlavní knihy** se na tyto uživatele nepoužijí.
 
 
 ## <a name="see-also"></a>Viz také

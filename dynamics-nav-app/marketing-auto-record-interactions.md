@@ -1,5 +1,5 @@
 ---
-title: "Automaticky zaznamenávat interakce s kontakty"
+title: "Automatické zaznamenávání interakcí s kontakty"
 author: jswymer
 ms.custom: na
 ms.date: 09/16/2016
@@ -15,16 +15,16 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 06/26/2017
 
 ---
-# <a name="automatically-record-interactions-with-contacts"></a>Automaticky zaznamenávat interakce s kontakty
-Aplikaci můžete nastavit tak, aby automaticky zaznamenávala interakce pro prodeje, nákupy a servisní doklady, průvodní stránky, e-maily, telefonní hovory jako například:
+# <a name="automatically-record-interactions-with-contacts"></a>Automatické zaznamenávání interakcí s kontakty
+Aplikaci můžete nastavit tak, aby automaticky zaznamenávaly interakce pro prodeje, nákupy a servisní doklady, průvodní stránky, e-maily, telefonní hovory jako například:
 
-* Vytiskněte prodejní nebo nákupní nabídky, objednávky, faktury, dobropisy, průvodní stránky.
+* Vytisknout prodejní nebo nákupní nabídky, objednávky, faktury, dobropisy, průvodní stránky.
 * Vytvořit prodejní servisní zakázky.
 * Zaúčtovat prodejní servisní zakázky.
 * Poslat e-maily vašim kontaktům.
-* Zavolejte svým kontaktům, pokud máte telefon kompatibilní s protokolem TAPI a správnou instalaci.
+* Zavolat svým kontaktům, pokud máte telefon kompatibilní s protokolem TAPI a správnou instalaci.
 
-Chcete-li nastavit automatické zaznamenávání těchto interakcí, specifikujte šablony interakcí pro tyto dokumenty a akce pomocí okna **Nastavení šablon interakce**. K otevření okna **Interaction Template Setup**, v pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu** , zadejte **Nastavení šablon interakce** a zvolte související odkaz.
+Chcete-li nastavit automatické zaznamenávání těchto interakcí, specifikujte šablony interakcí pro tyto dokumenty a akce pomocí okna **Nastavení šablon interakce**. K otevření okna **Nastavení šablon interakce** v pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Nastavení šablon interakce** a zvolte související odkaz.
 
 ## <a name="see-also"></a>Viz také
 [Nahrávání interakcí s kontakty](marketing-interactions.md)  

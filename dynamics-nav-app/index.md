@@ -23,16 +23,16 @@ ms.lasthandoff: 06/26/2017
 # <a name="welcome-to-includenavnowlongincludesnavnowlongmdmd"></a>Vítejte v [!INCLUDE[navnowlong](includes/navnowlong_md.md)]
 [!INCLUDE[navnow](includes/navnow_md.md)] je řešení pro správu podnikání pro malé a střední organizace, které automatizuje a zjednodušuje obchodní procesy a pomáhá vám spravovat vaše podnikání. Registrace je snadná a můžete přesunout stávající obchodní údaje z původního systému.
 
-## <a name="get-to-know-includenavnowincludesnavnowmdmd"></a>Poznat [!INCLUDE[navnow](includes/navnow_md.md)]
-V [!INCLUDE[navnow](includes/navnow_md.md)], některé věci vám budou známy a jiné věci by mohly být neznámé.  
+## <a name="get-to-know-includenavnowincludesnavnowmdmd"></a>Poznejte [!INCLUDE[navnow](includes/navnow_md.md)]
+V [!INCLUDE[navnow](includes/navnow_md.md)] některé věci vám budou známy a jiné věci by mohly být neznámé.  
 
 Některé rychlé, příjemné triky naleznete v:  
 
-* [Najít věci](ui-search.md)  
-* [Nastavit filtry](ui-enter-criteria-filters.md)  
-* [Řadit data v seznamech](ui-sorting.md)  
+* [Nalezení věcí](ui-search.md)  
+* [Nastavení filtrů](ui-enter-criteria-filters.md)  
+* [Řazení dat v seznamech](ui-sorting.md)  
 
-Pro další informace se podívejte na [Práce s[!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md).  
+Další informace naleznete v tématu [Práce s[!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md).  
 
 ## <a name="the-home-pages"></a>Domovské stránky
 Domovské stránky používají design založený na rolích, který vám umožní rychlý přístup k podnikovým procesům a zpravodajským nástrojům, které potřebujete k výkonu své práce. Například účetní může sledovat platby a schválení a zobrazit grafy výkonnosti financí.  

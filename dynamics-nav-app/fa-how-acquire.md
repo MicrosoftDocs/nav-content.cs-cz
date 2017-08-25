@@ -21,17 +21,17 @@ Pro každý dlouhodobý majetek musíte nastavit kartu obsahující informace o 
 
 Pokud je dlouhodobý majetek nastaven a je přiřazena odpisová kniha, musíte si pořídit dlouhodobý majetek. Chcete-li si pořídit dlouhodobý majetek, zaznamenáte jeho pořizovací cenu na příslušný finanční účet, bankovní účet nebo prodejci zaúčtováním pořizovací transakce v okně **Finanční deník DM**. Můžete použít okno **Pořízení DM** k vytvoření a zaúčtování požadovaných řádků finančního deníku automaticky.
 
-Hodnota při vyřazení je zbytková hodnota DM, pokud již nemůže být dál použit. Můžete zaúčtovat hodnotu při vyřazení současně s zaúčtováním pořizovací ceny. Další informace naleznete v [Návod: Odpis a amortizace DM](fa-how-depreciate-amortize.md).
+Hodnota při vyřazení je zbytková hodnota DM, pokud již nemůže být dál použit. Můžete zaúčtovat hodnotu při vyřazení současně s zaúčtováním pořizovací ceny. Další informace naleznete v tématu [Návod: Odpis a amortizace DM](fa-how-depreciate-amortize.md).
 
 Odsazení slouží k úpravě hodnot pro obecné změny cenové hladiny. Dávková úloha **Indexovat DM** může být použita k vypočítání pořizovací ceny v reprodukčních nákladech.
 
 ## <a name="to-create-a-fixed-asset-and-acquire-it-automatically"></a>Vytvoření a pořízení DM automaticky
-Následující postup popisuje, jak vytvořit dlouhodobý majetek a pořídit jej pomocí okna **Pořízení DM**, čímž vytvoříte a zaúčtujete požadované řádky DM ve finančním deníku. Stejně tak můžete vytvořit a zaúčtovat řádky deníku ručně. Další informace naleznete v části "Zaúčtování pořízení DM ručně s dlouhodobým majetkem finančního deníku."
+Následující postup popisuje, jak vytvořit dlouhodobý majetek a pořídit jej pomocí okna **Pořízení DM**, čímž vytvoříte a zaúčtujete požadované řádky DM ve finančním deníku. Stejně tak můžete vytvořit a zaúčtovat řádky deníku ručně. Další informace naleznete v tématu "Zaúčtování pořízení DM ručně s dlouhodobým majetkem finančního deníku."
 
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Dlouhodobý majetek** a pak vyberte související odkaz.  
 2. Zvolte akci **Nový** a pak vyplňte pole záložky s náhledem **Obecné** podle potřeby. Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.
 3. V **Kniha odpisů** vyplňte pole podle potřeby. Tento krok přiřadí knihu odpisů k dlouhodobému majetku.  
-4. Pokud potřebujete přiřadit k dlouhodobému majetku více než jednu knihu odpisů, zvolte akci **Přidat více knih odpisů**. Další informace naleznete v části "Přiřazení knihy odpisů k dlouhodobému majetku“ v [Návod: Nastavení odpisů DM](fa-how-setup-depreciation.md).
+4. Pokud potřebujete přiřadit k dlouhodobému majetku více než jednu knihu odpisů, zvolte akci **Přidat více knih odpisů**. Další informace naleznete v tématu "Přiřazení knihy odpisů k dlouhodobému majetku“ v [Návod: Nastavení odpisů DM](fa-how-setup-depreciation.md).
 
     Když jsou vyplněna všechna požadovaná pole k pořízení DM **Jste připraveni k pořízení DM. Upozornění Pořízení** se zobrazí v horní části stránky.
 5. Zvolte akci **Pořízení** v upozornění.
@@ -64,7 +64,7 @@ Následující postup popisuje, jak pořídit dlouhodobý majetek ručně vytvo�
 3. Vyplňte pole podle potřeby.
 4. Zvolte akci **Zaúčtovat**.  
 
-**Tip** : Pokud vyplníte pole **Číslo pojištění** ve finančním deníku DM při zaúčtování pořizovací ceny, Dynamics NAV rovněž zaúčtuje pořizovací cenu DM do knihy pojištění. Další informace naleznete v [Návod: Pojištění DM](fa-how-insure.md).
+**Tip** : Pokud vyplníte pole **Číslo pojištění** ve finančním deníku DM při zaúčtování pořizovací ceny, Dynamics NAV rovněž zaúčtuje pořizovací cenu DM do knihy pojištění. Další informace naleznete v tématu [Návod: Pojištění DM](fa-how-insure.md).
 
 ## <a name="to-cancel-an-acquisition-cost-posting-for-one-fixed-asset"></a>Zrušení zaúčtování pořizovací ceny pro jeden dlouhodobý majetek
 Pokud se při přidání pořizovací ceny vyskytne chyba, můžete záznam odebrat pomocí dávkové úlohy **Zrušit položky DM** a poté odeslat správnou položku pořízení. Chybné položky jsou přeneseny do okna **Errory položek knihy DM**.
@@ -84,7 +84,7 @@ Pro zrušení položek knihy pro několik dlouhodobých majetků najednou použi
 Můžete zaúčtovat hodnotu při vyřazení společně s pořizovací cenou z finančního deníku DM.    
 
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Zrušit položky DM** a pak vyberte související odkaz.
-2. Vytvořte řádek knihy pořízení. Další informace naleznete v části "Zaúčtování pořízení DM ručně s dlouhodobým majetkem finančního deníku."
+2. Vytvořte řádek knihy pořízení. Další informace naleznete v tématu "Zaúčtování pořízení DM ručně s dlouhodobým majetkem finančního deníku."
 3. V poli **Hodnota při vyřazení** v řádku deníku zadejte hodnotu při vyřazení jako kredit (se znaménkem mínus).
 4. Zvolte akci **Zaúčtovat**.
 

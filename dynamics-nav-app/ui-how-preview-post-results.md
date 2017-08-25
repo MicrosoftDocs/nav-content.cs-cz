@@ -1,5 +1,5 @@
 ---
-title: "Návody Náhled výsledků účtování"
+title: "Návod: Náhled výsledků účtování"
 author: SusanneWindfeldPedersen
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,17 +16,17 @@ ms.lasthandoff: 06/26/2017
 
 ---
     
-# <a name="how-to-preview-posting-results"></a>Návody Náhled výsledků účtování
+# <a name="how-to-preview-posting-results"></a>Návod: Náhled výsledků účtování
 Na každém dokumentu a deníku, který lze účtovat, můžete vybrat tlačítko **Náhled účtování**, kde můžete zkontrolovat různé typy záznamů, které budou vytvořeny při zaúčtování dokumentu nebo deníku.
 
-## <a name="to-preview-gl-entries-that-will-result-from-posting-a-purchase-invoice"></a>Zobrazit náhledu položek hlavní knihy, které vyplynou z účtování nákupní faktury.
+## <a name="to-preview-gl-entries-that-will-result-from-posting-a-purchase-invoice"></a>Zobrazení náhledu položek hlavní knihy, které vyplynou z účtování nákupní faktury.
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Nákupní faktury** a poté vyberte příslušný odkaz.
-2. Vytvoří nákupní fakturu Další informace naleznete v tématu [Jak na: Záznam nákupů](purchasing-how-record-purchases.md)
-3. Zvolte **Náhled Účtování**.
-4. V okně **Náhled Účtování** vyberte **Věcná položka** a vyberte **Ukázat související položky**.  
+2. Vytvořte nákupní fakturu Další informace naleznete v tématu [Návod: zaznamenávání nákupů](purchasing-how-record-purchases.md)
+3. Zvolte **Náhled účtování**.
+4. V okně **Náhled účtování** vyberte **Věcná položka** a vyberte **Ukázat související položky**.  
 Okno **Náhled věcných položek** ukáže, které položky budou vytvořeny, pokud je zaúčtujete na nákupní faktuře.
 
 ## <a name="see-also"></a>Viz také
-[Účtovat Doklady a Deníky](ui-post-documents-journals.md)
+[Účtování Dokladů a Deníků](ui-post-documents-journals.md)
 
 

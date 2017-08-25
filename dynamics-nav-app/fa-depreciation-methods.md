@@ -18,47 +18,47 @@ ms.lasthandoff: 06/26/2017
 
 # <a name="depreciation-methods"></a>Metody odpisování
 K dispozici je osm metod odpisování:  
-- Přímá  
-- Declining-Balance 1  
-- Declining-Balance 2  
-- DB1/SL  
-- DB2/SL  
-- Definované uživatelem  
-- Manuální  
+- Lineární  
+- Zrychlený 1  
+- Zrychlený 2  
+- ZR1/SL  
+- ZR2/SL  
+- Uživatelem definovaný   
+- Ruční  
 
-    Pokud používáte manuální metodu, je nutné ručně zadat odpis dlouhodobého majetku ve finančním deníku. Dávková úloha **Výpočet odpisů** vynechává dlouhodobý majetek, který používá metodu ručního odpisování. Tuto metodu můžete použít pro majetek, který nepodléhá odpisům, například pozemky.  
-- Pololetní úmluva  
+    Pokud používáte ruční metodu, je nutné ručně zadat odpis dlouhodobého majetku ve finančním deníku. Dávková úloha **Výpočet odpisů** vynechává dlouhodobý majetek, který používá metodu ručního odpisování. Tuto metodu můžete použít pro majetek, který nepodléhá odpisům například pozemky.  
+- Pololetní konvence  
 
     Při použití této metody se dlouhodobý majetek každoročně odpisuje o stejnou částku.  
 
-## <a name="straight-line-depreciation"></a>Přímé odpisy
-Pokud používáte přímou metodu, musíte zadat jednu z následujících možností do knihy odpisů dlouhodobého majetku:
+## <a name="straight-line-depreciation"></a>Lineární odpisy
+Pokud používáte lineární metodu, musíte zadat jednu z následujících možností do knihy odpisů dlouhodobého majetku:
 - Doba odpisování (roky nebo měsíce) nebo konečný termín odpisování  
 - Pevné roční procento  
 - Pevná roční částka  
 - Odpisové období  
 
 ### <a name="depreciation-period"></a>Odpisové Období  
- Pokud zadáte dobu odpisování (počet odpisových let, počet odpisových měsíců nebo konečný termín odepisování), program použije pro výpočet odpisové částky následující vzorec:  
+ Pokud zadáte dobu odpisování (počet odpisových let, počet odpisových měsíců nebo konečný termín odpisování), program použije pro výpočet odpisové částky následující vzorec:  
 
-*Částka odpisů = ((Účetní hodnota - hodnota záchrany) x Počet dnů odpisů) / Zbývající dny odpisů*  
+*Částka odpisů = ((Účetní hodnota - Hodnota při vyřazení) x Počet dnů odpisů) / Zbývající dny odpisů*  
 
 Zbývající doba odpisování je vypočtena jako počet dnů odpisování mínus počet dnů mezi počátečním datem odpisování a posledním datem vložení dlouhodobého majetku.  
 
-Účetní hodnota může být snížena o zaúčtované zhodnocení, snížení hodnoty, vlastní 1 nebo vlastní 2 částky, v závislosti na tom, zda je v **Include in Depr. Pole Výpočet** je deaktivováno a je aktivováno pole **Část účetní hodnoty** v okně **Nastavení typu účtování DM**.  
+Účetní hodnota může být snížena o zaúčtované zhodnocení, snížení hodnoty, vlastní 1 nebo vlastní 2 částky, v závislosti na tom, zda je pole **Zahrnout do výpočtu odpisů **deaktivováno a je aktivováno pole **Část účetní hodnoty** v okně **Nastavení typu účtování DM**.  
 
 Tento výpočet zajišťuje, že dlouhodobý majetek je plně odepsán v den ukončení odpisů.    
 ### <a name="fixed-yearly-percentage"></a>Pevná roční procentní sazba  
 Zadáte-li pevnou roční procentní sazbu, program vypočítá odpisovou část dle následujícího vzorce:  
 
-Částka odpisů = (Přímá % x Odpisovatelný základ x Počet odpisových dní) / (100 x 360)  
+Částka odpisů = (Lineární % x Odpisovatelný základ x Počet odpisových dní) / (100 x 360)  
 
 ### <a name="fixed-yearly-amount"></a>Pevná roční částka  
 Pokud zadáte pevnou roční částku, program použije tento vzorec pro výpočet částky odpisů:  
 
 Částka odpisů = (pevná částka odpisů x počet dnů odepisování) / 360  
 
-### <a name="example---straight-line-depreciation"></a>Příklad - Přímé Odpisy
+### <a name="example---straight-line-depreciation"></a>Příklad - Lineární odpisy
 Dlouhodobý majetek má pořizovací cenu 100 000 LM. Odhadovaná doba života je osm let.  
 
  Dávková úloha **Výpočet odpisů** se provádí dvakrát ročně. Položka knihy dlouhodobého majetku vypadá takto:  
@@ -73,21 +73,21 @@ Dlouhodobý majetek má pořizovací cenu 100 000 LM. Odhadovaná doba života j
 |06/30/17|Odpisy|180|-6 250,00|6 250,00|  
 |12/31/17|Odpisy|180|-6 250,00|0|  
 
-* Datum zahájení odpisování  
+* Počáteční datum odpisování  
 
-## <a name="declining-balance-1-depreciation"></a>Declining-Balance 1 Odpis
+## <a name="declining-balance-1-depreciation"></a>Zrychlený odpis 1
 Jedná se o zrychlenou metodu odpisování, která přiděluje největší část nákladů na majetek v prvních letech své životnosti. Používáte-li tuto metodu, musíte zadat pevný roční procentní podíl.  
 
 Program používá pro výpočet odpisů následující vzorec:  
 
-*Částka odpisů = (Declining-Bal. % x počet odpisových dní x Depr. Basis) / (100 x 360)*  
+*Částka odpisů = (Zrychlený % x počet odpisových dní x Odpisový základ) / (100 x 360)*  
 
-Odpisovatelný základ se vypočítá jako účetní hodnota snížená o zaúčtované odpisy od počátku běžného fiskálního roku.  
+Odpisový základ se vypočítá jako účetní hodnota snížená o zaúčtované odpisy od počátku běžného fiskálního roku.  
 
 Zaúčtovaná částka odpisů může obsahovat položky s různými druhy zaúčtování (odpis, vlastní1 a vlastní2), které byly zveřejněny od data zahájení současného fiskálního roku. Tyto typy zaúčtování jsou zahrnuty v částce zaúčtovaného odpisu, pokud jsou zaškrtnuty značky v poli **Typ odpisování** a v poli **Část účetní hodnoty** v okně **Nastavení typu účtování DM**.  
 
-### <a name="example---declining-balance-1-depreciation"></a>Příklad - Declining-Balance 1 Odpisy
-Dlouhodobý majetek má pořizovací cenu 100 000 LM. V poli **Declining-Balance %** je hodnota 25. Dávková úloha  **Výpočet odpisů** se provádí dvakrát ročně. Položky knihy dlouhodobého majetku vypadají takto:  
+### <a name="example---declining-balance-1-depreciation"></a>Příklad - Zrychlený odpis 1
+Dlouhodobý majetek má pořizovací cenu 100 000 LM. V poli **Zrychlený %** je hodnota 25. Dávková úloha  **Výpočet odpisů** se provádí dvakrát ročně. Položky knihy dlouhodobého majetku vypadají takto:  
 
 |Datum|Typ zaúčtování DM|Dny|Částka|Účetní hodnota|  
 |----------|---------------------|----------|------------|----------------|  
@@ -103,7 +103,7 @@ Dlouhodobý majetek má pořizovací cenu 100 000 LM. V poli **Declining-Balance
 |06/30/14|Odpisy|180|-3 955,08|27 685,54|  
 |12/31/14|Odpisy|180|-3 955,08|23 730,46|  
 
-* Datum zahájení odpisování  
+* Počáteční datum odpisování  
 
  Metoda výpočtu:  
 
@@ -115,11 +115,11 @@ Dlouhodobý majetek má pořizovací cenu 100 000 LM. V poli **Declining-Balance
 
 Výpočet pokračuje, dokud účetní hodnota neodpovídá konečnému počtu zaokrouhlení částky nebo hodnotě, kterou zadáte.   
 
-## <a name="declining-balance-2-depreciation"></a>Declining-Balance 2 Odpisy
-Declining-Balance 1 metoda a Declining-Balance 2 metoda vypočítá stejnou celkovou částku odpisů za každý rok. Pokud však spustíte dávkovou úlohu **Výpočet odpisů** vícekrát za rok, metoda DB 1 bude mít za následek stejné částky odpisů pro každé období odpisování. Metoda DB 2 na druhé straně bude mít za následek částky odpisů, které klesnou za každé období.  
+## <a name="declining-balance-2-depreciation"></a>Zrychlený odpis 2
+Zrychlený 1 metoda a Zrychlený 2 metoda vypočítá stejnou celkovou částku odpisů za každý rok. Pokud však spustíte dávkovou úlohu **Výpočet odpisů** vícekrát za rok, metoda ZR 1 bude mít za následek stejné částky odpisů pro každé období odpisování. Metoda ZR 2 na druhé straně bude mít za následek částky odpisů, které klesnou za každé období.  
 
-### <a name="example---declining-balance-2-depreciation"></a>Příklad -  Declining-Balance 2 Odpisy
-Dlouhodobý majetek má pořizovací cenu 100 000 LM. V poli **Declining-Balance %** je hodnota 25. Dávková úloha **Výpočet odpisů** se provádí dvakrát ročně. Položky knihy dlouhodobého majetku vypadají takto:  
+### <a name="example---declining-balance-2-depreciation"></a>Příklad - Zrychlený odpis 2
+Dlouhodobý majetek má pořizovací cenu 100 000 LM. V poli **Zrychlený %** je hodnota 25. Dávková úloha **Výpočet odpisů** se provádí dvakrát ročně. Položky knihy dlouhodobého majetku vypadají takto:  
 
 |Datum|Typ zaúčtování DM|Dny|Částka|Účetní hodnota|  
 |----------|---------------------|----------|------------|----------------|  
@@ -129,13 +129,13 @@ Dlouhodobý majetek má pořizovací cenu 100 000 LM. V poli **Declining-Balance
 |06/30/11|Odpisy|180|-10 048,09|64 951,91|  
 |12/31/11|Odpisy|180|-8 701,91|56 250,00|  
 
-* Datum zahájení odpisování  
+* Počáteční datum odpisování  
 
 Metoda výpočtu:
 - BV = účetní hodnota  
 - ND = počet dnů odpisování  
-- DBP = Declining-balance percent  
-- P = DBP/100  
+- ZRP = Zrychlený procenta  
+- P = ZRP/100  
 - D = ND/360  
 
 Vzorec pro výpočet odpisových částek je:  
@@ -151,19 +151,19 @@ Hodnoty odpisování jsou:
 |06/30/11|DA = 75,000.00 x (1 - (1 - 0.25)<sup>0.5<sup>) = 10,048.09|  
 |12/31/11|DA = 64,951.91 x (1 - (1 - 0.25)<sup>0.5<sup>) = 8,701.91|  
 
-## <a name="db1sl-depreciation"></a>DB1/SL Odpis
+## <a name="db1sl-depreciation"></a>ZR1/SL odpis
 Výpočet pokračuje, dokud účetní hodnota neodpovídá konečnému počtu zaokrouhlení částky nebo hodnotě, kterou zadáte.
 
-DB1/SL je zkrácená kombinace Declining-Balance 1 a Přímé.  
+ZR1/SL je zkrácená kombinace Zrychlený 1 a Lineární.  
 
-Dávková úloha **Výpočet odpisů** vypočítá přímou částku a klesající částku zůstatku, ale pouze část větší z obou částek je převedena do deníku.  
+Dávková úloha **Výpočet odpisů** vypočítá Lineární částku a klesající částku zůstatku, ale pouze část větší z obou částek je převedena do deníku.  
 
 Program dokáže zpracovat výpočet klesajícího zůstatku pomocí různých procent.  
 
-Používáte-li tuto metodu, musíte zadat odhadovanou životnost a klesající procentuální zůstatek v okně **Odpisové knihy DM**.  
+Používáte-li tuto metodu, musíte zadat odhadovanou životnost a klesající procentuální zůstatek v okně **Knihy odpisů DM**.  
 
-### <a name="example---db1-sl-depreciation"></a>Například - DB1-SL Odpisy
-Dlouhodobý majetek má pořizovací cenu 100 000 LM. V okně **Odpisové knihy DM** pole **Declining-Balance %** obsahuje hodnotu 25 a pole **No. of Depreciation Years** obsahuje hodnotu 8. Dávková úloha **Výpočet odpisů** se provádí dvakrát ročně.  
+### <a name="example---db1-sl-depreciation"></a>Například - ZR1-SL Odpisy
+Dlouhodobý majetek má pořizovací cenu 100 000 LM. V okně **Knihy odpisů DM** pole **Zrychlený %** obsahuje hodnotu 25 a pole **Počet roků odpisování** obsahuje hodnotu 8. Dávková úloha **Výpočet odpisů** se provádí dvakrát ročně.  
 
 Položky knihy dlouhodobého majetku vypadají takto:  
 
@@ -187,41 +187,41 @@ Položky knihy dlouhodobého majetku vypadají takto:
 |06/30/17|Odpisy|180|-3 955,08|3,955.07 SL|  
 |12/31/17|Odpisy|180|-3 955,07|0.00 SL|  
 
-* Datum zahájení odpisování  
+* Počáteční datum odpisování  
 
-"SL" po účetní hodnotě znamená, že byla použita přímá metoda.  
+"SL" po účetní hodnotě znamená, že byla použita lineární metoda.  
 
 Způsob výpočtu:  
 
 1. rok:
 
-*Klesající zůstatková částka: 25% z 100,000 = 25,000 = 12,500 + 12,500*  
+*Zrychlená částka: 25% z 100,000 = 25,000 = 12,500 + 12,500*  
 
-*Přímá částka = 100,000 / 8 = 12,500 = 6,250 + 6,250*  
+*Lineární částka = 100,000 / 8 = 12,500 = 6,250 + 6,250*  
 
 Klesající částka se používá, protože je to větší částka.  
 
 6. rok (2015):  
 
-*Klesající zůstatková částka: 25% z 23,730.46 = 4,943.85= 2,471.92 + 2,471.92*  
+*Zrychlená částka: 25% z 23,730.46 = 4,943.85= 2,471.92 + 2,471.92*  
 
-*Přímá částka = 23,730.46/3 = 7,910.15 = 3,995.07 + 3,995.08*  
+*Lineární částka = 23,730.46/3 = 7,910.15 = 3,995.07 + 3,995.08*  
 
-Přímá částka se používá, protože je to větší částka.  
+Lineární částka se používá, protože je to větší částka.  
 
-## <a name="user-defined-depreciation"></a>Odpisy definované uživatelem
+## <a name="user-defined-depreciation"></a>Uživatelem definovaný odpis
 Program má zařízení, které umožňuje nastavit uživatelem definované metody odpisování.  
 
-Metodu definovanou uživatelem můžete použít v okně **Tabulky odpisů**, kde musíte pro každé období (měsíc, čtvrtletí, rok nebo účetní období) zadat procento odpisů.  
+Metodu uživatelem definovanou můžete použít v okně **Tabulky odpisů**, kde musíte pro každé období (měsíc, čtvrtletí, rok nebo účetní období) zadat procento odpisů.  
 
 Vzorec pro výpočet odpisových částek je:  
 
-Částka odpisů = (Odpisy % x Počet dnů odpisů x Depr. Basis) / (100 x 360)
+Částka odpisů = (Odpisy % x Počet dnů odpisů x Odpisový základ) / (100 x 360)
 
 ### <a name="depreciation-based-on-number-of-units"></a>Odpisy založené na počtu jednotek  
- Tato uživatelsky definovaná metoda může být také použita k odpisování na základě počtu jednotek, například v případě výrobních strojů se stanovenou životností. V okně **Tabulky odpisů** můžete zadat počet jednotek, které lze vytvořit v každém období (měsíc, čtvrtletí, rok nebo účetní období).  
+ Tato uživatelem definovaná metoda může být také použita k odpisování na základě počtu jednotek, například v případě výrobních strojů se stanovenou životností. V okně **Tabulky odpisů** můžete zadat počet jednotek, které lze vytvořit v každém období (měsíc, čtvrtletí, rok nebo účetní období).  
 
-### <a name="to-set-up-user-defined-depreciation-methods"></a>Nastavení uživatelských metod odpisování
+### <a name="to-set-up-user-defined-depreciation-methods"></a>Nastavení uživatelem definovaných metod odpisování
 V okně **Tabulky odpisů** můžete nastavit uživatelem definované metody odpisování. Například můžete nastavit odpis podle počtu jednotek.  
 
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Tabulky odpisů** a pak vyberte související odkaz.
@@ -250,11 +250,11 @@ Pořizovací cena činí 100 000 LM a odpisovatelná životnost je pět let. Odp
 |12/31/13|Odpisy|Žádný|Žádný|0|  
 |12/31/14|Odpisy|Žádný|Žádný|0|  
 
-* Datum zahájení odpisování  
+* Počáteční datum odpisování  
 
-Používáte-li metodu definovanou uživatelem **First User-Defined Depr. Pole Datum** a **Datum zahájení odpisování** musí být vyplněno v okně **Odpisové knihy DM**. **First User-Defined Depr. Pole Datum** a pole **Délka období** v okně **Tabulky odpisů** se používají k určení časových intervalů, které mají být použity pro výpočty odpisů. Tím je zajištěno, že program začne používat určený procentní podíl ve stejný den pro všechny aktiva. Pole **Datum zahájení odpisování** se používá pro výpočet počtu dnů odpisování.  
+Používáte-li metodu uživatelem definovanou pole **První uživ.definované datum **a **Počáteční datum odpisování** musí být vyplněno v okně **Knihy odpisů DM**. Pole **První uživ.definované datum **a pole **Délka období** v okně **Tabulky odpisů** se používají k určení časových intervalů, které mají být použity pro výpočty odpisů. Tím je zajištěno, že program začne používat určený procentní podíl ve stejný den pro všechny aktiva. Pole **Počáteční datum odpisování** se používá pro výpočet počtu dnů odpisování.  
 
-V předchozím příkladě v obou **First User-Defined Depr. Pole Datum** a **Datum zahájení odpisování** obsahuje 01/01/01. Pokud ovšem **First User-Defined Depr. Pole Datum** obsahuje 01/01/10 a pole **Datum zahájení odpisování** obsahuje 04/01/11, výsledek bude:  
+V předchozím příkladě v obou polích **První uživ.definované datum **a **Počáteční datum odpisování** obsahuje 01/01/01. Pokud ovšem pole **První uživ.definované datum **obsahuje 01/01/10 a pole **Počáteční datum odpisování** obsahuje 04/01/11, výsledek bude:  
 
 |Datum|Typ zaúčtování DM|Dny|Částka|Účetní hodnota|  
 |----------|---------------------|----------|------------|----------------|  
@@ -265,22 +265,22 @@ V předchozím příkladě v obou **First User-Defined Depr. Pole Datum** a **Da
 |12/31/13|Odpisy|90|-6 250,00|0|  
 |12/31/14|Odpisy|Žádný|Žádný|0|  
 
-* Datum zahájení odpisování
+* Počáteční datum odpisování
 
-## <a name="half-year-convention-depreciation"></a>Pololetní konverze odpisů   
-Metoda Pololetní konverze bude použita pouze tehdy, pokud do políčka **Use Half-Year Convention** umístíte zaškrtávací políčko v okně **Odpisová kniha DM**.  
+## <a name="half-year-convention-depreciation"></a>Pololetní konvence odpisů   
+Metoda Pololetní konvence bude použita pouze tehdy, pokud do pole **Použít pololetní konvenci** umístíte zaškrtávací políčko v okně **Kniha odpisů DM**.  
 
 Tuto metodu odpisování lze použít v souvislosti s následujícími metodami odpisování v programu:  
-- Přímá
-- Declining-Balance 1
-- DB1/SL  
+- Lineární
+- Zrychlený 1
+- ZR1/SL  
 
-Pokud se použije pololetní konvence, bude mít dlouhodobý majetek v prvním finančním roce šestiměsíční odpisy bez ohledu na obsah pole **Datum zahájení odpisování**.  
+Pokud se použije pololetní konvence, bude mít dlouhodobý majetek v prvním finančním roce šestiměsíční odpisy bez ohledu na obsah pole **Počáteční datum odpisování**.  
 
-**Poznámka**. Odhadovaná životnost dlouhodobého majetku, která zůstane po prvním fiskálním roce, bude vždy obsahovat půl roku s použitím metody pololetní smlouvy. Proto, aby byla metoda půlroční konvence aplikována správně, musí pole **Datum ukončení odpisů** v okně **Odpisová kniha DM** vždy obsahovat datum, které je přesně šest měsíců před konečným datem fiskálního roku, ve kterém se stávající dlouhodobý majetek stane Plně odepsán.  
+**Poznámka**. Odhadovaná životnost dlouhodobého majetku, která zůstane po prvním fiskálním roce, bude vždy obsahovat půl roku s použitím metody pololetní konvence. Proto, aby byla metoda pololetní konvence aplikována správně, musí pole **Poslední datum odpisování** v okně **Kniha odpisů DM** vždy obsahovat datum, které je přesně šest měsíců před konečným datem fiskálního roku, ve kterém se stávající dlouhodobý majetek stane plně odepsán.  
 
 ### <a name="example---half-year-convention-depreciation"></a>Příklad - pololetní konvence odpisů
-Dlouhodobý majetek má pořizovací cenu 100 000 LM. **Datum zahájení odpisování** je 03/01/10. Odhadovaná životnost je pět let, takže **Datum ukončení odpisů** musí být 06/30/15. Dávková úloha **Výpočet odpisů** se provádí ročně. Tento příklad je založen na kalendářním fiskálním roce.  
+Dlouhodobý majetek má pořizovací cenu 100 000 LM. **Počáteční datum odpisování** je 03/01/10. Odhadovaná životnost je pět let, takže **Poslední datum odpisování** musí být 06/30/15. Dávková úloha **Výpočet odpisů** se provádí ročně. Tento příklad je založen na kalendářním fiskálním roce.  
 
  Položky knihy dlouhodobého majetku vypadají takto:  
 
@@ -294,10 +294,10 @@ Dlouhodobý majetek má pořizovací cenu 100 000 LM. **Datum zahájení odpisov
 |12/31/14|Odpisy|360|-20 000,00|10 000,00|  
 |12/31/15|Odpisy|180|-10 000,00|0,00|  
 
-* Datum zahájení odpisování  
+* Počáteční datum odpisování  
 
-## <a name="example---db1sl-depreciation-using-half-year-convention"></a>Příklad - Odpisy DB1/SL pomocí pololetní smlouvy  
-Dlouhodobý majetek má pořizovací cenu 100 000 LM. **Datum zahájení odpisování** je 11/01/10. Odhadovaná životnost je pět let, takže **Datum ukončení odpisů** musí být 06/30/15. V okně **Odpisové knihy DM** pole **Declining-Balance %** obsahuje 40. Dávková úloha **Výpočet odpisů** se provádí ročně. Tento příklad je založen na kalendářním fiskálním roce.  
+## <a name="example---db1sl-depreciation-using-half-year-convention"></a>Příklad - Odpisy ZR1/SL pomocí pololetní konvence  
+Dlouhodobý majetek má pořizovací cenu 100 000 LM. **Počáteční datum odpisování** je 11/01/10. Odhadovaná životnost je pět let, takže **Poslední datum odpisování** musí být 06/30/15. V okně **Knihy odpisů DM** pole **Zrychlený %** obsahuje 40. Dávková úloha **Výpočet odpisů** se provádí ročně. Tento příklad je založen na kalendářním fiskálním roce.  
 
 Položky knihy dlouhodobého majetku vypadají takto:  
 
@@ -311,9 +311,9 @@ Položky knihy dlouhodobého majetku vypadají takto:
 |12/31/14|Odpisy|360|-11 520,00|5,760.00 SL|  
 |12/31/15|Odpisy|180|-5 760,00|0.00 SL|  
 
- * Datum zahájení odpisování  
+ * Počáteční datum odpisování  
 
-"SL" po účetní hodnotě znamená, že byla použita přímá metoda.  
+"SL" po účetní hodnotě znamená, že byla použita lineární metoda.  
 
 Způsob výpočtu:  
 
@@ -321,7 +321,7 @@ Způsob výpočtu:
 
 *Snížená částka = celková roční částka = 40% ze 100 000 = 40 000. Tedy za půl roku 40 000/2 = 20 000*  
 
-*Přímá částka = celková roční částka = 100 000/5 = 20 000. Tedy za půl roku = 20 000/2 = 10 000*  
+*Lineární částka = celková roční částka = 100 000/5 = 20 000. Tedy za půl roku = 20 000/2 = 10 000*  
 
 Klesající částka se používá, protože je to větší částka.  
 
@@ -329,12 +329,12 @@ Klesající částka se používá, protože je to větší částka.
 
 *Klesající částka = 40% z 17 280 000 = 6 912,00*  
 
-*Přímá částka = 28,800 / 1.5 = 11,520.00*  
+*Lineární částka = 28,800 / 1.5 = 11,520.00*  
 
-Použije se přímá částka, protože se jedná o větší částku.
+Lineární částka se používá, protože je to větší částka.
 
 ## <a name="duplicating-entries-to-more-depreciation-books"></a>Kopírování položek do dalších odpisových knih
-Pokud máte tři odpisové knihy B1, B2 a B3 a chcete duplikovat položky z B1 na B2 a B3, můžete zaškrtnout políčko **Část seznamu duplikací** na kartách odpisů pro B2 a B3. To může být užitečné, pokud je odpisová kniha B1 integrována s hlavní knihou a používá finanční deník dlouhodobého majetku a odpisové knihy B2 a B3, které nejsou integrovány do hlavní knihy a používají deník dlouhodobého majetku.  
+Pokud máte tři knihy odpisů B1, B2 a B3 a chcete duplikovat položky z B1 na B2 a B3, můžete zaškrtnout políčko **Část seznamu duplikací** na kartách odpisů pro B2 a B3. To může být užitečné, pokud je odpisová kniha B1 integrována s hlavní knihou a používá finanční deník dlouhodobého majetku a Knihy odpisů B2 a B3, které nejsou integrovány do hlavní knihy a používají deník dlouhodobého majetku.  
 
 Při zadání položky v B1 ve finančním deníku dlouhodobého majetku a zaškrtnutí do pole **Použití seznamu duplikací** program duplikuje záznam v knize B2 a B3 v deníku dlouhodobého majetku, když je záznam zaúčtován.  
 

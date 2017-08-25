@@ -1,5 +1,5 @@
 ---
-title: "Návody: Umožnit aplikaci položek v různých měnách"
+title: "Návod: Umožnění vyrovnání položek v různých měnách"
 author: edupont04
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,24 +16,24 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-enable-application-of-ledger-entries-in-different-currencies"></a>Návody: Umožnit aplikaci položek v různých měnách
+# <a name="how-to-enable-application-of-ledger-entries-in-different-currencies"></a>Návod: Umožnění vyrovnání položek v různých měnách
 Pokud nakoupíte od dodavatele v jedné měně a odešlete v druhé měně, můžete použít platbu k nákupu.
 
 Když prodáte zákazníkovi v jedné měně a obdržíte platbu v druhé měně, můžete použít platbu k prodejní faktuře.
 
 Následující procedura popisuje, jak nastavit pro položky dodavatele v okně **Nastavení nákupů a závazků**. Nastavení je podobné pro položky zákazníka v okně **Nastavení prodeje a pohledávek**.
 
-## <a name="to-enable-application-of-vendor-ledger-entries-in-different-currencies"></a>Umožnit aplikaci položek dodavatele v různých měnách.
-1. V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu**, zadejte **Nastavení nákupů a závazků** a zvolte související odkaz.
-2. V poli **Aplikace mezi měnami**
+## <a name="to-enable-application-of-vendor-ledger-entries-in-different-currencies"></a>Umožnění vyrovnání položek v různých měnách
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Nastavení nákupů a závazků** a zvolte související odkaz.
+2. V poli **Vyrovnání mezi měnami** vyberte jednu z následujících možností.
 
 |Volba |Popis |
 |-------|------------|
-|Žádný|Aplikace mezi měnami není povolena.|
-|EMU|Aplikace mezi EMU měny je povolena.|
-|Všechno|Aplikace mezi všemi měnami je povolena.
+|Žádný|Vyrovnání mezi měnami není povoleno.|
+|EMU|Vyrovnání mezi EMU měny je povoleno.|
+|Všechno|Vyrovnání mezi všemi měnami je povoleno.
 
 ## <a name="see-also"></a>Viz také  
-[Spravovat závazky](payables-manage-payables.md)  
-[Spravovat pohledávky](receivables-manage-receivables.md)
+[Správa závazků](payables-manage-payables.md)  
+[Správa pohledávek](receivables-manage-receivables.md)
 

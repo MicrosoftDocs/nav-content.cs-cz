@@ -1,5 +1,5 @@
 ---
-title: "Návody Nastavení Prodejců"
+title: "Návod: Nastavení prodejců"
 author: SorenGP
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,10 +16,10 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-set-up-salespeople"></a>Návody Nastavení Prodejců
-Mnoho společností chce sledovat výkon jednotlivých zaměstnanců jako základ pro výpočet prodejní provize nebo jejich bonusu. Například: Sestava Prodejce - Provize Společnost může také chtít přiřadit prodejce ke každému z jejich kontaktů.
+# <a name="how-to-set-up-salespeople"></a>Návod: Nastavení prodejců
+Mnoho společností chce sledovat výkon jednotlivých zaměstnanců jako základ pro výpočet prodejní provize nebo jejich bonusů. Například: Sestava: „Prodejce - Provize“. Společnost může také chtít přiřadit prodejce ke každému z jejich kontaktů.
 
-Pokud jste v okně **Prodejci/Nákupčí** nastavili prodejce, můžete jej vybrat v poli **Kód prodejce** na všech relevantních záznamech, jako je hlavní kniha, zákazníci, dodavatelé, kontakty a kampaně. Poté, když účtujete nebo vytváříte faktury, dobropisy, deníkové lístky, finanční poplatky za nastavení poplatků apod., kód prodejce se přenese do záznamů.
+Pokud jste v okně **Prodejci/Nákupčí** nastavili prodejce, můžete jej vybrat v poli **Kód prodejce** na všech relevantních záznamech, jako je hlavní kniha, zákazníci, dodavatelé, kontakty a kampaně. Poté, když účtujete nebo vytváříte faktury, dobropisy, deníkové lístky, finanční poplatky za nastavení poplatků apod., tak se kód prodejce přenese do záznamů.
 
 ## <a name="to-set-up-a-salesperson-code"></a>Nastavení Kódu prodejce
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Prodejci/Nákupčí** a poté vyberte příslušný odkaz.

@@ -22,14 +22,14 @@ Na domovské stránce můžete získat přístup k pomocným průvodcům nastave
 
 Následující tabulka popisuje postup úkolů s odkazy na témata, která je popisují.
 
-| Viz                                                                  | také                      |
+| Popis                                                                  | Odkaz                      |
 |---------------------------------------------------------------------|--------------------------|
 |Nastavení klíčových finančních procesů|[Finance](finance-setup-setup-finance-setup.md)|
 |Nastavení bankovnictví|[Nastavit bankovnictví](bank-setup-banking.md)|
 |Nastavení procesu prodeje|[Nastavení prodeje](sales-setup-sales.md)|
-|Nastavení procesu Nákupu|[Nastavení Nákupu](purchasing-setup-purchasing.md)|
+|Nastavení procesu nákupu|[Nastavení nákupu](purchasing-setup-purchasing.md)|
 |Instalovat rozšíření|[Přizpůsobení Dynamics NAV pomocí Extensions](ui-extensions.md)|
-|Získat přístup do služeb Azure registrací Vašeho Dynamics NAV|[Návody Registrujte Dynamics NAV na portálu Azure Management](ui-how-register-dynamics-nav-azure.md)|
+|Získejte přístup do služeb Azure registrací Vašeho Dynamics NAV|[Návod: Registrace Dynamics NAV na portálu Azure Management](ui-how-register-dynamics-nav-azure.md)|
 
 ##<a name="see-also"></a>Viz také
 [Finance](finance-setup.md)  

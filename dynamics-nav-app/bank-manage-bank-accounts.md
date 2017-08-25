@@ -21,14 +21,14 @@ V pravidelných intervalech musíte odsouhlasit bankovní položky v Dynamics NA
 
 Někdy je třeba převést částky mezi bankovním účtem v Dynamics NAV tak, aby odrážely převody ve vaší bance. Tento úkol provedete v okně **Finanční deník** různými způsoby v závislosti na měně finančních prostředků.
 
-Než budete moci spravovat bankovní účty, musíte nastavit každý bankovní účet jako kartu bankovního účtu. Navíc musíte nastavit elektronické služby, které můžete použít pro import bankovních výpisů a export platebních souborů. Další informace naleznete v části [Nastavení bankovních účtů](bank-setup-banking.md).
+Než budete moci spravovat bankovní účty, musíte nastavit každý bankovní účet jako kartu bankovního účtu. Navíc musíte nastavit elektronické služby, které můžete použít pro import bankovních výpisů a export platebních souborů. Další informace naleznete v tématu [Nastavení bankovních účtů](bank-setup-banking.md).
 
 Následující tabulka popisuje postup úkolů s odkazy na téma, která je popisují.
 
-|Pro |Viz |
+|Popis |Odkaz |
 |---|----|
 |Odsouhlasení bankovních účtů v souvislosti se zpracováním plateb v okně **Deník odsouhlasení plateb**.|[Automatické vyrovnání plateb a odsouhlasení bankovních účtů](receivables-apply-payments-auto-reconcile-bank-accounts.md)|
-|Odsouhlasení bankovních účtů, včetně položek v knize, jako samostatný úkol v okně **Odsouhlasení bank. účtů**.|[Návod: Odsouhlasení bankovních účtů zvlášť](bank-how-reconcile-bank-accounts-separately.md)|
+|Odsouhlasení bankovních účtů, včetně položek v knize jako samostatný úkol v okně **Odsouhlasení bank. účtů**.|[Návod: Odsouhlasení bankovních účtů zvlášť](bank-how-reconcile-bank-accounts-separately.md)|
 |Zaúčtování převodu mezi bankovními účty ve stejné měně nebo v různých měnách.|[Návod: Převod bankovních prostředků](bank-how-transfer-bank-funds.md)
 ## <a name="see-also"></a>Viz také  
 [Nastavení bankovnictví](bank-setup-banking.md)  

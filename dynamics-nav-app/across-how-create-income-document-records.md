@@ -21,7 +21,7 @@ V okně **Došlé doklady** můžete použít různé funkce pro kontrolu výdaj
 
 Pro záznam externího dokladu v Dynamics NAV musíte nejdřív vytvořit nebo dokončit záznam došlého dokladu. Toto můžete udělat manuálně nebo můžete pořídit fotografii externích dokladů a pak vytvořit záznam došlého dokladu s připojeným obrazovým souborem.
 
-Předtím než můžete použít funkce Došlého dokladu, musíte provést požadované nastavení. Další informace naleznete v [Návod: Nastavení došlých dokladů](across-how-setup-income-documents.md).
+Předtím než můžete použít funkce Došlého dokladu, musíte provést požadované nastavení. Další informace naleznete v tématu [Návod: Nastavení došlých dokladů](across-how-setup-income-documents.md).
 
 ## <a name="to-approve-or-reject-an-incoming-document"></a>Schválení nebo odmítnutí došlého dokladu
 Pokud chcete povolit uživatelům vytvářet faktury nebo řádky finančního deníku ze záznamů došlého dokladu, dokud nejsou schváleny, můžete nastavit toho, kdo musí schválit záznamy předtím, než budou zpracovány.
@@ -35,7 +35,7 @@ Pokud vydáte záznam došlého dokladu, je vybráno zaškrtávací políčko **
 **Poznámka**: Následující postup platí pouze pro klienty tabletu a telefonu Dynamics NAV.
 
 1. Na panelu aplikace zvolte dlaždici **Vytvořit došlý doklad z fotoaparátu** a pak pokračujte na krok 4.
-2. Alternativně, na panelu aplikace zvolte tlačítko možnosti, vyberte **Došlé doklady** a pak zvolte **Vše**.
+2. Alternativně na panelu aplikace zvolte tlačítko možnosti, vyberte **Došlé doklady** a pak zvolte **Vše**.
 3. V okně **Došlé doklady** zvolte tlačítko tři tečky a pak zvolte **Vytvořit z fotoaparátu**. Kamera v tabletu nebo telefonu se aktivuje.
 4. Udělejte fotku dokladu například nákupního dokladu, který chcete zpracovat jako došlý doklad a potom klepněte na tlačítko **OK**.
 

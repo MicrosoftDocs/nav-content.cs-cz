@@ -1,5 +1,5 @@
 ---
-title: "Návody: Vytvořit segmenty"
+title: "Návod: Vytvoření segmentů"
 author: jswymer
 ms.custom: na
 ms.date: 09/16/2016
@@ -15,20 +15,20 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 06/26/2017
 
 ---
-# <a name="how-to-create-segments"></a>Návody: Vytvořit segmenty
-Segmenty můžete vytvořit pro výběr skupiny kontaktů, například chcete-li vytvořit interakci zahrnující několik kontaktů, například přímou poštu.
+# <a name="how-to-create-segments"></a>Návod: Vytvoření segmentů
+Segmenty můžete vytvořit pro výběr skupiny kontaktů, například chcete-li vytvořit interakci zahrnující několik kontaktů, jakou je přímá pošta.
 
-## <a name="to-create-a-segment"></a>Vytvořit segment
-1. Na domovské stránce vyberte **Aktivní segmenty**. Nebo v pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu**, zadejte **Segment** a zvolte související odkaz.
-2. Vyberte akci **Nové**.
-3. V sekci **Obecné** v poli **Číslo** zadejte číslo pro segmet.
+## <a name="to-create-a-segment"></a>Vytvoření segmentu
+1. Na domovské stránce vyberte **Aktivní segmenty**. Nebo v pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Segment** a zvolte související odkaz.
+2. Vyberte akci **Nový**.
+3. V sekci **Obecné** v poli **Číslo** zadejte číslo segmentu.
 
-    Alternativně, pokud jste nastavili číselné řady pro segmenty v okně **Nastavení marketingu**, múžete zmáčknout Enter pro vybrání dalšího čísla segmentu, které je k dispozici.
+    Alternativně, pokud jste nastavili číselné řady pro segmenty v okně **Nastavení marketingu**, můžete zmáčknout Enter pro vybrání dalšího čísla segmentu, které je k dispozici.
 4. Vyplňte pole v hlavičce.
 
-Nyní můžete do segmentu přidat kontakty. Pro další informace, viz [Návody: Přidat kontakty do segmentů](marketing-add-contact-segment.md).
+Nyní můžete do segmentu přidat kontakty. Další informace naleznete v tématu [Návod: Přidání kontaktů do segmentů](marketing-add-contact-segment.md).
 
 ##<a name="see-also"></a>Viz také
-[Správovat segmenty](marketing-segments.md)  
-[Spravovat prodejní příležitosti](marketing-manage-sales-opportunities.md)  
+[Správa segmentů](marketing-segments.md)  
+[Správa prodejních příležitostí](marketing-manage-sales-opportunities.md)  
 

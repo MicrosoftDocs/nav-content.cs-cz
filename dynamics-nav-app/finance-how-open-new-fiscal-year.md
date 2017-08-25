@@ -1,5 +1,5 @@
 ---
-title: "Návody: Otevřít nový fiskální rok"
+title: "Návod: Otevření nového fiskálního roku"
 author: jswymer
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,22 +16,22 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-open-a-new-fiscal-year"></a>Návody: Otevřít nový fiskální rok
-Než budete moci zaúčtovat do nového fiskálního roku, musíte nejprve otevřít  ten fiskální rok a definovat jeho účtovací období.
+# <a name="how-to-open-a-new-fiscal-year"></a>Návod: Otevření nového fiskálního roku
+Než budete moci účtovat do nového fiskálního roku, musíte ten fiskální rok nejprve otevřít a definovat jeho účtovací období.
 
 ## <a name="to-open-a-new-fiscal-year"></a>K otevření nového fiskálního roku
-1. V pravém horním rohu vyberte ikonu **Hledat stránku nebo sestavu**, zadejte **Účetní období**, a pak zvolte související odkaz.
+1. V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Účetní období** a pak zvolte související odkaz.
 2. Na straně **Účetní období** zvolte akci **Vytvořit rok**.
-3. Vyplňte pole k definici struktur fiskálního roku.
+3. Vyplňte pole pro definici struktur fiskálního roku.
 
-    Fiskální rok rok je typicky 12 období délky jednoho měsíce každý, ale můžete to také rozdělit jinými způsoby.
-4. Zvolte **OK** když dokončeno.
+    Fiskální rok má typicky 12 období délky jednoho měsíce, ale můžete to také rozdělit jinými způsoby.
+4. Při dokončení zvolte **OK**.
 
-Účetní období jsou přidána na stránku **Datum zahájení** a pole **Název** jsou vyplněny. Pole **Název** používá jméno měsíce z data zahájení. Po dalším  období fiskálního roku účetní období je vloženo a zaškrtávací políčko **Nový fiskální ok** je vybráno.
+Účetní období jsou přidána na stránku. Pole **Datum zahájení** a **Název** jsou vyplněny. Pole **Název** používá jméno měsíce z data zahájení. Po dalším období fiskálního roku je vloženo účetní období a je vybráno zaškrtávací políčko **Nový fiskální ok**.
 
 
 ## <a name="see-also"></a>Viz také
-[Návody: Specifikovat účtovací období](finance-setup-how-specify-posting-periods.md)  
-[Návody: Zaúčtovat položku ukončující rok](year-how-post-year-end-close-entry.md)  
+[Návod: Specifikace účtovacího období](finance-setup-how-specify-posting-periods.md)  
+[Návod: Zaúčtování položky ukončující rok](year-how-post-year-end-close-entry.md)  
 [Finance](finance-setup.md)  
 

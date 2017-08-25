@@ -23,13 +23,13 @@ Jako alternativu k odeslání souboru z okna **Došlé doklady**, můžete odesl
 
 Po několika sekundách obdržíte soubor zpět od služby OCR jako elektronickou fakturu, kterou lze převést na nákupní fakturu dodavatele. Toto je popsáno v třetí proceduře.
 
-Vzhledem k tomu, že OCR je založen na optickém rozpoznávání, je pravděpodobné, že služba OCR interpretuje znaky ve vašem souboru PDF nebo obrázkových souborů nesprávně, když například nejprve zpracuje doklady konkrétního dodavatele. Nemusí správně interpretovat logo společnosti jako jméno prodejce, nebo může nesprávně interpretovat celkovou částku na příjemce kvůli jejímu rozložení. Chcete-li se těmto chybám vyhnout, můžete chyby opravit v samostatné verzi v okně **Došlé doklady**.  Poté odešlete opravy zpět do služby OCR, aby se mohli správně interpretovat specifické znaky při příštím zpracování dokumentu PDF nebo obrázkového souboru pro stejného dodavatele. Další informace naleznete v části „Zlepšení služby OCR k vyhnutím se chybám“.
+Vzhledem k tomu, že OCR je založen na optickém rozpoznávání, je pravděpodobné, že služba OCR interpretuje znaky ve vašem souboru PDF nebo obrázkových souborů nesprávně, když například nejprve zpracuje doklady konkrétního dodavatele. Nemusí správně interpretovat logo společnosti jako jméno prodejce, nebo může nesprávně interpretovat celkovou částku na příjemce kvůli jejímu rozložení. Chcete-li se těmto chybám vyhnout, můžete chyby opravit v samostatné verzi v okně **Došlé doklady**.  Poté odešlete opravy zpět do služby OCR, aby se mohli správně interpretovat specifické znaky při příštím zpracování dokumentu PDF nebo obrázkového souboru pro stejného dodavatele. Další informace naleznete v tématu „Zlepšení služby OCR k vyhnutím se chybám“.
 
-Přenos souborů do a ze služby OCR je zpracována položka vyhrazená frontou úloh, která se automaticky vytvoří při povolení příslušného připojení služby. Další informace naleznete v [Návod: Nastavení došlých dokladů](across-how-setup-income-documents.md).
+Přenos souborů do a ze služby OCR je zpracována položka vyhrazená frontou úloh, která se automaticky vytvoří při povolení příslušného připojení služby. Další informace naleznete v tématu [Návod: Nastavení došlých dokladů](across-how-setup-income-documents.md).
 
 ## <a name="to-send-a-pdf-or-image-file-to-the-ocr-service-from-the-incoming-documents-window"></a>Odeslání souboru PDF nebo obrázkového souboru do služby OCR z okna **Došlé doklady**
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Došlé doklady** a pak vyberte související odkaz. 
-2. Vytvořte nový záznam došlého dokladu a připojte soubor. Další informace naleznete v [Návod: Vytvořit záznamy došlého dokladu](across-how-create-income-document-records.md).  
+2. Vytvořte nový záznam došlého dokladu a připojte soubor. Další informace naleznete v tématu [Návod: Vytvořit záznamy došlého dokladu](across-how-create-income-document-records.md).  
 3. V okně **Došlé doklady** vyberte jeden nebo více řádků a pak zvolte akci **Odeslat do fronty úloh**.
 
     Hodnota pole **Stav OCR** se změní na **Připraveno**. Odešle se přiložený soubor PDF nebo obrázkový soubor do služby OCR frontou úloh podle plánu za předpokladu, že se nevyskytnou žádné chyby.
@@ -40,9 +40,9 @@ Hodnota v poli **Stav OCR** se změní na Odesláno, pokud neexistují žádné 
 ## <a name="to-send-a-pdf-or-image-file-to-the-ocr-service-by-email"></a>Odeslání souboru PDF nebo obrázkového souboru do služby OCR e-mailem
 Z vaší e-mailové aplikace můžete odeslat e-mailové zprávy poskytovateli služby OCR s připojeným souborem PDF nebo obrázkovým souborem. Informace o e-mailové adrese, na kterou chcete odeslat, naleznete na webu poskytovatele služeb OCR.
 
-Protože žádný záznam došlého dokladu neexistuje pro soubor, nový záznam se automaticky vytvoří v okně  **Došlé doklady**, jakmile obdržíte výsledný elektronický doklad ze služby OCR. Další informace naleznete v [Návod: Vytvořit záznamy došlého dokladu](across-how-create-income-document-records.md).
+Protože žádný záznam došlého dokladu neexistuje pro soubor, nový záznam se automaticky vytvoří v okně  **Došlé doklady**, jakmile obdržíte výsledný elektronický doklad ze služby OCR. Další informace naleznete v tématu [Návod: Vytvořit záznamy došlého dokladu](across-how-create-income-document-records.md).
 
-**Poznámka**: Pokud pracujete s tabletem nebo telefonem, můžete soubor odeslat službě OCR, jakmile pořídíte fotografii dokladu nebo můžete vytvořit došlý doklad přímo. Další informace naleznete v části "Vytvoření záznamu došlého dokladu pořízením fotografie" [Návod: Vytvořit záznamy došlého dokladu](across-how-create-income-document-records.md).
+**Poznámka**: Pokud pracujete s tabletem nebo telefonem, můžete soubor odeslat službě OCR, jakmile pořídíte fotografii dokladu nebo můžete vytvořit došlý doklad přímo. Další informace naleznete v tématu "Vytvoření záznamu došlého dokladu pořízením fotografie" [Návod: Vytvořit záznamy došlého dokladu](across-how-create-income-document-records.md).
 
 ## <a name="to-receive-the-resulting-electronic-document-from-the-ocr-service"></a>Získání výsledného elektronického dokladu ze služby OCR.
 Elektronický doklad, který je vytvořen službou OCR ze souboru PDF nebo obrázkového souboru, je automaticky přijat do okna **Došlé doklady** položkou fronty úloh, která je nastavena při aktivaci služby OCR.
@@ -52,7 +52,7 @@ Pokud nepoužíváte frontu úloh nebo chcete přijmout dokončený doklad OCR d
 **Poznámka**: Pokud je služba OCR nastavena tak, aby vyžadovala manuální ověření zpracovávaných dokladů, potom pole **Stav OCR** bude obsahovat **Čeká na ověření**. V takovém případě proveďte následující kroky pro přihlášení k webové stránce služby OCR, abyste ručně ověřili dokument OCR.
 
 1. V poli **Stav OCR** zvolte hypertextový odkaz **Čeká na ověření**. Případně zvolte na domovské stránce tlačítko **Čeká na ověření**.
-2. Na webu služby OCR se přihlaste pomocí přihlašovacích údajů vašeho účtu služby OCR. Toto jsou pověření, která jste použili při nastavení služby. Další informace naleznete v části "Nastavení služby OCR" [Návod: Nastavení došlých dokladů](across-how-setup-income-documents.md).
+2. Na webu služby OCR se přihlaste pomocí přihlašovacích údajů vašeho účtu služby OCR. Toto jsou pověření, která jste použili při nastavení služby. Další informace naleznete v tématu "Nastavení služby OCR" [Návod: Nastavení došlých dokladů](across-how-setup-income-documents.md).
 
     Pokud přistupujete z pole **Stav OCR** k webu, zobrazí se daný dokument bezprostředně po přihlášení. Pokud přistupujete k webu výběrem dlaždice na domovské stránce, na první stránce služby OCR, která se otevře, musíte zvolit tlačítko **Start** na kartě **Kontrola** nebo dvakrát kliknout na doklad, který chcete ověřit.
 
@@ -63,7 +63,7 @@ Pokud nepoužíváte frontu úloh nebo chcete přijmout dokončený doklad OCR d
     Pokud přistupujete k webové stránce pomocí výběru dlaždice na domovské stránce, automaticky se na webových stránkách zobrazí další doklad OCR, který má být ověřen.
 5. Opakujte krok 4 pro ověření jakéhokoliv jiného dokladu OCR.
 
-Nyní můžete manuálně nebo automaticky vytvářet záznamy dokladu pro přijaté elektronické doklady v Dynamics NAV. Další informace naleznete v části "Vytvoření záznamu dokladu v programu Dynamics NAV z dokladu přijatého OCR". Nový záznam došlého dokladu můžete také připojit k existujícímu zaúčtovanému či nezaúčtovanému dokladu, takže zdrojový soubor je snadno přístupný z aplikace Dynamics NAV. Další informace naleznete v části [Proces došlých dokladů](across-process-income-documents.md).
+Nyní můžete manuálně nebo automaticky vytvářet záznamy dokladu pro přijaté elektronické doklady v Dynamics NAV. Další informace naleznete v tématu "Vytvoření záznamu dokladu v programu Dynamics NAV z dokladu přijatého OCR". Nový záznam došlého dokladu můžete také připojit k existujícímu zaúčtovanému či nezaúčtovanému dokladu, takže zdrojový soubor je snadno přístupný z aplikace Dynamics NAV. Další informace naleznete v tématu [Proces došlých dokladů](across-process-income-documents.md).
 
 ## <a name="to-create-a-purchase-invoice-from-an-electronic-document-received-from-the-ocr-service"></a>Vytvoření nákupní faktury z elektronického dokladu obdrženého od služby OCR
 Následující postup popisuje, jak vytvořit záznam o nákupní faktuře z faktury dodavatele obdržené jako elektronický doklad od služby OCR. Postup je stejný, jako když vytvoříte například řádek finančního deníku z výdajů příjemky.
@@ -75,22 +75,22 @@ U došlých dokladů typicky použijete **Mapovat text na účet**, abyste defin
 Kromě mapování na účet prodejce nebo na finanční účet můžete také mapovat na bankovní účet. To je praktické například u elektronických dokladů o výdajích, které jsou již zaplaceny, vytvořeny na řádcích finančního deníku a připraveny k zaúčtování na bankovní účet.
 
 1. Vyberte řádek došlého dokladu pro elektronický doklad dodavatele přijatý službou OCR.
-2. Chcete-li namapovat text v dokladu v účtu dodavatele MD, zvolte akci **Mapovat text na účet** a pak vyplňte okno **Mapování textu na účet** s informacemi, které se budou vztahovat na předávajícího dodavatele. Další informace naleznete v [Návod: Mapovat text o opakovaných platbách na účtech pro automatické odsouhlasení](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
+2. Chcete-li namapovat text v dokladu v účtu dodavatele MD, zvolte akci **Mapovat text na účet** a pak vyplňte okno **Mapování textu na účet** s informacemi, které se budou vztahovat na předávajícího dodavatele. Další informace naleznete v tématu [Návod: Mapovat text o opakovaných platbách na účtech pro automatické odsouhlasení](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
 3. Chcete-li namapovat čísla zboží na dokladu do popisu položek dodavatele, otevřete kartu každé položky a potom vyberte akci **Křížové odkazy** a nastavte křížové odkazy mezi vašimi popisy zboží a těmi u prodejce.
 4. V okně **Došlé doklady** zvolte akci **Vytvořit dokument**.
 
 V Dynamics NAV bude vytvořena nákupní faktura na základě informací v elektronickém dokladu dodavatele, který jste obdrželi od služby OCR.
 
-Jakékoliv chyby ověřování, které se typicky týkají nesprávných nebo chybějících hlavních dat v Dynamics NAV, se zobrazí v záložce s náhledem **Chyby a varování**. Další informace naleznete v části „Vypořádání se s chybami při přijímání elektronických dokladů.“
+Jakékoliv chyby ověřování, které se typicky týkají nesprávných nebo chybějících hlavních dat v Dynamics NAV, se zobrazí v záložce s náhledem **Chyby a varování**. Další informace naleznete v tématu „Vypořádání se s chybami při přijímání elektronických dokladů.“
 
 ## <a name="to-handle-errors-when-receiving-electronic-documents"></a>Vypořádání se s chybami při přijímání elektronických dokladů
 1. V okně **Došlé doklady** vyberte řádek pro elektronický doklad přijatý službou OCR s chybami. Toto je indikováno hodnotou Error v poli **Stav OCR**.
 2. Zvolte akci **Upravit** a otevřete okno **Došlé doklady**.
 3. V záložce s náhledem **Chyby a varování** vyberte zprávu a poté zvolte akci **Otevřít související záznam**.
-4. Zobrazí se okno, které obsahuje nesprávná nebo chybějící data, například karta dodavatele s chybějící hodnotou pole.
+4. Zobrazí se okno, které obsahuje nesprávná nebo chybějící data například karta dodavatele s chybějící hodnotou pole.
 5. Opravte chybu nebo chyby popsané v každé chybové zprávě.
 6. Pokračujte ve zpracování příchozího elektronického dokladu výběrem možnosti **Vytvořit ručně**.
-7. Opakujte kroky 5 a 6 pro všechny zbývající chyby, dokud nebude elektronický doklad úspěšně přijat.
+7. Opakujte kroky 5 a 6 pro všechny zbývající chyby dokud nebude elektronický doklad úspěšně přijat.
 
 ## <a name="to-train-the-ocr-service-to-avoid-errors"></a>Zlepšení služby OCR, abyste předešli chybám
 Vzhledem k tomu, že OCR je založen na optickém rozpoznávání, je pravděpodobné, že služba OCR interpretuje znaky ve vašem souboru PDF nebo obrázkovém souboru nesprávně, když například nejprve zpracuje doklady konkrétního dodavatele. Nemusí správně interpretovat logo společnosti jako jméno prodejce nebo může nesprávně interpretovat celkovou částku na příjemce kvůli jejímu rozložení. Chcete-li zabránit takovým chybám, můžete opravit data přijatá službou OCR a poslat službě zpětnou vazbu.

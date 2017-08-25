@@ -1,5 +1,5 @@
 ---
-title: "Vytvořit kontaktní společnosti"
+title: "Vytvoření kontaktních společností"
 author: jswymer
 ms.custom: na
 ms.date: 09/16/2016
@@ -15,25 +15,25 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 06/26/2017
 
 ---
-# <a name="create-contact-companies"></a>Vytvořit kontaktní společnosti
-Vaše společnost se pravidelně setkává s potenciálními společnostmi, které se obvykle vyvíjejí do budoucích obchodních vztahů. Při vytváření nového kontaktu je třeba tyto informace zaznamenat tak, aby komunikace mohla pokračovat.
+# <a name="create-contact-companies"></a>Vytvoření kontaktních společností
+Vaše společnost se pravidelně setkává s potenciálními společnostmi, které se obvykle vyvíjejí do budoucích obchodních vztahů. Při vytváření nového kontaktu je třeba tyto informace zaznamenat tak, aby mohla komunikace pokračovat.
 
 Přiřazením co nejvíce údajů o konkrétní společnosti zajistíte efektivní komunikaci. Například přiřazení příslušné průmyslové skupiny zajišťuje, že konkrétní společnosti budou zahrnuty do jakékoli relevantní komunikace.
 
 Můžete také definovat obchodní vztah, který máte s kontaktem. Například kontakt by mohl být potencionální zákazník, banka, nebo dodavatel.
 
-Následující tabulka popisuje sekvenci úloh s odkazy na témata, které je popisují. Tyto úlohy jsou uvedeny v pořadí, ve kterém se obvykle provádějí.
+Následující tabulka popisuje sekvenci úloh s odkazy na témata, která je popisují. Tyto úlohy jsou uvedeny v pořadí, ve kterém se obvykle provádějí.
 
-|Viz |také |
+|Popis |Odkaz |
 |---|----|
-|Nastavte kontakt pro novou firmu, buď od začátku, nebo od zákazníka, dodavatele nebo bankovního účtu.|[Návody: Vytvořit kontaktní společnosti](marketing-how-create-contact-companies.md)|
+|Nastavte kontakt pro novou firmu, buď od začátku, nebo od zákazníka, dodavatele nebo bankovní účet.|[Návod: Vytvoření kontaktních společností](marketing-how-create-contact-companies.md)|
 |Synchronizujte informace v kontaktech s běžnými informacemi v zákaznících, dodavatelích a bankovních účtech.|[Synchronizace kontaktů se zákazníky, dodavateli a bankovními účty](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)|
-|Popište obchodní vztah kontaktní společnosti.|[Nastavit obchodní vztahy ke kontaktním společnostem](marketing-business-relations.md)|
-|Umístit kontaktní společnost do příslušné průmyslové skupiny, například do maloobchodu.|[Nastavit průmyslové skupiny na kontaktní společnosti](marketing-industry-groups.md)|
-|Nastavte poštovní skupiny, které můžete použít k identifikaci skupin kontaktů tak, aby získali stejné informace.|[Nastavit poštovní skupiny na kontaktní společnosti](marketing-mailing-groups.md)|
-|Nastavit alternativní adresu pro kontakt.|[Návody: Přiřadit alternativní adresy ke kontaktu](marketing-how-assign-alternative-address.md)|
-|Přiřaďte svým kontaktům webové zdroje (vyhledávače a webové stránky), aby jste zjistili, kde na internetu můžete vyhledat informace o daných kontaktech.|[Nastavit webové zdroje na kontakty](marketing-web-sources.md)|
+|Popište obchodní vztah kontaktní společnosti.|[Nastavení obchodních vztahů ke kontaktním společnostem](marketing-business-relations.md)|
+|Umístěte kontaktní společnost do příslušné průmyslové skupiny, například do maloobchodu.|[Nastavení průmyslové skupiny na kontaktní společnosti](marketing-industry-groups.md)|
+|Nastavte poštovní skupiny, které můžete použít k identifikaci skupin kontaktů tak, aby získali stejné informace.|[Nastavení poštovní skupiny na kontaktní společnosti](marketing-mailing-groups.md)|
+|Nastavte alternativní adresu pro kontakt.|[Návod: Přiřazení alternativní adresy ke kontaktu](marketing-how-assign-alternative-address.md)|
+|Přiřaďte svým kontaktům webové zdroje (vyhledávače a webové stránky), aby jste zjistili, kde na internetu můžete vyhledat informace o daných kontaktech.|[Nastavení webového zdroje na kontakty](marketing-web-sources.md)|
 
 ##<a name="see-also"></a>Viz také
-[Vytvořit kontaktní osoby](marketing-create-contact-persons.md)
+[Vytvoření kontaktní osoby](marketing-create-contact-persons.md)
 

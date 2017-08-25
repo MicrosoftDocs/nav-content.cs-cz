@@ -29,10 +29,10 @@ Balíček obsahu je překonfigurován pro práci s prodejními a finančními da
 ## <a name="accessing-dynamics-nav-in-power-bi"></a>Přístup k Dynamics NAV v Power BI
 Chcete-li zobrazit údaje Dynamics NAV v Power BI, musíte mít následující:  
 
-- Přístup k Dynamics NAV. Další informace naleznete v [Dynamics NAV](http://go.microsoft.com/fwlink/?LinkID=759714).  
-- Přístup k Power BI. Další informace naleznete v [Power BI](https://powerbi.microsoft.com).
+- Přístup k Dynamics NAV. Další informace naleznete v tématu [Dynamics NAV](http://go.microsoft.com/fwlink/?LinkID=759714).  
+- Přístup k Power BI. Další informace naleznete v tématu [Power BI](https://powerbi.microsoft.com).
 
-Na webu Power BI naleznete další informace o přidání balíčku obsahu Dynamics NAV do Power BI.[Přidání balíčku obsahu Dynamics NAV k Power BI](http://go.microsoft.com/fwlink/?LinkID=760850).  
+Na webu Power BI naleznete další informace o přidání balíčku obsahu Dynamics NAV do Power BI. [Přidání balíčku obsahu Dynamics NAV k Power BI](http://go.microsoft.com/fwlink/?LinkID=760850).  
 
 Chcete-li získat přístup k sadě obsahu Dynamics NAV v Power BI, v okně připojení musíte zadat následující informace:
 
@@ -48,7 +48,7 @@ Toto znamená, že musíte získat dvě informace z Dynamics NAV: OData URL a kl
 Pokud přidáte Dynamics NAV k Power BI, musíte zadat adresu URL, aby mohl mít Power BI přístup k datům vaší společnosti. V okně připojení je adresa URL označována jako **OData Feed URL** a musí mít následující formát:
 
          https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')  
-V tomto příkladu je *mybusiness* název služby Dynamics NAV a *CRONUS US* je název demonstrační společnosti s *%20* reprezentujícím místo v názvu.   
+V tomto příkladu je *mybusiness* název služby Dynamics NAV a *CRONUS US* je název demonstrační společnosti s *%20* reprezentujícím mezeru v názvu.   
 Chcete-li získat adresu URL, v aplikaci Dynamics NAV vyhledejte a otevřete okno **Webové služby**. Toto okno obsahuje seznam webových služeb, které jsou aktuálně k dispozici a můžete zkopírovat odkaz z pole **OData URL** pro jednu z výchozích webových služeb OData.  
 **Získání klíče pro přístup k webové službě**  
 Chcete-li v okně **Připojení k Dynamics NAV** použít data ze služby Dynamics NAV v Power BI, musíte zadat uživatelské jméno, kterým je váš e-mailový účet a heslo. Heslo je klíč pro přístup k webové službě, který je nastaven pro váš uživatelský účet v Dynamics NAV.  

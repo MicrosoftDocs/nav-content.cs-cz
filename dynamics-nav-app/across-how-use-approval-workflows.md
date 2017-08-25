@@ -19,7 +19,7 @@ ms.lasthandoff: 06/26/2017
 # <a name="how-to-use-approval-workflows"></a>Návod: Použití schvalovacího workflow
 Pokud musí být záznam, například nákupní doklad nebo zákaznická karta schválen někým ve vaší organizaci, odešlete požadavek na schválení jako součást workflow. Na základě nastavení workflow je příslušná schvalující osoba informována o tom, že záznam vyžaduje schválení.
 
-Základní schvalovací workflow pro nákupní doklady, prodejní doklady, platební deníky, zákaznické karty a karty položek jsou připraveny k zahájení jako asistenční nastavení. Další informace naleznete v části [Vítejte v Dynamics NAV](across-get-started.md).
+Základní schvalovací workflow pro nákupní doklady, prodejní doklady, platební deníky, zákaznické karty a karty položek jsou připraveny k zahájení jako asistenční nastavení. Další informace naleznete v tématu [Vítejte v Dynamics NAV](across-get-started.md).
 
 ## <a name="to-request-approval-of-a-record"></a>Požadavek na schválení záznamu
 Následující úloha je prováděna schvalovacím uživatelem.
@@ -27,7 +27,7 @@ Následující úloha je prováděna schvalovacím uživatelem.
 1. V okně, které představuje záznam, zvolte akci **Odeslat žádost o schválení**.
 2. Chcete-li zobrazit všechny vaše žádosti o schválení, zvolte v pravém horním rohu ikonu **Vyhledat stránku nebo sestavu**, zadejte **Požadavky na schválení** a pak vyberte související odkaz.
 
-Stav položky ke schválení je aktualizován z **Vytvořeno** do **Otevřeno**. Stav záznamu, například nákupní faktury, je aktualizována z **Otevřeno** do **Čeká na schválení** a zůstává uzamčen pro zpracování až do doby, než všichni schvalovatelé schválí záznam.
+Stav položky ke schválení je aktualizován z **Vytvořeno** do **Otevřeno**. Stav záznamu například nákupní faktury je aktualizována z **Otevřeno** do **Čeká na schválení** a zůstává uzamčen pro zpracování až do doby, než všichni schvalovatelé schválí záznam.
 
 Když schvalovatel schválil záznam, stav se změní na **Vydáno**. Potom můžete pokračovat ve svých úkolech se záznamem.
 
@@ -81,7 +81,7 @@ Následující úloha je prováděna schvalovacím uživatelem s právy schvaluj
 
 V pravidelných intervalech musíte připomenout uživatelům schvalovacího workflow žádosti o schválení po splatnosti, na které musí reagovat. Použijete funkci Odeslání upozornění o schválení.
 
-Funkce Odeslání potvrzení o schválení kontroluje všechny otevřené žádosti o schválení, které jsou v současné době opožděné. Každý schvalovatel, který má alespoň jeden záznam o schválení po uplynutí doby platnosti, obdrží oznámení se seznamem všech žádostí o schválení po splatnosti. Oznámení se také zašle jejich schvalovatelům a všem žadatelům o schválení po splatnosti. Toto pomáhá, pokud musí být položka schválení po splatnosti delegována na náhradníka.
+Funkce Odeslání upozornění o schválení kontroluje všechny otevřené žádosti o schválení, které jsou v současné době opožděné. Každý schvalovatel, který má alespoň jeden záznam o schválení po uplynutí doby platnosti, obdrží oznámení se seznamem všech žádostí o schválení po splatnosti. Oznámení se také zašle jejich schvalovatelům a všem žadatelům o schválení po splatnosti. Toto pomáhá, pokud musí být položka schválení po splatnosti delegována na náhradníka.
 
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Požadavky na schválení po splatnosti** a pak vyberte související odkaz.
 2. V okně **Požadavky na schválení po splatnosti** zvolte akci **Odeslat upozornění o schválení po splatnosti**.

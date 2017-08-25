@@ -1,5 +1,5 @@
 ---
-title: "Vytvořit kontaktní osoby"
+title: "Vytvoření kontaktních osob"
 author: jswymer
 ms.custom: na
 ms.date: 09/16/2016
@@ -15,7 +15,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 06/26/2017
 
 ---
-# <a name="create-contact-persons"></a>Vytvořit kontaktní osoby
+# <a name="create-contact-persons"></a>Vytvoření kontaktních osob
 Kontakt vytvoříte nastavením kontaktní karty pro osobu. Můžete vytvářet kontaktní osoby z existujících kontaktních společností nebo vytvářet nezávislé kontaktní osoby.
 
 Například po setkání s potenciální společností se setkáte s kupujícím. Pro tuto osobu můžete vytvořit kontaktní kartu, takže komunikace může být přizpůsobena.
@@ -26,13 +26,13 @@ Nahrání co nejvíce informací o kontaktní osobě zajistí, že všechny skup
 
 Následující tabulka popisuje sekvenci úloh s odkazy na témata, které je popisují. Tyto úlohy jsou uvedeny v pořadí, ve kterém se obvykle provádějí.
 
-|Viz |také |
+|Popis |Odkaz |
 |---|----|
-|Poskytnout informace o kontaktní osobě.|[Návody: Vytvořit kontaktní osobu](marketing-how-create-contact-persons.md)|
-|Nastavit alternativní adresu pro kontakt.|[Návody: Přiřaďit alternativní adresy](marketing-how-assign-alternative-address.md)|
-|Popište obchodní vztah kontaktní společnosti.|[Nastavit pracovní odpovědnosti ke kontaktům](marketing-job-responsibilities.md)|
-|Popište organizační úroveň vašich kontaktů.|[Nastavit organizační úrovně pro kontaktní osoby](marketing-organizational-levels.md)|
-|Přiřaďte poštovní skupiny k vašim kontaktům.|[Přiřadit poštovní skupiny k vašim kontaktům](marketing-mailing-groups.md#assign-mailing-groups-to-a-contact)|
+|Poskytněte informace o kontaktní osobě.|[Návod: Vytvoření kontaktní osoby](marketing-how-create-contact-persons.md)|
+|Nastavte alternativní adresu pro kontakt.|[Návod: Přiřazení alternativní adresy](marketing-how-assign-alternative-address.md)|
+|Popište obchodní vztah kontaktní společnosti.|[Nastavení pracovní odpovědnosti ke kontaktům](marketing-job-responsibilities.md)|
+|Popište organizační úroveň vašich kontaktů.|[Nastavení organizační úrovně pro kontaktní osoby](marketing-organizational-levels.md)|
+|Přiřaďte poštovní skupiny k vašim kontaktům.|[Přiřazení poštovní skupiny k vašim kontaktům](marketing-mailing-groups.md#assign-mailing-groups-to-a-contact)|
 
 ##<a name="see-also"></a>Viz také
 [Vytvořit kontaktní společnosti](marketing-create-contact-companies.md)

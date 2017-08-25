@@ -1,5 +1,5 @@
 ---
-title: "Návod: Nastavení Envestnet Yodlee Bank Feeds Service"
+title: "Návod: Nastavení služby Envestnet Yodlee Bank Feeds"
 author: SorenGP
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,10 +16,10 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-set-up-the-envestnet-yodlee-bank-feeds-service"></a>Návod: Nastavení Envestnet Yodlee Bank Feeds Service
+# <a name="how-to-set-up-the-envestnet-yodlee-bank-feeds-service"></a>Návod: Nastavení služby Envestnet Yodlee Bank Feeds
 Můžete importovat elektronické bankovní výpisy z vaší banky pro rychlé naplnění v okně **Deník odsouhlasení plateb**, abyste mohli zaplatit a odsouhlasit bankovní účet. Další informace naleznete v části [Automatické vyrovnání plateb a odsouhlasení bankovních účtů](receivables-apply-payments-auto-reconcile-bank-accounts.md).
 
-**Poznámka**: The Envestnet Yodlee Bank Feeds service nebo jiný poskytovatel bankovních služeb nemusí být ve vašem systému k dispozici. Obraťte se na svého partnera Microsoft, chcete-li pro import bankovních výpisů použít bankovní službu.
+**Poznámka**: Služba Envestnet Yodlee Bank Feeds nebo jiný poskytovatel bankovních služeb nemusí být ve vašem systému k dispozici. Obraťte se na svého partnera Microsoft, chcete-li pro import bankovních výpisů použít bankovní službu.
 
 Pokud jste povolili bankovní službu, musíte propojit příslušný bankovní účet s bankovním účtem online, ze kterého pochází zdroj. Bankovní účty propojíte s online bankovními účty v různých scénářích:
 
@@ -30,7 +30,7 @@ Pokud jste povolili bankovní službu, musíte propojit příslušný bankovní 
 
 Když je bankovní služba aktivována, můžete nastavit bankovní účet, aby automaticky importoval nové bankovní výpisy do okna **Deník odsouhlasení plateb** každé dvě hodiny. Transakce plateb, které již byly zveřejněny jako zaúčtované a/nebo odsouhlasené v okně **Deník odsouhlasení plateb** nebudou importovány. Další informace naleznete v části “Povolit automatický import bankovních výpisů.“
 
-**Poznámka**: Používáte-li instalaci s asistencí nastavení společnosti, pak se některé kroky v následujících postupech automaticky provedou, když se dostanete k nastavení bankovního účtu společnosti. Další informace naleznete v části [Vítejte v Dynamics NAV](across-get-started.md).
+**Poznámka**: Používáte-li instalaci s asistencí nastavení společnosti, pak se některé kroky v následujících postupech automaticky provedou, když se dostanete k nastavení bankovního účtu společnosti. Další informace naleznete v tématu [Vítejte v Dynamics NAV](across-get-started.md).
 
 ## <a name="to-enable-the-bank-feed-service"></a>Povolení bankovní služby 
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Bankovní účty** a pak vyberte související odkaz.
@@ -54,7 +54,7 @@ Bankovní služba bude aktivována, když propojíte bankovní účet s jeho sou
     Po úspěšném dokončení procesu se název banky zobrazí v podokně **Mé účty** na kartě **Propojené**. Číslo v závorce udává, kolik online bankovních účtů bylo spojeno.
 7. Zvolte tlačítko **OK**.
 
-    Pokud je propojen pouze jeden online bankovní účet, otevře se okno **Karta bankovního účtu** pro nový bankovní účet, který je předem vyplněn názvem online bankovního účtu. V tomto případě je dokončena úloha propojení bankovního účtu. Zbývá jen nastavení bankovního účtu. Další informace naleznete v [Návod: Nastavení bankovních účtů](bank-how-setup-bank-accounts.md).
+    Pokud je propojen pouze jeden online bankovní účet, otevře se okno **Karta bankovního účtu** pro nový bankovní účet, který je předem vyplněn názvem online bankovního účtu. V tomto případě je dokončena úloha propojení bankovního účtu. Zbývá jen nastavení bankovního účtu. Další informace naleznete v tématu [Návod: Nastavení bankovních účtů](bank-how-setup-bank-accounts.md).
 
     Pokud bylo propojeno více online bankovních účtů, otevře se okno **Propojení bankovních účtů** s uvedenými dalšími online bankovními účty, které ještě nejsou propojeny s bankovními účty v Dynamics NAV. V tomto případě, následujte další krok.  
 8. V okně **Propojení bankovního účtu** vyberte řádek pro online bankovní účet a poté zvolte akci **Odkaz na nový bankovní účet**.
@@ -88,7 +88,7 @@ V okně **Seznam bankovních účtů** je zaškrtnuto políčko **Propojené**.
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Bankovní účty** a pak vyberte související odkaz.
 2. Vyberte příslušný bankovní účet a poté vyberte akci **Aktualizovat propojení bankovního účtu**.
 
-Pokud existují problémy pro kterýkoliv z propojených bankovních účtů v okně **Seznam bankovních účtů** otevře se okno **Propojení bankovního účtu**, které specifikuje bankovní účty s problémy. Problémy lze nejlépe vyřešit zrušením propojení online bankovního účtu a následným znovu vytvořením odkazu. Další informace naleznete v části "Propojení bankovního účtu s online bankovním účtem."
+Pokud existují problémy pro kterýkoliv z propojených bankovních účtů v okně **Seznam bankovních účtů** otevře se okno **Propojení bankovního účtu**, které specifikuje bankovní účty s problémy. Problémy lze nejlépe vyřešit zrušením propojení online bankovního účtu a následným znovu vytvořením odkazu. Další informace naleznete v tématu "Propojení bankovního účtu s online bankovním účtem."
 
 ## <a name="to-enable-automatic-import-of-bank-statements"></a>Povolení automatického importu bankovních výpisů
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Bankovní účty** a pak vyberte související odkaz.

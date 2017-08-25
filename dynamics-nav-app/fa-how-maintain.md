@@ -19,7 +19,7 @@ ms.lasthandoff: 06/26/2017
 # <a name="how-to-maintain-fixed-assets"></a>Návod: Údržba DM
 Náklady na údržbu jsou rutinní pravidelné náklady na zachování hodnoty DM. Na rozdíl od kapitálu nezvyšují hodnotu.
 
-Můžete si zaznamenat a udržovat aktualizovaný soubor o údržbě a servisu svého DM, abyste měli k dispozici kompletní záznamy o údržbě DM, které jsou snadno dostupné. Pokaždé, když je dlouhodobý majetek poslán do servisu, zaznamenáváte všechny relevantní informace, jako je datum servisu, číslo prodejce a telefonní číslo servisního agenta. Registrace údržby se zaznamenává pro každý dlouhodobý majetek z příslušné karty DM.
+Můžete si zaznamenat a udržovat aktualizovaný soubor o údržbě a servisu svého DM, abyste měli k dispozici kompletní záznamy o údržbě DM, které jsou snadno dostupné. Pokaždé, když je dlouhodobý majetek poslán do servisu, zaznamenáváte všechny relevantní informace, jako je datum servisu, číslo dodavatele a telefonní číslo servisního agenta. Registrace údržby se zaznamenává pro každý dlouhodobý majetek z příslušné karty DM.
 
 Odsazení slouží k úpravě hodnot pro obecné změny cenové hladiny. Dávková úloha **Indexovat DM** může být použita k vypočítání nákladů na údržbu.
 
@@ -37,27 +37,27 @@ Pokaždé, když byla provedena údržba, například návštěva servisu, můž
 4. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Finanční deník** a pak vyberte související odkaz.  
 5. Vytvořte počáteční řádek deníku a vyplňte pole podle potřeby.
 6. Do pole **Typ zaúčtování DM** vyberte **Údržba**.
-7. Zvolte **Vložit DM Bal. Akce Účet**. Druhý řádek deníku je vytvořen pro vyrovnávací účet, který je nastaven pro zaúčtování údržby.
+7. Zvolte možnost **Vložit protiúčet DM. ** Druhý řádek deníku je vytvořen pro vyrovnávací účet, který je nastaven pro zaúčtování údržby.
 
-    **Poznámka**: Krok 7 funguje pouze v případě, že jste nastavili následující: V okně **Karta skupiny zaúčtování DM** pro zaúčtovací skupinu DM pole **Účet údržby** obsahuje účet MD v hlavní knize a **Údržba Bal. pole Účet** obsahuje účet hlavní knihy, na který chcete zaúčtovat zůstatkové položky za účelem zhodnocení. Další informace naleznete v části "Nastavení skupin zaúčtování DM“[Návod: Nastavení informací o obecném dlouhodobém majetku](fa-how-setup-general.md).
-8. Zvolte akci **Zaúčtovat**.
+    **Poznámka**: Krok 7 funguje pouze v případě, že jste nastavili následující: V okně **Karta účto skupiny DM** pro účtovací skupinu DM pole **Účet údržby** obsahuje účet MD v hlavní knize a pole **Údržba protiúčet **obsahuje účet hlavní knihy, na který chcete zaúčtovat zůstatkové položky za účelem zhodnocení. Další informace naleznete v tématu "Nastavení skupin zaúčtování DM“ [Návod: Nastavení informací o obecném dlouhodobém majetku](fa-how-setup-general.md).
+8. Zvolte akci **Účtovat**.
 
 ## <a name="to-follow-up-on-fixed-assets-service-visits"></a>Pokračování servisu na dlouhodobém majetku
-Můžete vytisknout hlášení **Údržba - další servis**, abyste zjistili, který majetek jste pro službu použili. Tento přehled můžete také použít při aktualizaci pole **Následující servisní datum** na kartách DM.  
+Můžete vytisknout sestavu **Údržba - příští servis**, abyste zjistili, který majetek jste pro službu použili. Tuto sestavu můžete také použít při aktualizaci pole **Datum další údržby** na kartách DM.  
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Další servisní údržba** a pak vyberte související odkaz.  
-2. Vyplňte pole **Počáteční datum** a **Datum ukončení**.  
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Údržba - příští servis** a pak vyberte související odkaz.  
+2. Vyplňte pole **Počáteční datum** a **Koncové datum**.  
 3. Zvolte tlačítko **Tisk** nebo **Náhled**.
 
 ## <a name="to-monitor-maintenance-costs"></a>Monitorování nákladů na údržbu  
 Náklady na údržbu můžete zobrazit, když se podíváte na statistiky DM.  
 
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Dlouhodobý majetek** a pak vyberte související odkaz.
-2. Vyberte dlouhodobý majetek, u kterého chcete zobrazit náklady na údržbu a pak vyberte akci **Odpisové knihy**.
-3. V okně **Odpisové knihy DM** vyberte příslušnou odpisovou knihu DM a poté zvolte akci **Statistiky** .
+2. Vyberte dlouhodobý majetek, u kterého chcete zobrazit náklady na údržbu a pak vyberte akci **Knihy odpisů**.
+3. V okně **Knihy odpisů DM** vyberte příslušnou odpisovou knihu DM a poté zvolte akci **Statistiky** .
 4. V okně **Statistiky DM** vyberte pole **Údržba** .
 
-Okno **Údržba položek knihy** zobrazuje položky, které tvoří částku v poli **Údržba**.
+Okno **Položky údržby** zobrazuje položky, které tvoří částku v poli **Údržba**.
 
 ## <a name="to-view-or-print-maintenance-costs-for-multiple-fixed-assets"></a>Zobrazení nebo tisk nákladů na údržbu více DM  
 Ve zprávě **Údržba - analýza** můžete zvolit, zda chcete zobrazit údržbu na základě jednoho, dvou nebo tří kódů údržby pro zadané datum nebo období. Můžete vidět součet všech vybraných majetků nebo celkový součet každého majetku.
@@ -69,13 +69,13 @@ Ve zprávě **Údržba - analýza** můžete zvolit, zda chcete zobrazit údržb
 ## <a name="to-view-maintenance-ledger-entries"></a>Zobrazení položek údržby
 Náklady na údržbu si můžete prohlédnout také prostřednictvím prohlížení položek údržby.  
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Dlouhodobý majetek** a pak vyberte související odkaz.
-2. Vyberte dlouhodobý majetek, u kterého chcete zobrazit položky a pak vyberte akci **Odpisové knihy**.
-3. V okně **Odpisové knihy DM** vyberte příslušnou odpisovou knihu DM a poté zvolte akci **Údržba položek**.
+2. Vyberte dlouhodobý majetek, u kterého chcete zobrazit položky a pak vyberte akci **Knihy odpisů**.
+3. V okně **Knihy odpisů DM** vyberte příslušnou odpisovou knihu DM a poté zvolte akci **Položky údržby**.
 
 ## <a name="to-view-or-print-maintenance-ledger-entries-for-multiple-fixed-assets"></a>Zobrazení nebo tisk položek údržby pro více DM  
-V přehledu **Údržba - podrobnosti** můžete zobrazit nebo vytisknout položky o údržbě jednoho nebo více DM.  
+V přehledu **Údržba - detaily** můžete zobrazit nebo vytisknout položky o údržbě jednoho nebo více DM.  
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Podrobnosti údržby** a pak vyberte související odkaz.
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Detaily údržby** a pak vyberte související odkaz.
 2. Vyplňte pole podle potřeby.
 3. Zvolte tlačítko **Tisk** nebo **Náhled**.
 

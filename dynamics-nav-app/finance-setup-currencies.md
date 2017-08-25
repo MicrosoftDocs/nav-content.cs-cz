@@ -17,12 +17,12 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="currencies"></a>Měny
-Musíte nastavit kód pro každou měnu, kterou používáte, pokud nakupujete nebo prodáváte v jiné měně, než je vaše místní, máte pohledávky a závazky v jiných měnách nebo zaznamenáváte finanční transakce v různých měnách.  
+Musíte nastavit kód pro každou měnu, kterou používáte, pokud nakupujete nebo prodáváte v jiné měně, než je vaše místní, a máte pohledávky a závazky v jiných měnách nebo zaznamenáváte finanční transakce v různých měnách.  
 
-## <a name="set-up-a-currency-exchange-rate-service"></a>Nastavit službu měnového kurzu
+## <a name="set-up-a-currency-exchange-rate-service"></a>Nastavení služby měnového kurzu
 Můžete použít externí službu k získání posledních měnových kurzů do okna Měny. K aktualizaci měnových kurzů musíte nejprve službu nastavit.
 Služba, která poskytuje aktualizované měnové kurzy, je povolena definicí výměny dat v okně **Služba měnového kurzu**.  
 
 ## <a name="see-also"></a>Viz také
-[Zavřít roky nebo období.](year-close-years-periods.md)
+[Zavření roků nebo období](year-close-years-periods.md)
 

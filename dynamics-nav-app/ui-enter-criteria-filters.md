@@ -17,52 +17,52 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="entering-criteria-in-filters"></a>Vkládání kriterií do filtrů
-Chcete-li hledat data, například názvy zákazníků, adresy nebo skupiny produktů, vložte kritéria. Ve vyhledávacích kritériích můžete použít všechna čísla a písmena, která běžně používáte v konkrétním poli. K dalšímu filtrování výsledků můžete použít speciální symboly.
+Chcete-li hledat data, například názvy zákazníků, adresy nebo skupiny produktů, vložte Vaše kritéria. Ve vyhledávacích kritériích můžete použít všechna čísla a písmena, která běžně používáte v konkrétním poli. K dalšímu filtrování výsledků můžete použít speciální symboly.
 
 ## <a name="searching-using-the-quick-filter"></a>Vyhledávání pomocí rychlého filtru
 Pomocí rychlého filtru můžete filtrovat všechny stránky. Rychlý filtr je aktivován výběrem ikony lupy v pravém horním rohu stránky. Tento typ filtrování slouží k rychlému zadání kritérií.
 
-**Důležité**: Rychlý filtr poskytuje snadný přístup k vyfiltrovaným datům zadáním prostého textu, ale poskytuje také mnoho kritérií pro vyhledávání. V závislosti na tom, zda zadáváte prostý text nebo text včetně symbolů, se Rychlý filtr chová jinak.  
+**Důležité**: Rychlý filtr poskytuje snadný přístup k vyfiltrovaným datům zadáním prostého textu, ale poskytuje také mnoho kritérií pro vyhledávání. V závislosti na tom, zda zadáváte prostý text nebo text včetně symbolů se rychlý filtr chová jinak.  
 - Pokud do vyhledávacích kritérií zadáte obyčejný text, kritéria vyhledávání budou vyhledávány bez rozlišení malých a velkých písmen.  
-- Pokud v kritériích vyhledávání zadáte text obsahující symboly, kritéria vyhledávání budou interpretována přesně tak, jak jste je zadali, a vyhledávání bude citlivé na malá a velká písmena.
+- Pokud v kritériích vyhledávání zadáte text obsahující symboly, kritéria vyhledávání budou interpretována přesně tak, jak jste je zadali a vyhledávání bude citlivé na malá a velká písmena.
 
 ### <a name="quick-filter-criteria"></a>Kritéria rychlého filtru
 <!-- html syntax because symbols conflict with MarkDown syntax -->
 <TABLE>
   <TR>
-    <TH>Vyhledávání kriterií</TH>
+    <TH>Vyhledávací kritérium</TH>
     <TH>Interpretování jako..</TH>
-    <TH>Vráceno..</TH>
+    <TH>Výsledek..</TH>
   </TR>
   <TR>
     <TD>>man</TD>
     <TD>@*man*</TD>
-    <TD>Všechny záznamy obsahující text bez ohledu na malá a velká písmena.</TD>
+    <TD>Všechny záznamy obsahující text „man“ bez ohledu na malá a velká písmena.</TD>
   </TR>
   <TR>
     <TD>>se</TD>
     <TD>@*se*</TD>
-    <TD>Všechny záznamy obsahující text s ohledem na malá a velká písmena.</TD>
+    <TD>Všechny záznamy obsahující text „se“ bez ohledu na malá a velká písmena.</TD>
   </TR>
   <TR>
     <TD>>Man*</TD>
     <TD>Začíná Man a bere ohled na velká a malá písmena.</TD>
-    <TD>Všechny záznamy začínající na text Man</TD>
+    <TD>Všechny záznamy začínající na text „Man“</TD>
   </TR>
   <TR>
     <TD>'man‘</TD>
-    <TD>Přesná text a bere ohled na velká a malá písmena.</TD>
-    <TD>Všechny záznamy, které přesně odpovídají textu man</TD>
+    <TD>Přímo obsahuje řetězec man s ohledem na velká a malá písmena.</TD>
+    <TD>Všechny záznamy, které přesně odpovídají textu „man“</TD>
   </TR>
   <TR>
     <TD>@*man</TD>
-    <TD>Končí na man a bere ohled na velká a malá písmena</TD>
-    <TD>Všechny záznamy končící na man.</TD>
+    <TD>Končí na man bez ohledu na velká a malá písmena</TD>
+    <TD>Všechny záznamy končící na „man“.</TD>
   </TR>
   <TR>
     <TD>@man*</TD>
-    <TD>Začíná a bere ohled na velká a malá písmena</TD>
-    <TD>Všechny záznamy končící na man.</TD>
+    <TD>Začíná a nebere ohled na velká a malá písmena</TD>
+    <TD>Všechny záznamy začínající na man.</TD>
   </TR>
 </TABLE>
 

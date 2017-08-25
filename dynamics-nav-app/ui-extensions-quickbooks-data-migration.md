@@ -17,11 +17,11 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="the-quickbooks-data-migration-extension-for-dynamics-nav"></a>Rozšíření migrace dat QuickBooks pro Dynamics NAV.
-Toto rozšíření usnadňuje migraci zákazníků, dodavatelů a zboží z QuickBooks do Dynamics NAV. Pokud vaše firma používá dnes služby QuickBooks, můžete exportovat příslušné informace a poté otevřít pomocnou instalační příručku pro nahrání dat do Dynamics NAV.  
+Toto rozšíření usnadňuje migraci zákazníků, dodavatelů a zboží z QuickBooks do Dynamics NAV. Pokud Vaše firma používá služby QuickBooks, můžete exportovat příslušné informace a poté otevřít pomocnou instalační příručku pro nahrání dat do Dynamics NAV.  
 
 ## <a name="exporting-data-from-quickbooks"></a>Export dat z QuickBooks
-Musíte exportovat některé nebo všechny své stávající zákazníky, dodavatele a inventární položky do souboru Intuit Interchange Format (IIF). Rozšíření Migrace dat QuickBooks obsahuje standardní mapování dat služby QuickBooks, abyste mohli použít stávající data k otestování nové společnosti Dynamics NAV Výchozí mapování bude v převážné většině případů postačující, ale můžete změnit mapování v příručce pro asistenci.  
-QuickBooks obsahuje nástroj na export seznamů v menu (soubor). Pro účely Dynamics NAV můžete exportovat následující seznamy:
+Musíte exportovat některé nebo všechny své stávající zákazníky, dodavatele a inventární položky do souboru Intuit Interchange Format (IIF). Rozšíření migrace dat QuickBooks obsahuje standardní mapování dat služby QuickBooks, takže můžete použít stávající data k otestování nové společnosti Dynamics NAV. Výchozí mapování bude v převážné většině případů postačující, ale můžete změnit mapování v příručce pro asistenci.  
+QuickBooks obsahuje nástroj na export seznamů v menu. Pro účely Dynamics NAV můžete exportovat následující seznamy:
 - Seznam zákazníků
 - Seznam dodavatelů
 - Seznam zboží
@@ -30,6 +30,6 @@ QuickBooks obsahuje nástroj na export seznamů v menu (soubor). Pro účely Dyn
 Exportovaná data jsou uložena jako soubor typu IIF, který můžete poté nahrát do aplikace Dynamics NAV.
 
 ## <a name="see-also"></a>Viz také  
-[Přizpůsobení Dynamics NAV pomocí Extensions ](ui-extensions.md)  
+[Přizpůsobení Dynamics NAV pomocí rozšíření ](ui-extensions.md)  
 [Import dat z jiných finančních systémů](upload-data.md)  
 

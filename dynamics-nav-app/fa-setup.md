@@ -1,5 +1,5 @@
 ---
-title: "Nastavit dlouhodobý majetek"
+title: "Nastavení dlouhodobého majetku"
 author: SorenGP
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,10 +16,10 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="set-up-fixed-assets"></a>Nastavit dlouhodobý majetek
-Předtím, než můžete využít funkci Dlouhodobý majetek, musíte nastavit různé informace k definování, jak pojistit, udržovat a odepisovat dlouhodobý majetek a jak náklady a ostatní hodnoty jsou zaznamenávány ve Financích.
+# <a name="set-up-fixed-assets"></a>Nastavení dlouhodobého majetku
+Předtím, než můžete využít funkci dlouhodobý majetek, musíte nastavit různé informace k definování, jak pojistit, udržovat a odepisovat dlouhodobý majetek a jak náklady a ostatní hodnoty jsou zaznamenávány ve hlavní knize.
 
-Když nastavíte dlouhodobý majetek, můžete provést různé zahrnuté aktivity. Pro další informace, viz [Návody: Spravovat dlouhodobý majetek](fa-manage.md).
+Když nastavíte dlouhodobý majetek, můžete provést různé zahrnuté aktivity. Další informace naleznete v tématu [Návod: Správa dlouhodobého majetku](fa-manage.md).
 
 **Poznámka**: Můžete zaznamenat transakce dlouhodobého majetku v okně **Finanční deník DM** nebo v okně **Deník dlouhodobého majetku** podle toho, zda jsou transakce pro finanční generování sestav nebo interní správu. Nápověda pro dlouhodobý majetek popisuje pouze, jak používat okno **Finanční deník DM**.
 
@@ -27,13 +27,13 @@ Když vyberete zaškrtávací políčko pro aktivitu dlouhodobého majetku v sek
 
 Následující tabulka popisuje sekvenci úloh s odkazy na témata, které je popisují.
 
-| K | Viz |  
+| Popis | Odkaz |  
 |----|-----|  
-|Nastavit výchozí finanční účty, alokační klíč, deníkové šablony a dávky pro účtování dlouhodobého majetku a nastavení tříd a podtříd dlouhodobého majetku, např. hmotný a nehmotný.|[Návody: Nastavit obecné informace dlouhodobého majetku](fa-how-setup-general.md)|  
-|Vytvořit knihy odpisů, definice různých odpisových metod, integrace s hlavní knihou a povolení duplikací hodnot v několika knihách odpisů.|[Návody: Nastavit odpis dlouhodobého majetku](fa-how-setup-depreciation.md)|
-|Povolit pojištění dlouhodobého majetku, nastavit obecné informace o pojištění, kartu pojištění podle smlouvy a připravit deník k zaúčtování pojistných nákladů.|[Návody: Nastavit pojištění dlouhodobého majetku](fa-how-setup-insurance.md)|
-|Povolit údržbu dlouhodobého majetku, nastavit obecné informace údržby, nastavit účet pro zaúčtování údržby a definovat typy údržbových prací.|[Návody: Nastavit údržbu dlouhodobého majetku](fa-how-setup-maintenance.md)|
-|Dozvědět se o různých odpisových metodách dlouhodobého majetku|[Metody odpisu](fa-depreciation-methods.md)|
+|Nastavte výchozí finanční účty, alokační klíč, deníkové šablony a dávky pro účtování dlouhodobého majetku a nastavení tříd a podtříd dlouhodobého majetku, např. hmotný a nehmotný.|[Návod: Nastavení obecných informací dlouhodobého majetku](fa-how-setup-general.md)|  
+|Vytvořte knihy odpisů, definice různých odpisových metod, integraci s hlavní knihou a povolení duplikací hodnot v několika knihách odpisů.|[Návod: Nastavení odpisu dlouhodobého majetku](fa-how-setup-depreciation.md)|
+|Povolte pojištění dlouhodobého majetku, nastavte obecné informace o pojištění, kartu pojištění podle smlouvy a připravte deník k zaúčtování pojistných nákladů.|[Návod: Nastavení pojištění dlouhodobého majetku](fa-how-setup-insurance.md)|
+|Povolte údržbu dlouhodobého majetku, nastavte obecné informace údržby, nastavte účet pro zaúčtování údržby a definujte typy údržbových prací.|[Návod: Nastavení údržby dlouhodobého majetku](fa-how-setup-maintenance.md)|
+|Naučte se různé odpisové metody dlouhodobého majetku|[Metody odpisu](fa-depreciation-methods.md)|
 
 ## <a name="see-also"></a>Viz také
 [Spravovat dlouhodobý majetek](fa-manage.md)  

@@ -23,7 +23,7 @@ Pokud nechcete, aby uživatelé vytvářeli faktury nebo řádky finančního de
 
 Chcete-li soubory PDF a obrázkové soubory převést do elektronických dokumentů, které lze převést například na nákupní faktury v Dynamics NAV, musíte nejprve nastavit funkci OCR a povolit službu.
 
-Když je nastavena funkce Došlých dokladů, můžete použít různé funkce pro kontrolu výdajů, správu úloh OCR a převod souborů došlého dokladu ručně nebo automaticky na příslušné doklady nebo řádky deníku. Externí soubory lze připojit v libovolné fázi procesu, včetně zaúčtovaných dokladů a výsledných záznamů prodejce, zákazníka a položek hlavní knihy. Další informace naleznete v [Návod: Proces došlých dokladů](across-process-income-documents.md).
+Když je nastavena funkce Došlých dokladů, můžete použít různé funkce pro kontrolu výdajů, správu úloh OCR a převod souborů došlého dokladu ručně nebo automaticky na příslušné doklady nebo řádky deníku. Externí soubory lze připojit v libovolné fázi procesu včetně zaúčtovaných dokladů a výsledných záznamů prodejce, zákazníka a položek hlavní knihy. Další informace naleznete v tématu [Návod: Proces došlých dokladů](across-process-income-documents.md).
 
 ## <a name="to-set-up-the-incoming-documents-feature"></a>Nastavení funkcí Došlých dokladů
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Nastavení došlých dokladů** a pak vyberte související odkaz.
@@ -38,7 +38,7 @@ Když je nastavena funkce Došlých dokladů, můžete použít různé funkce p
 
 Pokud byli schvalovatelé nastaveni v okně **Schvalovatelé došlých dokladů**, pouze tito uživatelé mohou schválit došlý doklad, pokud je zaškrtnuto políčko **K vytvoření vyžaduje schválení** v okně **Nastavení došlých dokladů**.
 
-**Poznámka**: Toto nastavení schválení nesouvisí se schvalovacími postupy. Další informace naleznete v [Návod: Použití schvalovacího workflow](across-how-use-approval-workflows.md).
+**Poznámka**: Toto nastavení schválení nesouvisí se schvalovacími postupy. Další informace naleznete v tématu [Návod: Použití schvalovacího workflow](across-how-use-approval-workflows.md).
 
 ## <a name="to-set-up-an-ocr-service"></a>Nastavení služby OCR
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Nastavení služby OCR** a pak vyberte související odkaz.

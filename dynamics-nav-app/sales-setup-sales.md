@@ -24,17 +24,17 @@ Nejprve je třeba definovat obecné nastavení, jako například požadované ob
 
 Samostatnou sérii úkolů souvisejících s vytvářením základních dat zákazníků je zaznamenávat slevy a cenové dohody zákazníků v oknech propojených s kartami zákazníků.
 
-Periodická činnost vytváření zákaznických karet pro nové zákazníky je řešena v sekci Správa prodeje. Další informace naleznete v tématu [Jak na: Zaregistrovat nového zákazníka.](sales-how-register-new-customers.md)
+Periodická činnost vytváření zákaznických karet pro nové zákazníky je řešena v sekci Správa prodeje. Další informace naleznete v tématu [Návod: Registrace nového zákazníka.](sales-how-register-new-customers.md)
 
-Nastavení finančního prodeje, jako jsou způsoby platby a měny, naleznete v části Nastavení financí. Pro více informací, jděte na: [Nastavení Finance](finance-setup-setup-finance-setup.md).
+Nastavení finančního prodeje, jako jsou způsoby platby a měny, naleznete v části Nastavení financí. Další informace naleznete v tématu: [Nastavení Financí](finance-setup-setup-finance-setup.md).
 
-|Viz |také |
+|Popis |Odkaz |
 |---|----|
-|Umožněte zákazníkům platit prostřednictvím PayPal výběrem loga PayPal na prodejních dokumentech.|[Návody Povolení zákaznických plateb pomocí PayPalu](sales-how-enable-customer-payments-paypal.md)|
-|Zadejte různé slevy a alternativní ceny, které udělujete zákazníkům v závislosti na položce, množství a datu.|[Zaznamenejte prodejní cenu, slevu a platební podmínky.](sales-how-record-sales-price-discount-payment-agreements.md)|
-|Nastavte prodejce tak, abyste jej mohli přiřadit kontaktům, zákazníků nebo měřit výkon prodejců jako základ pro výpočet prodejní provize nebo bonusu.|[Návody Nastavení Prodejců](sales-how-setup-salespeople.md)|
-|Zadejte pro jednotlivé zákazníky nebo pro všechny zákazníky, jak jsou při prodeji dokumenty odeslány ve výchozím nastavení, když zvolíte akci **Účtovat a Odeslat**.|[Návody Nastavení Profily odesílání dokladů](sales-how-setup-document-send-profiles.md)|
-|Nastavte svůj e-mail tak, aby obsahoval souhrn informací v odeslaném dokumentu o prodeji.|[Návody Posílání dokumentů pomocí Emailu](ui-how-send-documents-email.md).|
+|Umožněte zákazníkům platit prostřednictvím PayPal , kliknutím na logo PayPal na prodejních dokumentech.|[Návod: Povolení plateb zákazníka pomocí PayPalu](sales-how-enable-customer-payments-paypal.md)|
+|Zadejte různé slevy a alternativní ceny, které udělujete zákazníkům v závislosti na položce, množství a datu.|[Zaznamenání prodejní ceny, slevy a platební podmínky.](sales-how-record-sales-price-discount-payment-agreements.md)|
+|Nastavte prodejce tak, abyste jej mohli přiřadit kontaktům, zákazníkům nebo měřit výkon prodejců jako základ pro výpočet prodejní provize nebo bonusu.|[Návod: Nastavení Prodejců](sales-how-setup-salespeople.md)|
+|Zadejte jakým způsobem budou odeslány dokumenty jednotlivým zákazníkům nebo pro všechny, když zvolíte akci **Účtovat a Odeslat**.|[Návod: Nastavení profilů odesílání dokladů](sales-how-setup-document-send-profiles.md)|
+|Nastavte tělo e-mailu tak, aby obsahoval souhrn informací v odeslaném prodejním dokumentu.|[Návod: Posílání dokumentů pomocí Emailu](ui-how-send-documents-email.md).|
 
 ## <a name="see-also"></a>Viz také  
 [Správa prodeje](sales-manage-sales.md)

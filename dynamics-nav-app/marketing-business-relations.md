@@ -1,5 +1,5 @@
 ---
-title: "Nastavit obchodní vztahy na kontaktní společnosti"
+title: "Nastavení obchodních vztahů ke kontaktním společnostem"
 author: jswymer
 ms.custom: na
 ms.date: 09/16/2016
@@ -15,23 +15,23 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 06/26/2017
 
 ---
-# <a name="set-up-business-relations-on-contact-companies"></a>Nastavit obchodní vztahy na kontaktní společnosti
-Pomocí obchodních vztahů můžete označit obchodní vztah, který máte s vašimi kontakty, například potencionální zákazník, banka, konzultant, dodavatel služeb atd.
+# <a name="set-up-business-relations-on-contact-companies"></a>Nastavení obchodních vztahů ke kontaktním společnostem
+Pomocí obchodních vztahů můžete označit obchodní vztah, který máte s vašimi kontakty, například potencionálním zákazníkem, bankou, konzultantem, dodavatelem služeb atd.
 
-Použití obchodních vztahů na kontaktech je proces o dvou krocích. Nejprve definujete kód obchodních vztahů. Pro každý obchodní vztah tento krok musíte provést pouze jednou. Jakmile máte kód pro obchodní vztahy, můžete začít přiřazovat kód ke kontaktním společnostem.
+Použití obchodních vztahů na kontaktech je proces o dvou krocích. Nejprve definujete kód obchodních vztahů. Pro každý obchodní vztah stačí tento krok provést pouze jednou. Jakmile máte kód pro obchodní vztahy, můžete jej přiřadit ke kontaktním společnostem.
 
 **Poznámka**: Pokud máte v úmyslu synchronizovat své kontakty s dodavateli, zákazníky nebo bankovními účty v jiných částech aplikace, můžete si pro ně nastavit obchodní vztah.
 
-## <a name="define-a-business-relation-code"></a>Definovat kód pro obchodní vztahy
-Kód obchodních vztahů definuje kategorii nebo typ obchodního vztahu, jako například BANKA nebo PRÁVO. Můžete mít několik kódů obchodních vztahů. Chcete-li definovat obchodní vztah, použijete okno **Obchodní vztahy**.
+## <a name="define-a-business-relation-code"></a>Definování kódu pro obchodní vztahy
+Kód obchodních vztahů definuje kategorii nebo typ obchodního vztahu, jako je například BANKA nebo PRÁVO. Můžete mít několik kódů obchodních vztahů. Chcete-li definovat obchodní vztah, použijete okno **Obchodní vztahy**.
 
-1. V pravém horním rohu vyberte ikonu **Hledat stránku nebo sestavu**, zadejte **Obchodní vztahy** a pak vyberte související odkaz.
+1. V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Obchodní vztahy** a pak vyberte související odkaz.
 2. Vyberte akci **Nové** a vyplňte kód a popis. Kód může mít maximálně 11 znaků a může obsahovat jakékoli kombinace čísel a písmen.
 
-## <a name="assign-business-relations-to-a-contact"></a>Přiřadit obchodní vztahy ke kontaktu
+## <a name="assign-business-relations-to-a-contact"></a>Přiřazení obchodních vztahů ke kontaktu
 Nemůžete přiřadit obchodní vztahy ke kontaktním osobám - pouze společnosti.
 
-1. Otevřít kontakt.
+1. Otevřete kontakt.
 2. Zvolte akci **Společnost** a poté akci **Obchodní vztahy**.
 
     Otevře se okno **Kontaktovat obchodní vztahy** .
@@ -41,8 +41,8 @@ Opakujte tyto kroky, abyste přiřadili tolik obchodních vztahů, kolik chcete.
 
 Počet obchodních vztahů, které jste přidali ke kontaktu, se zobrazuje v poli **Počet obchodních vztahů** v sekci **Segmentace** v okně **Kontakt**.
 
-Po přidělení obchodních vztahů k vašim kontaktům můžete pomocí těchto informací vybrat kontakty pro vaše segmenty. Pro další informace, viz [Návody: Přidat kontakty do segmentů](marketing-add-contact-segment.md).
+Po přidělení obchodních vztahů k vašim kontaktům můžete pomocí těchto informací vybrat kontakty pro vaše segmenty. Další informace naleznete v tématu [Návod: Přidání kontaktů do segmentů](marketing-add-contact-segment.md).
 
 ##<a name="see-also"></a>Viz také
-[Vytvořit kontaktní společnosti](marketing-create-contact-companies.md)
+[Vytvoření kontaktní společnosti](marketing-create-contact-companies.md)
 

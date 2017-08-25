@@ -25,9 +25,9 @@ Někdy budete možná muset převést částku z jednoho bankovního účtu na j
 3. V poli **Typ účtu** vyberte **Bankovní účet**.
 4. V poli **Číslo účtu** vyberte banku, ze které chcete peníze převést.
 5. Do pole **Částka** zadejte částku, kterou chcete převést.
-6. V **Bal. V poli Typ účtu** vyberte **Bankovní účet**.
-7. V **Bal. číslo účtu** pole vyberte bankovní účet, ke kterému chcete peníze převést.
-8. Zaúčtovat deník.
+6. V poli **Typ protiúčtu **vyberte **Bankovní účet**.
+7. V poli **Typ protiúčtu ** vyberte bankovní účet, ke kterému chcete peníze převést.
+8. Zaúčtujte deník.
 
 ## <a name="to-post-a-transfer-between-bank-accounts-with-different-currency-codes"></a>Zaúčtování převodu mezi bankovními účty s různými kódy měn
 Chcete-li převádět finanční prostředky mezi bankovními účty, které používají různé měny, musíte zaúčtovat dva řádky finančního deníku.
@@ -37,16 +37,16 @@ Chcete-li převádět finanční prostředky mezi bankovními účty, které pou
 3. Na prvním řádku deníku v poli **Typ** vyberte **Bankovní účet**.
 4. V poli **Číslo účtu** vyberte bankovní účet, ze kterého chcete peníze převést.
 5. V poli **Částka** zadejte částku v měně bankovního účtu. Zadejte částku Dal se znaménkem mínus. Zadejte částku MD se znaménkem mínus.
-6. V **Bal. V poli Typ účtu** vyberte **Bankovní účet**.
-7. V **Bal. Číslo účtu** Pole vyberte bankovní účet, na který chcete peníze převést.
+6. V poli **Typ protiúčtu **vyberte **Bankovní účet**.
+7. V poli **Typ protiúčtu ** vyberte bankovní účet, ke kterému chcete peníze převést.
 8. Na druhém řádku deníku v poli **Typ** vyberte **Bankovní účet**.
 9. V poli **Číslo účtu** vyberte bankovní účet, na který chcete peníze převést.
 10. V poli **Částka** zadejte částku v měně bankovního účtu. Zadejte částku Dal se znaménkem mínus. Zadejte částku MD se znaménkem mínus.
-11. V **Bal. V poli Typ účtu** vyberte **Bankovní účet**.  
-12. V **Bal. Číslo účtu** vyberte bankovní účet, ze kterého chcete peníze převést.
+11. V poli **Typ protiúčtu **vyberte **Bankovní účet**.  
+12. V poli **Typ protiúčtu ** vyberte bankovní účet, ze kterého chcete peníze převést.
 
     **Poznámka**: Pokud se kurzy používané v deníku liší od směnných kurzů v okně **Směnné kurzy**, zadejte třetí řádek pro kurzový zisk nebo ztrátu. Zadejte **Finanční účet** v poli **Typ účtu**. Zadejte číslo finančního účtu pro kurzový zisk nebo ztrátu v poli **Číslo účtu** . Zadejte kurzový zisk nebo ztrátu v poli **Částka** s nebo bez znaménka mínus pro částku Dal a MD.
-13. Zaúčtovat deník.
+13. Zaúčtujte deník.
 
 ## <a name="see-also"></a>Viz také  
 [Správa bankovních účtů.](bank-manage-bank-accounts.md)  

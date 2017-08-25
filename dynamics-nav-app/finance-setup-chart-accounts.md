@@ -1,5 +1,5 @@
 ---
-title: "Nastavit nebo změnit účtovou osnovu"
+title: "Nastavení nebo změna účtové osnovy"
 author: edupont04
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,7 +16,7 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="set-up-or-change-the-chart-of-accounts"></a>Nastavit nebo změnit účtovou osnovu
+# <a name="set-up-or-change-the-chart-of-accounts"></a>Nastavení nebo změna účtové osnovy
 Účtová osnova ukazuje účet hlavní knihy, který ukládá vaše finanční data. Dynamics NAV zahrnuje standardní účtovou osnovu, která je připravena podpořit váš obchod.
 Avšak můžete měnit výchozí účty a přidávat nové.  
 
@@ -32,7 +32,7 @@ Dynamics NAV bude předcházet tomu, abyste si vymazali účet hlavní knihy, kt
 
 ##<a name="see-also"></a>Viz také  
 [Hlavní kniha a Účtová osnova](finance-setup-general-ledger.md)  
-[Spravovat bankovní účty](bank-manage-bank-accounts.md)  
+[Správa bankovních účtů](bank-manage-bank-accounts.md)  
 [Dimenze](finance-setup-dimensions.md)  
-[Návody: Pracovat s GIFI kódy v Kanadě](ca-finance-setup-work-GiFI-codes.md)
+[Návod: Práce s GIFI kódy v Kanadě](ca-finance-setup-work-GiFI-codes.md)
 

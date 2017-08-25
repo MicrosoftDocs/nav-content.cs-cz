@@ -18,11 +18,11 @@ ms.lasthandoff: 06/26/2017
 
 # <a name="process-incoming-documents"></a>Proces Došlých dokladů
 
-Chcete-li v aplikaci Dynamics NAV zaznamenat externí doklad, musíte nejprve vytvořit nebo dokončit záznam došlého dokladu. Můžete to provést ručně, nebo můžete pořídit fotografii externího dokladu a pak vytvořit záznam došlého dokladu s připojeným obrazovým souborem.
+Chcete-li v aplikaci Dynamics NAV zaznamenat externí doklad, musíte nejprve vytvořit nebo dokončit záznam došlého dokladu. Můžete to provést ručně nebo můžete pořídit fotografii externího dokladu a pak vytvořit záznam došlého dokladu s připojeným obrazovým souborem.
 
 Ze souboru PDF nebo obrázkového souboru, který obdržíte od svých obchodních partnerů, můžete pomocí externí služby OCR (Optical Character Recognition) generovat elektronické doklady, které lze převést na záznamy dokladů v Dynamics NAV. Pokud například od dodavatele obdržíte fakturu ve formátu PDF, můžete ji odeslat do služby OCR z okna **Došlé doklady**. Případně můžete odeslat soubor službě OCR e-mailem. Poté, když obdržíte elektronický doklad zpět, automaticky se vytvoří související záznam došlého dokladu. Po několika sekundách obdržíte soubor zpět od služby OCR jako elektronickou fakturu, kterou lze převést na nákupní fakturu dodavatele.
 
-|Pro     |Viz                   |
+|Popis     |Odkaz                   |
 |-------|----------------------|
 |Vytváření záznamů došlého dokladu ručně nebo automaticky tak, že například pořídíte fotografii dokladu.|[Návod: Vytvoření záznamu došlého dokladu](across-how-create-income-document-records.md)|
 |Služba OCR slouží k převodu souborů PDF a obrázkových souborů na elektronické doklady, které lze například převést na faktury v Dynamics NAV. Zlepšete službu OCR, abyste předešli chybám při příštím zpracování podobných dat.|[Návod: Použití funkce OCR k převedení souborů PDF a obrázkových souborů do elektronických dokladů](across-how-use-ocr-pdf-images-files.md)|

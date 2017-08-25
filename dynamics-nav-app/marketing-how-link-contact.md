@@ -1,5 +1,5 @@
 ---
-title: "Návody: Propojit kontakty se zákazníky, dodavateli a bankovními účty"
+title: "Návod: Propojení kontaktů se zákazníky, dodavateli a bankovními účty"
 author: jswymer
 ms.custom: na
 ms.date: 09/16/2016
@@ -15,10 +15,10 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 06/26/2017
 
 ---
-# <a name="how-to-link-contacts-with-customers-vendors-and-bank-accounts"></a>Návody: Propojit kontakty se zákazníky, dodavateli a bankovními účty
-Pokud máte kontakt na zákazníka, dodavatele nebo bankovní účet pro stejnou společnost, můžete tyto dvě entity propojit. Spojení dvou entit umožňuje synchronizovat data, která jsou společná, takže jsou stejná na obou místech.
+# <a name="how-to-link-contacts-with-customers-vendors-and-bank-accounts"></a>Návod: Propojení kontaktů se zákazníky, dodavateli a bankovními účty
+Pokud máte kontakt na zákazníka, dodavatele nebo bankovní účet stejné společnosti, můžete tyto dvě entity spojit. Spojení dvou entit umožňuje synchronizovat data, která jsou společná, takže jsou stejná na obou místech.
 
-## <a name="link-a-contact-to-an-existing-customer-vendor-or-bank-account"></a>Spojit kontakt s existujícím zákazníkem, dodavatelem nebo bankovním účtem
+## <a name="link-a-contact-to-an-existing-customer-vendor-or-bank-account"></a>Spojení kontaktu s existujícím zákazníkem, dodavatelem nebo bankovním účtem
 1. Otevřete kontakt, který chcete spojit.
 2. Zvolte akci **Spojit s existujícím** a poté zvolte buď **Zákazník**, **Dodavatel** nebo **Banka**.
 3. Vyberte zákazníka, dodavatele nebo bankovní účet, který chcete spojovat.
@@ -28,5 +28,5 @@ Pokud máte kontakt na zákazníka, dodavatele nebo bankovní účet pro stejnou
 
 ##<a name="see-also"></a>Viz také
 [Synchronizace kontaktů se zákazníky, dodavateli a bankovními účty](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)
-[Vytvořit a spravovat kontakty](marketing-contacts.md)  
+[Vytvoření a správa kontaktů](marketing-contacts.md)  
 

@@ -1,5 +1,5 @@
 ---
-title: "Návody: Vytvořit prodejní příležitosti"
+title: "Návod: Vytvoření prodejních příležitostí"
 author: jswymer
 ms.custom: na
 ms.date: 09/16/2016
@@ -15,32 +15,32 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 06/26/2017
 
 ---
-# <a name="how-to-create-sales-opportunities"></a>Návody: Vytvořit prodejní příležitosti
+# <a name="how-to-create-sales-opportunities"></a>Návod: Vytvoření prodejních příležitostí
 Můžete vytvářet příležitosti pro prodejní příležitosti, které máte ve svých kontaktech. Všechny příležitosti musí být přiřazeny prodejci nebo nákupčímu a musí mít kontakt.
 
-Příležitosti můžete vytvořit z okna **Seznam příležitostí**. Ale typicky vytvoříte příležitosti od konkrétního kontaktu nebo obchodníků.
+Příležitosti můžete vytvořit v okně **Seznam příležitostí**. Ale typicky vytvoříte příležitosti od konkrétního kontaktu nebo obchodníků.
 
-Než budete moci vytvářet příležitosti, musíte nastavit cykly prodeních příležitostí. Pro další informace viz [Návody: Nastavit cykly prodeních příležitostí a fáze](marketing-how-setup-opportunity-sales-cycles-stages.md).
+Než budete moci vytvářet příležitosti, musíte nastavit cykly prodejních příležitostí. Další informace naleznete v tématu [Návod: Nastavení cyklů prodejních příležitostí a fází](marketing-how-setup-opportunity-sales-cycles-stages.md).
 
-## <a name="to-create-an-opportunity-from-a-salesperson"></a>Vytvořit příležitost od prodejce
-1. V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu**, zadejte **Prodejci** a zvolte související odkaz.
+## <a name="to-create-an-opportunity-from-a-salesperson"></a>Vytvoření příležitosti od prodejce
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Prodejci** a zvolte související odkaz.
 2. Vyberte ze seznamu prodejce, pro kterého chcete vytvořit příležitost.
 3. Zvolte akci **Příležitosti** a poté zvolte **Seznam**.
-4. Zvolte **Nové** a vyplňte příslušná pole.  
+4. Zvolte **Nový** a vyplňte příslušná pole.  
 
 <!-- taken out for OPS -->
 <!-- [AZURE.INCLUDE [tooltip-note](../includes/tooltip-note.md)] -->
 
-## <a name="to-create-an-opportunity-from-a-contact"></a>Vytvořit příležitost z kontaktu
-1. V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu**, zadejte **Kontakty** a zvolte související odkaz.
+## <a name="to-create-an-opportunity-from-a-contact"></a>Vytvoření příležitosti z kontaktu
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Kontakty** a zvolte související odkaz.
 2. Vyberte ze seznamu kontakt, pro který chcete vytvořit příležitost.
 3. Proveďte jeden z následujících:
   * Zvolte akci **Vytvořit příležitost**
-  * Zvolte akci **Příležitosti** a poté zvolte **Nové**.
+  * Zvolte akci **Příležitosti** a poté zvolte **Nový**.
 4. Vyplňte příslušná pole.
 
 ##<a name="see-also"></a>Viz také  
-[Spravovat prodej](sales-manage-sales.md)  
-[Vytvořit a spravovat kontakty](marketing-contacts.md)  
-[Pracujte s Dynamics NAV](ui-work-product.md)
+[Správa prodeje](sales-manage-sales.md)  
+[Vytvoření a správa kontaktů](marketing-contacts.md)  
+[Práce s Dynamics NAV](ui-work-product.md)
 

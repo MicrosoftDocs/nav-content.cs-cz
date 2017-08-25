@@ -31,7 +31,7 @@ Existuje několik způsobů, jak vytvořit segmenty:
 * Můžete znovu použít uložená kritéria segmentace.
 
 ## <a name="interactions"></a>Interakce
-V okně **Segment** můžete vytvářet interakce pro několik kontaktů současně. Můžete například sloučit segment s dokumentem Microsoft Word, takže můžete odeslat dopis všem kontaktům v segmentu.
+V okně **Segment** můžete vytvářet interakce pro několik kontaktů současně. Můžete například sloučit segment s dokumentem Microsoft Word tak, že můžete odeslat dopis všem kontaktům v segmentu.
 
 Můžete zadat informace o interakci segmentu v hlavičce **Segment**. Můžete se například rozhodnout, kterou šablonu interakce chcete použít pro všechny kontakty, určit popis, typ korespondence a podobně. Tyto informace však můžete upravit v řádku segmentu pro každý konkrétní kontakt, například zadáním jiného popisu pro kontakt. Pokud slučujete segment s dokumentem aplikace Microsoft Word, můžete přizpůsobit dokument, který má být odeslán pro jeden nebo více kontaktů v segmentu, například přidáním svých komentářů do dokumentu.
 
@@ -42,10 +42,10 @@ V okně **Protokolované segmenty** se můžete rozhodnout vytvořit další seg
 
 
 ##<a name="see-also"></a>Viz také
-[Návody: Vytvořit segmenty](marketing-how-create-segment.md)  
-[Návody: Vytvořte interakce pro segmenty](marketing-how-create-interactions.md)  
-[Spravovat segmenty](marketing-segments.md)  
+[Návod: Vytvoření segmentů](marketing-how-create-segment.md)  
+[Návod: Vytvoření interakcí pro segmenty](marketing-how-create-interactions.md)  
+[Správa segmentů](marketing-segments.md)  
 [Nahrávání interakcí s kontakty](marketing-interactions.md)  
-[Spravovat prodejní příležitosti](marketing-manage-sales-opportunities.md)  
-[Vytvořit a spravovat kontakty](marketing-contacts.md)
+[Správa prodejních příležitostí](marketing-manage-sales-opportunities.md)  
+[Vytvoření a správa kontaktů](marketing-contacts.md)
 

@@ -32,7 +32,7 @@ Okno **Zaúčtované doklady bez došlých dokladů** otevře zaúčtované nák
 2. V okně **Došlé doklady** vyberte záznam došlého dokladu, který chcete připojit k zaúčtovanému dokladu a pak zvolte tlačítko **OK**.
 3. V okně **Zaúčtované doklady bez došlého dokladu** vyberte záznam došlého dokladu, který je nyní připojen k zaúčtovanému dokladu, jak můžete vidět v okně s fakty **Soubory došlého dokladu**.
 
-Pokud v okně **Došlé doklady** neexistuje příslušný záznam došlého dokladu, můžete jej vytvořit. Další informace naleznete v [Návod: Vytvoření záznamů došlého dokladu](across-how-create-income-document-records.md).
+Pokud v okně **Došlé doklady** neexistuje příslušný záznam došlého dokladu, můžete jej vytvořit. Další informace naleznete v tématu [Návod: Vytvoření záznamů došlého dokladu](across-how-create-income-document-records.md).
 
 ## <a name="see-also"></a>Viz také  
 [Proces Došlých dokladů](across-process-income-documents.md)  

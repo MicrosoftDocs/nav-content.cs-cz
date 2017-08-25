@@ -22,14 +22,14 @@ Pomocí karet bankovních účtů můžete sledovat všechny své bankovní úč
 
 Chcete-li používat služby elektronického bankovnictví k importu bankovních výpisů a exportů plateb, musíte nastavit a povolit příslušné služby.
 
-|Pro |Viz |
+|Popis |Odkaz |
 |---|----|
 |Nastavení karet bankovních účtů pro každý z vašich bankovních účtů, abyste mohli sledovat bankovní transakce.|[Návod: Nastavení bankovních účtů](bank-how-setup-bank-accounts.md)|
-|Nastavte externí službu, která umožňuje importovat bankovní výpisy jako bankovní prostředky pro účely platby a bankovního odsouhlasení.|[Návod: Nastavení Envestnet Yodlee Bank Feeds Service](bank-how-setup-bank-statement-service.md)|
-|Nastavte externí službu, která umožňuje exportovat platby do banky za účelem zpracování a importu bankovních výpisů, jakožto bankovních souborů pro účely platby a bankovního odsouhlasení.|[Návod: Nastavení služby převodu bankovních dat](bank-how-setup-bank-data-conversion-service.md)|
+|Nastavení externí službu, která umožňuje importovat bankovní výpisy jako bankovní prostředky pro účely platby a bankovního odsouhlasení.|[Návod: Nastavení služby Envestnet Yodlee Bank Feeds](bank-how-setup-bank-statement-service.md)|
+|Nastavení externí službu, která umožňuje exportovat platby do banky za účelem zpracování a importu bankovních výpisů, jakožto bankovních souborů pro účely platby a bankovního odsouhlasení.|[Návod: Nastavení služby převodu bankovních dat](bank-how-setup-bank-data-conversion-service.md)|
 
 ## <a name="see-also"></a>Viz také
-[Spravovat bankovní účty](bank-manage-bank-accounts.md)  
+[Správa bankovních účtů](bank-manage-bank-accounts.md)  
 [Správa pohledávek](receivables-manage-receivables.md)  
 [Správa závazků](payables-manage-payables.md)
 

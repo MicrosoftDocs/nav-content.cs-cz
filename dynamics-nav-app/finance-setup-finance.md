@@ -1,5 +1,5 @@
 ---
-title: "Nastavit klíčové finanční procesy"
+title: "Nastavení klíčových finančních procesů"
 author: edupont04
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,23 +16,23 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-#<a name="set-up-core-financial-processes"></a>Nastavit klíčové finanční procesy
+#<a name="set-up-core-financial-processes"></a>Nastavení klíčových finančních procesů
 Dynamics NAV zahrnuje standardní konfiguraci většiny finančních procesů, ale můžete změnit konfiguraci tak, aby vám vyhovovala.
 Z Domů můžete přistoupit k průvodci nastavení, který vám například pomůže nastavit prodejní daň vzhledem k místu. Ostatní aspekty správy nastavení financí musíte nastavit sám podle toho, jestli chcete používat dimenze například.  
 
-Následující tabulka popisuje sekvekci úloh s odkazy na témata, které je popisují.
+Následující tabulka popisuje sekvenci úloh s odkazy na témata, které je popisují.
 
-| K                                                                  | Viz                      |
+| Popis                                                                  | Odkaz                      |
 |---------------------------------------------------------------------|--------------------------|
 |Zvolte způsob, jakým chcete zpracovávat platby vašich dodavatelů.|[Platební metody](finance-setup-payment-methods.md)|
-|Nastavit fiskální období.|[Návody: Otevřít nový fiskální rok](finance-setup-how-open-new-fiscal-year.md)|
-|Nastavit další měny, pokud máte mezinárodní obchody,|[Nastavit měny](finance-setup-setup-currencies.md)|
-|Přidat dimenze pro bohatší podnikovou inteligenci.|[Nastavit dimenze](finance-setup-setup-dimensions.md)|
-|Přidat nové účty k existující účtové osnově.|[Nastavit účtovou osnovu](finance-setup-setup-chart-accounts.md)|
+|Nastavíte fiskální období.|[Návod: Otevření nového fiskálního roku](finance-setup-how-open-new-fiscal-year.md)|
+|Nastavíte další měny, pokud máte mezinárodní obchody.|[Nastavení měn](finance-setup-setup-currencies.md)|
+|Přidejte dimenze pro bohatší podnikovou inteligenci.|[Nastavení dimenzí](finance-setup-setup-dimensions.md)|
+|Přidejte nové účty k existující účtové osnově.|[Nastavení účtové osnovy](finance-setup-setup-chart-accounts.md)|
 
 
 
 ##<a name="see-also"></a>Viz také
-[Spravovat bankovní účty](bank-manage-bank-accounts.md)    
+[Správa bankovních účtů](bank-manage-bank-accounts.md)    
 [Dimenze](finance-setup-dimensions.md)  
 

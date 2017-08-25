@@ -1,5 +1,5 @@
 ---
-title: "Návody Definování Rozšířených textů"
+title: "Návod: Definování Rozšířených textů"
 author: SusanneWindfeldPedersen
 ms.custom: na
 ms.date: 11/22/2016
@@ -16,11 +16,11 @@ ms.lasthandoff: 06/26/2017
 
 ---
     
-# <a name="how-to-define-extended-text"></a>Návody Definování Rozšířených textů
+# <a name="how-to-define-extended-text"></a>Návod: Definování Rozšířených textů
 
-Můžete přidat standardní text pro položky přidáním dalších řádků a můžete nastavit podmínky pro použití dalších řádků. Toto uděláte na kartě zboží.
+Můžete rozšířit standardní text pro položky přidáním dalších řádků a také můžete nastavit podmínky pro použití dalších extra řádků. Toto nastavení uděláte na kartě zboží.
 
-## <a name="to-define-extended-text-for-an-item-description"></a>Definování rozšířeného textu pro popis položky.
+## <a name="to-define-extended-text-for-an-item-description"></a>Definování rozšířeného textu pro popis položky (zboží).
 1. Otevřete kartu zboží, do které chcete přidat rozšířený text, a potom vyberte tlačítko **Rozšířené texty**.
 2. V poli **Kód** vložte kód a do pole **Popis** vložte požadovaný text.
 3. Zvolte **Rozšířené texty**.

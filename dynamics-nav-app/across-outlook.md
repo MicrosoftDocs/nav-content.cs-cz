@@ -1,5 +1,5 @@
 ---
-title: "Použití Dynamics NAV jako vaší obchodní doručené pošty v aplikaci Outlook"
+title: "Použití Dynamics NAV jako vaší doručené pošty v aplikaci Outlook"
 author: edupont04
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,8 +16,8 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="using-dynamics-nav-as-your-business-inbox-in-outlook"></a>Použití Dynamics NAV jako vaší obchodní doručené pošty v aplikaci Outlook
-Dynamics NAV představuje schopnost řídit obchodní interakce se zákazníky a prodejci přímo v aplikaci Microsoft Outlook. Pomocí doplňku Dynamics NAV Outlook můžete vidět finanční údaje týkající se zákazníků a prodejců a vytvářet a odesílat finanční doklady, jako jsou například nabídky a faktury.  
+# <a name="using-dynamics-nav-as-your-business-inbox-in-outlook"></a>Použití Dynamics NAV jako vaší doručené pošty v aplikaci Outlook
+Dynamics NAV představuje schopnost řídit obchodní interakce se zákazníky a prodejci přímo v aplikaci Microsoft Outlook. Pomocí doplňku Dynamics NAV Outlook můžete vidět finanční údaje týkající se zákazníků a prodejců a vytvářet a odesílat finanční doklady jako jsou například nabídky a faktury.  
 
 Některé společnosti používající Office 365 omezují oprávnění uživatelů k nasazení doplňků. Musíte se tedy ujistit, že máte předplatné Office 365, které obsahuje e-mail a umožňuje nasadit doplňky. Můžete se zaregistrovat na bezplatnou zkušební verzi Office 365 na 1 měsíc [zde](https://products.office.com/try).  
 
