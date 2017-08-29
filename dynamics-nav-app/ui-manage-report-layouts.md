@@ -48,10 +48,10 @@ Obecné koncepty návrhu pro rozložení aplikace Word a RDLC jsou velmi podobn�
 
 Proces nastavení rozložení sestavy aplikace Word a RDLC v sestavách je stejný. Hlavní rozdíl je v tom, jak upravujete rozložení. Rozložení sestav aplikace Word jsou obvykle jednodušší k vytvoření a úpravám  než rozložení sestav RDLC, protože můžete použít aplikaci Word. Rozložení sestavy RDLC se upravuje pomocí nástroje SQL Server – Tvůrce sestav, který je určen pro pokročilejší uživatele. 
 
-Pro více informací o tom, jak změnit rozložení, které chcete použít, viz [Návody: Změna aktuálně používaného rozložení v sestavě](ui-how-change-layout-currently-used-report.md)
+Pro více informací o tom, jak změnit rozložení, které chcete použít, viz [Návod: Změna aktuálně používaného rozložení v sestavě](ui-how-change-layout-currently-used-report.md)
 
 ## <a name="see-also"></a>Viz také
 [Práce s Dynamics NAV](ui-work-product.md)  
-[Návody: Vytvoření vlastního rozložení sestavy](ui-how-create-custom-report-layout.md)  
-[Návody: Odesílání dokladů e-mailem](ui-how-send-documents-email.md)
+[Návod: Vytvoření vlastního rozložení sestavy](ui-how-create-custom-report-layout.md)  
+[Návod: Odesílání dokladů e-mailem](ui-how-send-documents-email.md)
 

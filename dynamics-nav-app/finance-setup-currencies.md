@@ -21,7 +21,7 @@ Musíte nastavit kód pro každou měnu, kterou používáte, pokud nakupujete n
 
 ## <a name="set-up-a-currency-exchange-rate-service"></a>Nastavení služby měnového kurzu
 Můžete použít externí službu k získání posledních měnových kurzů do okna Měny. K aktualizaci měnových kurzů musíte nejprve službu nastavit.
-Služba, která poskytuje aktualizované měnové kurzy, je povolena definicí výměny dat v okně **Služba měnového kurzu**.  
+Služba, která poskytuje aktualizované měnové kurzy, je povolena definicí výměny dat v okně **Služby směnného kurzu**.  
 
 ## <a name="see-also"></a>Viz také
 [Zavření roků nebo období](year-close-years-periods.md)

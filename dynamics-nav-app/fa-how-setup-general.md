@@ -31,10 +31,10 @@ Pomocí účtovacích skupin můžete definovat skupiny DM. Položky pro tyto ú
 2. Zvolte akci **Nový**.
 3. V okně **Karta účto skupiny DM** vyplňte pole podle potřeby.
 
-    **Poznámka**: Chcete-li se ujistit, že vyrovnávací účty pro různý zaúčtovaný dlouhodobý majetek jsou automaticky vloženy, zvolte akci **Vložit protiúčet DM **na řádcích deníku a postupujte podle dalšího kroku založeného na zhodnocení zaúčtování.
-4. V záložce s náhledem **Vyrovnávací účet** pole **Protiúčet zhodnocení **obsahuje účet hlavní knihy, na který chcete zaúčtovat zůstatkové položky pro zhodnocení.
+    **Poznámka**: Chcete-li se ujistit, že vyrovnávací účty pro různý zaúčtovaný dlouhodobý majetek jsou automaticky vloženy, zvolte akci **Vložit protiúčet DM na **řádcích deníku a postupujte podle dalšího kroku založeného na zhodnocení zaúčtování.
+4. V záložce s náhledem **Vyrovnávací účet** pole **Protiúčet zhodnocení obsahuje **účet hlavní knihy, na který chcete zaúčtovat zůstatkové položky pro zhodnocení.
 
-Další informace o použití akce **Vložit protiúčet DM **na řádcích finančního deníku DM, viz například [Návod: Přecenění DM](fa-how-revalue.md).
+Další informace o použití akce **Vložit protiúčet DM na **řádcích finančního deníku DM, viz například [Návod: Přecenění DM](fa-how-revalue.md).
 
 ## <a name="to-set-up-fixed-asset-allocation-keys"></a>Nastavení přidělovacích klíčů DM  
 Transakce mohou být přiděleny různým oddělením nebo projektům podle uživatelsky definovaných přidělovacích klíčů. Například byste mohli nastavit přidělovací klíč pro přidělení nákladů na odpisy vozidel s 35% administrativnímu oddělení a 65% prodejnímu oddělení. Další informace naleznete v tématu [Návod: Použití přidělovacího klíče v obecných denících](ui-how-use-allocation-keys-general-journals.md).
@@ -59,15 +59,15 @@ Můžete nastavit více dávek deníku, což jsou jednotlivé deníky pro každo
 3. V okně **Dávky deníku DM** vyplňte pole podle potřeby.
 
 ## <a name="to-set-up-fixed-asset-reclassification-journal-templates"></a>Nastavení šablon deníku pro reklasifikaci DM  
-Používáte-li vyhrazené přeřazení deníků, když potřebujete převést, rozdělit nebo kombinovat dlouhodobý majetek. Dynamics NAV automaticky vytvoří šablonu deníku pro reklasifikaci DM při prvním otevření okna **Deník přeřazení DM **, ale můžete nastavit další reklasifikaci šablony deníku. Další informace naleznete v tématu [Práce s Finančním deníkem](ui-work-general-journals.md).  
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Šablony deníku přeřazení DM **a pak vyberte související odkaz.  
+Používáte-li vyhrazené přeřazení deníků, když potřebujete převést, rozdělit nebo kombinovat dlouhodobý majetek. Dynamics NAV automaticky vytvoří šablonu deníku pro reklasifikaci DM při prvním otevření okna **Deník přeřazení DM, ale **můžete nastavit další reklasifikaci šablony deníku. Další informace naleznete v tématu [Práce s Finančním deníkem](ui-work-general-journals.md).  
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Šablony deníku přeřazení DM a pak **vyberte související odkaz.  
 2. Vyplňte pole podle potřeby.
 
 ## <a name="to-set-up-fixed-asset-reclassification-journal-batches"></a>Nastavení dávky deníku pro reklasifikaci DM  
 Můžete nastavit více dávek deníku, což jsou jednotlivé deníky pro každou reklasifikaci šablony deníku. Zaměstnanci mohou mít například vlastní reklasifikaci dávky deníku, který používá iniciály zaměstnanců jako název reklasifikaci dávky deníku. Další informace naleznete v tématu [Práce s Finančním deníkem](ui-work-general-journals.md).
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Šablony deníku přeřazení DM **a pak vyberte související odkaz.  
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Šablony deníku přeřazení DM a pak **vyberte související odkaz.  
 2. Vyberte příslušnou šablonu deníku a pak zvolte akci **Dávky**.
-3. V okně **Listy deníku přeřazení DM **vyplňte pole podle potřeby.
+3. V okně **Listy deníku přeřazení DM vyplňte **pole podle potřeby.
 
 ## <a name="to-set-up-fixed-asset-class-codes"></a>Nastavení kódů tříd DM  
 Kódy tříd DM můžou být použity k seskupení DM, například do hmotného a nehmotného majetku.

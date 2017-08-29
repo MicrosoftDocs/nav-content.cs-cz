@@ -1,5 +1,5 @@
 ---
-title: "Návod: Vytváření nabídek."
+title: "Návod: Vytváření nabídek"
 author: SorenGP
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,25 +16,25 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-make-offers"></a>Návod: Vytváření nabídek.
+# <a name="how-to-make-offers"></a>Návod: Vytváření nabídek
 Můžete vytvořit prodejní nabídky, abyste zaznamenali vaši nabídku zákazníkovi o prodeji určitých produktů za určitých dodacích a platebních podmínek. Můžete posílat prodejní nabídku zákazníkovi pro budoucí komunikaci o nabídce. Nabídku můžete odeslat jako přílohu ve formátu PDF emailem. Tělo emailu může být předvyplněno souhrnem nabídky. Další informace naleznete v tématu [Návod: Posílání dokumentů pomocí Emailu](ui-how-send-documents-email.md).
 
-Při vyjednávání se zákazníkem můžete změnit a odeslat prodejní nabídku, tak jak budete potřebovat. Když zákazník přijme nabídku, můžete ji převést na prodejní fakturu nebo prodejní objednávku, kterou zpracujete pro prodej. Další informace naleznete v tématu [Návod: Fakturování prodeje](sales-how-invoice-sales.md) nebo [Jak na: Prodávání produktu](sales-how-sell-products.md)
+Při vyjednávání se zákazníkem můžete změnit a odeslat prodejní nabídku, tak jak budete potřebovat. Když zákazník přijme nabídku, můžete ji převést na prodejní fakturu nebo prodejní objednávku, kterou zpracujete pro prodej. Další informace naleznete v tématu [Návod: Fakturování prodeje](sales-how-invoice-sales.md) nebo [Návod: Prodávání produktu](sales-how-sell-products.md).
 
 Produkt mohou být inventární položky nebo služby. Další informace naleznete v tématu [Návod: Zaznamenávání nových produktů](inventory-how-register-new-products.md). Proces prodejních nabídek je stejný pro oba typy produktů.
 
-**Poznámka**: V produktu Dynamics NAV se produkt označuje výrazem "zboží".
+**Poznámka**: V produktu Dynamics NAV se produkt označuje výrazem „zboží".
 
-Políčka zákazníků můžete vyplnit na prodejní nabídce dvěma způsoby, v závislosti na tom, zda je zákazník již zaregistrován.
+Políčka zákazníků můžete vyplnit na prodejní nabídce dvěma způsoby v závislosti na tom, zda je zákazník již zaregistrován.
 
-## <a name="to-create-a-sales-quote"></a>Vytvoření prodejní nabídky.
+## <a name="to-create-a-sales-quote"></a>Vytvoření prodejní nabídky
 1. Na domovské stránce vyberte tlačítko **Prodejní nabídky**.  
 2. V políčku **Zákazník** napište jméno existujícího zákazníka.
 
     Ostatní pole v okně **Prodejní nabídka** jsou nyní vyplněny informacemi vybraného zákazníka. Pokud není zákazník registrován, následujte tyto kroky:
 
 3. V políčku **Zákazník** napište jméno nového zákazníka.
-4. V dialogovém okně o registraci nového zákazníka zvolte tlačítko **Ano**
+4. V dialogovém okně o registraci nového zákazníka zvolte tlačítko **Ano**.
 5. V okně **Vybrat šablonu pro nového zákazníka** vyberte šablonu, na které bude založena nová zákaznická karta, a potom klepněte na tlačítko **OK**.
 6. Otevře se nová zákaznická karta s předplněná informacemi ze zvolené šablony zákazníků. Políčko **Název** je předvyplněno novým jménem zákazníka, kterého jste zadali v prodejní faktuře.
 7. Pokračujte vyplněním zbývajících polí na kartě zákazníka. Další informace naleznete v tématu [Návod: Registrace nového zákazníka.](sales-how-register-new-customers.md)  
@@ -56,24 +56,24 @@ Políčka zákazníků můžete vyplnit na prodejní nabídce dvěma způsoby, v
     Částka ceny a řádku se zobrazuje s nebo bez DPH v závislosti na tom, co jste vybrali v poli **Ceny včetně DPH** na kartě zákazníka.
 12. Do pole **Částka řádkové slevy** zadejte procento, pokud chcete zákazníkovi poskytnout slevu na produkt. Hodnota v poli **Částka na řádku** je odpovídajícím způsobem aktualizována.
 
-    **Poznámka**: Pokud nastavíte speciální ceny na záložce **Prodejní ceny a řádkové slevy** na kartě zákazníka nebo kartě položky, potom se cena na řádku automaticky aktualizuje pokud jsou splněna daná kritéria. Další informace naleznete v tématu: [Zaznamenání prodejní ceny, slevy a platební podmínky](sales-how-record-sales-price-discount-payment-agreements.md).
+    **Poznámka**: Pokud nastavíte speciální ceny na záložce **Prodejní ceny a řádkové slevy** na kartě zákazníka nebo kartě položky, potom se cena na řádku automaticky aktualizuje, pokud jsou splněna daná kritéria. Další informace naleznete v tématu: [Zaznamenání prodejní ceny, slevy a platební podmínky](sales-how-record-sales-price-discount-payment-agreements.md).
 13. Chcete-li přidat komentář na řádek nabídky, který se zákazníkovi zobrazí na vytištěné prodejní nabídce, napište text do pole **Popis** na prázdném řádku.  
-14. Opakujte kroky 10 až 13 pro každou položku, který chcete nabídnout zákazníkovi.
+14. Opakujte kroky 10 až 13 pro každou položku, kterou chcete nabídnout zákazníkovi.
 
     Součty pod řádky se automaticky vypočítají při vytváření nebo úpravách řádků.
-15. Do pole **Částka fakturační slevy** zadejte částku, která by měla být odečtena od hodnoty zobrazené v položce **Celkem včetně DPH**
+15. Do pole **Částka fakturační slevy** zadejte částku, která by měla být odečtena od hodnoty zobrazené v položce **Celkem včetně DPH**.
 
     **Poznámka**: Pokud jste zákazníkovi nastavili fakturační slevu, zadaná procentní hodnota se automaticky vloží do pole **Fakturační sleva %**, pokud jsou splněna kritéria a příslušná částka je vložena do **Faktury do pole Fakturační sleva včetně DPH**. Další informace naleznete v tématu: [Zaznamenání prodejní ceny, slevy a platební podmínky](sales-how-record-sales-price-discount-payment-agreements.md).
 16. Po dokončení řádků prodejní nabídky vyberte tlačítko **E-mail** nebo **Tisk**.
 
     Pokud jste zvolili tlačítko **E-mail**, potom PDF soubor bude automaticky připojen jako příloha e-mailu zákazníkovi. Tělo emailu může být předvyplněno souhrnem nabídky. Další informace naleznete v tématu: [Návod: Posílání dokumentů pomocí Emailu](ui-how-send-documents-email.md).
-17. Pokud zákazník akceptuje nabídku, zvolte **Vytvořit fakturu** nebo **Vytvořit objednávku**
+17. Pokud zákazník akceptuje nabídku, zvolte **Vytvořit fakturu** nebo **Vytvořit objednávku**.
 
-Prodejní nabídka je smazána z databáze. Prodejní faktura nebo prodejní objednávka je vytvořena na základě informací z prodejní nabídky, z které uskutečňujete prodej. V políčku **Nabídka číslo** na prodejní faktuře nebo prodejní objednávce můžete vidět číslo prodejní nabídky, z které byly vytvořeny. Další informace naleznete v tématu: [Návod: Fakturování prodeje](sales-how-invoice-sales.md) nebo [Návod: Prodávání produktu](sales-how-sell-products.md)
+Prodejní nabídka je smazána z databáze. Prodejní faktura nebo prodejní objednávka je vytvořena na základě informací z prodejní nabídky, ze které uskutečňujete prodej. V políčku **Nabídka číslo** na prodejní faktuře nebo prodejní objednávce můžete vidět číslo prodejní nabídky, ze které byly vytvořeny. Další informace naleznete v tématu: [Návod: Fakturování prodeje](sales-how-invoice-sales.md) nebo [Návod: Prodávání produktu](sales-how-sell-products.md).
 
 ## <a name="see-also"></a>Viz také  
 [Správa prodeje](sales-manage-sales.md)  
 [Nastavení prodeje](sales-setup-sales.md)  
-[Návod: Posílání dokumentů pomocí Emailu.](ui-how-send-documents-email.md)  
+[Návod: Posílání dokumentů pomocí Emailu](ui-how-send-documents-email.md)  
 [Práce s Dynamics NAV](ui-work-product.md)
 

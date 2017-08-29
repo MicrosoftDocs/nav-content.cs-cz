@@ -20,25 +20,25 @@ ms.lasthandoff: 06/26/2017
 
 Můžete navrhovat své šeky k přizpůsobení standardů nastavených místními úřady. Obrazy šeků můžou být vytištěny v angličtině, francouzštině nebo španělštině.
 
-Šeky jsou navrženy k tisku v obou formátech, americkém i kanadském buď ve formátu šek-zástupná procedura-šek nebo zástupná procedura-zástupná procedura-šek.
+Šeky jsou navrženy k tisku v obou formátech, americkém i kanadském buď ve formátu check-stub-check nebo stub-stub-check.
 
-## <a name="to-define-check-layouts"></a>K definování rozvržení šeku
-1. V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Sestava výběru bankovního účtu** a pak vyberte související odkaz.
+## <a name="to-define-check-layouts"></a>Definování rozvržení šeku
+1. V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Výběr sestav - bank.účet** a pak vyberte související odkaz.
 2. V okně **Sestava výběru - bankovní účet** v poli **Využití** vyberte **Šek**.
 3. Vyberte jedno z následujících ID sestav.
 
 | ID sestavy   | Název sestavy   | Popis |
 |-------------|---------------|-------------|
 |1401|Šek|Toto je výchozí sestava.|
-|10401|Šek (zástupná procedura/zástupná procedura/šek)|Tahle sestava je navržena k tisku šeků ve formátu (zástupná procedura/zástupná procedura/šek).|
-|10411|Šek (zástupná procedura/zástupná procedura/šek)|Tahle sestava je navržena k tisku šeků ve formátu (šek/zástupná procedura/šek).|
+|10401|Šek (Stub/Stub/Check)|Tahle sestava je navržena k tisku šeků ve formátu (zástupná procedura/zástupná procedura/šek).|
+|10411|Šek (Stub/Check/Stub)|Tahle sestava je navržena k tisku šeků ve formátu (check/stub/check).|
 
 Když musíte nastavit rozložení šeku, můžete tisknout z okna **Deník plateb**. Další informace naleznete v tématu [Práce se šeky](payables-how-work-checks.md).
 
 ## <a name="see-also"></a>Viz také
 [Správa závazků](payables-manage-payables.md)  
-[Správa bankovních účtů](bank-manage-bank-accounts.md)   
+[Spravovat bankovní účty.](bank-manage-bank-accounts.md)   
 [Dokončování procesů na konci období](year-how-complete-period-end-processes.md)  
-[Pracujte s Dynamics NAV](ui-work-product.md)  
+[Práce s Dynamics NAV](ui-work-product.md)  
 [Napříč obchodními oblastmi](ui-across-business-areas.md)
 

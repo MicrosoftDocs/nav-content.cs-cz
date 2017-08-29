@@ -26,16 +26,16 @@ Chcete-li povolit platby zákazníkům prostřednictvím služby PayPal, musíte
 1. Nastavte službu PayPal Payments Standard jako platební službu v okně **Služby pro platby**.
 2. Zvolte v **Služby pro platby** PayPal Payments Standard na daném prodejním dokladu.
 
-Služba PayPal Payments Standard bude nainstalována jako rozšíření Dynamics NAV a bude připravena k zapnutí. Další informace naleznete v tématu: [Přizpůsobení Dynamics NAV pomocí rozšíření](ui-extensions.md)
+Služba PayPal Payments Standard bude nainstalována jako rozšíření Dynamics NAV a bude připravena k zapnutí. Další informace naleznete v tématu: [Přizpůsobení Dynamics NAV pomocí rozšíření](ui-extensions.md).
 
 ## <a name="to-enable-the-paypal-payments-standard-service"></a>Povolení služby PayPal Payments Standard
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Služby pro platby** a poté vyberte příslušný odkaz.  
 2. V okně **Služby pro platby** zvolte **Nový**.
-3. Vyberte **PayPal standard** a zavřete okno.
+3. Vyberte **PayPal Standard** a zavřete okno.
 4. V okně **Služby pro platby** zvolte **Nastavení**.
 5. Vyplňte pole dle potřeby. Vyberte pole a přečtěte si krátký popis pole nebo odkaz pro další informace.
 
-    **Poznámka**: Zaškrtněte políčko **Vždy zahrnouto v dokumentech**, pokud má být hypertextový odkaz pro platební službu PayPal vždy viditelný v prodejních dokladech, kde je povolena platba prostřednictvím služby PayPal.
+    **Poznámka**: Zaškrtněte políčko **Vždy zahrnuto v dokumentech**, pokud má být hypertextový odkaz pro platební službu PayPal vždy viditelný v prodejních dokladech, kde je povolena platba prostřednictvím služby PayPal.
 
 6. Zavřete okno.
 

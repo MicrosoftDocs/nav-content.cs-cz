@@ -26,12 +26,12 @@ Ve středu najdete dlaždice Aktivit. Aktivity zobrazují aktuální data a je m
 
 Na domovské stránce můžete také vytvořit seznam oblíbených zákazníků pro účty, se kterými často obchodujete, nebo kterým je třeba věnovat zvláštní pozornost. Použijte šipky ke sbalení části stránky a uvolnění většího prostoru pro zobrazování konkrétních dat. V horní části domovské stránky najdete všechny akce, které lze na aktuální obsah použít. Ty je také možné sbalit a stačí pouze kliknout nebo klepnout v rámci sbalené oblasti pro jejich opětovné zobrazení.
 
-Výchozím centrem rolí je **Zpracovatel prodejních objednávek**, ale můžete vybrat jiné centrum rolí, které bude lépe vyhovovat vašim potřebám. Pro další informace, viz [Návody: Změna Centra rolí](ui-change-role.md).
+Výchozím centrem rolí je **Zpracovatel prodejních objednávek**, ale můžete vybrat jiné centrum rolí, které bude lépe vyhovovat vašim potřebám. Další informace naleznete v tématu: [Návod: Změna Centra rolí](ui-change-role.md).
 
 ## <a name="company"></a>Společnost
 Společnost funguje jako kontejner pro data v Dynamics NAV. V databázi může být více společností, ale vždy může být vybrána jen jedna.
 
-Společnost CRONUS USA je výchozí společností. Obsahuje pouze ukázkové údaje.   
+Společnost CRONUS CZ s.r.o je výchozí společností. Obsahuje pouze ukázkové údaje.   
 
 ## <a name="work-date"></a>Pracovní datum
 Výchozí pracovní datum je obvykle dnešní datum. Možná budete muset dočasně změnit pracovní datum, abyste mohli provádět úkoly, například dokončení transakcí pro datum, které není aktuální.
@@ -48,5 +48,5 @@ Pokud chcete zadat nějaké další kontroly pro účtování dokladu, použijte
 
 ## <a name="see-also"></a>Viz také
 [Práce s Dynamics NAV](ui-work-product.md)  
-[Návody: Změna Centra rolí](ui-change-role.md)  
+[Návod: Změna Centra rolí](ui-change-role.md)  
 

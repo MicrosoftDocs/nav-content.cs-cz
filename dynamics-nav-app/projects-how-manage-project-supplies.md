@@ -1,5 +1,5 @@
 ---
-title: 'How to: Manage Project Supplies'
+title: "Návod: Správa projektových zásob"
 author: SorenGP
 ms.custom: na
 ms.date: 11/01/2016
@@ -16,45 +16,45 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-manage-job-supplies"></a>How to: Manage Job Supplies
-Managing project supplies of items, services, and expenses is an integral and critical aspect of the execution of all jobs. You can use inventory quantities or make job-specific purchases using purchase orders or purchase invoices. For example, a service job on a computer requires a new disk. You create a purchase invoice to buy a new disk and record the job that it will be used on.
+# <a name="how-to-manage-job-supplies"></a>Návod: Správa projektových zásob
+Řízení projektových dodávek zboží, služeb a nákladů je nedílnou a kritickou stránkou výkonu všech projektů. Můžete použít inventární množství nebo udělat specifický projektový nákup pro danou zakázku pomocí nákupních objednávek nebo nákupních faktur. Například projektová služba ohledně počítače vyžaduje nový disk. Vytvořte nákupní fakturu pro zakoupení nového disku a zaznamenejte projekt, na který bude použita.
 
-If the purchase process does not require that the physical transaction be recorded separately, then a purchase may be processed in the **Job G/L Journal** window. For more information, see [How to: Record Usage for Jobs](projects-how-record-job-usage.md).
+Pokud proces nákupu nevyžaduje, aby byla fyzická transakce zaznamenána samostatně, může být nákup zpracován v okně **Finanční deník projektu** . Pro další informace , viz [Návod: Využití záznamu pro projekty](projects-how-record-job-usage.md) .
 
-## <a name="to-purchase-items-or-services-for-a-job"></a>To purchase items or services for a job
-The following procedure shows how to use a purchase invoice to purchase products for a job. The same steps apply when using a purchase order.  
+## <a name="to-purchase-items-or-services-for-a-job"></a>Zakoupení zboží nebo služeb pro projekt
+Následující postup ukazuje, jak použít nákupní fakturu k nákupu produktů pro daný projekt. Při použití nákupní objednávky platí stejné kroky.  
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Purchase Invoices**, and then choose the related link.  
-2. Choose the **New** action and fill in the fields as necessary. For more information, see [How to: Record Purchases](purchasing-how-record-purchases.md).
-3. In the **Job No.** and **Job Task No.** fields, select the information of the job that you want to purchase items or services for.  
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Nákupní faktury** a pak vyberte související odkaz.  
+2. Vyberte akci **Nový** a poté vyplňte potřebná pole. Pro další informace , viz [Návod: Záznam nákupů](purchasing-how-record-purchases.md) .
+3. V poli **Číslo projektu** a **Č. činnosti projektu** pole, vyberte informace o projektu, pro který chcete zakoupit zboží nebo služby.  
 
-    The value that you select in the **Job Line Type** field defines whether a planning line is created when you post the usage of the item. If the field contains **Billable**, then job planning lines that are ready to be invoiced to the customer are created. For more information, see [How to: Invoice Jobs](projects-how-invoice-jobs.md).
+    Hodnota, kterou vyberete v poli **Typ řádku projektu,** určuje, zda je po zaúčtování spotřeby zboží vytvořen řádek plánování. Pokud pole obsahuje možnost **Fakturace** , jsou vytvořeny řádky plánování projektu, které jsou připraveny k fakturaci zákazníkovi. Pro další informace , viz [Návod: Faktury projektu](projects-how-invoice-jobs.md) .
 
-4. Choose the **Post** action.
+4. Zvolte akci **Zaúčtovat**.
 
-## <a name="to-view-the-value-of-purchases-for-a-job"></a>To view the value of purchases for a job  
+## <a name="to-view-the-value-of-purchases-for-a-job"></a>Zobrazit hodnotu nákupů pro projekt  
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.
-2. Open a relevant job card.
+1. V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu**, zadejte **Projekty** a zvolte související odkaz.
+2. Otevřít příslušnou kartu projektu.
 
-    On the **Tasks** FastTab, the **Outstanding Orders** field shows the total outstanding amount, in local currency, of inventory items and services on purchase documents for the job task line.  
+    Na kartě **Činnosti** v poli **Nevyřízené objednávky** zobrazuje celkovou nevyřízenou částku, v místní měně, inventáře zboží a služeb na nákupních dokladech pro řádek činnosti projektu.  
 
-    The **Amt. Rec. Not Invoiced** field shows the value of items delivered on purchase documents, but not yet invoiced.  
+    **Část. Rec. Pole Nefakturováno** zobrazuje hodnotu zboží dodaných na nákupních dokladech, které  dosud nebyly fakturovány.  
 
-3. Choose either of the fields to open the **Purchase Lines** window where you can review information about the related purchase document lines, including which items or services have been received.
+3. Zvolte jedno z polí, chcete-li otevřít okno **Nákupní řádky** kde můžete zkontrolovat informace o souvisejících řádcích nákupních dokladů, včetně zboží nebo služeb, které byly přijaty.
 
-## <a name="to-post-a-job-related-expense"></a>To post a job-related expense  
-If you incur extraordinary or one-time job expenses, you can use the **Job G/L Journal** window to post them directly to the relevant job account.
+## <a name="to-post-a-job-related-expense"></a>Účtování nákladů souvisejících s prací  
+Máte-li mimořádné nebo jednorázové výdaje na práci, můžete použít okno **Finanční deník projektu** ,abyste je mohli zaúčtovat přímo na příslušný účet projektu.
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Job G/L Journals**, and then choose the related link.  
-2. Create a new line and enter information about the expense, including information in the **Job No.** and **Job Task No** fields.  
-3. When the journal is complete, choose the **Post** action.
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Finanční deník projektu** a pak vyberte související odkaz.  
+2. Vytvořte nový řádek a zadejte informace o výdajích, včetně informací v poli **Č. projektu** a pole **Č. činnosti projektu** .  
+3. Po dokončení deníku zvolte akci **Zaúčtovat**.
 
 
-## <a name="see-also"></a>See Also
-[Manage Projects](projects-manage-projects.md)  
+## <a name="see-also"></a>Viz také
+[Správa projektů](projects-manage-projects.md)  
 [Finance](finance-setup.md)  
-[Manage Purchasing](purchasing-manage-purchasing.md)         
-[Manage Sales](sales-manage-sales.md)      
-[Work With Dynamics NAV](ui-work-product.md)  
+[Správa nákupu](purchasing-manage-purchasing.md)         
+[Spravovat prodej](sales-manage-sales.md)      
+[Pracujte s Dynamics NAV](ui-work-product.md)  
 

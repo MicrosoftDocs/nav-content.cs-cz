@@ -18,7 +18,7 @@ ms.lasthandoff: 06/26/2017
 # <a name="create-a-customer-vendor-or-bank-account-from-a-contact"></a>Vytvoření zákazníka, dodavatele nebo bankovního účtu z kontaktu
 Možná budete chtít zaznamenat některé vaše stávající kontakty jako zákazníky, dodavatele nebo bankovní účty. Vytvoření zákazníka, dodavatele nebo bankovního účtu z kontaktu umožňuje použít stávající data. Když vytvoříte zákazníka, dodavatele nebo bankovní účet tímto způsobem, synchronizuje se s kontaktem. Synchronizace vytváří stejné informace, které jsou společné mezi kontakty a zákazníky, dodavateli nebo bankovním účtem.
 
-Než budete moci zaznamenat kontaktní společnosti tímto způsobem, musíte zadat kód obchodních vztahů pro zákazníky, dodavatele a bankovní účty v okně **Nastavení marketingu**. Pokud budete zaznamenávat kontakty jako bankovní účty, musíte také zadat řadu čísel pro bankovní účty v okně **Nastavení hlavní knihy**.
+Než budete moci zaznamenat kontaktní společnosti tímto způsobem, musíte zadat kód obchodních vztahů pro zákazníky, dodavatele a bankovní účty v okně **Nastavení marketingu**. Pokud budete zaznamenávat kontakty jako bankovní účty, musíte také zadat řadu čísel pro bankovní účty v okně **Nastavení financí**.
 
 ## <a name="to-create-a-contact-as-a-customer-vendor-or-bank-account"></a>Vytvoření kontaktu jako zákazníka, dodavatele nebo bankovní účet
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Kontakty** a zvolte související odkaz.
@@ -29,7 +29,7 @@ Než budete moci zaznamenat kontaktní společnosti tímto způsobem, musíte za
 Kontaktní informace jsou přeneseny z karty **Kontakt** na kartu **Bankovní účet**, kartu **Zákazník** nebo na kartu **Dodavatel**. Možná budete chtít přidat konkrétní informace ke každé kartě, například fakturační a platební údaje.
 
 ## <a name="see-also"></a>Viz také
-[Návod: Vytvoření kontaktních společností](marketing-create-contact-companies.md)  
+[Návod: Vytváření kontaktních společností](marketing-create-contact-companies.md)  
 [Návod: Vytvoření kontaktních osob](marketing-create-contact-persons.md)  
 [Nastavení marketingu a správy kontaktů](marketing-setup-marketing.md)  
 [Synchronizace kontaktů se zákazníky, dodavateli a bankovními účty](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)  

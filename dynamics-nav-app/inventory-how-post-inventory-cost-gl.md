@@ -1,5 +1,5 @@
 ---
-title: "Návod: Zaúčtování nákladů na zásoby do hlavní knihy"
+title: "Návod: Zaúčtování nákladů zásob do hlavní knihy."
 author: SorenGP
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,7 +16,7 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-post-inventory-costs-to-the-general-ledger"></a>Návod: Zaúčtování nákladů na zásoby do hlavní knihy   
+# <a name="how-to-post-inventory-costs-to-the-general-ledger"></a>Návod: Zaúčtování nákladů zásob do hlavní knihy.   
 Při zadávání transakcí zásob, jako jsou prodejní dodávky, nákupní faktury nebo úpravy zásob, změněné množství a náklady, jsou transakce zaznamenány v položkách zboží a položkách. Chcete-li odrážet tuto změnu hodnoty zásob ve vašich finančních knihách, musíte zaúčtovat náklady k souvisejícím účtům zásob v hlavní knize.
 
 Náklady na zásoby můžete vyúčtovat do hlavní knihy dvěma způsoby:
@@ -31,23 +31,23 @@ Náklady na zásoby můžete vyúčtovat do hlavní knihy dvěma způsoby:
 
 Pro každou transakci nákladů, kterou zaúčtujete, jsou příslušné hodnoty zaúčtovány do účtu nákladů, účtu úprav a účtu NNPZ v hlavní knize.
 
-Dokonce i když používáte automatické účtování nákladů, je třeba pravidelně provádět dávkovou úlohu Upravit náklady - Položky zboží, abyste zajistili, že náklady na zboží budou předány příslušným odchozím transakcím, jako jsou prodeje nebo přenosy. To je zvláště důležité v situacích, kdy prodáváte zboží před fakturováním nákupu tohoto zboží.
+Dokonce i když používáte automatické účtování nákladů, je třeba pravidelně provádět dávkovou úlohu Upravit náklady/ cenu zboží, abyste zajistili, že náklady na zboží budou předány příslušným odchozím transakcím, jako jsou prodeje nebo přenosy. To je zvláště důležité v situacích, kdy prodáváte zboží před fakturováním nákupu tohoto zboží.
 
 Pokud dojde k chybě v nastavení dimenze při odesílání nákladů na zásoby do hlavní knihy, účtování se ukončí s chybou.
 
 ## <a name="to-post-inventory-costs-manually"></a>Ruční zaúčtování nákladů na zásoby
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Zaúčtovat náklady na zásoby do financí** a zvolte související odkaz.
-2. Zaúčtujte náklady na zásoby do hlavní knihy ručně spuštěním dávkové úlohy. Při spuštění této dávkové úlohy se položky hlavní knihy vytvářejí na základě položek ocenění. Položky můžete zaúčtovat tak, budou shrnuty podle účtovací skupiny.
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Účtování nákladů na zboží** a zvolte související odkaz.
+2. Zaúčtujte náklady na zásoby do hlavní knihy ručně spuštěním dávkové úlohy. Při spuštění této dávkové úlohy se položky hlavní knihy vytvářejí na základě položek ocenění. Položky můžete zaúčtovat tak, aby byly shrnuty podle účtovací skupiny.
 
 **Poznámka**: Při spuštění této dávkové úlohy může dojít k chybám souvisejícím s chybějícím nastavením nebo nekompatibilním nastavením dimenzí. Pokud dávková úloha narazí na chyby v nastavení dimenze, přepíše tyto chyby a použije dimenzi položky ocenění. Pro jiné chyby dávkové úlohy přeskočí účtování položek ocenění a seskupí je na konec sestavy v části s názvem "Přeskočené položky". Chcete-li tyto položky zaúčtovat, musíte opravit chyby.
 
-Chcete-li zobrazit seznam chyb před spuštěním účtovací dávkové úlohy, můžete spustit **Zaúčtovat zásoby Náklady do financí - Test** sestava. V testovací sestavě jsou uvedeny všechny chyby, které se při testování vyskytly. Poté můžete chyby opravit a spustit dávkovou úlohu účtování nákladů na zásoby, aniž byste přeskočili jakékoli položky.
+Chcete-li zobrazit seznam chyb před spuštěním účtovací dávkové úlohy, můžete spustit sestavu **Účtování nákladů na zboží - Test**. V testovací sestavě jsou uvedeny všechny chyby, které se při testování vyskytly. Poté můžete chyby opravit a spustit dávkovou úlohu účtování nákladů na zásoby, aniž byste přeskočili jakékoli položky.
 
 Pokud byste chtěli jednoduše získat přehled o tom, jaké hodnoty by mohly být účtovány do hlavní knihy, aniž by se skutečně provádělo účtování, můžete spustit dávkovou úlohu Zaúčtovat náklady zásob do financí bez toho, abyste skutečně účtovali hodnoty do hlavní knihy. To provedete zrušením zaškrtnutí políčka Zaúčtovat pole na stránce požadavku. Tímto způsobem při spuštění dávkové úlohy sestava zobrazí hodnoty, které jsou připraveny k zaúčtování do hlavní knihy, ale nejsou zaúčtovány.
 
 ## <a name="see-also"></a>Viz také
-[Správa zásob](inventory-manage-inventory.md)    
-[Návod: Úprava ceny položek](inventory-how-adjust-item-costs.md)  
+[Správa skladů](inventory-manage-inventory.md)    
+[Návod: Upravení nákladů položky](inventory-how-adjust-item-costs.md)  
 [Správa prodeje](sales-manage-sales.md)  
 [Správa nákupu](purchasing-manage-purchasing.md)
 

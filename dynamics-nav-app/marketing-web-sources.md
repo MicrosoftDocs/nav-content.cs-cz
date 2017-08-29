@@ -1,5 +1,5 @@
 ---
-title: "Nastavit webové zdroje pro kontaktní společnosti"
+title: "Nastavení webových zdrojů pro kontaktní společnosti"
 author: edupont04
 ms.custom: na
 ms.date: 09/16/2016
@@ -15,26 +15,26 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 06/26/2017
 
 ---
-# <a name="set-up-web-sources-for-contact-companies"></a>Nastavit webové zdroje pro kontaktní společnosti
+# <a name="set-up-web-sources-for-contact-companies"></a>Nastavení webových zdrojů pro kontaktní společnosti
 Můžete použít webové zdroje se svými kontaktními společnostmi například k identifikaci vyhledávačů a webových stránek na internetu, které chcete použít k vyhledání informací o kontaktech. Při přiřazování webových zdrojů určíte vyhledávač a vyhledávací slovo, které aplikace použije k vyhledání požadovaných informací.
 
 Použití webových zdrojů v kontaktech je proces o dvou krocích. Nejprve definujete kód webových zdrojů. Pro každý webový zdroj stačí tento krok provést pouze jednou. Jakmile máte kód pro webové zdroje, můžete začít přiřazovat kód ke kontaktním osobám.
 
-## <a name="define-a-web-source-code"></a>Definujte kód webového zdroje
-1. V pravém horním rohu vyberte ikonu **Hledat stránku nebo sestavu**, zadejte **Webové zdroje**, a pak vyberte související odkaz.
-2. Zvolte akci **Nové**.
+## <a name="define-a-web-source-code"></a>Definování kódu webového zdroje
+1. V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Webové zdroje** a pak vyberte související odkaz.
+2. Zvolte akci **Nový**.
 3. Vyplňte pole **Kód** , **Popis** a **URL** .
 
-  Zadejte %1 v poli **URL** a vložte zástupný symbol pro hledané slovo do URL. Při spuštění webového zdroje z kontaktu je znak %1 nahrazen hledaným slovem, například názvem společnosti, kterou jste zadali do okna **Kontaktovat webové zdroje**.
+  Zadejte %1 v poli **URL** a vložte zástupný symbol pro hledané slovo do URL. Při spuštění webového zdroje z kontaktu je znak %1 nahrazen hledaným slovem, například názvem společnosti, kterou jste zadali do okna **Webové zdroje kontaktů**.
 
-Opakujte tyto kroky k nastavení tolik webových zdrojů, kolik chcete.
+Opakujte tyto kroky k nastavení tolika webových zdrojů, kolik chcete.
 
-## <a name="assign-web-sources-to-a-contact-company"></a>Přiřaďte webové zdroje ke kontaktní společnosti
+## <a name="assign-web-sources-to-a-contact-company"></a>Přiřazení webových zdrojů ke kontaktní společnosti
 Při přiřazování webových zdrojů určíte vyhledávač a hledané slovo, které aplikace použije k vyhledání požadovaných informací.
 
-1. Otevřít kontakt.
-2. Zvolte akci **Společnost** a poté akci **Webové zdroje**. Otevře se okno **Kontaktovat webové zdroje**.
-3. V poli **Kód webových zdrojů** vyberte průmyslové skupiny, které chcete přiřadit.
+1. Otevřete kontakt.
+2. Zvolte akci **Společnost** a poté akci **Webové zdroje**. Otevře se okno **Webové zdroje kontaktů**.
+3. V poli **Kód webových zdrojů** vyberte webový zdroj, který chcete přiřadit.
 4. Do pole **Hledané slovo** zadejte hledané slovo, které chcete použít k nalezení informací.
 
 Opakujte tyto kroky, abyste přiřadili tolik webových zdrojů, kolik chcete.
@@ -42,5 +42,5 @@ Opakujte tyto kroky, abyste přiřadili tolik webových zdrojů, kolik chcete.
 Můžete také stejným postupem přiřadit webové zdroje z okna **Seznam kontaktů**.
 
 ##<a name="see-also"></a>Viz také
-[Vytvořit kontaktní společnosti](marketing-create-contact-companies.md)
+[Vytváření kontaktních společností](marketing-create-contact-companies.md)
 

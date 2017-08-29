@@ -18,11 +18,11 @@ ms.lasthandoff: 06/26/2017
 
 #<a name="dimensions"></a>Dimenze
 Dimenze jsou data, která přidáváte do hodnot ke kategorizaci pro analýzu. Například můžete mít dimenze, které indikují, ze kterého projektu či oddělení položka pochází.
-Pak můžete použít dimenze namísto nastavení oddělených účtů hlavní knihy pro každé oddělení či projekt. To vám umožňuje mít bohaté informace analýzy v datech bez nutnosti použití komplikované účtové osnovy.
+Pak můžete použít dimenze namísto nastavení oddělených účtů hlavní knihy pro každé oddělení či projekt. To vám umožňuje mít bohaté informace pro analýzu v datech bez nutnosti použití komplikované účtové osnovy.
 Můžete specifikovat neomezený počet dimenzí s neomezeným počtem hodnot dimenzí.  
 
-Například nastavíte dimenzi zvanou *Oddělení* a použijete tuhle dimenzi a hodnotu dimenze, když účtujete prodejní doklady. Pak můžete získat business intelligence data, například které položky byly prodány kterým oddělením.
-Čím více dimenzí nastavíte a používáte, tím na detailnějších sestavách můžete založit vaše obchodní rozhodnutí. Například jednotlivá položka prodeje může zahrnout více informací o dimenzích, na jaký účet byla položka prodeje zaúčtována, kde byla položka prodána, kdo ji prodal, jaká typ zákazníka provedl nákup.  
+Například nastavíte dimenzi zvanou *Oddělení* a použijete tuto dimenzi a hodnotu dimenze, když účtujete prodejní doklady. Pak můžete získat data business intelligence, například které položky byly prodány kterým oddělením.
+Čím více dimenzí nastavíte a používáte, tím na detailnějších sestavách můžete založit Vaše obchodní rozhodnutí. Například jednotlivá položka prodeje může zahrnout více informací o dimenzích, na jaký účet byla položka prodeje zaúčtována, kde byla položka prodána, kdo ji prodal, jaká typ zákazníka provedl nákup.  
 
 ## <a name="using-dimensions"></a>Použití dimenzí
 V dokladu, jakým je prodejní objednávka, můžete přidat informace o dimenzi pro oba řádky jednotlivého dokladu a dokladu jako takového. Například v okně **Prodejní objednávka** můžete zadat hodnoty dimenze pro první dvě zkratky dimenzí přímo na dokumentu a můžete přidat další informace, pokud zvolíte tlačítko **Dimenze**.  

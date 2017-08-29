@@ -17,7 +17,7 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="set-up-your-dynamics-nav"></a>Nastavení Vašeho Dynamics NAV
-Dynamics NAV obsahuje standardní konfiguraci většiny obchodních procesů, ale konfiguraci můžete změnit tak, aby odpovídala potřebám vašeho podniku.
+Dynamics NAV obsahuje standardní konfiguraci většiny obchodních procesů, ale můžete konfiguraci změnit tak, aby odpovídala potřebám vašeho podniku.
 Na domovské stránce můžete získat přístup k pomocným průvodcům nastavení, které Vám pomohou nakonfigurovat určité scénáře. Pro více informací bežte na: [Vítejte v Dynamics NAV](across-get-started.md).  
 
 Následující tabulka popisuje postup úkolů s odkazy na témata, která je popisují.

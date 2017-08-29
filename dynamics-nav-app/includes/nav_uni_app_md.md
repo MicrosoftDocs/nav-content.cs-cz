@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV Universal App
+Microsoft Dynamics NAV Universální Aplikace

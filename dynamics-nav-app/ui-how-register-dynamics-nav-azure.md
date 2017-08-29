@@ -1,5 +1,5 @@
 ---
-title: "Návody: Registrace Dynamics NAV na portálu pro správu Azure"
+title: "Návod: Registrace Dynamics NAV na portálu pro správu Azure"
 author: edupont04
 manager: edupont
 ms.author: edupont
@@ -17,10 +17,10 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 07/19/2017
 
 ---
-# <a name="how-to-register-dynamics-nav-in-the-azure-management-portal"></a>Návody: Registrace Dynamics NAV na portálu pro správu Azure
-Pokud chcete používat služby založené na programu Microsoft Azure, musíte registrovat svůj Dynamics NAV na portálu pro správu Azure. Například rozšíření [Prognóza prodeje a inventáře ](ui-extensions-sales-forecast.md) vyžaduje zadání klíče API a URI API a další služby vyžadují obdobné informace. Takže kde najdete tyto informace?
+# <a name="how-to-register-dynamics-nav-in-the-azure-management-portal"></a>Návod: Registrace Dynamics NAV na portálu pro správu Azure
+Pokud chcete používat služby založené na programu Microsoft Azure, musíte registrovat svůj Dynamics NAV na portálu pro správu Azure. Například rozšíření [Prognóza prodeje a zásob](ui-extensions-sales-forecast.md) vyžaduje zadání klíče API a URI API a další služby vyžadují obdobné informace. Takže kde najdete tyto informace?
 
-Pro registraci Dynamics NAV v portálu pro správu můžete použít průvodce **Nastavení portálu pro správu Azure** a extrahovat informace, které potřebujete k používání služeb, jako například prodloužení Prognózy prodeje a inventáře, Power BI, Office 365 atd. Na portálu pro správu Azure se stačí registrovat pouze jednou, nicméně musíte být v Dynamics NAV buď správcem nebo superuživatelem.
+Pro registraci Dynamics NAV v portálu pro správu můžete použít průvodce **Nastavení portálu pro správu Azure** a extrahovat informace, které potřebujete k používání služeb, jako například prodloužení Prognózy prodeje a zásob, Power BI, Office 365 atd. Na portálu pro správu Azure se stačí registrovat pouze jednou, nicméně musíte být v Dynamics NAV buď správcem nebo superuživatelem.
 
 Bod registrace znamená, že služba Dynamics NAV a služba, kterou chcete připojit, musí o sobě znát podrobnosti Azure Active Directory (Azure AD).
 

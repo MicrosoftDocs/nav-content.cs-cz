@@ -1,5 +1,5 @@
 ---
-title: Apply Payments Automatically and Reconcile Bank Accounts
+title: "Použití automatických plateb a odsouhlasení bankovních účtů"
 author: SorenGP
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,27 +16,27 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="apply-payments-automatically-and-reconcile-bank-accounts"></a>Apply Payments Automatically and Reconcile Bank Accounts
-You must regularly reconcile your bank, receivables, and payables accounts in Dynamics NAV by applying payments recorded in the bank to their related unpaid invoices and credit memos or other open entries in Dynamics NAV.
+# <a name="apply-payments-automatically-and-reconcile-bank-accounts"></a>Použití automatických plateb a odsouhlasení bankovních účtů
+Musíte pravidelně sladit své účty s bankami, pohledávkami a závazky v Dynamics NAV uhrazením plateb zaznamenaných v bance na jejich souvisejících nezaplacených fakturách a dobropisech nebo jiných otevřených položkách v Dynamics NAV.
 
-You can perform this task in the **Payment Reconciliation Journal** window by importing a bank statement file or feed to quickly register the payments in Dynamics NAV. An automatic application function applies the payments to their related open customer or vendor ledger entries based on data matches between payment text and entry information. You can review and change automatic applications before you post the journal. You can choose to close any open bank account ledger entries related to the applied ledger entries when you post the journal. This means that the bank account is automatically reconciled when all payments are applied.
+Tuto úlohu můžete provést v okně **Deník odsouhlasení plateb** importováním souboru  bankovního výpisu, abyste mohli rychle zapsat platby v Dynamics NAV. Funkce automatických aplikací uplatňuje platby k jejich souvisejícím otevřeným položkám  zákazníka nebo dodavatele založených na datových shodách mezi textem platby a zadaných informací. Před zaúčtováním deníku můžete zkontrolovat a měnit automatické aplikace. Při účtování deníku můžete uzavřít všechny otevřené položky bankovního účtu, které se vztahují k zaplaceným položkám. To znamená, že bankovní účet je automaticky odsouhlasen při zaplacení všech plateb.
 
-To enable import of bank statements as a bank feed, you must first set up and enable the Envestnet Yodlee Bank Feed service, and then link your bank accounts to the related online bank accounts. For more information, see [How to: Set Up the Envestnet Yodlee Bank Feeds Service](bank-how-setup-bank-statement-service.md).
+Chcete-li povolit import bankovních výpisů jako bankovního zdroj, musíte nejprve nastavit a aktivovat službu společnosti Envestnet Yodlee Bank Feed a poté propojit své bankovní účty se souvisejícími online bankovními účty. Pro další informace , viz [Návody: Nastavit Envestnet Yodlee Bankovní služby.](bank-how-setup-bank-statement-service.md)
 
-**Note**: The Envestnet Yodlee Bank Feeds service, or anther provider's bank feed service, may not be available in your system. Contact your Microsoft partner if you want to use a bank feed service to import bank statements.
+**Poznámka**: Služba Envestnet Yodlee Bank Feeds nebo jiná služba bankovního poskytovatele nemusí být ve vašem systému k dispozici. Obraťte se na svého partnera Microsoft, chcete-li pro import bankovních výpisů použít bankovní službu.
 
-Alternatively, you can use the bank data conversion service to have a bank statement file in any format converted to a data stream that you can import into Dynamics NAV. For more information, see [How to: Set Up the Bank Data Conversion Service](bank-how-setup-bank-data-conversion-service.md).
+Případně můžete použít službu převodu bankovních dat, abyste měli bankovní výpis v jakémkoli formátu převedený na datový proud, který můžete importovat do Dynamics NAV. Pro další informace , viz [Návody: Nastavení služby převodu bankovních dat](bank-how-setup-bank-data-conversion-service.md).
 
-The following table describes a sequence of tasks, with links to the topics that describe them.
+Následující tabulka popisuje sekvenci úkolů s odkazy na téma, která je popisují.
 
-|To |See |
+|Dále |Viz |
 |---|----|
-|Apply payments to open customer or vendor ledger entries by importing a bank statement, and reconcile the bank account when all payments are applied. | [How to: Reconcile Payments Using Automatic Application](receivables-how-reconcile-payments-auto-application.md) |
-|Manually apply payments by viewing detailed information about matched data and suggestions for candidate open entries to apply payments to. | [How to: Review or Apply Payments After Automatic Application](receivables-how-review-apply-payments-auto-application.md)
-|Resolve payments that cannot be applied automatically to their related open ledger entries, for example because the amounts differ or because a related ledger entry does not exist. | [How to: Reconcile Payments That Cannot be Applied Automatically](receivables-how-reconcile-payments-cannot-apply-auto.md)
-|Link text on payments to specific customer, vendor, or general ledger accounts to always post recurring cash receipts or expenses to those accounts when no documents exist to apply to.| [How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md)|
+|Uhradit platby k otevřeným položkám zákazníka nebo dodavatele importem bankovního výpisu a odsouhlasit bankovní účet při uhrazení všech plateb. | [Návod: Odsouhlasení plateb pomocí automatické aplikace.](receivables-how-reconcile-payments-auto-application.md) |
+|Ručně uhradit platby zobrazením podrobných informací o shodných datech a návrzích pro kandidátské otevřené položky, které mají platit. | [Návody: Přezkoumat nebo uhradit platby po automatické aplikaci](receivables-how-review-apply-payments-auto-application.md)
+|Vyřešíte platby, které nelze automaticky aplikovat na jejich související záznamy v otevřené knize, například proto, že se částky liší nebo protože související položka knihy neexistuje. | [Návod: Odsouhlasení plateb, které nelze uplatnit automaticky](receivables-how-reconcile-payments-cannot-apply-auto.md)
+|Odkazovat text na platbách na konkrétního zákazníka, dodavatele nebo účet hlavní knihy, aby vždy po zaúčtování opakovaných pokladních příjmů nebo výdajů na tyto účty, pokud neexistují žádné doklady, na které se vztahuje.| [Návod: Namapovat text na opakovaných platbách k účtům pro automatické odsouhlasení.](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md)|
 
-## <a name="see-also"></a>See Also
-[Manage Receivables](receivables-manage-receivables.md)  
-[Manage Sales](sales-manage-sales.md)
+## <a name="see-also"></a>Viz také
+[Spravovat pohledávky](receivables-manage-receivables.md)  
+[Spravovat prodej](sales-manage-sales.md)
 

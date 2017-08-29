@@ -48,7 +48,7 @@ Jednou za měsíc nebo vždy, když si zvolíte, můžete spustit dávkovou úlo
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Dlouhodobý majetek finančního deníku** a pak vyberte související odkaz.  
 2. Vytvořte počáteční řádek deníku a vyplňte pole podle potřeby.
 3. Do pole **Typ zaúčtování DM** vyberte **Odpis**.
-4. Zvolte možnost **Vložit protiúčet DM **. Druhý řádek deníku je vytvořen pro vyrovnávací účet, který je nastaven pro zaúčtování odpisů. Další informace naleznete v tématu "Nastavení skupin zaúčtování DM“[Návod: Nastavení informací o obecném dlouhodobém majetku](fa-how-setup-general.md).
+4. Zvolte** možnost Vložit protiúčet DM**. Druhý řádek deníku je vytvořen pro vyrovnávací účet, který je nastaven pro zaúčtování odpisů. Další informace naleznete v tématu "Nastavení skupin zaúčtování DM“[Návod: Nastavení informací o obecném dlouhodobém majetku](fa-how-setup-general.md).
 5. Na kartě **Domů** vyberte možnost **Účtovat** k zaúčtování deníku.
 
 Pokud jste nastavili přidělovací klíče DM pro přidělování částek různým oddělením nebo projektům, pak budou částky přiděleny během zaúčtování. Další informace naleznete v tématu [Návod: Nastavení informací o obecném dlouhodobém majetku](fa-how-setup-general.md).
@@ -59,7 +59,7 @@ Pokud je dlouhodobý majetek využíván několika odděleními, mohou být tyto
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Dlouhodobý majetek finančního deníku** a pak vyberte související odkaz.   
 Vytvořte počáteční řádek a vyplňte pole podle potřeby.
 3. Do pole **Typ zaúčtování DM** vyberte **Přidělení**.
-4. Zvolte možnost **Vložit protiúčet DM **. Druhý řádek deníku je vytvořen pro vyrovnávací účet, který je nastaven pro zaúčtování přidělení.
+4. Zvolte** **možnost **Vložit protiúčet DM**. Druhý řádek deníku je vytvořen pro vyrovnávací účet, který je nastaven pro zaúčtování přidělení.
 5. Na kartě **Domů** vyberte možnost **Účtovat** k zaúčtování deníku.
 
 ## <a name="use-duplication-lists-to-prepare-to-post-to-multiple-depreciation-books"></a>Použijte duplicitní seznamy, abyste se mohli připravit k zaúčtování více odpisových knih  

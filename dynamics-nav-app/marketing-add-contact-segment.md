@@ -16,10 +16,10 @@ ms.lasthandoff: 06/26/2017
 
 ---
 # <a name="how-to-add-contacts-to-segments"></a>Návod: Přidání kontaktů do segmentů
-Po vytvoření segmentu a zadání základních informací do něj můžete přidat kontakty. Můžete to provést vyplněním řádků v okně **Segment** ručně, ale je jednodušší a rychlejší použít akci **Přidat kontakty**.
+Po vytvoření segmentů a zadání základních informací do něj můžete přidat kontakty. Můžete to provést vyplněním řádků v okně **Segmenty** ručně, ale je jednodušší a rychlejší použít akci **Přidat kontakty**.
 
 ## <a name="to-add-a-contact-to-a-segment"></a>Přidání kontaktu do segmentu
-1. Na domovské stránce vyberte **Aktivní segmenty**. Nebo v pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Segment** a zvolte související odkaz.  
+1. Na domovské stránce vyberte **Aktivní segmenty**. Nebo v pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Segmenty** a zvolte související odkaz.  
 2. Vyberte segment a potom vyberte akci **Přidat kontakty**. Otevře se okno dávkové úlohy **Přidat kontakty**.
 3. V sekci **Kontakt** nastavte filtry pro zadání informací, podle kterých vyberete kontakty.
 

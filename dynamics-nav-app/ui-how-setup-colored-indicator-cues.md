@@ -1,5 +1,5 @@
 ---
-title: "Návod: Nastavení barevného indikátoru v hromádkách"
+title: "Návod: Nastavení barevného indikátoru hromádek"
 author: SusanneWindfeldPedersen
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,21 +16,21 @@ ms.lasthandoff: 07/19/2017
 
 ---
     
-# <a name="how-to-set-up-a-colored-indicator-on-cues"></a>Návod: Nastavení barevného indikátoru v hromádkách
+# <a name="how-to-set-up-a-colored-indicator-on-cues"></a>Návod: Nastavení barevného indikátoru hromádek
 Hromádky, které se zobrazí na **Domovské stránce**, můžete nastavit tak, aby obsahovaly indikátor, který změní barvu na základě hodnot dat v hromádkách. 
 
 Indikátor se objevuje jako barevný sloupec podél horního okraje dlaždice hromádky. Poskytuje vizuální signál o stavu činnosti hromádky, který může naznačovat příznivé nebo nepříznivé podmínky pro vyvolání akce. Pokud například hromádka zobrazuje otevřené prodejní faktury, můžete nastavit indikátor tak, aby vypadal zeleně (příznivý), když je celkový počet otevřených prodejních faktur nižší než 10, a aby vypadal červeně (nepříznivý), když je celkový počet vyšší než 20.
 
-V okně **Nastavení hromádek** můžete nastavit indikátory pro všechny hromádky, které jsou dostupné ve firemní databázi. 
+V okně **Nastavení hromádky** můžete nastavit indikátory pro všechny hromádky, které jsou dostupné ve firemní databázi. 
 
 Chcete-li nastavit indikátor, zadejte dvě mezní hodnoty, které definují tři rozsahy hodnot dat (nízké, střední a vysoké), ke kterým můžete použít jinou barvu (nebo styl).
 
-## <a name="to-set-up-colored-indicators-on-cues"></a>Nastavení barevných indikátorů v hromádkách
+## <a name="to-set-up-colored-indicators-on-cues"></a>Nastavení barevných indikátorů hromádek
 1. V sekci **Aktivity** na vaší **Domovské stránce** vyberte možnost **Nastavit hromádky**.  
 Zobrazí se okno **Nastavení hromádek**. Okno obsahuje seznam indikátorů, které jsou aktuálně v hromádkách nastaveny.
 2. Chcete-li změnit indikátor, upravte pole a modifikujte například, hodnoty pro různé mezní hodnoty.  
 
-V následující tabulce jsou uvedeny barvy, které odpovídají možnostem polí  **Styl nejnižšího rozsahu**, **Styl středního rozsahu** a **Styl nejvyššího rozsahu**.
+V následující tabulce jsou uvedeny barvy, které odpovídají možnostem polí  **Styl pro nízké hodnoty**, **Styl spro střední hodnoty** a **Styl pro vysoké hodnoty**.
 
 |Možnost|Barva|
 |------|-----|

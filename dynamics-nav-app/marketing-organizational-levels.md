@@ -34,9 +34,9 @@ Organizační úrovně můžete přiřadit pouze ke kontaktním osobám, nikoli 
 
 Po přidělení organizačních úrovní k vašim kontaktům můžete pomocí těchto informací vytvořit segmenty.
 
-Po přidělení pracovních odpovědností k vašim kontaktům můžete pomocí těchto informací vybrat kontakty pro vaše segmenty. Další informace naleznete v tématu [Návod: Přidání kontaktů do segmentů](marketing-add-contact-segment.md).
+Po přidělení pracovních odpovědností k vašim kontaktům můžete pomocí těchto informací vybrat kontakty pro vaše segmenty. Pro další informace viz [Návod: Přidání kontaktů do segmentů](marketing-add-contact-segment.md).
 
 ##<a name="see-also"></a>Viz také
-[Vytvoření kontaktních společností](marketing-create-contact-companies.md)  
+[Vytváření kontaktních společností](marketing-create-contact-companies.md)  
 [Vytvoření kontaktních osob](marketing-create-contact-persons.md)  
 

@@ -25,8 +25,8 @@ Můžete rozšířit standardní text pro položky přidáním dalších řádk�
 2. V poli **Kód** vložte kód a do pole **Popis** vložte požadovaný text.
 3. Zvolte **Rozšířené texty**.
 4. Vyplňte další řádky v okně **Rozšířené texty**.
-5. Vyplňte **Kód jazyka** nebo **Kódy všech jazyků** pokud používáte kódy jazyků. 
-6. Vyplňte pole **Počáteční datum** a **Koncové datum** pokud chcete nastavit limit pomocí data.
+5. Vyplňte **Kód jazyka** nebo **Kódy všech jazyků**, pokud používáte kódy jazyků. 
+6. Vyplňte pole **Počáteční datum** a **Koncové datum**, pokud chcete nastavit limit pomocí data.
 7. Zaškrtněte příslušná políčka pro typy dokumentů, ve kterých chcete vytisknout rozšířený text.
 8. Zavřete okno.
 

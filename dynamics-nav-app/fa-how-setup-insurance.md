@@ -17,36 +17,36 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="how-to-set-up-fixed-asset-insurance"></a>Návod: Nastavení pojištění dlouhodobého majetku
-Ke správě pokrytí pojištění dlouhodobého majetku musíte nejprve nastavit nějaké obecné informace o pojištění a kartě pojištění dle zásad.
+Ke správě pokrytí pojištění dlouhodobého majetku musíte nejprve nastavit obecné informace o pojištění a kartě pojištění dle určitých zásad.
 
 ## <a name="to-set-up-general-insurance-information"></a>Nastavení obecných informací o pojištění  
-K používání pojišťovacích funkcí v Dynamics NAV musíte nastavit nějaké obecné informace o pojištění.  
+K používání pojišťovacích funkcí v Dynamics NAV musíte nastavit obecné informace o pojištění.  
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zvolte **Nastavení DM**, a zvolte související odkaz.  
-2. Vyplňte pole podle potřeby. Vyberte pole k zobrazení krátkého popisu pole nebo odkaz pro více informací.  
+2. Vyplňte pole dle potřeby. Vyberte pole k zobrazení krátkého popisu pole nebo odkaz pro více informací.  
 
 ## <a name="to-set-up-insurance-types"></a>Nastavení typů pojištění  
 Můžete seskupit vaše zásady pojištění do kategorií, např. pojištění proti krádeži nebo pojištění proti požáru. Typy pojištění jsou používány na kartě pojištění.
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, vyberte **Typy pojištění** a zvolte související odkaz.  
-2. Vyplňte pole podle potřeby.
+2. Vyplňte pole dle potřeby.
 
 ## <a name="to-set-up-insurance-cards"></a>Nastavení karty pojištění  
 Na kartě pojištění můžete shromažďovat informace o každé pojišťovací zásadě.  
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zvolte **Pojištění** a zvolte související odkaz.  
-2. V okně **Pojištění** vyberte akci **Nové** na vytvoření nové pojišťovací karty.  
-3. Vyplňte pole podle potřeby.
+2. V okně **Pojištění** vyberte akci **Nový** na vytvoření nové pojišťovací karty.  
+3. Vyplňte pole dle potřeby.
 
 ## <a name="to-set-up-insurance-journal-templates"></a>Nastavení šablon deníku pojištění  
-Dynamics NAV automaticky vytvoří šablonu deníku pojištění při prvním otevření okna **Deník pojištění**, ale můžete nastavit i další šablony deníku pojištění. Pro další informace se podívejte na [Práce s finančními deníky](ui-work-general-journals.md).  
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zvolte **Šablony deníku pojištění**,a zvolte související odkaz.  
-2. Vyplňte pole podle potřeby.
+Dynamics NAV automaticky vytvoří šablonu deníku pojištění při prvním otevření okna **Deníky pojištění**, ale můžete nastavit i další šablony deníku pojištění. Pro další informace se podívejte na [Práce s finančními deníky](ui-work-general-journals.md).  
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zvolte **Šablony deníku pojištění** a zvolte související odkaz.  
+2. Vyplňte pole dle potřeby.
 
 ## <a name="to-set-up-insurance-journal-batches"></a>Nastavení dávky deníku pojištění  
 Můžete nastavit dávky v šabloně deníku pojištění. Hodnoty v dávce deníku jsou používány jako výchozí hodnoty, pokud pole není vyplněno na řádku deníku. Pro další informace se podívejte na [Práce s finančními deníky](ui-work-general-journals.md)  
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zvolte **Šablony deníku pojištění**,a zvolte související odkaz.  
-2. Vyberte šablonu deníku pojištění a pak vyberte akci **Dávky**.
-3. V okně **Dávky deníku pojištění** vyplňte pole podle potřeby.
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zvolte **Šablony deníku pojištění** a zvolte související odkaz.  
+2. Vyberte šablonu deníku pojištění a pak vyberte akci **Listy**.
+3. V okně **Listy deníku pojištění** vyplňte pole podle potřeby.
 
-**POZNÁMKA**: Čísla mají v názvech deníků zvláštní funkci. Pokud šablona nebo dávka deníku obsahuje číslo, číslo je automaticky inkrementováno o jedna pokaždé, když je deník účtován. Např. pokud HH1 je zvoleno v poli **Název**, název deníku se změní na HH2 potom, co deník HH1 byl zaúčtován.
+**POZNÁMKA**: Čísla mají v názvech deníků zvláštní funkci. Pokud šablona nebo list deníku obsahuje číslo, číslo je automaticky inkrementováno o jedna pokaždé, když je deník účtován. Např. pokud HH1 je zvoleno v poli **Název**, název deníku se změní na HH2 potom, co deník HH1 byl zaúčtován.
 
 ## <a name="see-also"></a>Viz také
 [Nastavení dlouhodobého majetku](fa-setup.md)  

@@ -22,7 +22,7 @@ Než vytvoříte kontakty a zaznamenáte podrobnosti o vašich obchodních vztaz
 
 Vytvořením těchto informací je vytváření kontaktů mnohem organizovanější a nalezení všech kontaktů založené na určité skupině bude efektivnější. Každá skupina ve vaší společnosti bude schopna najít informace, díky nimž bude komunikace s kontakty úspěšnější.
 
-Následující tabulka popisuje postup úloh s odkazy na témata, která je popisují. Tyto úlohy jsou uvedeny v pořadí, ve kterém se obvykle provádějí.
+Následující tabulka popisuje postup úkolů s odkazy na témata, která je popisují. Tyto úlohy jsou uvedeny v pořadí, ve kterém se obvykle provádějí.
 
 |Popis |Odkaz |
 |---|----|
@@ -31,7 +31,7 @@ Následující tabulka popisuje postup úloh s odkazy na témata, která je popi
 |Nastavte poštovní skupiny, které můžete použít k identifikaci skupin kontaktů tak, aby získali stejné informace.|[Nastavení poštovních skupin na kontaktní společnosti](marketing-mailing-groups.md)|
 |Nastavte pracovní odpovědnosti vašich kontaktních osob.|[Nastavení pracovních odpovědnosti ke kontaktům](marketing-job-responsibilities.md)|
 |Nastavte organizační úrovně, které chcete použít pro své kontaktní osoby.|[Nastavení organizační úrovně kontaktů](marketing-organizational-levels.md)|
-|Nastavte webové zdroje (vyhledávače a weby), které můžete použít při vyhledávání informací o vašich kontaktech na internetu.|[Nastavení webových zdrojů na kontakty](marketing-web-sources.md)|
+|Nastavte webové zdroje (vyhledávače a weby), které můžete použít při vyhledávání informací o vašich kontaktech na internetu.|[Nastavení webových zdrojů pro kontakty](marketing-web-sources.md)|
 
 ##<a name="see-also"></a>Viz také
 [Správa kontaktů](marketing-contacts.md)  

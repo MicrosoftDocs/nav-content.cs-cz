@@ -1,5 +1,5 @@
 ---
-title: 'How to: Collect Outstanding Balances'
+title: "Návod: Shromáždit zbývající zůstatky"
 author: SorenGP
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,16 +16,16 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-collect-outstanding-balances"></a>How to: Collect Outstanding Balances
-Managing receivables includes checking whether amounts due are paid on time. If customers have overdue payments, you can send the Customer Statement report as a reminder.
+# <a name="how-to-collect-outstanding-balances"></a>Návody: Shromáždit zbývající zůstatky
+Správa pohledávek zahrnuje kontrolu, zda jsou splatné částky uhrazeny včas. Pokud mají zákazníci platby po lhůtě splatnosti, můžete sestavu Výpis zákazníka odeslat jako připomenutí.
 
-**Note**: If you are using multiple currencies, the Customer Statement report is always printed in the customer's currency. The last date in a statement period is also used as the statement date and the aging date, if aging is included.
+**Poznámka**: Pokud používáte více měn, sestava Výkaz zákazníka je vždy vytištěna v měně zákazníka. Poslední datum ve výkazovém období se také používá jako datum výpisu a datum pásma splatnosti, pokud jsou pásma splatnosti zahrnuta.
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Customer Statement**, and then choose the related link.
-2. Fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
-3. Under **Output Options**, select how to send the report to the customer.
+1. V pravém horním rohu vyberte ikonu **Hledat stránku nebo sestavu**, zadejte **Výkaz zákazníka**, a vyberte související odkaz.
+2. Vyplňte pole podle potřeby. Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.
+3. Pod **Output Options** vyberte, jak odeslat sestavu zákazníkovi.
 
-## <a name="see-also"></a>See Also
-[Manage Receivables](receivables-manage-receivables.md)  
-[Manage Sales](sales-manage-sales.md)
+## <a name="see-also"></a>Viz také
+[Spravovat pohledávky](receivables-manage-receivables.md)  
+[Spravovat prodej](sales-manage-sales.md)
 

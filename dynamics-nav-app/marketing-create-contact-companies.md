@@ -1,5 +1,5 @@
 ---
-title: "Vytvoření kontaktních společností"
+title: "Vytváření kontaktních společností"
 author: jswymer
 ms.custom: na
 ms.date: 09/16/2016
@@ -15,18 +15,18 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 06/26/2017
 
 ---
-# <a name="create-contact-companies"></a>Vytvoření kontaktních společností
+# <a name="create-contact-companies"></a>Vytváření kontaktních společností
 Vaše společnost se pravidelně setkává s potenciálními společnostmi, které se obvykle vyvíjejí do budoucích obchodních vztahů. Při vytváření nového kontaktu je třeba tyto informace zaznamenat tak, aby mohla komunikace pokračovat.
 
 Přiřazením co nejvíce údajů o konkrétní společnosti zajistíte efektivní komunikaci. Například přiřazení příslušné průmyslové skupiny zajišťuje, že konkrétní společnosti budou zahrnuty do jakékoli relevantní komunikace.
 
 Můžete také definovat obchodní vztah, který máte s kontaktem. Například kontakt by mohl být potencionální zákazník, banka, nebo dodavatel.
 
-Následující tabulka popisuje sekvenci úloh s odkazy na témata, která je popisují. Tyto úlohy jsou uvedeny v pořadí, ve kterém se obvykle provádějí.
+Následující tabulka popisuje postup úkolů s odkazy na témata, která je popisují. Tyto úlohy jsou uvedeny v pořadí, ve kterém se obvykle provádějí.
 
 |Popis |Odkaz |
 |---|----|
-|Nastavte kontakt pro novou firmu, buď od začátku, nebo od zákazníka, dodavatele nebo bankovní účet.|[Návod: Vytvoření kontaktních společností](marketing-how-create-contact-companies.md)|
+|Založení kontaktu pro novou firmu, buď od začátku, nebo od zákazníka, dodavatele nebo bankovní účet.|[Návod: Vytváření kontaktních společností](marketing-how-create-contact-companies.md)|
 |Synchronizujte informace v kontaktech s běžnými informacemi v zákaznících, dodavatelích a bankovních účtech.|[Synchronizace kontaktů se zákazníky, dodavateli a bankovními účty](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)|
 |Popište obchodní vztah kontaktní společnosti.|[Nastavení obchodních vztahů ke kontaktním společnostem](marketing-business-relations.md)|
 |Umístěte kontaktní společnost do příslušné průmyslové skupiny, například do maloobchodu.|[Nastavení průmyslové skupiny na kontaktní společnosti](marketing-industry-groups.md)|

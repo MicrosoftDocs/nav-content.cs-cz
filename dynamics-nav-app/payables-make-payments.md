@@ -1,5 +1,5 @@
 ---
-title: Make Payments
+title: "Provést platby"
 author: SorenGP
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,25 +16,25 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="make-payments"></a>Make Payments
-When you make payments to vendors, you post the related payment lines in the **Payment Journal** window. You can use the **Suggest Vendor Payments** function to find payments that are due. You can also use the **Vendor - Summary Aging** report to get an overview of due payments.
+# <a name="make-payments"></a>Provést platby
+Když provádíte platby dodavatelům, zaúčtujete příslušné platební řádky v okně **Deník plateb** . Pomocí funkce **Navrhnout platby dodavatele** můžete najít platby, které jsou splatné. Můžete také použít sestavu **Dodavatel - souhrnné sledování splatnosti,** abyste získali přehled o splatných platbách.
 
-From the payment journal, you can print computer checks or record when checks are written. If you select **Computer Check** in the **Bank Payment Type** field, then any lines representing checks must be printed before the payment journal can be posted.
+Z deníku plateb můžete tisknout počítačové šeky nebo záznam kdy byl šek napsán. Pokud v poli **Typ platby banky** vyberete položku **Počítačový šek,** musí být vytištěny všechny řádky, které představují šeky, předtím, než může být zaúčtován deník plateb.
 
-When the payments are posted, you can export them to a bank file for upload to your bank for processing.
+Když jsou platby zaúčtovány, můžete je exportovat do bankovního souboru, který se má odeslat do vaší banky za účelem dalšího zpracování.
 
-After the payments are made at your bank, you must apply them to their related open vendor ledger entries. You can do this manually or by importing a bank statement file and applying the payments automatically. For more information, see, for example, [Apply Payments Automatically and Reconcile Bank Accounts](receivables-apply-payments-auto-reconcile-bank-accounts.md).
+Po provedení plateb ve vaší bance je musíte aplikovat na jejich související otevřené položky dodavatele. Můžete to provést ručně nebo importováním souboru výpisu z účtu a automatickým uplatněním plateb. Další informace naleznete například zde: [Použití plateb automaticky a Odsouhlasení bankovních účtů](receivables-apply-payments-auto-reconcile-bank-accounts.md).
 
-The following table describes a sequence of tasks, with links to the topics that describe them.
+Následující tabulka popisuje sekvekci úloh s odkazy na témata, které je popisují.
 
-|To |See |
+|Dále |Viz |
 |---|----|
-|Use a function to suggest vendor payments according to selected criteria, such as due date, discount eligibility, and your liquidity.|[How to: Suggest Vendor Payments](payables-how-suggest-vendor-payments.md)|
-|Issue checks for payments, either as print-outs or as computer checks. Void checks before or after posting.|[How to: Work With Checks](payables-how-work-checks.md)|
-|Export payments from the **Payment Journal** window to a bank file that you upload to your bank for processing.|[How to: Export Payments to a Bank File](payables-how-export-payments-bank-file.md)|
+|Pomocí funkce navrhnout platby dodavatele podle vybraných kritérií, jako je datum splatnosti, sleva a vaše likvidita.|[Návod: Navrhnout platby dodavatele](payables-how-suggest-vendor-payments.md)|
+|Vystavit šeky pro platby, buď jako výtisky, nebo jako počítačové šeky. Prázdné šeky před zaúčtováním nebo po něm.|[Návod: Práce s šeky](payables-how-work-checks.md)|
+|Exportovat platby z okna **Deník plateb** do bankovního souboru, který jste odeslali do vaší banky pro zpracování.|[Návod: Exportovat platby do bankovního souboru.](payables-how-export-payments-bank-file.md)|
 
-## <a name="see-also"></a>See Also
-[Manage Payables](payables-manage-payables.md)  
-[Manage Purchasing](purchasing-manage-purchasing.md)  
-[Manage Receivables](receivables-manage-receivables.md)
+## <a name="see-also"></a>Viz také
+[Spravovat závazky](payables-manage-payables.md)  
+[Správa nákupu](purchasing-manage-purchasing.md)  
+[Spravovat pohledávky](receivables-manage-receivables.md)
 

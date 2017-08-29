@@ -1,5 +1,5 @@
 ---
-title: 'How to: Invoice Jobs'
+title: "Návod: Faktury projektu"
 author: SorenGP
 ms.custom: na
 ms.date: 11/01/2016
@@ -16,64 +16,64 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-invoice-jobs"></a>How to: Invoice Jobs
-During the project, job costs from resource usage, materials, and job-related purchases can accumulate. As the job progresses, these transactions get posted to the job journal. It is important that all costs get recorded in the job journal before you invoice the customer.
+# <a name="how-to-invoice-jobs"></a>Návod: Faktury projektu
+Během projektu se mohou hromadit projektové náklady ze spotřeby zdrojů, materiálů a nákupů souvisejících s projektem. Jak probíhá projekt, tyto transakce se zaúčtují do deníku projektu. Je důležité, aby se všechny náklady zaznamenaly do deníku projektů dříve, než fakturace zákazníkovi.
 
-You can invoice the whole job from the **Job Task Lines** window or only invoice selected billable lines from the **Planning Lines** window. Invoicing can be done after the job is finished or at certain intervals during the job's progress based on an invoicing schedule.
+Můžete fakturovat celý projekt z okna **Řádky úlohy projektu** nebo pouze vyfakturovat vybrané fakturovatelné řádky z okna **Řádky plánování** . Fakturování lze provést po dokončení projektu nebo v určitých intervalech během průběhu projektu na základě fakturačního plánu.
 
-**Note**: If you select **Billable** in the **Job Line Type** field on the purchase documents for job-related purchases, then job planning lines that are ready to be invoiced to the customer are created. For more information, see [How to: Manage Project Supplies](projects-how-manage-project-supplies.md).
+**Poznámka**: Pokud zaškrtnete políčko **Fakturace** v poli **Typ řádku projektu** na nákupních dokladech pro nákupy související s projektem, vytvoří se řádky plánování projektu, které jsou připraveny k fakturování zákazníkovi. Pro další informace , viz [Návody: Správa projektových zásob](projects-how-manage-project-supplies.md) .
 
-## <a name="to-create-and-post-a-job-sales-invoice"></a>To create and post a job sales invoice  
-You can create an invoice for a job or for one or more job tasks for a customer when either the work to be invoiced is complete or the date for invoicing based on an invoicing schedule has been reached.
+## <a name="to-create-and-post-a-job-sales-invoice"></a>Vytvořit a zaúčtovat prodejní faktury projektu  
+Můžete vytvořit fakturu pro projekt nebo pro jednu nebo více činností projektu, pro zákazníka při dokončení práce nebo když bylo dosaženo data fakturace na základě fakturačního plánu.
 
-From the **Jobs** window, you can invoice a customer by selecting the job, and then choosing the **Create Job Sales Invoice** action. The following procedure shows how to use a batch job to invoice multiple jobs.  
+V okně **Projekty** můžete fakturovat zákazníkovi výběrem zakázky a poté zvolit akci **Vytvořit prodejní fakturu projektu** . Následující postup ukazuje, jak použít dávkovou úlohu k fakturování více projektů.  
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Job Create Sales Invoice**, and then choose the related link.  
-2. Fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
-3. Set filters if you want to limit the jobs that the batch job will process.
-3. Choose the **OK** button to create the invoices.  
+1. V pravém horním rohu vyberte ikonu **Hledat stránku nebo sestavu**, zadejte **Vytvořit prodejní fakturu projektu**, a pak vyberte související odkaz.  
+2. Vyplňte pole podle potřeby. Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.
+3. Nastavte filtry, pokud chcete omezit projekty, které bude zpracovávat dávková úloha.
+3. Zvolte tlačítko **OK** pro vytvoření faktur.  
 
-## <a name="to-create-multiple-job-sales-invoices-from-job-planning-lines"></a>To create multiple job sales invoices from job planning lines  
-You can create an invoice from a job planning lines, and indicate at that time the quantity of the item, resource, or general ledger account that you want to invoice.
+## <a name="to-create-multiple-job-sales-invoices-from-job-planning-lines"></a>Vytvořit více prodejních faktur projektu z řádků plánování projektu  
+Fakturu můžete vytvořit z řádků plánování projektu a v té době označit množství zboží, zdrojů nebo finanční účet, který chcete fakturovat.
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.
-2. Open a relevant job.
-3. Select a job task for which the **Job Task Type** field contains **Posting**, and then choose the **Job Planning Lines** action.  
-4. On a job planning line, in the **Qty. To Transfer to Invoice** field, enter the quantity of the item, resource, general ledger account type that you want to invoice.  
-5. Choose the **Create Sales Invoice** action.
-6. In the **Job Create Sales Invoice** window, enter the posting date and whether you want to create a new invoice or append this invoice to an existing one.
-7. Choose the **OK** button.
+1. V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu**, zadejte **Projekty** a zvolte související odkaz.
+2. Otevřít příslušný projekt.
+3. Vyberte činnost projektu, pro kterou pole **Typ činnosti projektu** obsahuje **Účtování** , a poté vyberte akci **Řádky plánování projektu** .  
+4. Na řádku plánování projektu v poli **Množství k transferu na fakturu** zadejte množství zboží, zdrojů nebo typ finančního účtu, které chcete fakturovat.  
+5. Zvolte akci **Vytvořit prodejní fakturu**
+6. V okně **Vytvořit prodejní fakturu projektu** zadejte zúčtovací datum a zda chcete vytvořit novou fakturu nebo připojit tuto fakturu k již existující faktuře.
+7. Zvolte tlačítko **OK**.
 
-    On the job planning line, in the **Qty. Transferred to Invoice** field, you can see the quantity.
+    Na řádku plánování projektu v poli **Množství přenesené na fakturu** můžete vidět množství.
 
-8. In the **Job Planning Lines** window, choose the **Sales Invoices/Credit Memos** action.
+8. V okně **Řádky plánování projektu** zvolte akci **Prodejní faktury/dobropisy** .
 
-    The **Sales Invoice** window opens, showing the quantity that you have transferred to the invoice.  
-9. Make any additional changes, and then choose the **Post** action.
+    Otevřete okno **Prodejní faktura** a zobrazte množství, které jste převedli na fakturu.  
+9. Proveďte další změny a poté vyberte akci **Zaúčtovat** .
 
-**Note**: The above procedure is similar for creating, reviewing, and posting a job-related sales credit memo.
+**Poznámka**: Výše uvedený postup je podobný při vytváření, kontrole a účtování s projektem souvisejících prodejních dobropisů.
 
-## <a name="to-calculate-and-post-job-completion-entries"></a>To calculate and post job completion entries  
-When you have completed all activities for a job, including usage posting and invoicing, you must update the job to have a **Status** of **Completed**. Then, you must reverse any WIP that has been posted to the general ledger.
+## <a name="to-calculate-and-post-job-completion-entries"></a>Vypočítat a zaúčtovat položky k dokončení projektu  
+Po dokončení všech činností pro daný projekt, včetně zaúčtování spotřeby a fakturace, je nutné aktualizovat projekt tak, aby měl **Stav** **Dokončeno** . Poté musíte vrátit všechny záznamy NV, které byly zaúčtovány v hlavní knize.
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.  
-2. Select an open job, and then choose the **Edit** action.
-3. In the **Status** field, select **Completed**.
-4. Follow the assistance steps to calculate and post WIP. Alternatively, follows steps 5 and 6 to do so manually.  
-5. Choose the **Calculate WIP** action.
-6. In the **Job Calculate WIP** window, fill in the fields as necessary.  
+1. V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu**, zadejte **Projekty** a zvolte související odkaz.  
+2. Vyberte otevřený projekt a poté zvolte akci **Upravit** .
+3. V poli **Stav** vyberte **Dokončeno**.
+4. Postupujte podle pokynů pro výpočet a účtování NV. Alternativně postupujte podle kroků 5 a 6 tak, abyste to provedli ručně.  
+5. Vyberte akci **Vypočítat NV**.
+6. V okně **Vypočítat NV projektu** vyplňte pole podle potřeby.  
 
-     The job WIP entries created by running the batch job will have the **Job Complete** check box selected to show that they are completion entries.  
+     Položky NV projektu vytvořené spuštěním dávkové úlohy budou mít zaškrtnuto políčko **Projekt dokončen** aby bylo jasné, že jsou dokončeny.  
 
-7. Choose the **Job Post WIP to G/L** action.
-8. In the **Job Post WIP to G/L** window, fill in the fields as necessary.  
+7. Vyberte akci **Zaúčtovat NV projektu do fin. den.**
+8. V okně **Zaúčtovat NV projektu do fin. den.** vyplňte pole podle potřeby.  
 
-     The job WIP general ledger entries created by running the batch job will have the **Job Complete** check box selected to show they are completion entries.
+     Položky hlav. knihy NV projektu, vytvořené spuštěním dávkové úlohy, budou mít zaškrtnuto políčko **Projekt dokončen,** aby bylo jasné, že jsou dokončeny.
 
-## <a name="see-also"></a>See Also
-[Manage Projects](projects-manage-projects.md)  
+## <a name="see-also"></a>Viz také
+[Správa projektů](projects-manage-projects.md)  
 [Finance](finance-setup.md)  
-[Manage Purchasing](purchasing-manage-purchasing.md)         
-[Manage Sales](sales-manage-sales.md)      
-[Work With Dynamics NAV](ui-work-product.md)  
+[Správa nákupu](purchasing-manage-purchasing.md)         
+[Spravovat prodej](sales-manage-sales.md)      
+[Pracujte s Dynamics NAV](ui-work-product.md)  
 

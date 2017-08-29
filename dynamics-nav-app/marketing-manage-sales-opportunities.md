@@ -20,9 +20,9 @@ Jakékoliv příchozí spojení může být považováno za prodejní příleži
 
 Než začnete využívat správu příležitostí, musíte nastavit prodejní cykly a fáze prodejního cyklu. Když vytváříte příležitosti, měli byste poskytnout informace o kontaktu, prodejci, prodejním cyklu a datech stejně jako o odhadech hodnoty prodeje příležitosti a odhadu šancí na úspěch.
 
-Následující tabulka popisuje sekvenci úloh s odkazy na témata, které je popisují. Tyto úlohy jsou uvedeny v pořadí, ve kterém se obvykle provádějí.
+Následující tabulka popisuje postup úkolů s odkazy na témata, která je popisují. Tyto úlohy jsou uvedeny v pořadí, ve kterém se obvykle provádějí.
 
-|Odkaz |Popis |
+|Popis |Odkaz |
 |---|-----|
 |Nastavte prodejní cykly, které obvykle používáte, a různé fáze v rámci každého prodejního cyklu příležitostí.|[Návod: Nastavení cyklů prodejních příležitostí a fází](marketing-how-setup-opportunity-sales-cycles-stages.md)|
 |Vytvořte příležitosti prodeje, které máte od kontaktů.|[Návod: Vytvoření příležitostí](marketing-how-create-opportunities.md)|

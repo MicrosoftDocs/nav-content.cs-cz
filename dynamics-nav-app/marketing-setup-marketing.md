@@ -18,7 +18,7 @@ ms.lasthandoff: 06/26/2017
 # <a name="set-up-marketing-and-contact-management"></a>Nastavení marketingu a správy kontaktů
 Než začnete pracovat s vašimi kontakty a marketingovými zájmy, existuje několik rozhodnutí a kroků, které byste měli podniknout, abyste nastavili, jak bude marketingová oblast spravovat určité aspekty vašich kontaktů. Můžete se například rozhodnout, zda chcete kartu kontaktu synchronizovat s kartou zákazníka, kartou dodavatele a kartou bankovního účtu, jak jsou definovány číselné řady nebo jaké by mělo být standardní oslovení při psaní vašim kontaktům.
 
-Správa kontaktů a zavedení strategie pro identifikaci, přilákání a udržení zákazníků pomůže optimalizovat vaše podnikání a zvýšit spokojenost zákazníků. Použití dobrého systému správy kontaktů vám také pomůže vytvořit a udržovat vztahy s vašimi zákazníky. Komunikace je klíčem k těmto vztahům. Být schopen přizpůsobit komunikaci s potenciálními a stávajícími zákazníky, dodavateli a obchodními partnery podle svých potřeb je pro podniky nezbytné, aby uspěly. Vytvoření strategie a definování toho, jak vaše společnost používá kontaktní informace, je primárním krokem. Tyto informace budou ve vaší firmě budou zobrazeny mnoha různými skupinami, a tak dobrý systém pomůže všem být produktivnější.
+Správa kontaktů a zavedení strategie pro identifikaci, přilákání a udržení zákazníků pomůže optimalizovat vaše podnikání a zvýšit spokojenost zákazníků. Použití dobrého systému správy kontaktů vám také pomůže vytvořit a udržovat vztahy s vašimi zákazníky. Komunikace je klíčem k těmto vztahům. Být schopen přizpůsobit komunikaci s potenciálními a stávajícími zákazníky, dodavateli a obchodními partnery podle svých potřeb je pro podniky nezbytné, aby uspěly. Vytvoření strategie a definování toho, jak vaše společnost používá kontaktní informace, je primárním krokem. Tyto informace budou ve vaší firmě zobrazeny mnoha různými skupinami, a tak dobrý systém pomůže všem být produktivnější.
 
 Nastavíte marketing a správu kontaktů z okna **Nastavení marketingu**. K otevření okna **Nastavení marketingu**, v pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Nastavení marketingu** a zvolte související odkaz.
 
@@ -27,7 +27,7 @@ Některé informace o kontaktních společnostech jsou shodné s informacemi o k
 
 Pokud změníte jedno z těchto polí na kartě kontaktu společnosti, program automaticky upraví pole na kartě kontaktní osoby (pokud nemáte ručně upravená pole na kartě kontaktní osoby).
 
-Další informace naleznete v tématu [Návod: Vytvořit kontaktní osoby](marketing-how-create-contact-persons.md).
+Pro další informace viz [Návod: Vytvořit kontaktní osoby](marketing-how-create-contact-persons.md).
 
 ## <a name="use-predefined-defaults-on-new-contacts"></a>Použití předdefinované výchozí hodnoty pro nové kontakty
 Můžete se rozhodnout, že aplikace automaticky přidělí jako výchozí každému novému vytvořenému kontaktu určitý kód jazyka, kód země, kód prodejce a kód země/regionu. Můžete také zadat výchozí kód prodejního cyklu, který program automaticky přiřadí každé nové příležitosti, kterou vytvoříte.
@@ -46,8 +46,8 @@ Chcete-li synchronizovat kartu kontaktu s kartou zákazníka, kartou dodavatele 
 
 Další informace naleznete v tématu [Synchronizace kontaktů se zákazníky, dodavateli a bankovními účty](marketing-synchronize-contacts-customers-vendors-bank-accounts.md).
 
-## <a name="assign-a-number-series-to-contacts-and-opportunities"></a>Přiřazení řady čísel ke kontaktům a příležitostem
-Můžete nastavit řadu čísel pro kontakty a příležitosti. Pokud jste vytvořili řadu čísel pro kontakty při vytváření kontaktu, tak stiskněte klávesu Enter v poli číslo na kartě kontaktu, program automaticky zadá další dostupné kontaktní číslo.
+## <a name="assign-a-number-series-to-contacts-and-opportunities"></a>Přiřazení číselné řady ke kontaktům a příležitostem
+Můžete nastavit číselnou řadu pro kontakty a příležitosti. Pokud jste vytvořili číselnou řadu pro kontakty při vytváření kontaktu, tak stiskněte klávesu Enter v poli číslo na kartě kontaktu, program automaticky zadá další dostupné kontaktní číslo.
 
 Pro další informace o řadách čísel se podívejte na [Vytvoření číselné řady](ui-create-number-series.md).
 
@@ -55,7 +55,7 @@ Pro další informace o řadách čísel se podívejte na [Vytvoření číseln�
 Můžete si vybrat, zda program automaticky vyhledá duplikáty při každém vytvoření kontaktní společnosti, nebo si můžete zvolit ruční vyhledávání po vytvoření kontaktů. Můžete také nastavit, aby program aktualizoval vyhledávací řetězce automaticky při každém úpravě kontaktních informací nebo vytvoření kontaktů. Můžete určit procento úspěšnosti hledání, tedy procento stejných řetězců, které musí mít dva kontakty, aby je program považoval za duplikáty.
 
 ## <a name="set-up-email-logging"></a>Nastavení protokolování e-mailu
-Můžete si vyměňovat e-mailové zprávy se svými kontakty, zákazníky, prodejci atd. Můžete posílat a přijímat své e-mailové zprávy buď z aplikace, nebo z aplikace Outlook. Předtím, než si budete moci vyměňovat zprávy tímto způsobem, ukládat systém a ukládat je do fronty, musíte nastavit některé parametry, například časový interval, ve kterém program zkontroluje, zda se čeká na zpracování e-mailů, jméno profilu e-mailu atd.
+Můžete si vyměňovat e-mailové zprávy se svými kontakty, zákazníky, prodejci atd. Můžete posílat a přijímat své e-mailové zprávy buď z aplikace, nebo z aplikace Outlook. Předtím, než si budete moci vyměňovat zprávy tímto způsobem, systémové úložiště, musíte nastavit některé parametry, například časový interval, ve kterém program zkontroluje, zda se čeká na zpracování e-mailů, jméno profilu e-mailu atd.
 
 ## <a name="see-also"></a>Viz také
 [Správa kontaktů](marketing-contacts.md)  

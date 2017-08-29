@@ -25,7 +25,7 @@ Než vytvoříte interakce, musíte nastavit šablony interakcí. Další inform
 2. Zvolte akci **Vytvořit interakci** 
 3. Vyplňte pole a poté klepněte na tlačítko **OK**.
 
-**Poznámka**: Pokud potřebujete provést jinou úlohu před dokončením interakce, můžete vybrat možnost **Zrušit** a zvolit dokončení interakce později. To odkládá interakci.
+**Poznámka**: Pokud potřebujete provést jinou úlohu před dokončením interakce, můžete vybrat možnost **Storno** a zvolit dokončení interakce později. To odkládá interakci.
 
 ## <a name="to-finish-and-delete-postponed-interactions"></a>Dokončení a odstranění odložené interakce
 1. Otevřete kontakt, dodavatele nebo položku protokolu interakce.
@@ -40,7 +40,7 @@ Než vytvoříte interakce, musíte nastavit šablony interakcí. Další inform
 3. Chcete-li zaznamenávat segment a interakce, zvolte akci **Protokol**. Otevře se okno **Segment protokolu**.
 4. Chcete-li vytvořit nový segment se stejnými kontakty, zaškrtněte políčko **Vytvořit segment sledování**. Chcete-li vytvořit následný segment, musíte mít v okně **Nastavení marketingu** zadané číselné řady pro segmenty.
 
-Interakce je zaznamenána pro každý kontakt v rámci segmentu v tabulce **Položka protokolu interakce** a segment je protokolován. Protokolované segmenty lze nalézt v okně **Protokolovaný segment**.
+Interakce je zaznamenána pro každý kontakt v rámci segmentu v tabulce **Položka protokolu interakce** a segment je protokolován. Protokolované segmenty lze nalézt v okně **Protokolované segmenty**.
 
 Pokud jste zaškrtli políčko **Vytvořit segment sledování**, vytvoří se nový segment, který obsahuje stejné kontakty jako segment, který jste právě protokolovali.
 

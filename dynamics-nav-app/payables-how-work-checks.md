@@ -1,5 +1,5 @@
 ---
-title: "Návody: Pracovat se šeky"
+title: "Návod: Práce se šeky"
 author: SorenGP
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,16 +16,16 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-work-with-checks"></a>Návody: Pracovat se šeky
+# <a name="how-to-work-with-checks"></a>Návod: Práce se šeky
 Dynamics NAV podporuje elektronické a manuální vydávání šeků. Obě metody používají deník plateb k vystavení šeků dodavatelům. Můžete také anulovat šeky a zobrazit položky šeku.
 
-Proces vydávání šeků navrhuje platby, vytváří položky a tiskne počítačové šeky-
+Proces vydávání šeků navrhuje platby, vytváří položky a tiskne počítačové šeky.
 
-Tiskárna musí být správně nastavena pomocí šekových formulářů a musíte určit, které rozvržení šeku použijete. Pro další informace viz [Návody: Definovat rovržení šeku](finance-setup-how-define-check-layouts.md)
+Tiskárna musí být správně nastavena pomocí šekových formulářů a musíte určit, které rozvržení šeku použijete. Další informace naleznete v tématu: [Návod: Definování rozvržení šeku](finance-setup-how-define-check-layouts.md)
 
-## <a name="to-issue-checks"></a>Vydávat šeky
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Deník plateb** a pak vyberte související odkaz.
-2. Vyplňte deník příslušnými platbami, například pomocí funkce Navrhnout platby dodavateli. Pro další informace viz [Návody: Navrhnout platby dodavateli](payables-how-suggest-vendor-payments.md).
+## <a name="to-issue-checks"></a>Vydání šeků
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Deníky plateb** a pak vyberte související odkaz.
+2. Vyplňte deník příslušnými platbami, například pomocí funkce Navrhnout platby dodavateli. Další informace naleznete v tématu: [Návod: Návrh platby dodavatele](payables-how-suggest-vendor-payments.md).
 3. V poli **Typ bankovní platby** na řádcích deníku pro platbu, kterou chcete provést pomocí šeků, vyberte jednu z následujících možností:
 
  - **Počítačový šek**: Tuto volbu vyberte, pokud chcete vytisknout šek částky na řádku deníku plateb. Musíte vytisknout kontroly před tím, než budete moci zaúčtovat řádky žurnálu. Můžete zvolit pouze možnost **Počítačový šek**, pokud je nastavena hodnota **Protiúčet Typ účtu** nebo **Typ účtu** je **Bankovní účet**.
@@ -39,20 +39,20 @@ Tiskárna musí být správně nastavena pomocí šekových formulářů a musí
 
 **Poznámka**: Chcete-li vytisknout šeky z více bankovních účtů ve více než jedné měně, musíte pro každou měnu spustit dávkovou úlohu **Tisk šeku** samostatně a určit příslušný bankovní účet.
 
-## <a name="to-cancel-printed-checks-that-are-not-posted"></a>Zrušit vytištěné šeky, které nejsou zaúčtovány
-Po vytištění můžete zrušit nezaúčtované šeky pomocí akce **Anulovat šek** v okně **Deník plateb**.
-1. V okně **Deník plateb** vyberte možnost **Anulovat šek** a poté vyberte, které šeky chcete zrušit.
+## <a name="to-cancel-printed-checks-that-are-not-posted"></a>Zrušení vytištěných šeků, které nejsou zaúčtovány
+Po vytištění můžete zrušit nezaúčtované šeky pomocí akce **Zrušit šek** v okně **Deník plateb**.
+1. V okně **Deníky plateb** vyberte možnost **Zrušit šek** a poté vyberte, které šeky chcete zrušit.
 
-## <a name="to-void-checks"></a>Anulovat šeky
+## <a name="to-void-checks"></a>Anulování šeků
 Když byla zaúčtována šeková platba, můžete zrušit (anulovat) šeky pouze z výsledných položek bank.
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Bankovní účty** a pak vyberte související odkaz.
-2. Zvolte příslušný bankovní účet, vyberte akci **Upravit** a poté vyberte akci **Položky šeků**.
-3. V okně **Šek hlavní kniha** vyberte akci **Anulovat**.
-4. Vyberte zaškrtávací políčko **Anulovat kontrolu pouze**.
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Banky** a pak vyberte související odkaz.
+2. Zvolte příslušný bankovní účet, vyberte akci **Úpravy** a poté vyberte akci **Položky šeků**.
+3. V okně **Položky šeků** vyberte akci **Zrušit šek**.
+4. Vyberte zaškrtávací políčko **Pouze zrušit šeky**.
 5. Zvolte tlačítko **OK**.
 
 ## <a name="see-also"></a>Viz také
-[Spravovat závazky](payables-manage-payables.md)  
-[Nastavení bankovnictví](bank-setup-banking.md)  
+[Správa závazků](payables-manage-payables.md)  
+[Nastavit bankovnictví](bank-setup-banking.md)  
 

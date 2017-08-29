@@ -17,7 +17,7 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="how-to-make-predictive-cash-flow-forecasts"></a>Návod: Předvídání prognózy cashflow
-Předpovědi cashflow pomáhají zajistit, aby vaše firma měla dostatek hotovosti na finanční povinnosti a užitečné identifikační úpravy. Například pokud máte přebytek hotovosti, můžete splatit nějaké dluhy a oceníte brzké varování, když bude zbývat málo času. 
+Předpovědi cashflow pomáhají zajistit, aby Vaše firma měla dostatek hotovosti na finanční povinnosti a užitečné identifikační úpravy. Například pokud máte přebytek hotovosti, můžete splatit nějaké dluhy a oceníte brzké varování, když bude zbývat málo času. 
 
 Cortana Intelligence používá službu Azure Machine Learning k zabezpečení spolehlivé předpovědi. Například předpověď z Cortana Intelligence může pomoci předpovědět a vyhnout se nedostatku hotovosti. Služba kombinuje historické informace s aktuálním zaúčtováním závazků a pohledávek včetně zaúčtování s nadcházejícími termíny splnění. Ty zahrnují:
 * Nákupní objednávky
@@ -28,9 +28,9 @@ Cortana Intelligence používá službu Azure Machine Learning k zabezpečení s
 ## <a name="before-you-start"></a>Než začnete  
 Je pár věcí ke splnění než budete moci použít Cortana Intelligence pro prognózu cashflow. 
 * Pokud ještě nepoužíváte prognózu cashflow, budete muset nastavit:
-    * Ještě jedno nastavení v **Nastavení cashflow**. 
+    * Jedno nastavení v **Nastavení cashflow**. 
     * Účty pro závazky, pohledávky, prodejní objednávky a nákupní objednávky. Cortana Intelligence používá v těchto účtech zaúčtování.
-    * Jeden nebo více prognóz cashflow v **Prognóza cashflow**. Ujistěte se, že zahrnujete nákupní objednávky, prodejní objednávky, pohledávky a závazky jako zdroje.  
+    * Jedna nebo více prognóz cashflow v **Prognóza cashflow**. Ujistěte se, že zahrnujete nákupní objednávky, prodejní objednávky, pohledávky a závazky jako zdroje.  
     Pro další informace hledejte _Prognóza cashflow_ v systému Nápovědy. 
 * Je potřeba znát API URL a klíč rozhraní API pro webovou službu předpovědi pro použití.  
     Můžete použít Azure Machine Learning nebo jinou službu. Alternantivně veřejný model pojmenovaný _Model prognózování pro Microsoft Dynamics NAV_ Pro použití modelu postupujte následově:
@@ -39,15 +39,15 @@ Je pár věcí ke splnění než budete moci použít Cortana Intelligence pro p
     2. Hledejte _Model prognózování pro Microsoft Dynamics NAV_ a pak otevřete model v Azure Machine Learning Studio.
     3. Použijte svůj Microsoft účet k přihlášení do pracovní prostoru a pak model zkopírujte.
     4. Spusťte model a publikujte.
-    5. Zapsat poznámku o API URL a klíči rozhraní API. Použijete tyto přihlašovací údaje, když nastavíte Cortana Intelligence v Microsoft Dynamics NAV.  
+    5. Zapište poznámku o API URL a klíči rozhraní API. Použijete tyto přihlašovací údaje, když nastavíte Cortana Intelligence v Microsoft Dynamics NAV.  
 
 * Zvažte, jak často počítat prognózu. Služba Azure Machine Learning má limity dle použití. Například pokud máte hodně zboží, bude lepší počítat méně často. 
-* Buďte přiřazený k Centru rolí účetního. 
+* Přiřaďte si roli účetního v centru rolí. 
 
 ## <a name="set-up-cortana-intelligence"></a>Nastavení Cortana Intelligence
-Můžete použít asistovaného průvodce instalace k nastavení prognózy cashflow. Průvodce pomáhá určit věci, např. jak často aktualizovat prognózu, účty, na kterých to založit, informace, kdy platit daně, a zda požít Cortana Intelligence.  
+Můžete použít asistovaného průvodce instalace k nastavení prognózy cashflow. Průvodce pomáhá určit věci, např. jak často aktualizovat prognózu, účty, na kterých je to založeno, informace, kdy platit daně a zda požít Cortana Intelligence.  
 
-Pokud již prognózu cashflow využíváte a jen chcete zapnout Cortana Intelligence, můžete také využít manuální proces. Jakmile se přihlásíte, zobrazí se notifikace v modrém pruhu nahoře pracovního prostoru. K nastavení Cortana Intelligence rovnou, vyberte **Ano, prosím**. Zpráva se zobrazí pouze jednou. Pokud to zavřete, použijte mauální proces k nastavení Cortana Intelligence.  
+Pokud již prognózu cashflow využíváte a jen chcete zapnout Cortana Intelligence, můžete také využít manuální proces. Jakmile se přihlásíte, zobrazí se notifikace v modrém pruhu nahoře v pracovní ploše. K přímému nastavení Cortana Intelligence, vyberte **Ano, prosím**. Zpráva se zobrazí pouze jednou. Pokud to zavřete, použijte mauální proces k nastavení Cortana Intelligence.  
 
 **Tip:** Zvažte délku období, které bude služba využívat ve výpočtech. Čím více dat poskytnete, tím přesnější prognózy budou. Také dejte pozor na velké odchylky v období. Také ovlivní předpovědi. Pokud Cortana Intelligence nenajde dostatek dat, nebo se budou data hodně lišit, služba nevytvoří předpověď. 
 
@@ -68,10 +68,10 @@ Použít manuální proces:
 ## <a name="investigate-a-cash-flow-forecast"></a>Zjištění prognózy cashflow
 Chcete-li se dobře podívat na data za prognózou včetně odchylky, vyberte sloupec **Cortana Intelligence**. První řádek v tabulce zobrazuje odchylku. Ostatní řádky jsou uspořádány podle zdrojového dokumentu.  
 
-Například můžete vidět, jak si předpověď:    
-* Poradí s potvrzenými prodeji a nákupy. 
-* Odečítá závazky a přičítá pohledávky.
-* Přeskakuje duplikované prodejní a nákupní objednávky.
+Například můžete vidět tuto předpověď:    
+* Manipulace s potvrzenými prodeji a nákupy. 
+* Odečítání závazek a přičítání pohledávek.
+* Přeskakování duplikovaných prodejních a nákupních objednávek.
 
 ## <a name="see-also"></a>Viz také  
 [Práce s Dynamics NAV](ui-work-product.md)

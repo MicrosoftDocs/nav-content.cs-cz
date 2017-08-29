@@ -25,14 +25,14 @@ Z účtové osnovy můžete otevřít každý finanční účet a přidat nebo z
 
 **Poznámka**: Můžete smazat účet hlavní knihy. Avšak než jej smažete, musí platit následující:  
 - Zůstatek na účtu musí být nula.  
-- Pole **Povolit smazání finančního účtu před** musí být nastaveno v okně **Nastavení hlavní knihy** a účet nesmí mít položky toho data či po něm.  
-- Pokud pole **Kontrolovat použití fin. Účtu** v okně **Nastavení hlavní knihy** je vybráno, pak účet nesmí být využíván v žádné z účtovacích skupin nebo účtovacího nastavení.  
+- Pole **Povolit odstranění finančního účtu před** musí být nastaveno v okně **Nastavení financí** a účet nesmí mít položky toho data či po něm.  
+- Pokud pole **Kontrolovat použití fin. účtu** v okně **Nastavení financí** je vybráno, pak účet nesmí být využíván v žádné z účtovacích skupin nebo účtovacího nastavení.  
 
-Dynamics NAV bude předcházet tomu, abyste si vymazali účet hlavní knihy, který ukládá potřebné v účtové osnově.  
+Dynamics NAV bude předcházet tomu, abyste si vymazali účet hlavní knihy, který ukládá potřebné data v účtové osnově.  
 
 ##<a name="see-also"></a>Viz také  
-[Hlavní kniha a Účtová osnova](finance-setup-general-ledger.md)  
-[Správa bankovních účtů](bank-manage-bank-accounts.md)  
+[Hlavní kniha a Účetní osnova](finance-setup-general-ledger.md)  
+[Spravovat bankovní účty.](bank-manage-bank-accounts.md)  
 [Dimenze](finance-setup-dimensions.md)  
 [Návod: Práce s GIFI kódy v Kanadě](ca-finance-setup-work-GiFI-codes.md)
 

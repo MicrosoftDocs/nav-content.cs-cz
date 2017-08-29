@@ -1,5 +1,5 @@
 ---
-title: "Návod Nastavení cyklů prodejních příležitostí a fází prodejních cyklů"
+title: "Návod: Nastavení cyklů prodejních příležitostí a fází prodejních cyklů"
 author: jswymer
 ms.custom: na
 ms.date: 09/16/2016
@@ -24,16 +24,16 @@ Implementace příležitostných prodejních cyklů zahrnuje nastavení kódu pr
 1. V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Prodejní cykly** a pak vyberte související odkaz. Otevře se okno **Prodejní cykly** a zobrazí seznam všech stávajících prodejních cyklů.
 2. Vyberte akci **Nový** a vyplňte pole.
 
-Opakujte tyto kroky k nastavení tolik prodejních cyklů, kolik potřebujete. Po nastavení příležitostných prodejních cyklů můžete nastavit různé fáze v rámci každého cyklu.
+Opakujte tyto kroky k nastavení prodejních cyklů tolikrát, kolik jich budete potřebovat. Po nastavení příležitostných prodejních cyklů můžete nastavit různé fáze v rámci každého cyklu.
 
 ## <a name="to-define-opportunity-sales-cycle-stages"></a>Definování fáze příležitostných prodejních cyklů
 1. V okně **Prodejní cykly** vyberte příležitostný prodejní cyklus, pro který chcete nastavit fáze, a poté zvolte akci **Fáze**. Zobrazí se okno **Fáze prodejních cyklů**.
-2. Zvolte akci **Nové**, chcete-li zadat novou fázi v prodejním cyklu.
+2. Zvolte akci **Nový**, chcete-li zadat novou fázi v prodejním cyklu.
 
 Opakujte tyto kroky, abyste nastavili tolik fází, kolik v rámci prodejního cyklu chcete.
 
 ## <a name="to-assign-stage-cycle-to-an-opportunity"></a>Přiřazení fáze cyklu k příležitosti
-Po přidání  příležitostného prodejního cyklu můžete začít přidávat prodejní příležitosti a přiřadit cyklus fáze k příležitostem nastavením pole **Kód prodejního cyklu**. Další informace naleznete v tématu [Návod: Vytvoření prodejních příležitostí](marketing-how-create-opportunities.md).
+Po přidání  příležitostného prodejního cyklu můžete začít přidávat prodejní příležitosti a přiřadit cyklus fáze k příležitostem nastavením pole **Kód prodejního cyklu**. Pro další informace viz [Návod: Vytvoření prodejních příležitostí](marketing-how-create-opportunities.md).
 
 ##<a name="see-also"></a>Viz také  
 [Zpracování prodejních příležitostí](marketing-processing-sales-opportunities.md)  

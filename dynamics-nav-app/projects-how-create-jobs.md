@@ -1,5 +1,5 @@
 ---
-title: 'How to: Create Jobs'
+title: "Návod: Vytvořit projekt"
 author: SorenGP
 ms.custom: na
 ms.date: 11/01/2016
@@ -16,59 +16,59 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-create-jobs"></a>How to: Create Jobs
-When you start a new project, you must create a job card with integrated job tasks and job planning lines, structured in two layers.  
+# <a name="how-to-create-jobs"></a>Návod: Vytvořit projekt
+Když spustíte nový projekt, musíte vytvořit kartu projektu s integrovanými činnostmi a plánovacími řádky projektu, které jsou strukturované ve dvou vrstvách.  
 
-The first layer consists of job tasks. You must create at least one job task per job because all posting refers to a job task. Having at least one job task in your job enables you to set up job planning lines and to post consumption to the job.
+První vrstva se skládá z pracovních činností. Musíte vytvořit alespoň jednu činnost na projektu, protože veškeré účtování se týká činnosti projektu. Pokud máte alespoň jednu projektovou činnost, můžete nastavit řádky plánování projektu a účtovat spotřebu do projektu.
 
-The second layer consists of job planning lines, which specify the detailed use of resources, items and various general ledger expenses.
+Druhá vrstva se skládá z řádků plánování projektu, které specifikují podrobné využití zdrojů, zboží a různých výdajů hlavní knihy.
 
-The layer structure enables you to divide the job into smaller tasks, and therefore use more specific details in budgeting, quotes, and registration. In addition, it gives you insight into how a job is progressing. For example, you can track whether you are meeting designated milestones or if you are on target to meet budget expectations.
+Struktura vrstev umožňuje rozdělit projekt na menší úlohy, a proto použijte podrobnější informace v rozpočtování, nabídkách a registraci. Kromě toho vám poskytuje přehled o tom, jak projekt postupuje. Můžete například sledovat, zda jste v souladu s určenými milníky nebo zda jste v rozmezí tak, abyste splnili očekávání rozpočtu.
 
-**Note**: The **New Job** action on the **Project Manager** Role Center launches an assisted setup that guides you through the steps of creating a job with integrated tasks and planning lines. The following procedure describes how to perform the steps manually.
+**Poznámka**: Akce **Nový projekt** na **nástroji Project Manager** v Centru rolí spustí asistované nastavení, které vás provede kroky při vytváření projektu s integrovanými činnostmi a řádky plánování. Následující postup popisuje, jak provést kroky ručně.
 
-## <a name="to-create-a-job-card"></a>To create a job card
-You create a job card and then create job task lines and job planning lines for it.
+## <a name="to-create-a-job-card"></a>Vytvoření karty projektu
+Vytvořte kartu projektu a potom pro ni vytvořte pracovní řádky a řádky plánování projektu.
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.  
-2. Choose the **New** action, and then fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
-3. To specify the job with information on other jobs, choose the **Copy Job** action, fill in the fields as necessary, and then choose the **OK** button.
+1. V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu**, zadejte **Projekty** a zvolte související odkaz.  
+2. Vyberte akci **Nový** a poté vyplňte pole. Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.
+3. Chcete-li zadat projekt s informacemi z jiných projektů, zvolte akci **Kopírovat Projekt** , vyplňte pole podle potřeby a potom klepněte na tlačítko **OK** .
 
-**NOTE**: If you are using time sheets with your job, you must also designate a person responsible. This person can approve time sheets for the employee tasks associated with the job. For more information, see [How to: Set Up Timesheets](projects-how-setup-time-sheets.md).
+**POZNÁMKA**: Pokud používáte časové rozvrhy s vaší prací, musíte také určit odpovědnou osobu. Tato osoba může schvalovat časové rozvrhy pro úkoly zaměstnanců spojené s daným projektem. Pro další informace , viz [Návody: Nastavení časových rozvrhů](projects-how-setup-time-sheets.md).
 
-## <a name="to-create-tasks-for-a-job"></a>To create tasks for a job  
-A key part of creating a job is to specify the various tasks involved in the job. You do this by adding new lines on the **Tasks** FastTab in the **Job Card** window, one task per line. Every job must have at least one task.
+## <a name="to-create-tasks-for-a-job"></a>Vytvoření činností pro projekt  
+Klíčovou součástí tvorby projektu je specifikovat různé činnosti spojené s projektem. To lze provést přidáním nových řádků na záložce **Činnosti** v okně **Karta projektu,** jedna činnost na řádek. Každý projekt musí mít alespoň jeden úkol.
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.
-2. Open the job card for a relevant job.
-3. On the **Tasks** FastTab, fill in the fields as necessary on a new line.
-4. To indent tasks and create a hierarchy, Choose the **Tasks** action, the then choose **Indent Job Tasks** action.
-5. Repeat steps 3 and 4 for all the tasks that you need for the job.
-6. To specify the job tasks with information on other job tasks, choose the **Copy Job Tasks from** action, fill in the fields as necessary, and then choose the **OK** button.
+1. V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu**, zadejte **Projekty** a zvolte související odkaz.
+2. Otevřete kartu projektu pro příslušný projekt.
+3. Na záložce **Činnosti**, vyplňte pole podle potřeby na novém řádku.
+4. Chcete-li odsadit činosti a vytvořit hierarchii, zvolte akci **Činnosti** a pak zvolte akci **Odsazení činností** .
+5. Opakujte kroky 3 a 4 pro všechny činnosti, které potřebujete pro daný projekt.
+6. Chcete-li zadat činnosti projektu s informacemi o činnostech z jiných projektů, zvolte akci **Kopírovat činnosti projektu** , vyplňte pole podle potřeby a potom klepněte na tlačítko **OK** .
 
-## <a name="to-create-planning-lines-for-a-job"></a>To create planning lines for a job  
-You can refine your new job tasks on job planning lines. A planning line can be used to capture any information that you want to track for a job. You can use planning lines to add information such as what resources are required or to capture what items are needed to perform the job. For example, if you have a task to obtain customer approval of a job, you can associate that task with planning lines for items such as meeting with the customer and assigning a resource.  
+## <a name="to-create-planning-lines-for-a-job"></a>Pro vytvoření řádků plánování pro projekt  
+Nové činnosti projektu můžete upřesnit na řádcích plánování projektu. Řádek plánování můžete použít k zachycení všech informací, které chcete sledovat pro daný projekt. Pomocí řádků plánování můžete přidat informace, například o tom, jaké jsou potřeba zdroje, nebo zachytit, jaké zboží je potřeba k dokončení projektu. Například pokud máte úkol získat schválení zákazníka na projektu, můžete tento úkol spojit s řádky plánování pro položky, jako je například setkání se zákazníkem a přiřazení zdroje.  
 
-A job planning line can have one of the following types.  
+Řádek plánování projektu může mít jeden z následujících typů.  
 
-|Type|Description|
+|Typ|Popis|
 |----|-----------|
-|**Budget**|Provides estimated usage and costs for the job, typically in a time and materials type project. Planning lines of this type cannot be invoiced.|
-|**Billable**|Provides estimated invoicing to the customer, typically in a fixed price project.|
-|**Both Budget and Billable**|Provides budgeted usage equal to what you want to invoice.|  
+|**Rozpočet**|Poskytuje odhadovanou spotřebu a náklady na projekt, obvykle v typu čas a materiály projektu. Řádky plánování tohoto typu nelze fakturovat.|
+|**Fakturace**|Poskytuje odhadovanou fakturaci zákazníkovi, obvykle v projektu s pevnou cenou.|
+|**Oba typy Rozpočet a Fakturace**|Poskytuje rozpočtovou spotřebu stejně jako to, co chcete fakturovat.|  
 
-**Note**. As you enter information on job planning lines, cost information is automatically filled in. For example, the cost, price, and discount for resources and items are initially based on the information that is defined on the resource and item cards.
+**Poznámka**. Při zadávání informací na řádcích plánování projektu se automaticky vyplňují informace o nákladech. Například náklady, cena a sleva pro zdroje a zboží jsou zpočátku založeny na informacích, které jsou uvedeny na kartě zboží a zdrojů.
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.
-2. Open a relevant job card.
-3. Select a job task for which the **Job Task Type** field contains **Posting**, and then choose the **Job Planning Lines** action.  
-4. In the **Job Planning Lines** window, on a new line, fill in the fields as necessary.
-5. Repeat steps 3 and 4 for all planning lines that you need for the job task.
+1. V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu**, zadejte **Projekty** a zvolte související odkaz.
+2. Otevřete příslušnou kartu projektu.
+3. Vyberte činnost projektu, která v poli **Typ činnosti projektu** obsahuje položku **Účtování** , a poté vyberte akci **Řádky plánování projektu** .  
+4. V okně **Řádky plánování projektu** na novém řádku vyplňte pole podle potřeby.
+5. Opakujte kroky 3 a 4 pro všechny řádky plánování, které potřebujete pro činnost projektu.
 
-## <a name="see-also"></a>See Also
-[Manage Projects](projects-manage-projects.md)  
+## <a name="see-also"></a>Viz také
+[Správa projektů](projects-manage-projects.md)  
 [Finance](finance-setup.md)  
-[Manage Purchasing](purchasing-manage-purchasing.md)         
-[Manage Sales](sales-manage-sales.md)      
-[Work With Dynamics NAV](ui-work-product.md)  
+[Správa nákupu](purchasing-manage-purchasing.md)         
+[Spravovat prodej](sales-manage-sales.md)      
+[Pracujte s Dynamics NAV](ui-work-product.md)  
 

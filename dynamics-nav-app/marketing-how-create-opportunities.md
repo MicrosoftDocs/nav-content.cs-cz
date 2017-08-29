@@ -18,12 +18,12 @@ ms.lasthandoff: 06/26/2017
 # <a name="how-to-create-sales-opportunities"></a>Návod: Vytvoření prodejních příležitostí
 Můžete vytvářet příležitosti pro prodejní příležitosti, které máte ve svých kontaktech. Všechny příležitosti musí být přiřazeny prodejci nebo nákupčímu a musí mít kontakt.
 
-Příležitosti můžete vytvořit v okně **Seznam příležitostí**. Ale typicky vytvoříte příležitosti od konkrétního kontaktu nebo obchodníků.
+Příležitosti můžete vytvořit v okně **Přehled příležitostí**. Ale typicky vytvoříte příležitosti od konkrétního kontaktu nebo obchodníků.
 
 Než budete moci vytvářet příležitosti, musíte nastavit cykly prodejních příležitostí. Další informace naleznete v tématu [Návod: Nastavení cyklů prodejních příležitostí a fází](marketing-how-setup-opportunity-sales-cycles-stages.md).
 
 ## <a name="to-create-an-opportunity-from-a-salesperson"></a>Vytvoření příležitosti od prodejce
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Prodejci** a zvolte související odkaz.
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Prodejci/Nákupčí** a poté vyberte příslušný odkaz.
 2. Vyberte ze seznamu prodejce, pro kterého chcete vytvořit příležitost.
 3. Zvolte akci **Příležitosti** a poté zvolte **Seznam**.
 4. Zvolte **Nový** a vyplňte příslušná pole.  

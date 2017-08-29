@@ -23,11 +23,11 @@ Dynamics NAV obsahuje ukázkové účetní schémata, která slouží ke generov
 
 Nastavení účetních schémat vyžaduje porozumění finančním datům v účtové osnově.
 Například můžete zobrazit hodnoty hlavní knihy jako procenta položek rozpočtu.
-Můžete použít jeden z výchozích rozložení pro účetní schéma, nebo můžete nastavit své vlastní řádky a sloupce tak, že se můžete rozhodnout přesně které hodnoty si přejete porovnat a jak.
-Toto znamená, že můžete vytvořit tolik upravených finančních výkazů, kolik chcete. Používáte okno **Účetní schéma** k nastavení účetních schémat.  
+Můžete použít jedno z výchozích rozložení pro účetní schéma, nebo můžete nastavit své vlastní řádky a sloupce tak, že se můžete rozhodnout přesně které hodnoty si přejete porovnat a jak.
+To znamená, že můžete vytvořit tolik upravených finančních výkazů, kolik chcete. Používejte okno **Účetní schémata** k nastavení účetních schémat.  
 
 ## <a name="account-categories-and-account-schedules"></a>Kategorie účtů a účetní schémata
-Můžete použít kategorie účtů ke změně rozložení vašich finančních výkazů. Když jste nastavili vaše kategorie účtů v okně **Kategorie finančních účtů** a zvolili akci **Generovat účetní schémata**, podřízené účetní schémata pro jaderné finanční sestavy jsou aktualizovány. Příští spuštění jedné z této sestav, např. výpis zůstatku, nové součty a  Další informace naleznete v tématu [Hlavní kniha a Účtová osnova](finance-setup-general-ledger.md).    
+Můžete použít kategorie účtů ke změně rozložení vašich finančních výkazů. Když jste nastavili vaše kategorie účtů v okně **Kategorie finančního účtů** a zvolili akci **Generovat účetní schémata**, podřízené účetní schémata pro hlavní finanční sestavy budou aktualizovány  při příštím spuštění jedné z těchto sestav, např. výpis zůstatku, nové součty a dílčí položky. Další informace naleznete v tématu [Hlavní kniha a Účtová osnova](finance-setup-general-ledger.md).    
 ## <a name="see-also"></a>Viz také
 [Finance](finance-setup.md)  
 [Nastavení financí](finance-setup-setup-finance-setup.md)  

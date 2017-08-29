@@ -22,8 +22,8 @@ Ke správě údržby dlouhodobého majetku musíte nejprve nastavit obecné info
 ## <a name="to-set-up-general-maintenance-information"></a>Nastavení obecných informací o údržbě
 Pokud nastavíte pole pro údržbu, můžete účtovat výdaje za údržbu z deníku dlouhodobého majetku.
 1. V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zvolte **Dlouhodobý majetek** a pak vyberte související odkaz.
-2. Vybrat dlouhodobý majetek, pro který chcete definovat pokrytí pojištění a pak vyberte akci **Upravit**.
-3. Na záložce s náhledem **Údržba** vyplňte pole podle potřeby. Vybrat pole k zobrazení krátkého popisu nebo odkazu pro více informací.
+2. Vybrat dlouhodobý majetek, pro který chcete definovat pokrytí pojištění a pak vyberte akci **Úpravy**.
+3. Na záložce s náhledem **Údržba** vyplňte pole podle potřeby. Vyberte pole a přečtěte si krátký popis pole nebo odkaz pro více informací.
 
 ## <a name="to-set-up-maintenance-codes"></a>Nastavení kódů údržby  
 Když účtujete náklady na údržbu z finančního deníku, vyplníte pole **Kód údržby** k zaznamenání k jaké údržbě došlo, např. službě rutiny nebo opravě.
@@ -33,12 +33,12 @@ Když účtujete náklady na údržbu z finančního deníku, vyplníte pole **K
 ## <a name="to-set-up-maintenance-expense-accounts"></a>Nastavení účtů výdajů za údržbu  
 K účtování výdajů za údržbu musíte nejprve zvolit číslo účtu v okně **Účto skupiny DM**.
 1. V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zvolte **Účto skupiny DM** a pak vyberte související odkaz.
-2. Vyplňte pole **Účet pro výdaje za údržbu** pro každou účto skupinu.
+2. Vyplňte pole **Účet nákladů údržby** pro každou účto skupinu.
 
 **POZNÁMKA**: K definování, že výdaje za údržbu jsou přiděleny k oddělení nebo projektům, nastavte alokační klíče. Pro další informace viz [Návod: Nastavení funkcí obecného dlouhodobého majetku](fa-how-setup-general.md).
 
 ## <a name="see-also"></a>Viz také
-[Nastavení dlouhodobý majetek](fa-setup.md)  
+[Nastavení dlouhodobého majetku](fa-setup.md)  
 [Správa dlouhodobého majetku](fa-manage.md)  
 [Finance](finance-setup.md)  
 [Vítejte v Dynamics NAV](across-get-started.md)

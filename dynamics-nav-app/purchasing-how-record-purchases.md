@@ -1,5 +1,5 @@
 ---
-title: "Návody: Zaznamenejte nákupy"
+title: "Návod: Zaznamenávání nákupů"
 author: SorenGP
 ms.custom: na
 ms.date: 11/22/2016
@@ -16,18 +16,18 @@ ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-record-purchases"></a>Návody: Zaznamenejte nákupy
-Vytvoříte nákupní fakturu nebo nákupní objednávku k zaznamenání nákladů za nákupy a ke sledování závazků.  Pokud potřebujete kontrolovat zásoby, nákupní faktury a pokud jsou nákupní objednávky také používány k dynamickému aktualizování úrovní zásob, takže můžete minimalizovat náklady zásob a poskytovat lepší služby zákazníkům.  Náklady na nákup, včetně nákladů na služby a hodnoty zásob, které jsou výsledkem účtování nákupních faktur nebo objednávek, přispívají k hodnotám zisku a k dalším finančním ukazatelům KPI na vaší domovské stránce.
+# <a name="how-to-record-purchases"></a>Návod: Zaznamenávání nákupů
+Vytvořte nákupní fakturu nebo nákupní objednávku k zaznamenání nákladů za nákupy a ke sledování závazků.  Pokud potřebujete kontrolovat zásoby, nákupní faktury a pokud jsou nákupní objednávky také používány k dynamickému aktualizování úrovní zásob, můžete minimalizovat náklady zásob a poskytovat lepší služby zákazníkům.  Náklady na nákup, včetně nákladů na služby a hodnoty zásob, které jsou výsledkem účtování nákupních faktur nebo objednávek, přispívají k hodnotám zisku a k dalším finančním ukazatelům KPI na vaší domovské stránce.
 
-**Poznámka**: Musíte použít nákupní objednávky, pokud váš nákupní proces vyžaduje, abyste zaznamenali částečné příjemky objednaného množství, například proto, že v dodavateli nebylo k dispozici celé množství. Pokud prodáváte zboží dodáním přímo od vašeho  dodavatele zákazníkovi jako přímou dodávku zboží, pak musíte také použít nákupní objednávky. Pro další informace, viz [Návody: Provádění přímých dodávek zboží](sales-how-drop-shipment.md). Ve všech ostatních ohledech fungují nákupní objednávky stejným způsobem jako nákupní faktury. Následující postup je založen na nákupní faktuře. Kroky jsou podobné jako u nákupní objednávky.
+**Poznámka**: Musíte použít nákupní objednávky, pokud váš nákupní proces vyžaduje, abyste zaznamenali částečné příjemky objednaného množství, například proto, že pro dodavatel neměl k dispozici celé množství. Pokud prodáváte zboží dodáním přímo od vašeho  dodavatele zákazníkovi jako přímou dodávku zboží, pak musíte také použít nákupní objednávky. Pro další informace, viz [Návod: Provádění přímých dodávek zboží](sales-how-drop-shipment.md). Ve všech ostatních ohledech fungují nákupní objednávky stejným způsobem jako nákupní faktury. Následující postup je založen na nákupní faktuře. Kroky jsou podobné jako u nákupní objednávky.
 
-Když obdržíte skladové položky, nebo když je dokončena nákupní služba, zaúčtujete nákupní fakturu nebo objednávku k aktualizaci zásob a finančních záznamů a aktivujete platbu dodavateli podle platebních podmínek. Pro další informace viz [Provést platby](payables-make-payments.md).
+Když obdržíte skladové položky, nebo když je dokončena nákupní služba, zaúčtujete nákupní fakturu nebo objednávku k aktualizaci zásob a finančních záznamů a aktivujete platbu dodavateli podle platebních podmínek. Další informace naleznete v tématu: [Provést platby](payables-make-payments.md).
 
 **Pozor**: Neúčtujte nákupní fakturu, dokud neobdržíte produkty a nebudete vědět finální náklady nákupu, včetně případných dodatečných poplatků.  V opačném případě může být hodnota vašich zásob zkreslená.
 
-Pokud jste již zaplatili za produkty na vyúčtované nákupní faktuře, pak si musíte pro stornování nákupu vytvořit nákupní dobropis. Pro další informace, viz [Návody: Zpracování vratek nebo zrušení nákupů](purchasing-how-process-purchase-returns-cancellations.md).
+Pokud jste již zaplatili za produkty na vyúčtované nákupní faktuře, pak si musíte pro stornování nákupu vytvořit nákupní dobropis. Další informace naleznete v tématu: [Návod: Zpracování vratek nebo zrušení nákupů](purchasing-how-process-purchase-returns-cancellations.md).
 
-Produkty mohou být jak skladové položky, tak služby. Pro další informace, viz [Návody: Registrace nových produktů](inventory-how-register-new-products.md). Proces nákupní faktury je stejný pro oba typy produktů.
+Produkty mohou být jak skladové položky, tak služby. Další informace naleznete v tématu: [Návod: Registrace nových produktů](inventory-how-register-new-products.md). Proces nákupní faktury je stejný pro oba typy produktů.
 
 
 
@@ -42,7 +42,7 @@ Položky dodavatele na nákupní faktuře můžete vyplnit dvěma způsoby v zá
 4. V dialogovém okně o registraci nového dodavatele zvolte tlačítko **Ano**.
 5. V okně **Vybrat šablonu pro nového dodavatele**  vyberte šablonu, na které bude založena nová karta dodavatele, a potom klepněte na tlačítko **OK**.
 6. Otevře se nová karta dodavatele, která je předvyplněná informacemi o vybrané šabloně dodavatele. Pole **Název** je vyplněno novým jménem dodavatele, které jste zadali na nákupní faktuře.
-7. Pokračujte k vyplnění zbývajících polí na kartě dodavatele. Pro další informace, viz [Návody: Registrace nového dodavatele](purchasing-how-register-new-vendors.md).  
+7. Pokračujte k vyplnění zbývajících polí na kartě dodavatele. Další informace naleznete v tématu: [Návod: Registrace nového dodavatele](purchasing-how-register-new-vendors.md).  
 8. Po dokončení karty dodavatele zvolte tlačítko **OK** k návratu do okna **Nákupní faktura**.
 
     Několik polí v okně **Nákupní faktury** je vyplněno informacemi uvedenými na nové kartě dodavatele.
@@ -50,7 +50,7 @@ Položky dodavatele na nákupní faktuře můžete vyplnit dvěma způsoby v zá
 
     Nyní jste připraveni vyplnit řádky nákupní faktury skladovými položkami inventáře nebo službami, které jste zakoupili od dodavatele.
 
-    **Poznámka**: Pokud jste pro dodavatele nastavili opakované řádky nákupu, jako například měsíční doplňující objednávku, pak můžete tyto řádky na fakturu vložit výběrem akce **Získat opakované nákupní řádky**.
+    **Poznámka**: Pokud jste pro dodavatele nastavili opakované řádky nákupu, jako například měsíční doplňující objednávku, pak můžete tyto řádky na fakturu vložit výběrem akce **Získat periodické nákupní řádky**.
 10. Na záložce s náhledem **Řádky**, v poli **Číslo zboží** zadejte číslo skladové položky nebo služby.
 11. Do pole **Množství** zadejte číslo položek k nákupu. 
 
@@ -62,15 +62,15 @@ Položky dodavatele na nákupní faktuře můžete vyplnit dvěma způsoby v zá
 12. Do pole **Částka fakturační slevy** zadejte částku, která by měla být odečtena od hodnoty zobrazené v poli **Celkem včetně daně** v dolní části faktury.
 
     **Poznámka**: Pokud jste pro dodavatele nastavili slevy z faktury, pak se zadaná procentní hodnota automaticky vloží do pole **Sleva z faktury dodavatele (%)**, pokud jsou splněna kritéria, a příslušná částka je se vloží do pole **Částka slevy z faktury**.
-13. Když obdržíte zakoupené položky nebo služby, zvolte možnost **zaúčtovat**.
+13. Když obdržíte zakoupené položky nebo služby, zvolte možnost **Účtovat**.
 
-Nákup se nyní odráží v zásobách a finančních záznamech a aktivuje se platba dodavateli. Nákupní faktura je odstraněna ze seznamu nákupních faktur a nahrazena novým dokumentem v seznamu vyúčtovaných nákupních faktur.
+Nákup se nyní odráží v zásobách a finančních záznamech a aktivuje se platba dodavateli. Nákupní faktura je odstraněna ze seznamu nákupních faktur a nahrazena novým dokumentem v seznamu Účtovaných nákupních faktur.
 
 ## <a name="see-also"></a>Viz také  
 [Správa nákupu](purchasing-manage-purchasing.md)  
 [Nastavení nákupu](purchasing-setup-purchasing.md)  
-[Návody: Nákup produktů pro prodej](purchasing-how-purchase-products-sale.md)  
-[Návody: Registrace nového dodavatele](purchasing-how-register-new-vendors.md)  
-[Návody: Příprava přímé dodávky zboží](sales-how-drop-shipment.md)  
+[Návod: Nákup produktů pro prodej](purchasing-how-purchase-products-sale.md)  
+[Návod: Registrace nového dodavatele](purchasing-how-register-new-vendors.md)  
+[Návod: Příprava přímé dodávky zboží](sales-how-drop-shipment.md)  
 [Práce s Dynamics NAV](ui-work-product.md)
 

@@ -17,7 +17,7 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="how-to-open-a-new-fiscal-year"></a>Návod: Otevření nového fiskálního roku
-Než budete moci účtovat do nového fiskálního roku, musíte ten fiskální rok nejprve otevřít a definovat jeho účtovací období.
+Než budete moci účtovat do nového fiskálního roku, musíte fiskální rok nejprve otevřít a definovat jeho účtovací období.
 
 ## <a name="to-open-a-new-fiscal-year"></a>K otevření nového fiskálního roku
 1. V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Účetní období** a pak zvolte související odkaz.
@@ -27,7 +27,7 @@ Než budete moci účtovat do nového fiskálního roku, musíte ten fiskální 
     Fiskální rok má typicky 12 období délky jednoho měsíce, ale můžete to také rozdělit jinými způsoby.
 4. Při dokončení zvolte **OK**.
 
-Účetní období jsou přidána na stránku. Pole **Datum zahájení** a **Název** jsou vyplněny. Pole **Název** používá jméno měsíce z data zahájení. Po dalším období fiskálního roku je vloženo účetní období a je vybráno zaškrtávací políčko **Nový fiskální ok**.
+Účetní období jsou přidána na stránku. Pole **Počáteční datum** a **Název** jsou vyplněny. Pole **Název** používá jméno měsíce z data zahájení. Po dalším období fiskálního roku je vloženo účetní období a je vybráno zaškrtávací políčko **Nový fiskální**.
 
 
 ## <a name="see-also"></a>Viz také

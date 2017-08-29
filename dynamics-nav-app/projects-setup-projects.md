@@ -1,5 +1,5 @@
 ---
-title: Set Up Project Management
+title: "Nastavit řízení projektu"
 author: SorenGP
 ms.custom: na
 ms.date: 11/01/2016
@@ -16,23 +16,23 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="set-up-project-management"></a>Set Up Project Management
-Before you can use Dynamics NAV to manage projects, you must set up resources, time sheets, and jobs.
+# <a name="set-up-project-management"></a>Nastavit řízení projektu
+Než budete moci pro správu projektů používat Dynamics NAV, musíte nastavit zdroje, pracovní výkazy a úlohy.
 
-Then you can create jobs and schedule resources for projects as well as manage budgets and track machine and employee hours with time sheets. For more information, see [Manage Projects](projects-manage-projects.md).  
+Poté můžete vytvářet činnosti a plánovat zdroje pro projekty, stejně jako spravovat rozpočty a sledovat hodiny strojů a zaměstnanců s pracovními výkazy. Další informace naleznete v [Správa projektů](projects-manage-projects.md).  
 
-The following table describes a sequence of tasks, with links to the topics that describe them.
+Následující tabulka popisuje sekvenci úloh s odkazy na témata, které je popisují.
 
-|To |See |
+|Dále |Viz |
 |---|----|
-|Set up your resources and the related costs and prices, either for individual resources, resource groups, or for all available resources of the company.|[How to: Set Up Resources](projects-how-setup-resources.md)|
-|Enable resources to report time usage for an individual or a machine and enable a manager to review the usage and its allocation.|[How to: Set Up Time Sheets](projects-how-setup-time-sheets.md)
-|Create job cards and prepare job tasks. Set up prices for job items and job resources and define job posting groups.|[How to: Set Up Jobs](projects-how-setup-jobs.md)|
+|Nastavte své zdroje a související náklady a ceny buď pro jednotlivé zdroje, skupiny zdrojů nebo pro všechny dostupné zdroje společnosti.|[Návod: Nastavení zdrojů](projects-how-setup-resources.md)|
+|Povolte zdroje pro oznamování využití času jednotlivce nebo stroje a povolte správci, aby zkontroloval využití a jeho přidělení.|[Návod: Nastavení pracovních výkazů](projects-how-setup-time-sheets.md)
+|Vytvořte pracovní karty a připravte pracovní úkoly. Nastavte ceny za položky projektu a zdroje projektu a definujte účetní skupiny projektu.|[Návod: Nastavení Projektů](projects-how-setup-jobs.md)|
 
-## <a name="see-also"></a>See Also
-[Manage Projects](projects-manage-projects.md)  
+## <a name="see-also"></a>Viz také
+[Správa projektů](projects-manage-projects.md)  
 [Finance](finance-setup.md)  
-[Manage Purchasing](purchasing-manage-purchasing.md)         
-[Manage Sales](sales-manage-sales.md)     
-[Work With Dynamics NAV](ui-work-product.md)  
+[Správa nákupu](purchasing-manage-purchasing.md)         
+[Spravovat prodej](sales-manage-sales.md)     
+[Pracujte s Dynamics NAV](ui-work-product.md)  
 

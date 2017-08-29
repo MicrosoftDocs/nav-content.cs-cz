@@ -1,5 +1,5 @@
 ---
-title: Manage Payables
+title: "Správa závazků"
 author: SorenGP
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,24 +16,24 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="manage-payables"></a>Manage Payables
-A central task in managing accounts payable is to pay your vendors. You can use functions to automatically fill in the **Payment Journal** window with payments lines for due purchase invoices. To quickly perform the involved bank transactions, you can export multiple payment journal lines to a file, which you then upload to your bank for processing. You can also make payments by check, including to transmit checks as electronic payments.
+# <a name="manage-payables"></a>Správa závazků
+Ústředním úkolem v oblasti správy plateb je zaplatit dodavatelům. Funkce můžete použít k automatickému vyplnění okna **Deník plateb** s platebními řádky pro splatnost nákupních faktur. Chcete-li rychle provádět příslušné transakce s bankami, můžete exportovat několik řádků platebního deníku do souboru, který pak nahrajete do banky ke zpracování. Můžete také provádět platby šekem, včetně přenosu šeků jako elektronických plateb.
 
-Another typical task is to apply outgoing payments to their related vendor ledger entries and thereby close the related purchase invoices or purchase credit memos as paid. You can perform this work in the **Payment Reconciliation Journal** window by importing a bank statement file to quickly register the payments in Dynamics NAV. An automatic application function applies the payments to their related open vendor or customer ledger entries based on a data matches between payment text and entry information. You can use various functionality to review and change automatic applications before you post the journal. You can choose to close any open bank account ledger entries related to the applied ledger entries when you post the journal. This means that the bank account is automatically reconciled when all payments are applied.
+Dalším typickým úkolem je uplatňovat odchozí platby na jejich související položky dodavatelů, a tím uzavřít související nákupní faktury nebo nákupní dobropisy jako zaplacené. Tuto práci můžete provést v okně **Deník odsouhlasení plateb** importováním souboru výpisu z účtu, abyste mohli rychle zapsat platby v systému Dynamics NAV. Funkce automatické aplikace uplatňuje platby na příslušné otevřené položky prodejce nebo zákazníka založené na datových shodách mezi textem platby a zadaných informacích. Můžete použít různé funkce pro kontrolu a změnu automatických aplikací před tím, než zaúčtujete deník. Při účtování deníku můžete uzavřít všechny otevřené položky bankovního účtu, které se vztahují k zaplaceným položkám. To znamená, že bankovní účet je automaticky odsouhlasen po zaplacení všech plateb.
 
-Alternatively, you can apply outgoing payments manually in the **Payment Journal** window or from the related vendor ledger entries.
+Případně můžete odesílat platby ručně v okně **Deník plateb** nebo v související položkách dodavatele.
 
-The following table describes a sequence of tasks within accounts payable, with links to the topics that describe them.
+Následující tabulka popisuje sekvenci úloh v rámci závazků s odkazy na témata, které je popisují.
 
-|To |See |
+|Dále |Viz |
 |---|----|
-|Generate due vendor payments prioritized according to payment discounts and overdue penalties. Optionally, export the payments to a bank file when posting.|[Make Payments](payables-make-payments.md)|
-|Apply vendor payments automatically to unpaid purchase invoices by importing a bank statement file.|[Apply Payments Automatically and Reconcile Bank Accounts](receivables-apply-payments-auto-reconcile-bank-accounts.md)|
-|Apply vendor payments to unpaid purchase invoices manually.|[How to: Apply Vendor Payments Manually](payables-how-apply-purchase-transactions-manually.md)|
+|Vytvořte platby s předepsaným dodavatelem podle prioritních platebních slev a penále po splatnosti. Volitelně exportujte platby do bankovního souboru při účtování.|[Proveďte platby](payables-make-payments.md)|
+|Použít automaticky platby dodavatele na nezaplacené nákupní faktury importem souboru bankovního výpisu.|[Použití automatických plateb a odsouhlasení bankovních účtů](receivables-apply-payments-auto-reconcile-bank-accounts.md)|
+|Ručně přiřadit dodavatelské platby pro nezaplaceným nákupním fakturám.|[Návod: Ručně uhradit dodavatelské platby](payables-how-apply-purchase-transactions-manually.md)|
 
-## <a name="see-also"></a>See Also
-[Manage Purchasing](purchasing-manage-purchasing.md)  
-[Manage Receivables](receivables-manage-receivables.md)  
-[Work With Dynamics NAV](ui-work-product.md)  
-[Across Business Areas](ui-across-business-areas.md)
+## <a name="see-also"></a>Viz také
+[Správa nákupu](purchasing-manage-purchasing.md)  
+[Spravovat pohledávky](receivables-manage-receivables.md)  
+[Práce s Dynamics NAV](ui-work-product.md)  
+[V obchodních oblastech](ui-across-business-areas.md)
 

@@ -34,9 +34,9 @@ Následující tabulka popisuje postup úkolů s odkazy na témata, která je po
 |Popis |Odkaz |
 |---|----|
 |Vyrovnání plateb otevřených položek zákazníků nebo dodavatelů založených na importovaných bankovních výpisech a odsouhlasení bankovního účtu, pokud jsou všechny platby vyrovnány.|[Automatické vyrovnání plateb a odsouhlasení bankovních účtů](receivables-apply-payments-auto-reconcile-bank-accounts.md)|
-|Vyrovnání plateb otevřených položek pro zákazníky založené na ručním zadání v seznamu neplacených prodejních dokladů. | [Návod: Manuální odsouhlasení plateb zákazníka z seznamu nezaplacených prodejních dokumentů.](receivables-how-reconcile-customer-payments-list-unpaid-sales-documents.md)|
+|Vyrovnání plateb otevřených položek pro zákazníky založené na ručním zadání v seznamu neplacených prodejních dokladů. | [Návod: Manuální odsouhlasení plateb zákazníka z seznamu nezaplacených prodejních dokumentů](receivables-how-reconcile-customer-payments-list-unpaid-sales-documents.md)|
 |Účtování hotovostních příjmových dokladů nebo refundace zákazníkům v deníků přijaté hotovosti a vyrovnaní položek zákazníka, kterýmkoli z deníků nebo z účtovaných položek. | [Návod: Ruční odsouhlasení plateb zákazníkům](receivables-how-apply-sales-transactions-manually.md) |
-|Připomenutí zákaznických částek po splatnosti, vypočítání poplatků za úroky a financování a správa pohledávek. | [Návod: Shromáždění zbývajících zůstatků.](receivables-collect-outstanding-balances.md) |
+|Připomenutí zákaznických částek po splatnosti, vypočítání poplatků za úroky a financování a správa pohledávek. | [Návod: Shromáždění zbývajících zůstatků](receivables-collect-outstanding-balances.md) |
 
 ## <a name="see-also"></a>Viz také
 [Správa prodeje](sales-manage-sales.md)  

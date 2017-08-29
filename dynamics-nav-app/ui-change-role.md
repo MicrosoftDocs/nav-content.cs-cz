@@ -1,5 +1,5 @@
 ---
-title: "Návody: Změna Centra rolí"
+title: "Návod: Změna Centra rolí"
 author: SusanneWindfeldPedersen
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,7 +16,7 @@ ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-change-the-role-center"></a>Návody: Změna Centra rolí
+# <a name="how-to-change-the-role-center"></a>Návod: Změna Centra rolí
 Domovská stránka je vaším hlavním bodem vstupu do Dynamics NAV. Zde můžete získat přehled o každodenních pracovních úkolech a jejich stavu. Úlohy, které často provádíte, jsou zpřístupněny prostřednictvím dlaždic v oblasti obsahu, navigačního podokna vlevo a pomocí akcí na pásu karet.
 
 Obsah na domovské stránce je založen na vybraném Centru rolí.  Standardním centrem rolí je pro Dynamics NAV  **Obchodní manažer**, ale můžete jej změnit a vybrat si z několika center rolí.

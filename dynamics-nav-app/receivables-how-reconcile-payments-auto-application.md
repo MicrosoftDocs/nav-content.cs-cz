@@ -52,7 +52,7 @@ Pokud bankovní účet pro vybraný deník není nastaven pro import bankovních
     Na řádcích plateb, které byly automaticky vyrovnány na jejich související otevřené položky, má pole **Spolehlivost shody** hodnotu mezi **Nízká** a **Vysoká**, které označuje kvalitu shody dat, na které je založeno navrhované vyrovnání plateb. Navíc pole **Typ účtu** a **Číslo účtu** obsahuje informace o zákazníkovi nebo dodavateli, u kterých je platba vyrovnána.
 7. Vyberte řádek deníku a potom zvolte akci **Ruční vyrovnání** k pohledu, znovu vyrovnání nebo vyrovnání platby ručně v okně **Vyrovnání plateb**. Další informace naleznete v tématu [Návod: Pohled nebo vyrovnání plateb po automatickém vyrovnání](receivables-how-review-apply-payments-auto-application.md).
 
-    Po dokončení ručního vyrovnání pole **Spolehlivost shody** na řádku deníku, který jste zpracovali ručně obsahuje **Přijato**.
+    Po dokončení ručního vyrovnání, pole **Spolehlivost shody** na řádku deníku, který jste zpracovali ručně, obsahuje **Přijato**.
 8. Vyberte nevyrovnaný řádek deníku pro opakující se příjem nebo výdajů hotovosti, jako je nákup automobilového benzínu a poté na kartě Domů ve skupině Pohled zvolte Mapovat text na účet. Další informace naleznete v tématu [Návod: Mapovat text periodických plateb na účtech pro automatické odsouhlasení](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md)
 9. Jakmile dokončíte mapování textu platby na účty, zvolte akci **Vyrovnat ručně**.
 10. Pokud jste spokojeni s tím, že všechny platby na řádcích deníku jsou správně vyrovnány nebo nastaveny na přímé zaúčtování, zvolte akci **Účtovat**.

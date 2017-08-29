@@ -35,11 +35,11 @@ Nemůžete přiřadit pracovní povinnosti ke kontaktním společnostem.
 
 Opakujte tyto kroky, abyste přiřadili tolik pracovních odpovědností, kolik potřebujete. Průmyslové skupiny můžete přiřadit také stejným postupem ze seznamu kontaktů.
 
-Počet pracovních odpovědností, které jste přidali ke kontaktu, se zobrazuje v poli **Počet pracovních odpovědností** v sekci **Segmentace** v okně **Kontakt**.
+Počet pracovních odpovědností, které jste přidali ke kontaktu, se zobrazuje v poli **Počet pracovních odpovědností** v sekci **Segmentace** v okně **Kontaktu**.
 
-Po přidělení pracovních odpovědností k vašim kontaktům můžete pomocí těchto informací vybrat kontakty pro vaše segmenty. Další informace naleznete v tématu [Návod: Přidání kontaktů do segmentů](marketing-add-contact-segment.md).
+Po přidělení pracovních odpovědností k vašim kontaktům můžete pomocí těchto informací vybrat kontakty pro vaše segmenty. Pro další informace viz [Návod: Přidání kontaktů do segmentů](marketing-add-contact-segment.md).
 
 ##<a name="see-also"></a>Viz také
 [Vytvoření kontaktních osob](marketing-create-contact-persons.md)  
-[Vytvoření kontaktních společností](marketing-create-contact-companies.md)
+[Vytváření kontaktních společností](marketing-create-contact-companies.md)
 

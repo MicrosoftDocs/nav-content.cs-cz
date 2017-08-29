@@ -1,5 +1,5 @@
 ---
-title: "Inteligentní oznámení"
+title: "Chytrá oznámení"
 author: edupont04
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,7 +16,7 @@ ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="smart-notifications"></a>Inteligentní oznámení
+# <a name="smart-notifications"></a>Chytrá oznámení
 Dynamics NAV vám může pomoci pracovat chytřeji tím, že vás například upozorní, když se chystáte fakturovat zákazníka, který má vypršelé saldo, nebo pokud jsou dostupné zásoby nižší než množství, které se chystáte prodat.  Tato upozornění jsou zobrazena jako diskrétní tipy v kontextu úlohy, kterou děláte, a vy se můžete rozhodnout oznámení nebo zobrazení podrobností o problému ignorovat.   
 
 Pokud se rozhodnete zobrazovat podrobnosti pro oznámení, můžete vyřešit problém, například kontaktováním zákazníka, koupením dalších zásob a podobně. Je to vaše volba, co dělat, a Dynamics NAV vám dává rady a doporučení.  

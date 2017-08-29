@@ -1,5 +1,5 @@
 ---
-title: "Návody: Exportovat platby do bankovního souboru."
+title: "Návod: Exportování plateb do bankovního souboru"
 author: SorenGP
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,19 +16,19 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-export-payments-to-a-bank-file"></a>Návody: Exportovat platby do bankovního souboru.
-Když jste připraveni provést platby dodavateli pomocí okna **Deník plateb**, můžete exportovat soubor s informacemi o platbách na řádcích deníku. Pak můžete soubor nahrát do elektronické banky a zpracovat příslušné převody peněz.
+# <a name="how-to-export-payments-to-a-bank-file"></a>Návod: Exportování plateb do bankovního souboru
+Když jste připraveni provést platby dodavateli pomocí okna **Deníky plateb**, můžete exportovat soubor s informacemi o platbách na řádcích deníku. Pak můžete soubor nahrát do elektronické banky a zpracovat příslušné převody peněz.
 
 V generické verzi služby Dynamics NAV je nastaven globální poskytovatel služeb pro převod bankovních dat do libovolného formátu souborů, který vaše banka vyžaduje.
 
-**Poznámka**: Než budete moci exportovat z deníku plateb, musíte povolit export v související dávce deníku. Kromě toho musí být bankovní účet a bankovní účet dodavatele nastaven pro elektronickou platbu. Pro další informace viz [Návody: Nastavení služby převodu bankovních dat](bank-how-setup-bank-data-conversion-service.md).
+**Poznámka**: Než budete moci exportovat z deníku plateb, musíte povolit export v související dávce deníku. Kromě toho musí být bankovní účet a bankovní účet dodavatele nastaven pro elektronickou platbu. Další informace naleznete v tématu: [Návod: Nastavení služby převodu bankovních dat](bank-how-setup-bank-data-conversion-service.md).
 
-K zobrazení platebních souborů, které byly exportovány z deníku plateb, použijete okno **Žurnály přenosu kreditu**. Z tohoto okna můžete také znovu exportovat platební soubory v případě technických chyb nebo změn souborů.
+K zobrazení platebních souborů, které byly exportovány z deníku plateb, použijete okno **Bezhotovostní převody**. Z tohoto okna můžete také znovu exportovat platební soubory v případě technických chyb nebo změn souborů.
 
-## <a name="to-export-payments-to-a-bank-file"></a>Exportovat platby do bankovního souboru
+## <a name="to-export-payments-to-a-bank-file"></a>Exportování platby do bankovního souboru
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Deníky plateb** a pak vyberte související odkaz.
-2. Naplňte řádky deníku plateb, například pomocí funkce **Navrhnout platby dodavateli**. Pro další informace viz [Návody: Navrhnout platby dodavateli](payables-how-suggest-vendor-payments.md).  
-3. Po dokončení všech řádků deníku plateb zvolte **Exportovat platbu do souboru**.
+2. Naplňte řádky deníku plateb, například pomocí funkce **Navrhnout platby dodavateli**. Další informace naleznete v tématu: [Návod: Navrhnutí platby dodavateli](payables-how-suggest-vendor-payments.md).  
+3. Po dokončení všech řádků deníku plateb zvolte **Export platby do souboru**.
 
     Jakékoli chybové zprávy se zobrazí v okně s fakty **Chyby platebního souboru**, kde můžete také zobrazit chybovou zprávu pro zobrazení podrobných informací. Všechny chyby musíte vyřešit dříve, než lze exportovat soubor platby.
 
@@ -39,23 +39,23 @@ Bankovní platební soubor je exportován na místo, které jste zadali, a můž
 
 Poté, co obdržíte potvrzení o úspěšném zpracování plateb v bance, můžete odeslat exportované řádky deníku plateb.
 
-## <a name="to-plan-when-to-post-exported-payments"></a>Naplánovat, kdy chcete odeslat exportované platby
-Pokud nechcete uveřejnit řádek žurnálu plateb pro exportovanou platbu, například proto, že čekáte na potvrzení o tom, že transakce byla zpracována bankou, můžete pouze odstranit řádek deníku. Když později vytvoříte linku platebního deníku a zaplatíte zbývající částku na faktuře, pole **Celková exportovaná částka** ukazuje, kolik částky platby již bylo exportováno. Podrobné informace o vyvezené částce najdete také výběrem tlačítka **Položky žurnálu přenosu kreditu** k zobrazení detailů o exportovaných platebních souborech.
+## <a name="to-plan-when-to-post-exported-payments"></a>Naplánování odeslání exportované platby
+Pokud nechcete uveřejnit řádek žurnálu plateb pro exportovanou platbu, například proto, že čekáte na potvrzení o tom, že transakce byla zpracována bankou, můžete pouze odstranit řádek deníku. Když později vytvoříte řádek platebního deníku a zaplatíte zbývající částku na faktuře, pole **Celková exportovaná částka** ukazuje, kolik částky platby již bylo exportováno. Podrobné informace o exportované částce najdete také výběrem tlačítka **Položky žurnálu přenosu kreditu** k zobrazení detailů o exportovaných platebních souborech.
 
 Pokud se budete řídit procesem, v němž neúčtujete platby, dokud nemáte potvrzení o tom, že byly zpracovány v bance, můžete to ovládat dvěma způsoby.
 
 * V deníku plateb s navrhovanými platebními řádky můžete třídit buď sloupec **Exportováno do platebního souboru** nebo **Celková exportovaná částka** a pak smazat návrhy plateb pro otevřené faktury, pro které již byly provedeny platby a nechcete za ně platit.
-* V okně **Navrhnout platby dodavateli**, kde určíte platby, které chcete vložit do deníku plateb, zaškrtněte políčko **Přeskočit exportované platby**, pokud nechcete vkládat řádky deníku pro platby, které již byly exportovány.
+* V okně **Navrhnutí platby dodavateli**, kde určíte platby, které chcete vložit do deníku plateb, zaškrtněte políčko **Přeskočit exportované platby**, pokud nechcete vkládat řádky deníku pro platby, které již byly exportovány.
 
 Chcete-li zobrazit informace o exportovaných platbách, zvolte akci **Historie exportu plateb**.
 
-## <a name="to-re-export-payments-to-a-bank-file"></a>Exportovat znovu platby do bankovního souboru
-Soubory plateb můžete znovu exportovat z okna **Žurnály přenosu kreditu**. Před odstraněním nebo zasláním řádků deníku platby můžete také znovu exportovat platební soubor z okna **Deník platby** tím, že jej znovu exportujete.
+## <a name="to-re-export-payments-to-a-bank-file"></a>Reexport plateb do souboru
+Soubory plateb můžete znovu exportovat z okna **Bezhotovostní převody**. Před odstraněním nebo zasláním řádků deníku platby můžete také znovu exportovat platební soubor z okna **Deníky plateb** tím, že jej znovu exportujete.
 
-Pokud jste po exportu odstranili nebo zaúčtovali řádky deníku plateb, můžete znovu exportovat stejný platební soubor z okna **Žurnály přenosu kreditu**. Vyberte řádek dávky převodů, které chcete znovu exportovat, a poté použijte akci **Exportovat znovu platby do souboru**.
+Pokud jste po exportu odstranili nebo zaúčtovali řádky deníku plateb, můžete znovu exportovat stejný platební soubor z okna **Bezhotovostní převody**. Vyberte řádek dávky převodů, které chcete znovu exportovat, a poté použijte akci **Reexport plateb do souboru**.
 
 ## <a name="see-also"></a>Viz také
 [Závazky](payables-manage-payables.md)  
 [Správa nákupu](purchasing-manage-purchasing.md)  
-[Nastavit nákup](purchasing-setup-purchasing.md)
+[Nastavení nákupu](purchasing-setup-purchasing.md)
 

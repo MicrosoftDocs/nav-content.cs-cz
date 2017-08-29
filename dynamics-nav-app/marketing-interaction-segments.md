@@ -16,7 +16,7 @@ ms.lasthandoff: 06/26/2017
 
 ---
 # <a name="interactions-and-segments"></a>Interakce a segmenty
-Okno **Segment** je typ listu, kde můžete:
+Okno **Segmenty** je typ listu, kde můžete:
 
 * Vytvořit segmenty.
 * Uložit kritéria segmentace, která jste použili při výběru kontaktů.
@@ -33,10 +33,10 @@ Existuje několik způsobů, jak vytvořit segmenty:
 ## <a name="interactions"></a>Interakce
 V okně **Segment** můžete vytvářet interakce pro několik kontaktů současně. Můžete například sloučit segment s dokumentem Microsoft Word tak, že můžete odeslat dopis všem kontaktům v segmentu.
 
-Můžete zadat informace o interakci segmentu v hlavičce **Segment**. Můžete se například rozhodnout, kterou šablonu interakce chcete použít pro všechny kontakty, určit popis, typ korespondence a podobně. Tyto informace však můžete upravit v řádku segmentu pro každý konkrétní kontakt, například zadáním jiného popisu pro kontakt. Pokud slučujete segment s dokumentem aplikace Microsoft Word, můžete přizpůsobit dokument, který má být odeslán pro jeden nebo více kontaktů v segmentu, například přidáním svých komentářů do dokumentu.
+Můžete zadat informace o interakci segmentu v hlavičce **Segmentu**. Můžete se například rozhodnout, kterou šablonu interakce chcete použít pro všechny kontakty, určit popis, typ korespondence a podobně. Tyto informace však můžete upravit v řádku segmentu pro každý konkrétní kontakt, například zadáním jiného popisu pro kontakt. Pokud slučujete segment s dokumentem aplikace Microsoft Word, můžete přizpůsobit dokument, který má být odeslán pro jeden nebo více kontaktů v segmentu, například přidáním svých komentářů do dokumentu.
 
 ## <a name="logging"></a>Přihlášení
-V okně **Segment** když zvolíte **Protokol**, aplikace zaznamená interakce v okně **Položka protokolu interakce** a protokoluje segment. Po protokolování segmentu ji můžete najít pouze v okně **Protokolované segmenty**.
+V okně **Segmenty** když zvolíte **Protokol**, aplikace zaznamená interakce v okně **Položky protokolu interakce** a protokoluje segment. Po protokolování segmentu ji můžete najít pouze v okně **Protokolované segmenty**.
 
 V okně **Protokolované segmenty** se můžete rozhodnout vytvořit další segment, který bude obsahovat stejné kontakty jako segment, který jste zaznamenali.
 
@@ -45,7 +45,7 @@ V okně **Protokolované segmenty** se můžete rozhodnout vytvořit další seg
 [Návod: Vytvoření segmentů](marketing-how-create-segment.md)  
 [Návod: Vytvoření interakcí pro segmenty](marketing-how-create-interactions.md)  
 [Správa segmentů](marketing-segments.md)  
-[Nahrávání interakcí s kontakty](marketing-interactions.md)  
+[Zaznamenávání interakcí s kontakty](marketing-interactions.md)  
 [Správa prodejních příležitostí](marketing-manage-sales-opportunities.md)  
 [Vytvoření a správa kontaktů](marketing-contacts.md)
 

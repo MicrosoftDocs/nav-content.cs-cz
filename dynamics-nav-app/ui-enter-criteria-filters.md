@@ -17,7 +17,7 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="entering-criteria-in-filters"></a>Vkládání kriterií do filtrů
-Chcete-li hledat data, například názvy zákazníků, adresy nebo skupiny produktů, vložte Vaše kritéria. Ve vyhledávacích kritériích můžete použít všechna čísla a písmena, která běžně používáte v konkrétním poli. K dalšímu filtrování výsledků můžete použít speciální symboly.
+Chcete-li hledat data, například názvy zákazníků, adresy nebo skupiny produktů, vložte vaše kritéria. Ve vyhledávacích kritériích můžete použít všechna čísla a písmena, která běžně používáte v konkrétním poli. K dalšímu filtrování výsledků můžete použít speciální symboly.
 
 ## <a name="searching-using-the-quick-filter"></a>Vyhledávání pomocí rychlého filtru
 Pomocí rychlého filtru můžete filtrovat všechny stránky. Rychlý filtr je aktivován výběrem ikony lupy v pravém horním rohu stránky. Tento typ filtrování slouží k rychlému zadání kritérií.
@@ -56,17 +56,17 @@ Pomocí rychlého filtru můžete filtrovat všechny stránky. Rychlý filtr je 
   </TR>
   <TR>
     <TD>@*man</TD>
-    <TD>Končí na man bez ohledu na velká a malá písmena</TD>
+    <TD>Končí na man bez ohledu na velká a malá písmena.</TD>
     <TD>Všechny záznamy končící na „man“.</TD>
   </TR>
   <TR>
     <TD>@man*</TD>
-    <TD>Začíná a nebere ohled na velká a malá písmena</TD>
+    <TD>Začíná a nebere ohled na velká a malá písmena.</TD>
     <TD>Všechny záznamy začínající na man.</TD>
   </TR>
 </TABLE>
 
-**Poznámka**: Při filtrování polí výčtu, nelze použít zástupný znak. Například: pole **Stav** v Prodejních objednávkách. Chcete-li zadat filtr pro tento typ pole, můžete zadat číselnou hodnotu jako parametr filtrování. Například: V poli **Stav** na prodejní objednávce, která má hodnoty **Otevřeno**, **Vydáno**, **Čeká na schválení** a **Čeká na zálohu**, použijte hodnoty **0**, **1**, **2** a **3** pro filtrování těchto voleb.  
+**Poznámka**: Při filtrování polí výčtu nelze použít zástupný znak. Například pole **Stav** v Prodejních objednávkách. Chcete-li zadat filtr pro tento typ pole, můžete zadat číselnou hodnotu jako parametr filtrování. Například v poli **Stav** na prodejní objednávce, která má hodnoty **Otevřeno**, **Vydáno**, **Čeká na schválení** a **Čeká na zálohu**, použijte hodnoty **0**, **1**, **2** a **3** pro filtrování těchto voleb.  
 
 ## <a name="see-also"></a>Viz také
 [Práce s Dynamics NAV](ui-work-product.md)

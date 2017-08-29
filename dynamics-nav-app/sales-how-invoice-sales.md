@@ -20,9 +20,9 @@ ms.lasthandoff: 06/26/2017
 
 Můžete vytvořit prodejní faktury nebo prodejní objednávky, abyste zaznamenali vaši smlouvu se zákazníkem o prodeji určitých produktů za určitých dodacích a platebních podmínek.
 
-**Poznámka**: Musíte použít prodejní objednávky, pokud to váš prodejní proces vyžaduje a můžete pouze dodat části objednávky např.: Pokud celé množství není k dispozici najednou. Pokud prodáváte zboží dodáním přímo od svého dodavatele zákazníkovi jako zásilku, musíte také použít prodejní objednávky. Další informace naleznete v tématu [Návod: Vytvoření přímé dodávky](sales-how-drop-shipment.md). Ve všech ostatních ohledech fungují prodejní objednávky stejným způsobem jako prodejní faktury. Další informace naleznete v tématu [Návod: Prodávání produktů](sales-how-sell-products.md)
+**Poznámka**: Musíte použít prodejní objednávky, pokud to váš prodejní proces vyžaduje a můžete pouze dodat části objednávky, například pokud celé množství není k dispozici najednou. Pokud prodáváte zboží dodáním přímo od svého dodavatele zákazníkovi jako zásilku, musíte také použít prodejní objednávky. Další informace naleznete v tématu [Návod: Vytvoření přímé dodávky](sales-how-drop-shipment.md). Ve všech ostatních ohledech fungují prodejní objednávky stejným způsobem jako prodejní faktury. Další informace naleznete v tématu [Návod: Prodávání produktů](sales-how-sell-products.md).
 
-Můžete vyjednávat se zákazníkem tím, že nejprve vytvoříte prodejní nabídku, kterou můžete při prodeji převést na prodejní fakturu, pokud souhlasíte s obchodem. Další informace naleznete v tématu [Návod: Vytváření nabídek](sales-how-make-offers.md).
+Můžete vyjednávat se zákazníkem tím, že nejprve vytvoříte prodejní nabídku, kterou můžete při prodeji převést na prodejní fakturu, pokud s obchodem souhlasíte. Další informace naleznete v tématu [Návod: Vytváření nabídek](sales-how-make-offers.md).
 
 Poté, co zákazník potvrdí smlouvu, například po procesu nabídkového řízení, zaúčtujete prodejní fakturu a vytvoříte související položky o množství a hodnotách ve vašem systému. Při vystavení faktury za prodej můžete také dokument poslat jako přílohu ve formátu PDF. Tělo e-mailu můžete vyplnit předběžně souhrnem faktury a platebních informací, jako je odkaz na PayPal. Další informace naleznete v tématu [Návod: Posílání dokumentů pomocí Emailu](ui-how-send-documents-email.md).
 
@@ -30,21 +30,21 @@ V obchodních prostředích, kde musí zákazník platit před dodáním produkt
 
 Pokud je prodejní faktura zaúčtovaná, musíte si vytvořit dobropis k vrácení prodeje. Další informace naleznete v tématu [Návod: Proces prodejní vratky nebo zrušení](sales-how-process-sales-returns-cancellations.md).
 
-Produktem mohou být skladové položky nebo služby Další informace naleznete v tématu [Jak na: Zaznamenávání nových produktů](inventory-how-register-new-products.md). Proces prodeje je stejný pro oba typy produktů.
+Produktem mohou být skladové položky nebo služby. Další informace naleznete v tématu [Návod: Zaznamenávání nových produktů](inventory-how-register-new-products.md). Proces prodeje je stejný pro oba typy produktů.
 
 **Poznámka**: V produktu Dynamics NAV se produkt označuje výrazem "zboží".
 
-Položky zákazníků můžete vyplnit na prodejní faktuře dvěma způsoby, v závislosti na tom, zda je zákazník již zaregistrován.
+Položky zákazníků můžete vyplnit na prodejní faktuře dvěma způsoby v závislosti na tom, zda je zákazník již zaregistrován.
 
-## <a name="to-create-a-sales-invoice"></a>Vytvoření prodejní faktury.
+## <a name="to-create-a-sales-invoice"></a>Vytvoření prodejní faktury
 1. Na domovské stránce vyberte tlačítko **Prodejní faktury**.  
 3. V políčku **Zákazník** napište jméno existujícího zákazníka.
 
     Ostatní pole v okně **Prodejní faktury** jsou nyní vyplněny informacemi vybraného zákazníka. Pokud není zákazník registrován, následujte tyto kroky:
 4. V políčku **Zákazník** napište jméno nového zákazníka.
-5. V dialogovém okně o registraci nového zákazníka zvolte tlačítko **Ano**
+5. V dialogovém okně o registraci nového zákazníka zvolte tlačítko **Ano**.
 6. V okně **Vybrat šablonu pro nového zákazníka** vyberte šablonu, na které bude založena nová zákaznická karta, a potom klepněte na tlačítko **OK**.
-7. Otevře se nová zákaznická karta s předvyplněná informacemi ze zvolené šablony zákazníků. Políčko **Název** je předvyplněno novým jménem zákazníka, kterého jste zadali v prodejní faktuře.
+7. Otevře se nová zákaznická karta s předvyplněnými informacemi ze zvolené šablony zákazníků. Políčko **Název** je předvyplněno novým jménem zákazníka, kterého jste zadali v prodejní faktuře.
 8. Pokračujte vyplněním zbývajících polí na kartě zákazníka. Další informace naleznete v tématu [Návod: Registrace nového zákazníka.](sales-how-register-new-customers.md)  
 9. Po dokončení karty zákazníka zmáčkněte tlačítko **OK**, abyste se vrátili do okna **Prodejní faktury**.
 
@@ -57,24 +57,24 @@ Položky zákazníků můžete vyplnit na prodejní faktuře dvěma způsoby, v 
 11. Na záložce **Řádky** v políčku **Zboží**, vložte číslo skladové položky nebo služby.  
 12. V políčku **Množství** vložte množství zboží k prodeji.
 
-    **Poznámka**: U položek typu Servis je množství v jednotce času, např. hodiny, jak je uvedeno v poli **Kód měrné jednotky**
+    **Poznámka**: U položek typu Servis je množství v jednotce času, např. hodiny, jak je uvedeno v poli **Kód měrné jednotky**.
 
-    Pole **Částka na řádku** je aktualizována tak, aby zobrazovala hodnotu v poli **Jednotková cena** vynásobená hodnotou v poli **Množství**.
+    Pole **Částka na řádku** je aktualizována tak, aby zobrazovala hodnotu v poli **Jednotková cena** vynásobenou hodnotou v poli **Množství**.
 
     Částka ceny a řádku se zobrazuje s nebo bez DPH v závislosti na tom, co jste vybrali v poli **Ceny včetně DPH** na kartě zákazníka.
 13. Do pole **Částka řádkové slevy** zadejte procentuální slevu, pokud chcete zákazníkovi poskytnout slevu na produkt. Hodnota v poli **Částka na řádku** je odpovídajícím způsobem aktualizována.
 
-    Pokud nastavíte speciální ceny na záložce **Prodejní ceny a řádkové slevy** na kartě zákazníka nebo kartě položky, potom se cena na řádku automaticky aktualizuje pokud jsou splněna daná kritéria. Další informace naleznete v tématu [Zaznamenání prodejní ceny, slevy a platební podmínky](sales-how-record-sales-price-discount-payment-agreements.md).
+    Pokud nastavíte speciální ceny na záložce **Prodejní ceny a řádkové slevy** na kartě zákazníka nebo kartě položky, potom se cena na řádku automaticky aktualizuje, pokud jsou splněna daná kritéria. Další informace naleznete v tématu [Zaznamenání prodejní ceny, slevy a platební podmínky](sales-how-record-sales-price-discount-payment-agreements.md).
 14. Chcete-li přidat komentář na řádek nabídky, který se zákazníkovi zobrazí na vytištěné prodejní nabídce, napište text do pole **Popis** na prázdném řádku.  
 15. Opakujte kroky 10 až 13 pro každou položku, kterou chcete nabídnout zákazníkovi.
 
     Součty pod řádky se automaticky vypočítají při vytváření nebo úpravách řádků.
-16. Do pole **Částka fakturační slevy** zadejte částku, která by měla být odečtena od hodnoty zobrazené v položce **Celkem včetně DPH**
+16. Do pole **Částka fakturační slevy** zadejte částku, která by měla být odečtena od hodnoty zobrazené v položce **Celkem včetně DPH**.
 
-    Pokud jste zákazníkovi nastavili fakturační slevu, zadaná procentní hodnota se automaticky vloží do pole **Fakturační sleva%**, pokud jsou splněna kritéria a příslušná částka je vložena do **Faktury do  pole Fakturační sleva včetně DPH**. Pro více informací bežte na: [Zaznamenání prodejní ceny, Sleva, a Platební podmínky](sales-how-record-sales-price-discount-payment-agreements.md).
+    Pokud jste zákazníkovi nastavili fakturační slevu, zadaná procentní hodnota se automaticky vloží do pole **Fakturační sleva %**, pokud jsou splněna kritéria a příslušná částka je vložena do **Faktury do  pole Fakturační sleva včetně DPH**. Pro více informací bežte na: [Zaznamenání prodejní ceny, Sleva, a Platební podmínky](sales-how-record-sales-price-discount-payment-agreements.md).
 17. Po dokončení řádků prodejních faktur vyberte akci **Účtovat a odeslat**.
 
-Zobrazí se dialogové okno **Potvrzení účtování a odeslání** s uvedením preferovaného způsobu odeslání pro zákazníka. Způsob odesílání můžete změnit výběrem vyhledávacího tlačítka pro pole **Odeslat dokument do **. Další informace naleznete v tématu [Návod: Nastavení profilů odesílání dokumentů](sales-how-setup-document-send-profiles.md).
+Zobrazí se dialogové okno **Potvrzení účtování a odeslání** s uvedením preferovaného způsobu odeslání pro zákazníka. Způsob odesílání můžete změnit výběrem vyhledávacího tlačítka pro pole **Odeslat dokument do**. Další informace naleznete v tématu [Návod: Nastavení profilů odesílání dokumentů](sales-how-setup-document-send-profiles.md).
 
 Položky souvisejících položek a účtů zákazníků jsou nyní vytvořeny ve vašem systému a prodejní faktura je vyexportována jako dokument PDF. Prodejní faktura je odstraněna ze seznamu prodejních faktur a nahrazena novým dokumentem v seznamu prodejních faktur.
 

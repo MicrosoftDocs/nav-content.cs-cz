@@ -17,14 +17,14 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="how-to-create-a-custom-report-layout"></a>Návod: Vytvoření vlastního rozvržení Sestavy
-Ve výchozím nastavení bude mít sestava vestavěný rozvrh sestav, který může být RDLC nebo rozvržení sestavy aplikace Word nebo obojí. Nemůžete editovat vestavěné sestavy. Můžete však vytvořit vlastní vlastní rozvržení, které vám umožní změnit vzhled sestavy při jejím náhledu, tisku nebo uložení. Pro sestavu můžete vytvořit více rozvržení sestav a podle potřeby přepnout rozvržení, které sestava používá.
+Ve výchozím nastavení bude mít sestava vestavěný rozvrh sestav, který může být RDLC, rozvržení sestavy aplikace Word nebo obojí. Nemůžete editovat vestavěné sestavy. Můžete však vytvořit vlastní rozvržení, které vám umožní změnit vzhled sestavy při jejím náhledu, tisku nebo uložení. Pro sestavu můžete vytvořit více rozvržení sestav a podle potřeby přepnout rozvržení, které sestava používá.
 
 Chcete-li vytvořit vlastní rozvržení, můžete buď vytvořit kopii stávajícího vlastního rozvržení, nebo přidat nové vlastní rozvržení, které je ve většině případů založeno na vestavěném rozvržení. Když přidáte nové vlastní rozvržení, můžete přidat typ rozvržení sestavy RDLC, typ rozvržení sestavy aplikace Word nebo obojí. Nové vlastní rozvržení bude automaticky založeno na vestavěném, pokud je k dispozici. Není-li pro daný typ vestavěné rozvržení, vytvoří se nové prázdné rozvržení, které budete muset modifikovat a navrhnout od začátku. Další informace o rozvržení RDLC a Wordových sestav, vestavěných, vlastních rozvržení a dalších naleznete v tématu [Správa rozvržení sestav](ui-manage-report-layouts.md).  
 
 ## <a name="to-create-a-custom-layout"></a>Vytvoření vlastního rozvržení
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Výběr rozvržení sestav** a poté vyberte příslušný odkaz.  
 Okno ** Výběr rozvržení sestav ** obsahuje seznam všech sestav, které jsou k dispozici ve společnosti, která je uvedena v poli Společnost v horní části okna.
-2. Vyberte v poli **Název společnosti** společnost, ve které chcete vytvořit rozvržení sestavy.
+2. Nastavte pole **Název společnosti**, ve které chcete vytvořit rozvržení sestavy.
 3. Vyberte řádek se sestavou, pro kterou chcete vytvořit rozvržení, a poté zvolte **Vlastní rozvržení**.  
 Zobrazí se okno **Vlastní rozvržení sestav** a zobrazí seznam všech vlastních rozvržení, které jsou k dispozici pro vybraný přehled.
 4. Chcete-li vytvořit kopii existujícího vlastního rozvržení, vyberte existující vlastní rozložení v seznamu a zvolte možnost **Kopírovat**.  
@@ -39,5 +39,5 @@ Kopie vlastního rozvržení se zobrazí v okně **Vlastní rozvržení sestav**
 
 ## <a name="see-also"></a>Viz také
 [Správa rozvržení sestav](ui-manage-report-layouts.md)  
-[Návod: Změna využívaného rozvržení pro danou sestavu.](ui-how-change-layout-currently-used-report.md)
+[Návod: Změna využívaného rozvržení pro danou sestavu](ui-how-change-layout-currently-used-report.md)
 

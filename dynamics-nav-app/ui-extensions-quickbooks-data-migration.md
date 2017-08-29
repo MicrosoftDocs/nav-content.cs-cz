@@ -16,8 +16,8 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="the-quickbooks-data-migration-extension-for-dynamics-nav"></a>Rozšíření migrace dat QuickBooks pro Dynamics NAV.
-Toto rozšíření usnadňuje migraci zákazníků, dodavatelů a zboží z QuickBooks do Dynamics NAV. Pokud Vaše firma používá služby QuickBooks, můžete exportovat příslušné informace a poté otevřít pomocnou instalační příručku pro nahrání dat do Dynamics NAV.  
+# <a name="the-quickbooks-data-migration-extension-for-dynamics-nav"></a>Rozšíření migrace dat QuickBooks pro Dynamics NAV
+Toto rozšíření usnadňuje migraci zákazníků, dodavatelů a zboží z QuickBooks do Dynamics NAV. Pokud vaše firma používá služby QuickBooks, můžete exportovat příslušné informace a poté otevřít pomocnou instalační příručku pro nahrání dat do Dynamics NAV.  
 
 ## <a name="exporting-data-from-quickbooks"></a>Export dat z QuickBooks
 Musíte exportovat některé nebo všechny své stávající zákazníky, dodavatele a inventární položky do souboru Intuit Interchange Format (IIF). Rozšíření migrace dat QuickBooks obsahuje standardní mapování dat služby QuickBooks, takže můžete použít stávající data k otestování nové společnosti Dynamics NAV. Výchozí mapování bude v převážné většině případů postačující, ale můžete změnit mapování v příručce pro asistenci.  

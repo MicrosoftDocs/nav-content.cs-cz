@@ -22,7 +22,7 @@ Při zadávání dat na stránkách Dynamics NAV jsou některá pole označena �
 I když pole obsahuje červenou hvězdičku, není nutné vyplnit pole před tím, než budete pokračovat k dalším polím nebo zavřete stránku. Červená hvězdička slouží pouze jako upozornění, že dokončení určitého procesu bude zablokováno.  
 
 ## <a name="examples"></a>Příklady: 
-V okně **Karta zákazníka** se červená hvězdička objevuje v poli **Jméno**, v poli **Kód daňové oblasti** a v polích účto skupiny a označuje, že nemůžete pro zákazníka zaúčtovat prodejní transakci, pokud nejsou pole vyplněna.
+V okně **Karta zákazníka** se červená hvězdička objevuje v poli **Název**, v poli **Kód daňové oblasti** a v polích účto skupiny a označuje, že nemůžete pro zákazníka zaúčtovat prodejní transakci, pokud nejsou pole vyplněna.
 
 V okně **Karta zboží** se červená hvězdička objevuje v poli **Popis** k označení, že nemůžete zadat zboží na řádek dokladu, jako například na prodejní objednávku, pokud není pole vyplněno. 
 

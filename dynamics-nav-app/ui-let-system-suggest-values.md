@@ -21,7 +21,7 @@ Dynamics NAV vám pomůže dokončit úkoly rychleji a správněji tím, že př
 
 Funkce, která pro vás zadává hodnoty do polí, je typicky nabízena pro úkoly, kde zadáváte velké objemy transakčních dat a chcete se vyhnout chybám a zároveň šetřit čas. Toto téma obsahuje výběr takových funkcí. Další sekce budou přidány v následujících aktualizacích Dynamics NAV.
 
-## <a name="the-suggest-balancing-amount-check-box-in-the-general-journal-batches-window"></a>Zaškrtněte políčko **Navrhovat vyrovnávací částku** v okně **Dávky finančního deníku**
+## <a name="the-suggest-balancing-amount-check-box-in-the-general-journal-batches-window"></a>Zaškrtávací políčko **Navrhovat vyrovnávací částku** v okně **Dávky finančního deníku**
 Pokud například zadáváte řádky finančního deníku pro více výdajů, které musí být všechny zaslány na stejný bankovní účet, pak pokaždé, když pro výdaj zadáte nový řádek deníku, můžete mít pole **Částka** na řádku bankovního účtu automaticky aktualizováno na částku, která vyrovnává výdaje.  Další informace o práci s finančními deníky naleznete v části [Práce s finančními deníky](ui-work-general-journals.md).
 
 ### <a name="to-have-the-amount-field-on-balancing-general-journal-lines-filled-automatically"></a>Chcete-li mít pole **Částka** na vyrovnávacích řádcích finančního deníku automaticky vyplněná. 
@@ -32,7 +32,7 @@ Pokud například zadáváte řádky finančního deníku pro více výdajů, kt
 Další informace o tom, jak nastavit osobní dávku finančního deníku, například jak zpracovat výdaje, nalezte v části [Práce s finančními deníky](ui-work-general-journals.md).
 
 ## <a name="the-automatically-fill-date-received-field-in-the-payment-registration-window"></a>Pole **Automaticky vyplnit datum přijetí** v okně **Registrace plateb**
-Okno **Registrace plateb** zobrazuje neuhrazené příchozí platby jako řádky, které představují prodejní doklady, u nichž je částka splatná. Další informace o použití zákaznických plateb naleznete v [Návody: Ruční odsouhlasení zákaznických plateb ze seznamu neuhrazených prodejních dokladů](receivables-how-reconcile-customer-payments-list-unpaid-sales-documents.md).
+Okno **Registrace plateb** zobrazuje neuhrazené příchozí platby jako řádky, které představují prodejní doklady, u nichž je částka splatná. Další informace o použití zákaznických plateb naleznete v [Návod: Ruční odsouhlasení zákaznických plateb ze seznamu neuhrazených prodejních dokladů](receivables-how-reconcile-customer-payments-list-unpaid-sales-documents.md).
 
 Vaší hlavní akcí je zaškrtnout v okně políčko **Platba provedena** a vyplnit pole **Datum přijetí**. Váš Dynamics NAV můžete nastavit tak, aby když zaškrtnete políčko **Platba**, automaticky vložil pracovní datum do pole **Datum přijetí**.
 

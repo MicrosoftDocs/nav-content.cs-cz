@@ -17,7 +17,7 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="set-up-fixed-assets"></a>Nastavení dlouhodobého majetku
-Předtím, než můžete využít funkci dlouhodobý majetek, musíte nastavit různé informace k definování, jak pojistit, udržovat a odepisovat dlouhodobý majetek a jak náklady a ostatní hodnoty jsou zaznamenávány ve hlavní knize.
+Předtím, než můžete využít funkci dlouhodobý majetek, musíte nastavit různé informace k definování, jak pojistit, udržovat a odepisovat dlouhodobý majetek a jak jsou náklady a ostatní hodnoty zaznamenávány ve hlavní knize.
 
 Když nastavíte dlouhodobý majetek, můžete provést různé zahrnuté aktivity. Další informace naleznete v tématu [Návod: Správa dlouhodobého majetku](fa-manage.md).
 
@@ -25,7 +25,7 @@ Když nastavíte dlouhodobý majetek, můžete provést různé zahrnuté aktivi
 
 Když vyberete zaškrtávací políčko pro aktivitu dlouhodobého majetku v sekci **Finanční integrace** v okně **Karta knihy odpisů**, pak okno **Finanční deník DM** bude použito k zaúčtování transakcí pro aktivitu v otázce.
 
-Následující tabulka popisuje sekvenci úloh s odkazy na témata, které je popisují.
+Následující tabulka popisuje postup úkolů s odkazy na témata, která je popisují.
 
 | Popis | Odkaz |  
 |----|-----|  
@@ -36,7 +36,7 @@ Následující tabulka popisuje sekvenci úloh s odkazy na témata, které je po
 |Naučte se různé odpisové metody dlouhodobého majetku|[Metody odpisu](fa-depreciation-methods.md)|
 
 ## <a name="see-also"></a>Viz také
-[Spravovat dlouhodobý majetek](fa-manage.md)  
+[Správa dlouhodobého majetku](fa-manage.md)  
 [Finance](finance-setup.md)  
-[Vítejte v Dynamics NAV](across-get-started.md)
+[Vítejte v aplikaci Dynamics NAV](across-get-started.md)
 

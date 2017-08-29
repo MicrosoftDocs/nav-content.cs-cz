@@ -44,7 +44,7 @@ Můžete také vyrovnat platby zákazníků a platby dodavatelů v okně **Dení
 8. Chcete-li zaúčtovat vyrovnání současně se zaúčtováním deníku, proveďte jeden z následujících úkonů.
 9. V poli **Typ protiúčtu** vyberte **Finanční účet** pro platbu v hotovosti a **Bankovní účet** pro ostatní platby.
 10. V poli **Číslo bankovního účtu** zadejte hotovostní účet pro hotovostní platby nebo příslušný bankovní účet pro jiné platby.
-11. Zaúčtování deníku.
+11. Zaúčtujte deník.
 
 ## <a name="to-apply-a-payment-to-a-single-customer-ledger-entry"></a>Vyrovnání platby na jednu položku knihy zákazníka
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Deník přijaté hotovosti** a vyberte související odkaz.
@@ -52,13 +52,13 @@ Můžete také vyrovnat platby zákazníků a platby dodavatelů v okně **Dení
 3. Do pole **Typ dokumentu** zadejte **Platba**.
 4. V poli **Typ účtu** vyberte **Zákazník**.
 5. V poli **Typ protiúčtu **vyberte **Bankovní účet**.
-6. V poli **Číslo vyrovnání dokladu ** vyberte pole k otevření okna **Položky vyrovnání zákazníka**.
+6. V poli **Číslo vyrovnání dokladu vyberte pole** k otevření okna **Položky vyrovnání zákazníka**.
 7. V okně **Vyrovnat položky zákazníka** vyberte položku, na kterou chcete platbu vyrovnat.
 8. Do pole **Částka k vyrovnání** zadejte částku, kterou chcete vyrovnat pro položku. Pokud nezadáte částku, vyrovná se maximum částky.
 
     V dolní části okna **Vyrovnat položky zákazníka** můžete vidět konkrétní částku v poli **Vyrovnaná částka** a také zda se vyrovná zůstatek.
-9. Zvolte tlačítko **OK**. Okno **Deník přijaté hotovosti** nyní zobrazuje položku, kterou jste vybrali, zadanou v polích **Typ vyrovnání dokladu **a **Číslo vyrovnání dokladu. ** fields.
-10. Zaúčtování deníku přijaté hotovosti.
+9. Zvolte tlačítko **OK**. Okno **Deník přijaté hotovosti** nyní zobrazuje položku, kterou jste vybrali,** zadanou v** Polích Typ vyrovnání dokladu**** a **Číslo vyrovnání dokladu**.
+10. Zaúčtujte deník přijaté hotovosti.
 
 ## <a name="to-apply-a-payment-to-multiple-customer-ledger-entries"></a>Vyrovnání platby pro více položek knihy zákazníka
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Deník přijaté hotovosti** a vyberte související odkaz.
@@ -73,17 +73,17 @@ Můžete také vyrovnat platby zákazníků a platby dodavatelů v okně **Dení
 
     V dolní části okna **Vyrovnat položky zákazníka** můžete vidět konkrétní částku v poli **Vyrovnaná částka** a také zda se vyrovná zůstatek.
 10. Zvolte tlačítko **OK**.
-11. Zaúčtování deníku přijaté hotovosti.
+11. Zaúčtujte deník přijaté hotovosti.
 
 ## <a name="to-apply-a-credit-memo-to-a-single-customer-ledger-entry"></a>Použití dobropisů k položce knihy jednoho zákazníka
-1. V pravém horním rohu vyberte ikonu **Hledat stránku nebo sestavu**, zadejte **Prodejní dobropisy** a pak vyberte související odkaz.
+1. V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Prodejní dobropisy** a pak vyberte související odkaz.
 2. Otevřete relevantní prodejní dobropis.
 3. Chcete-li vyrovnat dobropis pro položku knihy jednoho zákazníka při zaúčtování, v poli **Číslo vyrovnání dokladu ** vyberte položku, na kterou chcete vyrovnat platbu.
 4. Na řádku v poli **Částka k vyrovnání** zadejte částku, kterou chcete vyrovnat pro položku.
 
     Pokud nezadáte částku, program automaticky použije maximum částky. V dolní části okna **Vyrovnat položky zákazníka** můžete vidět konkrétní částku v poli **Vyrovnaná částka** a také zda se vyrovná zůstatek.
-5. Zvolte tlačítko **OK**. Okno **Prodejní dobropisy** nyní zobrazuje položku, kterou jste vybrali, zadanou v polích **Typ vyrovnání dokladu **a **Číslo vyrovnání dokladu ** fields. a částka dobropisu k zaúčtování je upravená o případné slevy na platbu.
-6. Zaúčtování dobropisu.
+5. Zvolte tlačítko **OK**. Okno **Prodejní dobropisy** nyní zobrazuje položku, kterou jste vybrali,** zadanou** v polích Typ vyrovnání dokladu**** a **Číslo vyrovnání dokladu**. a částka dobropisu k zaúčtování je upravená o případné slevy na platbu.
+6. Zaúčtujte dobropis.
 
 ## <a name="to-apply-a-credit-memo-to-multiple-customer-ledger-entries"></a>Vyrovnání dobropisu na více položek knihy zákazníka
 1. V pravém horním rohu vyberte ikonu **Hledat stránku nebo sestavu**, zadejte **Prodejní dobropisy** a pak vyberte související odkaz.
@@ -94,10 +94,10 @@ Můžete také vyrovnat platby zákazníků a platby dodavatelů v okně **Dení
 
   V dolní části okna **Vyrovnat položky zákazníka** můžete vidět konkrétní částku v poli **Vyrovnaná částka** a také zda se vyrovná zůstatek.
 6. Zvolte tlačítko **OK**. Okno **Prodejní dobropisy** nyní zobrazuje částku dobropisu k zaúčtování upravenou o případné slevy.
-7. Zaúčtování dobropisu.
+7. Zaúčtujte dobropis.
 
 ## <a name="to-apply-posted-customer-ledger-entries"></a>Vyrovnání zaúčtovaných položek knihy zákazníka
-1. V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu**, zadejte **Zákazníci** a zvolte související odkaz.
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Zákazníci** a zvolte související odkaz.
 2. Otevřete kartu zákazníka pro zákazníka s položkami, které chcete vyrovnat.
 3. Zvolte akci **Položky knihy** a potom vyberte řádek s položkou, která bude vyrovnána.
 4. Zvolte akci **Vyrovnat položky**. Otevře se okno **Vyrovnání položek zákazníka**, které zobrazuje otevřené položky pro zákazníka.
@@ -127,14 +127,14 @@ Vyrovnání položek knihy zákazníka v různých měnách musí být povolena.
 3. Zvolte akci **Vyrovnat položky**.
 4. Vyberte řádek s položkou, kterou chcete použít pro položku v deníku přijaté hotovosti, zvolte akci **Nastavit ID vyrovnání** a vyberte položku, kterou chcete vyrovnat.
 5. Klepnutím na tlačítko **OK** se vrátíte do deníku přijaté hotovosti.
-6. Zaúčtování deníku prodeje.
+6. Zaúčtujte deník prodeje.
 
 **Důležité**: Při použití položek v různých měnách se položky přepočítají na USD. I když jsou směnné kurzy pro dvě příslušné měny pevně stanoveny, například mezi USD a EUR, mohou být tyto částky v cizí měně přepočteny na USD. Tyto malé zbytkové částky jsou účtovány jako zisky a ztráty na účtu uvedeném v poli **Účet realizovaných zisků** nebo **Účet realizovaných ztrát** v okně **Měny**. Pole **Částka (USD)** je také nastavena na příslušných položkách knihy dodavatelů.
 
 ## <a name="to-unapply-an-application-of-customer-entries"></a>Nevyrovnání položek zákazníka
-Pokud nevyrovnáte chybné vyrovnání, opravené položky které jsou totožné s původní položkou, ale s opačným znaménkem v poli částka a jsou vytvořeny a účtovány pro všechny položky, včetně veškerého účtování hlavní knihy odvozené z vyrovnání, jako jsou slevy a zisky/ztráty měn. Položky, které byly uzavřeny vyrovnáním, jsou znovu otevřeny.
+Pokud nevyrovnáte chybné vyrovnání, opravené položky které jsou totožné s původní položkou, ale s opačným znaménkem v poli částka a jsou vytvořeny a účtovány pro všechny položky včetně veškerého účtování hlavní knihy odvozené z vyrovnání, jako jsou slevy a zisky/ztráty měn. Položky, které byly uzavřeny vyrovnáním, jsou znovu otevřeny.
 
-1. V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu**, zadejte **Zákazníci** a zvolte související odkaz.
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Zákazníci** a zvolte související odkaz.
 2. Otevřete příslušnou zákaznickou kartu.
 3. Zvolte akci **Položky knihy**.
 4. Vyberte příslušné položky knihy a poté zvolte akci **Zrušit vyrovnání položek**.

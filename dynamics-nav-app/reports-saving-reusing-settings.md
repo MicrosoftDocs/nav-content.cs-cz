@@ -16,12 +16,12 @@ ms.lasthandoff: 06/26/2017
 
 ---
 # <a name="saved-settings-on-reports"></a>Uložené nastavení sestav
-V závislosti na spuštěné sestavě Vám může být zobrazena stránka, která vám umožní nastavit určité možnosti a filtry pro změnu dat, která jsou součástí generované sestavy. Tato stránka je známá jako stránka požadavku o sestavu. Sestava může obsahovat jedno nebo více *Uložených nastavení*, které můžete použít na sestavu z stránky požadavku. *Uložená nastavení* jsou  v podstatě předdefinované možnosti a filtry. Použití uložených nastavení je rychlý a spolehlivý způsob, jak důsledně vytvářet sestavy, které obsahují správná data.
+V závislosti na spuštěné sestavě vám může být zobrazena stránka, která vám umožní nastavit určité možnosti a filtry pro změnu dat, která jsou součástí generované sestavy. Tato stránka je známá jako stránka požadavku o sestavu. Sestava může obsahovat jedno nebo více *Uložených nastavení*, které můžete použít na sestavu ze stránky požadavku. *Uložená nastavení* jsou  v podstatě předdefinované možnosti a filtry. Použití uložených nastavení je rychlý a spolehlivý způsob, jak důsledně vytvářet sestavy, které obsahují správná data.
 
 Můžete si zobrazit uložená nastavení, která jsou Vám k dispozici pro sestavu v sekci **Uložená nastavení** na stránce požadavku o sestavu.
 
 ## <a name="to-apply-saved-settings-to-a-report"></a>Použití uložených nastavení pro sestavu
-1.  Otevřít sestavu.
+1.  Otevřete sestavu.
 
     Zobrazí se stránka požadavku o sestavu.    
 2.  Na stránce v sekci **Uložené nastavení**, nastavte políčko **Název** k uložení nastavení, které chcete použít.
@@ -40,5 +40,5 @@ Ze stránky **Nastavení sestav** můžete vytvořit nové nastavení od začát
 -    Pokud vytvoříte uloženou položku nastavení pro všechny uživatele a má stejný název jako existující uložené nastavení pro určitého uživatele, nebude tento uživatel moci použít uložená nastavení, která je přiřazena všem.  V poli Uložená nastavení na stránce požadavku o sestavu uživatel uvidí dvě možnosti uloženého nastavení se stejným názvem. Nicméně, bez ohledu na to, kterou volbu zvolí, budou použity uložená nastavení pro uživatele.
 
 ## <a name="see-also"></a>Viz také
-[Plánované spuštění sestavy.](ui-schedule-report.md)
+[Plánované spuštění sestavy](ui-schedule-report.md)
 

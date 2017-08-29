@@ -77,7 +77,7 @@ Všechny řádky bankovního výpisu a položky bankovních účtů, které lze 
 Někdy bankovní výpis obsahuje částky za úroky nebo poplatky. Takové bankovní transakce nemohou být shodné, protože v Dynamics NAV neexistují žádné související položky knihy. Musíte zaúčtovat řádek deníku pro každou transakci a vytvořit příslušnou položku knihy, kterou lze porovnat.
 
 1. V okně **Odsouhlasení bank. účtu** zvolte akci **Přenos do fin. deníku**.  
-2. V okně **Přev.odsouhl.bank.účtu do fin.den.   ** zadejte, který finanční deník použijete a potom klepněte na tlačítko **OK**.
+2. V okně **Přev.odsouhl.bank.účtu do fin.den. zadejte, který finanční** deník použijete a potom klepněte na tlačítko **OK**.
 
     V okně **Finanční deník** se otevřou nové řádky deníku pro všechny řádky bankovních výpisů s chybějícími položkami hlavní knihy.
 3. Dokončete řádek deníku příslušnými informacemi, jako je vyrovnávací účet. Další informace naleznete v tématu [Práce s Finančním deníkem](ui-work-general-journals.md).  

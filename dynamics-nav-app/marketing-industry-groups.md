@@ -23,7 +23,7 @@ Použití průmyslových skupin v kontaktech je proces o dvou krocích. Nejprve 
 **Poznámka:** Pokud máte v úmyslu synchronizovat své kontakty s dodavateli, zákazníky nebo bankovními účty v jiných částech aplikace, můžete si pro ně nastavit obchodní vztah.
 
 ## <a name="define-an-industry-group-code"></a>Definování kódu průmyslové skupiny
-Kód průmyslové skupiny definuje typ nebo kategorii skupiny, např. REKLAMA pro reklamu nebo TISK pro televizní a rozhlasové vysílání. Můžete mít několik kódů průmyslových skupin. Chcete-li definovat průmyslové skupiny, použijete okno **Průmyslové skupiny **.
+Kód průmyslové skupiny definuje typ nebo kategorii skupiny, např. REKLAMA pro reklamu nebo TISK pro televizní a rozhlasové vysílání. Můžete mít několik kódů průmyslových skupin. Chcete-li definovat průmyslové skupiny, použijete okno **Průmyslové skupiny**.
 
 1. V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Průmyslové skupiny** a pak vyberte související odkaz.
 2. Vyberte akci **Nový** a vyplňte kód a popis. Kód může mít maximálně 11 znaků a může obsahovat jakékoli kombinace čísel a písmen.
@@ -32,15 +32,15 @@ Kód průmyslové skupiny definuje typ nebo kategorii skupiny, např. REKLAMA pr
 Nemůžete přiřadit průmyslové skupiny ke kontaktním osobám - pouze společnosti.
 
 1. Otevřete kontakt.
-2. Zvolte akci **Společnost** a poté akci **Průmyslové skupiny**. Otevře se okno **Kontaktovat průmyslové skupiny**.
-3. V poli **Kód průmyslových skupin** vyberte průmyslové skupiny, které chcete přiřadit.
+2. Zvolte akci **Společnost** a poté akci **Průmyslové skupiny**. Otevře se okno **Průmyslné skupiny kontaktu**.
+3. V poli **Kód průmyslových skupiny** vyberte průmyslové skupiny, které chcete přiřadit.
 
 Opakujte tyto kroky, abyste přiřadili tolik průmyslových skupin, kolik chcete. Průmyslové skupiny můžete také přiřadit stejným postupem ze seznamu kontaktů.
 
-Počet průmyslových skupin, které jste přidali ke kontaktu, se zobrazuje v poli **Počet průmyslových skupin** v sekci **Segmentace** v okně **Kontakt**.
+Počet průmyslových skupin, které jste přidali ke kontaktu, se zobrazuje v poli **Počet průmyslových skupin** v sekci **Segmentace** v okně **Kontaktu**.
 
-Po přidělení průmyslových skupin k vašim kontaktům můžete pomocí těchto informací vybrat kontakty pro vaše segmenty. Další informace naleznete v tématu [Návod: Přidání kontaktů do segmentů](marketing-add-contact-segment.md).
+Po přidělení průmyslových skupin k vašim kontaktům můžete pomocí těchto informací vybrat kontakty pro vaše segmenty. Pro další informace viz [Návod: Přidání kontaktů do segmentů](marketing-add-contact-segment.md).
 
 ##<a name="see-also"></a>Viz také
-[Vytvoření kontaktních společností](marketing-create-contact-companies.md)
+[Vytváření kontaktních společností](marketing-create-contact-companies.md)
 

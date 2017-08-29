@@ -23,7 +23,7 @@ Při vytváření segmentu jsou dva hlavní úkoly:
 * Zadejte obecné informace o segmentu. Než budete moci vybrat kontakty v rámci segmentu, musíte segment nejprve vytvořit.
 * Zvolte, které kontakty přidat do segmentu.
 
-Následující tabulka popisuje postup úkolů s odkazy na téma, která je popisují. Tyto úkoly jsou uvedeny v pořadí, ve kterém se obvykle provádějí.
+Následující tabulka popisuje postup úkolů s odkazy na témata, která je popisují. Tyto úkoly jsou uvedeny v pořadí, ve kterém se obvykle provádějí.
 
 |Popis |Odkaz |
 |---|----|

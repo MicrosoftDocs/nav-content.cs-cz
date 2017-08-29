@@ -23,15 +23,15 @@ Nejprve je třeba definovat obecné nastavení, například které nákupní dok
 
 Samostatnou sérií úloh související s vytvářením hlavních dat dodavatelů je zaznamenat, v oknech propojených s kartou dodavatele, dohody o slevách a cenách dodavatelů.
 
-Pravidelná aktivita vytváření karet dodavatele pro nové dodavatele je řešena v sekci Správa nákupu. Pro další informace, viz [Návody: Registrace nového dodavatele](purchasing-how-register-new-vendors.md).
+Pravidelná aktivita vytváření karet dodavatele pro nové dodavatele je řešena v sekci Správa nákupu. Další informace naleznete v tématu: [Návod: Registrace nového dodavatele](purchasing-how-register-new-vendors.md).
 
-Nastavení nákupu souvisejícího s financemi, jako jsou způsoby platby a měny, jsou uvedeny v části Nastavení financí. Další informace naleznete v části [Nastavení financí](finance-setup-finance.md).
+Nastavení nákupu souvisejícího s financemi, jako jsou způsoby platby a měny, jsou uvedeny v části Nastavení financí. Další informace naleznete v tématu: [Nastavení financí](finance-setup-finance.md).
 
-|Pro |Viz |
+|Popis |Odkaz |
 |---|----|
 |Zadání různých slev a alternativních cen, které vám dodavatelé poskytují v závislosti na zboží, množství a/nebo datu.|[Záznam nákupní ceny, slevy a platebních dohod](purchasing-how-record-purchase-price-discount-payment-agreements.md)|
-|Prioritizaci dodavatelů.|[Návody: Prioritizace dodavatelů.](purchasing-how-prioritize-vendors.md)|
-|Nastavení nákupčích|[Návody: Nastavení nákupčích](purchasing-how-setup-purchasers.md)|
+|Prioritizaci dodavatelů.|[Návod: Prioritizace dodavatelů.](purchasing-how-prioritize-vendors.md)|
+|Nastavení nákupčích|[Návod: Nastavení nákupčích](purchasing-how-setup-purchasers.md)|
 
 ## <a name="see-also"></a>Viz také
 [Správa nákupu](purchasing-manage-purchasing.md)

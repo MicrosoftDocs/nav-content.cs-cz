@@ -17,15 +17,15 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="how-to-categorize-items"></a>Návod: Kategorizace položek
-Chcete-li udržovat přehled o vašem zboží a pomoct při řazení a hledání zboží, je vhodné uspořádat zboží v kategoriích.
+Chcete-li udržovat přehled o vašem zboží a pomoc při řazení a hledání zboží, je vhodné uspořádat zboží do kategorií.
 
 Chcete-li vyhledat zboží podle vlastností, můžete přiřadit atributy ke zboží a také ke kategoriím zboží. Další informace naleznete v tématu [Návod: Práce s atributy zboží](inventory-how-work-item-attributes.md).
 
 ## <a name="to-create-an-item-category"></a>Vytvoření kategorie zboží
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Kategorie zboží** a zvolte související odkaz.
-2. V okně **Kategorie zboží**, vyberte akci **Nové**.
-3. V okně **Karta kategorií zboží** na záložce s náhledem **Hlavní** vyplňte pole podle potřeby. Vybrat pole k zobrazení krátkého popisu nebo odkazu pro více informací.
-4. Na záložce s náhledem **Atributy** zadejte všechny atributy zboží pro kategorii zboží. Další informace naleznete v tématu “Přiřadit atributy zboží ke kategorii zboží“ v [Návod: Pracovat s atributy zboží](inventory-how-work-item-attributes.md).
+2. ý okně **Služby pro platby** zvolte **Nový**.
+3. V okně **Karta kategorií zboží** na záložce  **Obecné** vyplňte pole podle potřeby. Vybrat pole k zobrazení krátkého popisu nebo odkazu pro více informací.
+4. Na záložce s náhledem **Atributy** zadejte všechny atributy zboží pro kategorii zboží. Další informace naleznete v tématu “Přiřadit atributy zboží ke kategorii zboží“ v [Návod: Práce s atributy zboží](inventory-how-work-item-attributes.md).
 
 **Poznámka**: Pokud kategorie zboží obsahuje nadřazenou kategorii zboží, jak je uvedeno v poli **Nadřazená kategorie**, pak jakékoli atributy zboží, které jsou přiřazeny této nadřazené kategorii zboží, jsou předem vyplněny na záložce s náhledem **Atributy**.
 
@@ -34,11 +34,11 @@ Chcete-li vyhledat zboží podle vlastností, můžete přiřadit atributy ke zb
 ## <a name="to-assign-an-item-category-to-an-item"></a>Přiřazení kategorie ke zboží
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Zboží** a zvolte související odkaz.
 2. Otevřete kartu pro zboží, které chcete přiřadit ke kategorii zboží.
-3. Zvolte tlačítko AssistEdit v poli **Kód kategorie zboží** a vyberte existující kategorii zboží. Nebo zvolte akci **Nové**, chcete-li nejprve vytvořit novou kategorii zboží, jak je vysvětleno v sekci "Vytvořit kategorie zboží".
+3. Zvolte tlačítko AssistEdit v poli **Kód kategorie zboží** a vyberte existující kategorii zboží. Nebo zvolte akci **Nový**, chcete-li nejprve vytvořit novou kategorii zboží, jak je vysvětleno v sekci "Vytvořit kategorie zboží".
 
 ## <a name="see-also"></a>Viz také  
-[Návod: Práce s atributy zboží](inventory-how-work-item-attributes.md)  
-[Návod: Zaregistrujte nové produkty](inventory-how-register-new-products.md)  
-[Správa zásob](inventory-manage-inventory.md)  
-[Pracujte s Dynamics NAV](ui-work-product.md)
+[Návod: Práce s atributy zboží.](inventory-how-work-item-attributes.md)  
+[Návod: Registrovat nové produkty](inventory-how-register-new-products.md)  
+[Správa skladů](inventory-manage-inventory.md)  
+[Práce s Dynamics NAV](ui-work-product.md)
 

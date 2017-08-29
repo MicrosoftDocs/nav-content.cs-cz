@@ -17,22 +17,22 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="how-to-make-drop-shipments"></a>Návod: Vytvoření Přímé dodávky
-Přímá dodávka je zásilka položek od jednoho z Vašich dodavatelů přímo k Vašemu zákazníkovi.
+Přímá dodávka je zásilka položek od jednoho z vašich dodavatelů přímo k vašemu zákazníkovi.
 
-Je-li prodejní objednávka označena jako přímá dodávka a Vy vytvoříte nákupní objednávku určující zákazníka v políčku **Prodat zákazníkovi číslo**, Poté můžete propojit dva dokumenty a instruovat dodavatele, aby odeslal objednávku přímo zákazníkovi.
+Je-li prodejní objednávka označena jako přímá dodávka a vy vytvoříte nákupní objednávku určující zákazníka v políčku **Prodat zákazníkovi číslo**, poté můžete propojit dva dokumenty a instruovat dodavatele, aby odeslal objednávku přímo zákazníkovi.
 
 ## <a name="to-create-a-sales-order-for-drop-shipment"></a>Vytvoření nové prodejní objednávky pro přímou dodávku.
 Chcete-li připravit přímou dodávku, vytvořte prodejní objednávku zboží jako obvykle, kromě toho, že na řádku prodejní objednávky musíte uvést, že se jedná o přímou dodávku.
 
-1. Vytvoření prodejní objednávky pro položku. Další informace naleznete v tématu [Návod: Prodávání produktů](sales-how-sell-products.md)
+1. Vytvoření prodejní objednávky pro položku. Další informace naleznete v tématu [Návod: Prodávání produktů](sales-how-sell-products.md).
 2. Na řádku prodejní objednávky pro přímou dodávku zaškrtněte políčko **Přímá dodávka**.
 
-## <a name="to-create-the-purchase-order-for-drop-shipment"></a>Vytvoření nákupní objednávky pro přímou dodávku.
-Chcete-li vytvořit přímou dodávku pro zboží, které má být prodáváno, vytvořte prodejní objednávku jako obvykle, kromě toho, že v objednávce musíte uvést, že zásilka musí být odeslána zákazníkovi, nikoli Vám.
+## <a name="to-create-the-purchase-order-for-drop-shipment"></a>Vytvoření nákupní objednávky pro přímou dodávku
+Chcete-li vytvořit přímou dodávku pro zboží, které má být prodáváno, vytvořte prodejní objednávku jako obvykle. Jen v objednávce musíte uvést, že zásilka musí být odeslána zákazníkovi, nikoli vám.
 
-1. Vytvořte nákupní objednávku. Nevyplňujte žádná políčka na řádcích. Další informace naleznete v tématu [Návod: Zaznamenávání nákupů](purchasing-how-record-purchases.md)
+1. Vytvořte nákupní objednávku. Nevyplňujte žádná políčka na řádcích. Další informace naleznete v tématu [Návod: Zaznamenávání nákupů](purchasing-how-record-purchases.md).
 2. V políčku **Zákazník** vyberte zákazníka, kterému chcete prodávat.
-3. Vyberte tlačítko **Přímá dodávka** a vyberte tlačítko **Kopírovat prodejní objednávku**.
+3. Vyberte tlačítko **Přímá dodávka** a tlačítko **Kopírovat prodejní objednávku**.
 4. V okně **Přehled prodeje** vyberte prodejní objednávku, kterou jste nachystali v sekci „Vytvoření prodejní objednávky pro přímou dodávku“.
 5. Zvolte tlačítko **OK**.
 
@@ -45,7 +45,7 @@ Nyní můžete instruovat dodavatele, aby zboží odeslal zákazníkovi, napří
 
 Propojená nákupní objednávka se otevře.
 
-## <a name="to-post-a-drop-shipment"></a>Účtování přímé dodávku.
+## <a name="to-post-a-drop-shipment"></a>Účtování přímé dodávky
 Když dodavatel odeslal zboží, můžete zaúčtovat prodejní objednávku jako dodanou. Také můžete účtovat nákupní objednávku, ale jen s možností **Přijatá** dokud prodejní objednávka nebude vyfakturována.
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Prodejní objednávky** a poté vyberte příslušný odkaz.
 2. Otevřete prodejní objednávku, kterou jste vytvořili v sekci „Vytvoření prodejní objednávky pro přímou dodávku“.

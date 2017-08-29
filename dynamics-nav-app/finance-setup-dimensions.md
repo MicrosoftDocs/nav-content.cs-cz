@@ -22,7 +22,7 @@ Nastavujete všechny různé dimenze, které chcete sledovat v okně **Dimenze**
 
 Pro každou dimenzi musíte také nastavit hodnoty dimenze, jako jsou všechny oddělení ve vaší společnosti. Hodnoty dimenzí můžou být nastaveny v hierarchické struktuře podobně jako v účtové osnově, takže data se mohou rozbít na různě stupně granularity a podmnožiny hodnot dimenzí mohou být sečteny.  
 
-Můžete specifikovat dvě globální dimenze, které budou automaticky dostupné všude, například na sestavách a dávkových úlohách. Můžete také specifikovat šest přídavných zkratek dimenzí, které budou dostupné jako pole v deníku a řádcích dokumentů. Zbývající dimenze můžou použity přístupem do odděleného okna, které zobrazuje dimenze pro řádek.  
+Můžete specifikovat dvě globální dimenze, které budou automaticky dostupné všude, například na sestavách a dávkových úlohách. Můžete také specifikovat šest přídavných zkratek dimenzí, které budou dostupné jako pole v deníku a řádcích dokumentů. Zbývající dimenze můžou být použity s přístupem do odděleného okna, které zobrazuje dimenze pro řádek.  
 
 Můžete definovat tolik dimenzí, kolik potřebujete ve vaší společnosti, a můžete definovat neomezený počet hodnot dimenzí pro každou z nich. Všechny vámi definované dimenze mohou být použity jak na položkách v denících a  dokumentech, tak v sestavách a dávkových úlohách souvisejících s dimenzemi.  
 

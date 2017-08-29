@@ -1,5 +1,5 @@
 ---
-title: "Návody: Spuštění dávkových úloh"
+title: "Návod: Spuštění dávkových úloh"
 author: SusanneWindfeldPedersen
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,8 +16,8 @@ ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-run-batch-jobs"></a>Návody: Spuštění dávkových úloh
-Dávková úloha je rutina, která zpracovává data v dávkách, jako například dávková úloha **Vyrovnání směnných kurzů**. Existují dávkové úlohy, které provádějí pravidelné účetní činnosti, jako například uzávěrku výsledovky na konci fiskálního roku. Mnoho dávkových úloh provádí výpočty, jako například výpočet poplatků za nastavení financí, vyrovnání kurzových rozdílů a výpočet jednotkových cen.
+# <a name="how-to-run-batch-jobs"></a>Návod: Spuštění dávkových úloh
+Dávková úloha je rutina, která zpracovává data v dávkách, jako například dávková úloha **Úprava směnných kurzů**. Existují dávkové úlohy, které provádějí pravidelné účetní činnosti, jako například uzávěrku výsledovky na konci fiskálního roku. Mnoho dávkových úloh provádí výpočty, jako například výpočet poplatků za nastavení financí, vyrovnání kurzových rozdílů a výpočet jednotkových cen.
 
 Dávková úloha je jako sestava, s výjimkou toho, že dávková úloha používá výsledek své práce k přímé aktualizaci informací, namísto tisku výsledků.
 

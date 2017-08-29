@@ -17,7 +17,7 @@ ms.lasthandoff: 07/19/2017
 ---
     
 # <a name="sorting"></a>Řazení
-Funkce řazení usnadňuje získání rychlého přehledu o vašich datech. Řazený seznam lze uložit pomocí funkce **Uložit zobrazení jako**, která se objeví vybráním nadpisu stránky. Máte-li například mnoho zákazníků, můžete si vybrat jejích třídění podle **Zákaznického čísla**, **Účto skupiny zákazníků**, **Kódu měny**, **Kódu země/ oblasti** nebo **Čísla registrace DPH** abyste získali přehled, který potřebujete.
+Funkce řazení usnadňuje získání rychlého přehledu o vašich datech. Řazený seznam lze uložit pomocí funkce **Uložit zobrazení jako**, která se objeví vybráním nadpisu stránky. Máte-li například mnoho zákazníků, můžete si vybrat jejích třídění podle **Zákaznického čísla**, **Účto skupiny zákazníků**, **Kódu měny**, **Kódu země/ oblasti** nebo **IČ** abyste získali přehled, který potřebujete.
 
 Zvolte záhlaví sloupce a pomocí malé šipky třiďte vzestupně nebo sestupně.  
 

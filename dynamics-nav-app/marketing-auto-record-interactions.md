@@ -16,16 +16,16 @@ ms.lasthandoff: 06/26/2017
 
 ---
 # <a name="automatically-record-interactions-with-contacts"></a>Automatické zaznamenávání interakcí s kontakty
-Aplikaci můžete nastavit tak, aby automaticky zaznamenávaly interakce pro prodeje, nákupy a servisní doklady, průvodní stránky, e-maily, telefonní hovory jako například:
+Aplikaci můžete nastavit tak, aby se automaticky zaznamenávala interakce pro prodej, nákup, servisní doklady, průvodní stránky, e-maily a telefonní hovory, jako například:
 
-* Vytisknout prodejní nebo nákupní nabídky, objednávky, faktury, dobropisy, průvodní stránky.
-* Vytvořit prodejní servisní zakázky.
-* Zaúčtovat prodejní servisní zakázky.
-* Poslat e-maily vašim kontaktům.
-* Zavolat svým kontaktům, pokud máte telefon kompatibilní s protokolem TAPI a správnou instalaci.
+* Tisk prodejní nebo nákupní nabídky, objednávky, faktury, dobropisy, průvodní stránky.
+* Vytvoření prodejní servisní zakázky.
+* Zaúčtování prodejní servisní zakázky.
+* Poslání e-mailů Vašim kontaktům.
+* Volejte svým kontaktům, pokud máte telefon kompatibilní s protokolem TAPI a správnou instalaci.
 
 Chcete-li nastavit automatické zaznamenávání těchto interakcí, specifikujte šablony interakcí pro tyto dokumenty a akce pomocí okna **Nastavení šablon interakce**. K otevření okna **Nastavení šablon interakce** v pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Nastavení šablon interakce** a zvolte související odkaz.
 
 ## <a name="see-also"></a>Viz také
-[Nahrávání interakcí s kontakty](marketing-interactions.md)  
+[zaznamenávání interakcí s kontakty](marketing-interactions.md)  
 

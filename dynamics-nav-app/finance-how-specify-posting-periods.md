@@ -20,13 +20,13 @@ ms.lasthandoff: 06/26/2017
 Když specifikujete účtovací období, omezujete období, ve kterých je účtování povoleno.
 
 ## <a name="to-specify-posting-periods"></a>Specifikace účtovacího období
-1. V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu** zadejte **Nastavení hlavní knihy** a pak zvolte související odkaz.
-2. V okně **Nastavení hlavní knihy** zadejte datum do pole **Povolit zaúčtování od** ke specifikaci začátku období.
-3. Zadejte datum v poli **Povolit zaúčtování do** ke specifikaci konce období.
+1. V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu** zadejte **Nastavení financí** a pak zvolte související odkaz.
+2. V okně **Nastavení financí** zadejte datum do pole **Povolit účto od** ke specifikaci začátku období.
+3. Zadejte datum v poli **Povolit účto do** ke specifikaci konce období.
 
 Data, které tu definujete, se používají pro společnost a všechny uživatele.
 
-**Poznámka**: Pokud chcete definovat různé účtovací období pro různé uživatele, můžete jim nastavit pro každého uživatele v okně **Nastavení uživatele**. Pokud zadáte data v okně **Nastavení uživatele**, data zadány v okně **Nastavení hlavní knihy** se na tyto uživatele nepoužijí.
+**Poznámka**: Pokud chcete definovat různé účtovací období pro různé uživatele, můžete jim nastavit data v okně **Nastavení uživatelů**. Pokud zadáte data v okně **Nastavení uživatelů**, tak se data zadány v okně **Nastavení financí** na tyto uživatele nepoužijí.
 
 
 ## <a name="see-also"></a>Viz také

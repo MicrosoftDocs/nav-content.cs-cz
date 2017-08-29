@@ -23,7 +23,7 @@ Když vaši zákazníci provedli platby na váš bankovní účet, musíte vyrov
 
 Okno **Registrace plateb** je navrženo tak, aby vám pomohlo při úkonech při vyrovnávacích vnitřních účtech pomocí skutečných peněžních údajů, abyste se ujistili, že platby jsou vybírány od zákazníků efektivně. Tento nástroj pro zpracování plateb vám umožňuje rychle ověřit a zaúčtovat jednotlivé nebo jednorázové platby, zpracovat slevové platby a najít konkrétní nezaplacené doklady, pro které byla úhrada vytvořena.
 
-Platby pro různé zákazníky, které mají různé datum platby, musí být zaúčtovány jako jednotlivé platby. Platby pro stejného zákazníka, které mají stejné datum platby, můžete zaúčtovat jako jednorázovou platbu. To je užitečné, například když zákazník provedl jednu platbu, která pokrývá více prodejních faktur.
+Platby pro různé zákazníky, které mají různé datum platby, musí být zaúčtovány jako jednotlivé platby. Platby pro stejného zákazníka, které mají stejné datum platby, můžete zaúčtovat jako jednorázovou platbu. To je užitečné například když zákazník provedl jednu platbu, která pokrývá více prodejních faktur.
 
 ## <a name="to-set-up-the-payment-registration-journal"></a>Nastavení deníku pro registraci plateb
 Protože můžete zaúčtovat různé typy plateb do různých vyrovnávacích účtů, musíte vybrat vyrovnávací účet v okně **Nastavení registrace plateb** předtím, než začnete zpracovávat platby zákazníků. Pokud vždy zaúčtujete na stejný vyrovnávací účet, můžete tento účet nastavit jako výchozí a vyhýbat se tomuto kroku pokaždé, když otevřete okno **Registrace plateb**.
@@ -78,51 +78,51 @@ Tento postup vysvětluje čtyři různé postupy pro zaúčtování slev plateb 
 - Výše platby je nižší než zbývající slevová částka. Platbu zaúčtujete jako částečnou. Dokument zůstává otevřený pro vybírání/zaplacení zbývající částky.
 - Výše platby je vyšší než zbývající slevová částka. Platby zaúčtujete tak, jak jsou. Pouze zbývající částka je zaúčtována. Dodatečná částka je připsána zákazníkovi.
 
-## <a name="to-process-a-payment-amount-that-is-equal-to-the-discounted-amount-and-where-the-payment-date-is-before-the-discount-date"></a>Zpracování částky platby, která se rovná slevové částce a kde je datum platby před datem slevy
+## <a name="to-process-a-payment-amount-that-is-equal-to-the-discounted-amount-and-where-the-payment-date-is-before-the-discount-date"></a>Zpracování části platby, která se rovná slevové částce a kde je datum platby před datem slevy
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Registrace plateb** a pak vyberte související odkaz.  
-2. Zadejte částku platby do pole **Přijatá částka**. Částka se rovná částce v poli **Rem. Amt. after Discount. **
+2. Zadejte částku platby do pole **Přijatá částka**. Částka se rovná částce v** poli Rem. Amt. after Discount**.
 
     Zaškrtávací políčko **Platba provedena** se automaticky vybere a pole **Datum přijetí** je vyplněno datem práce.
-3. Do pole **Datum přijetí** zadejte datum platby. Datum je před datem v poli **Pmt. Discount Date. **
+3. Do pole **Datum přijetí** zadejte datum platby. Datum je před datem v** poli Pmt. Discount Date**.
 4. Ověřte, zda pole **Zbývající částka** obsahuje nula (0).  
-5. Zvolte akci **Účtovat platby** chcete-li zaúčtovat celou platbu do hlavní knihy, banky a účtů zákazníka.
+5. Zvolte akci **Účtovat platby**, chcete-li zaúčtovat celou platbu do hlavní knihy, banky a účtů zákazníka.
 
 Související dokument je uzavřen.
 
-## <a name="to-process-a-payment-amount-that-is-equal-to-the-discounted-amount-but-where-the-payment-date-is-after-the-discount-date"></a>Zpracování částky platby, která se rovná slevové částce, ale datum platby je po datu slevy
+## <a name="to-process-a-payment-amount-that-is-equal-to-the-discounted-amount-but-where-the-payment-date-is-after-the-discount-date"></a>Zpracování části platby, která se rovná slevové částce, ale datum platby je po datu slevy
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Registrace plateb** a pak vyberte související odkaz.  
-2. Zadejte částku platby do pole **Přijatá částka**. Částka se rovná částce v poli **Rem. Amt. after Discount. **
+2. Zadejte částku platby do pole **Přijatá částka**. Částka se rovná částce v** poli Rem. Amt. after Discount**.
 
     Zaškrtávací políčko **Platba provedena** se automaticky vybere a pole **Datum přijetí** je vyplněno datem práce.
-3. Do pole **Datum přijetí** zadejte datum platby, které je po datu v poli **Pmt. Dicsount Date. ** Políčka data se změní na červené písmo a v dolní části okna se zobrazí chybová zpráva.
+3. Do pole **Datum přijetí** zadejte datum platby, které je po datu v** poli Pmt. Dicsount Date**. Políčka data se změní na červené písmo a v dolní části okna se zobrazí chybová zpráva.
 
     **Tip**: Chcete-li udělat výjimku a udělit slevu, i když je úhrada vytvořena, pak postupujte následovně:  
 4. Zvolte akci **Detaily**.  
-5. V okně **Detaily registrace plateb** v poli **Pmt. Discount Date **na záložce s náhledem **Platební sleva**, zadejte datum, které je po datu v poli **Datum přijetí** v okně **Registrace platby**.
+5. V okně **Detaily registrace plateb** v poli **Pmt. Discount Date na **záložce s náhledem **Platební sleva**, zadejte datum, které je po datu v poli **Datum přijetí** v okně **Registrace platby**.
 
     Chybová zpráva a červené písmo zmizí a můžete pokračovat v zpracování slevové platby.
 6. Ověřte, zda pole **Zbývající částka** obsahuje částku, která zbývá zaplatit do celé částky faktury.  
-7. Zvolte akci **Zaúčtování plateb** chcete-li zaúčtovat částečnou platbu do hlavní knihy, banky a účtů zákazníka.  
+7. Zvolte akci **Zaúčtování plateb**, chcete-li zaúčtovat částečnou platbu do hlavní knihy, banky a účtů zákazníka.  
 Související doklad zůstává otevřený.
 
 ## <a name="to-process-a-payment-that-is-lower-than-the-remaining-discounted-amount"></a>Zpracování platby, která je nižší než zbývající slevová částka
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Registrace plateb** a pak vyberte související odkaz.  
-2. Zadejte částku platby do pole **Přijatá částka**. Částka je nižší než částka v poli **Rem. Amt. After Discount. **
+2. Zadejte částku platby do pole **Přijatá částka**. Částka je nižší než částka v** poli Rem. Amt. After Discount**.
 
     Zaškrtávací políčko **Platba provedena** se automaticky vybere a pole **Datum přijetí** je vyplněno datem práce.
-3. Do pole **Datum přijetí** zadejte datum platby. Datum je před datem v poli **Pmt. Discount Date. **
+3. Do pole **Datum přijetí** zadejte datum platby. Datum je před datem v** poli Pmt. Discount Date**.
 4. Ověřte, zda pole **Zbývající částka** obsahuje částku, která zůstává k zaplacení slevové částky.  
-5. Zvolte akci **Zaúčtování plateb** chcete-li zaúčtovat částečnou platbu do hlavní knihy, banky a účtů zákazníka.  
+5. Zvolte akci **Zaúčtování plateb**, chcete-li zaúčtovat částečnou platbu do hlavní knihy, banky a účtů zákazníka.  
 Související doklad zůstává otevřený.
 
 ## <a name="to-process-a-payment-that-is-more-than-the-remaining-discounted-amount"></a>Zpracování platby, která je vyšší než zbývající slevová částka
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Registrace plateb** a pak vyberte související odkaz.  
-2. Zadejte částku platby do pole **Přijatá částka**. Částka je vyšší než částka v poli **Rem. Amt after Discount. **
+2. Zadejte částku platby do pole **Přijatá částka**. Částka je vyšší než částka v** poli Rem. Amt after Discount**.
 
     Zaškrtávací políčko **Platba provedena** se automaticky vybere a pole **Datum přijetí** je vyplněno datem práce.
-3. Do pole **Datum přijetí** zadejte datum platby. Datum je před datem v poli **Pmt. Discount Date. **
+3. Do pole **Datum přijetí** zadejte datum platby. Datum je před datem v** poli Pmt. Discount Date**.
 4. Ověřte, zda pole **Zbývající částka** obsahuje nulu (0).  
-5. Zvolte akci **Účtovat platby** chcete-li zaúčtovat celou platbu do hlavní knihy, banky a účtů zákazníka.
+5. Zvolte akci **Účtovat platby**, chcete-li zaúčtovat celou platbu do hlavní knihy, banky a účtů zákazníka.
 
 Související dokument je uzavřen a zákazníkovi je připsána částka nadměrné platby.
 
@@ -140,7 +140,7 @@ Následující postup vysvětluje, jak najít konkrétní doklad pomocí obou kr
 
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Registrace plateb** a pak vyberte související odkaz.
 2. Pomocí ukazatele na libovolném řádku vyberte akci **Najít doklad**.
-3. V okně **Najít doklad** zadejte vyhledávací hodnotu v poli **Číslo dokladu**. field.
+3. V okně **Najít doklad** zadejte vyhledávací hodnotu v poli **Číslo dokladu**.
 
     **Poznámka**: Hodnota zadaná v tomto poli je uzavřena ve skrytých zástupných znacích. To znamená, že funkce vyhledá všechna čísla dokladů, které obsahují zadanou hodnotu.
 4. Do pole **Částka** zadejte konkrétní částku, která existuje v dokladu, který chcete najít.  

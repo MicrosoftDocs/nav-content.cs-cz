@@ -23,16 +23,16 @@ Můžete například upravit velikost a polohu libovolného okna, rozbalit ší�
 
 Následující tabulka obsahuje některé obecné funkce s odkazy na témata, která je popisují.
 
-|Pro |Viz |
+|Popis |Odkaz |
 |---|----|
-|Změnu základního nastavení, např. datum společnosti nebo pracovní datum.|[Změna základních nastavení](ui-change-basic-settings.md)|
+|Změna základního nastavení, např. datum společnosti nebo pracovní datum.|[Změna základních nastavení](ui-change-basic-settings.md)|
 |Informace o zahrnutí symbolů a speciálních znaků při vyhledávání dat. |[Zadávání kritérií ve filtrech.](ui-enter-criteria-filters.md)|
 |Zjištění, která pole musí být vyplněna.|[Povinná pole](ui-mandatory-fields.md)|
 |Použití funkce vyhledat, když hledáte konkrétní stránku nebo přehled.|[Použití funkce Hledat stránku nebo sestavu](ui-search.md)|
 |Informace o tom, jak řadit data.|[Řazení](ui-sorting.md)|
 |Informace o tom, jak nastavit sestavy pro tisk specifickým způsobem.|[Zadání výběru tiskáren pro sestavy](ui-specify-printer-selection-reports.md)|
-|Modifikaci barevného indikátoru na hromádkách. |[Návody: Nastavení barevného indikátoru v Hromádkách](ui-how-setup-colored-indicator-cues.md)|
-|Změnu způsobu zobrazování seznamů například zákazníků, dodavatelů nebo zboží.|[Zobrazení seznamu v různých zobrazeních. ](across-display-lists-different-views.md)|
+|Modifikaci barevného indikátoru hromádek.|[Návod: Nastavení barevného indikátoru v Hromádkách](ui-how-setup-colored-indicator-cues.md)|
+|Změna způsobu zobrazování seznamů například zákazníků, dodavatelů nebo zboží.|[Zobrazení seznamu v různých zobrazeních. ](across-display-lists-different-views.md)|
 
 ## <a name="see-also"></a>Viz také
 [V obchodních oblastech](ui-across-business-areas.md)

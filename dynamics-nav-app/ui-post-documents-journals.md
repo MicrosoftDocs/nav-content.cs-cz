@@ -1,5 +1,5 @@
 ---
-title: "Zaúčtování dokladů a deníků"
+title: "Účtování dokladů a deníků"
 author: SusanneWindfeldPedersen
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,10 +16,10 @@ ms.lasthandoff: 07/19/2017
 
 ---
     
-# <a name="post-documents-and-journals"></a>Zaúčtování dokladů a deníků
-Účtování představuje účetní akci při zaznamenávání obchodních transakcí v různých firemních registrech.
+# <a name="post-documents-and-journals"></a>Účtování dokladů a deníků
+Účtování představuje účetní akci při zaznamenávání obchodních transakcí v různých firemních denících.
 
-Prakticky každý doklad a deník v Dynamics NAV nabízí **Účto skupinu** ze které můžete vybírat mezi různými účtovacími akcemi, jako je akce **Účtovat**, **Náhled účtování**, **Účtování a odeslání**, **Účtování a e-mail**.
+Prakticky každý doklad a deník v Dynamics NAV nabízí **Účtování** ze které můžete vybírat mezi různými účtovacími akcemi, jako je akce **Účtovat**, **Náhled účtování**, **Účtovat a odeslat**, **Účtovat a odeslat e-mailem**.
 
 Následující tabulka popisuje související úlohy s odkazy na témata, které je popisují.
 
@@ -28,8 +28,8 @@ Následující tabulka popisuje související úlohy s odkazy na témata, které
 |Informace o účtování nákupních dokladů. |[Účtování nákupů](ui-post-purchases.md)| 
 |Informace o účtování prodejních dokladů.|[Účtování prodeje](ui-post-sales.md)|
 |Informace o účtování finančních deníků. |[Práce s finančními deníky](ui-work-general-journals.md)|
-|Náhled v okně položky, které budou vytvořeny po odeslání.|[Návody: Náhled výsledků účtování ](ui-how-preview-post-results.md)|
-|Náhled, v sestavě, položky které budou vytvořeny když účtujete.|[Návody: Zobrazení testovacích sestav před zaúčtováním](ui-how-view-test-reports-posting.md)|
+|Náhled v okně položky, které budou vytvořeny po odeslání.|[Návod: Náhled výsledků účtování ](ui-how-preview-post-results.md)|
+|Náhled, v sestavě, položky které budou vytvořeny když účtujete.|[Návod: Zobrazení testovacích sestav před zaúčtováním](ui-how-view-test-reports-posting.md)|
 
 ## <a name="see-also"></a>Viz také
 [V obchodních oblastech](ui-across-business-areas.md)

@@ -1,5 +1,5 @@
 ---
-title: "Vytváření číselných řad."
+title: "Vytváření číselných řad"
 author: SusanneWindfeldPedersen
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,7 +16,7 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="create-number-series"></a>Vytváření číselných řad.
+# <a name="create-number-series"></a>Vytváření číselných řad
 
 Pro každou společnost, kterou jste založili, musíte přiřadit jedinečné identifikační kódy věcem, jako jsou účty hlavní knihy, účty zákazníků a dodavatelů, faktury a dokumenty. Číslování je důležité nejen pro identifikaci, dobře navržený systém číslování také usnadňuje správu a snadnou analýzu společnosti a může snížit počet chyb, ke kterým dochází při zadávání dat.
 
@@ -26,11 +26,11 @@ Můžete kombinovat použití číselných řad s manuálním číslováním.
 
 Systém číslování vytvoříte nastavením jednoho nebo více kódů pro každý typ hlavních dat nebo dokumentu. Například můžete nastavit jeden kód pro číslování zákazníků, jiný kód pro číslování prodejních faktur a další kód pro číslování dokumentů ve všeobecných denících.
 
-Pokud nastavíte kód musíte nastavit alespoň jednu číselnou řadu. Řádek číselné řady obsahuje informace jako první a poslední číslo v sérii a počáteční datum. Můžete nastavit více než jednu číselnou řadu pro každý kód číselné řady s jiným počátečním datem pro každý řádek. Řady budou použity postupně, počínaje každou sérií v příslušném počátečním datu.
+Pokud nastavíte kód, musíte nastavit alespoň jednu číselnou řadu. Řádek číselné řady obsahuje informace jako první a poslední číslo v sérii a počáteční datum. Můžete nastavit více než jednu číselnou řadu pro každý kód číselné řady s jiným počátečním datem pro každý řádek. Řady budou použity postupně počínaje každou sérií v příslušném počátečním datu.
 
-Chcete-li pro jeden typ hlavních dat použít více než jeden kód číselné řady - například chcete-li použít různé číselné řady pro různé kategorie zboží - můžete použít vztahy číselných řad
+Chcete-li pro jeden typ hlavních dat použít více než jeden kód číselné řady - například chcete-li použít různé číselné řady pro různé kategorie zboží - můžete použít vztahy číselných řad.
 
-Vedle čísel, které přiřadíte ručně nebo pomocí systému číslování, jsou všechny transakce (záznamy v knihách) automaticky přiděleny po sobě jdoucím číslům. Tyto čísla můžete vidět v políčku **Číslo položky** V okně souvisejících položek. Nemůžete editovat nebo mazat tyto čísla.
+Vedle čísel, které přiřadíte ručně nebo pomocí systému číslování, jsou všechny transakce (záznamy v knihách) automaticky přiděleny po sobě jdoucím číslům. Tyto čísla můžete vidět v políčku **Číslo položky** v okně souvisejících položek. Nemůžete editovat nebo mazat tyto čísla.
 
 ## <a name="to-create-relationships-between-number-series"></a>Vytváření vztahů mezi číselnými řadami
 Pokud jste nastavili více než jednu číselnou řadu pro stejný druh informací nebo transakcí, můžete vytvářet vztahy mezi kódy. Tato funkce vám pomůže  při rozhodování mezi kódy pokud používáte čísla.

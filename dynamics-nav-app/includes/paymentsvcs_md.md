@@ -1,1 +1,1 @@
-Payment Services for Microsoft Dynamics ERP
+Platební služby pro Microsoft Dynamics ERP

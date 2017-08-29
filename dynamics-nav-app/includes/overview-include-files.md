@@ -1,6 +1,6 @@
 
 ---
-title: Zahrnout soubory
+title: "Zahrnuté soubory"
 ms.custom: na
 ms.date: 09/28/2016
 ms.reviewer: na
@@ -19,9 +19,9 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="include-files"></a>Zahrnout soubory
+# <a name="include-files"></a>Zahrnuté soubory
 
-Tato tabulka obsahuje výrazy ZAHRNOUT přidružené k obsahu zahrnutého souboru pro snadnější kopírování/vkládání dokumentace.
+Tato tabulka obsahuje ZAHRNUTÉ výrazy přidružené k obsahu zahrnutého souboru pro snadnější kopírování/vkládání dokumentace.
 
 |Název souboru   |Obsah  |
 |------------|---------|

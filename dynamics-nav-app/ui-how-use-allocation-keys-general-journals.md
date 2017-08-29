@@ -1,5 +1,5 @@
 ---
-title: "Návody: Použití rozdělovacích klíčů ve finančních denících."
+title: "Návod: Použití rozdělovacích klíčů ve finančních denících."
 author: edupont04
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,14 +16,14 @@ ms.lasthandoff: 07/19/2017
 
 ---
 
-#  <a name="how-to-use-allocation-keys-in-general-journals"></a>Návody: Použití rozdělovacích klíčů ve finančních denících.
+#  <a name="how-to-use-allocation-keys-in-general-journals"></a>Návod: Použití rozdělovacích klíčů ve finančních denících.
 Když zaúčtováváte finanční deník, můžete přidělit  položku několika různým účtům.  Rozdělení může být provedeno podle množství, procent nebo částky.
 
 ## <a name="to-set-up-allocation-keys"></a>Nastavení rozdělovacích klíčů 
 1. V pravém horním rohu vyberte ikonu **Hledat stránku nebo sestavu**, zadejte **Periodický finanční deník**, a pak zvolte související odkaz.
 2. Zvolte pole **Název dávky** a otevřete okno **Dávky finančního deníku**.
 3. Můžete buď upravit rozdělení v existující dávce v seznamu nebo vytvořit novou dávku s přiděleními.
-  * Chcete-li vytvořit novou dávku, zvolte akci **Nové** a přejděte k dalšímu kroku.
+  * Chcete-li vytvořit novou dávku, zvolte akci **Nový** a přejděte k dalšímu kroku.
   * Chcete-li změnit rozdělení existujícího deníku, vyberte deník a přejděte ke kroku 7.    
 4. Do pole **Název** zadejte název dávky, například ČIŠTĚNÍ. Do pole **Popis** zadejte popis, například Deník výdajů za úklid.
 5. Až budete hotoví, zavřete okno. Otevře se nový prázdný periodický deník. 

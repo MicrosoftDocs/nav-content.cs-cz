@@ -21,10 +21,10 @@ Pokud nakoupíte od dodavatele v jedné měně a odešlete v druhé měně, mů�
 
 Když prodáte zákazníkovi v jedné měně a obdržíte platbu v druhé měně, můžete použít platbu k prodejní faktuře.
 
-Následující procedura popisuje, jak nastavit pro položky dodavatele v okně **Nastavení nákupů a závazků**. Nastavení je podobné pro položky zákazníka v okně **Nastavení prodeje a pohledávek**.
+Následující procedura popisuje, jak nastavit pro položky dodavatele v okně **Nastavení nákupu a závazků**. Nastavení je podobné pro položky zákazníka v okně **Nastavení prodeje a pohledávek**.
 
 ## <a name="to-enable-application-of-vendor-ledger-entries-in-different-currencies"></a>Umožnění vyrovnání položek v různých měnách
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Nastavení nákupů a závazků** a zvolte související odkaz.
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Nastavení nákupu a závazků** a zvolte související odkaz.
 2. V poli **Vyrovnání mezi měnami** vyberte jednu z následujících možností.
 
 |Volba |Popis |

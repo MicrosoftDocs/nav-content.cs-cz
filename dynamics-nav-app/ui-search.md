@@ -17,7 +17,7 @@ ms.lasthandoff: 07/19/2017
 ---
 
 # <a name="using-search-for-page-or-report"></a>Použití funkce Hledat stránku nebo sestavu
-Můžete najít libovolnou stránku, sestavu nebo zobrazení pomocí ikony **Hledat stránku nebo sestavu** v pravém horním rohu panelu Adresa.
+Můžete najít libovolnou stránku, sestavu nebo zobrazení pomocí ikony **Hledat stránku nebo sestavu** v pravém horním rohu adresního panelu.
 Když začnete psát znaky, rozevírací seznam zobrazuje názvy stránek, které obsahují znaky, které zadáváte. Rozbalovací seznam se mění, jak zadáváte více znaků a z tohoto seznamu můžete vybrat správnou stránku jakmile se zobrazí.  Druhý sloupec v rozevíracím seznamu zobrazuje navigační cesty k nalezeným stránkám.
 
 **Poznámka**: **Hledat stránku nebo sestavu** neprohledává data, například jména zákazníků, adresy nebo transakce. Chcete-li vyhledat data, můžete použít vyhledávání spojené se stránkou. To je znázorněno symbolem lupy umístěném v pravém horním rohu stránky. Další informace o používání tohoto typu vyhledávání naleznete v části [Zadávání kritérií ve filtrech](ui-enter-criteria-filters.md).

@@ -1,5 +1,5 @@
 ---
-title: "Návody: Nastavení nákupčích"
+title: "Návod: Nastavení nákupčích"
 author: SorenGP
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,7 +16,7 @@ ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-set-up-purchasers"></a>Návody: Nastavení nákupčích
+# <a name="how-to-set-up-purchasers"></a>Návod: Nastavení nákupčích
 Pokud ve vaší společnosti pracuje více nákupčích, můžete je v okně nastavit a přiřadit každému kód. Kódy pak můžete použít k přípravě statistik a k filtrování informací v tištěných sestavách.
 
 ## <a name="to-set-up-purchasers"></a>Nastavení nákupčích

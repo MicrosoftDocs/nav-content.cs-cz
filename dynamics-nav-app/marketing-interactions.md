@@ -26,18 +26,18 @@ Oblast správce vztahů vám umožňuje zaznamenat všechny interakce, které m�
 
 ## <a name="set-up-interaction-templates"></a>Nastavení šablon interakcí
 Než budete moci vytvořit interakce, musíte nastavit šablony interakcí. Při vytváření interakcí musíte zadat šablony interakcí, na kterých jsou založeny. Šablona interakce je model, který definuje základní charakteristiky interakce.
-Nastavujete šablonu interakcí  v okně **Šablony interakcí**.  
+Nastavujete šablonu interakcí  v okně **Šablony interakce**.  
 
 ## <a name="create-interactions"></a>Vytvoření interakcí
 Existují dva způsoby zaznamenávání interakcí:
 
-* Můžete ručně vytvořit interakce, které jsou spojeny s jediným kontaktem nebo se segmentem. Další informace naleznete v tématu [Návod: Vytvoření interakcí s kontakty a segmenty](marketing-how-create-interactions.md).  
+* Můžete ručně vytvořit interakce, které jsou spojeny s jediným kontaktem nebo se segmentem. Pro další informace viz [Návod: Vytvoření interakcí s kontakty a segmenty](marketing-how-create-interactions.md).  
 * Můžete automaticky zaznamenávat interakce, když provádíte akce v aplikaci, například když tisknete fakturu nebo nabídku. Další informace naleznete v tématu [Automatické zaznamenání interakcí s kontakty](marketing-auto-record-interactions.md).
 
 ## <a name="view-and-manage-recorded-interactions"></a>Zobrazení a správa zaznamenaných interakcí
 Můžete zobrazit všechny zaznamenané interakce, které nebyly odstraněny v okně **Položky protokolu interakce**. Toto okno můžete otevřít:
 
-* Použitím ikony **Vyhledat stránku nebo sestavu** k vyhledání v **Položkách protokolu interakce**.
+* Použitím ikony **Vyhledat stránku nebo sestavu** k vyhledání v **Položky protokolu interakce**.
 * Volba akce **Položky protokolu interakce** s kontaktem nebo segmentem.
 Okno **Položka protokolu interakce** obsahuje interakce, které vytvoříte ručně, a interakce, které aplikace zaznamenává automaticky.
 

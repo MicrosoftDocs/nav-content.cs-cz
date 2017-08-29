@@ -17,7 +17,7 @@ ms.lasthandoff: 07/19/2017
 ---
 
 # <a name="posting-purchases"></a>Účtování nákupů
-V **Účto skupině** na nákupním dokladu si můžete vybrat mezi následujícími funkcemi:
+Ve skupině **Účtování** na nákupním dokladu si můžete vybrat mezi následujícími funkcemi:
 
 - **Účtovat**
 - **Náhled účtování**
@@ -29,11 +29,11 @@ Po dokončení všech řádků a zadání všech informací na objednávce ji m�
 
 Po zaúčtování nákupní objednávky se aktualizují účty dodavatele, hlavní knihy a položky zboží.
 
-U každé nákupní objednávky, je nákupní položka vytvořena v tabulce **Věcných položek** Položka je také vytvořena v účtu dodavatele v tabulce **Položek dodavatele** a věcná položka je vytvořena na příslušném účtu závazků. Kromě toho může zaúčtování objednávky vést k položce DPH a věcné položce pro částku slevy.  Zda je položka pro slevu zaúčtována, závisí na obsahu pole **Účtování slevy** v okně **Nastavení nákupů a závazků**.
+U každé nákupní objednávky, je nákupní položka vytvořena v tabulce **Věcných položek**. Položka je také vytvořena v účtu dodavatele v tabulce **Položek dodavatele** a věcná položka je vytvořena na příslušném účtu závazků. Kromě toho může zaúčtování objednávky vést k položce DPH a věcné položce pro částku slevy.  Zda je položka pro slevu zaúčtována, závisí na obsahu pole **Účtování slevy** v okně **Nastavení nákupů a závazků**.
 
 Pro každý řádek nákupní objednávky bude vytvořena položka zboží v tabulce **Položky zboží** (pokud budou řádky nákupu obsahovat čísla zboží) nebo bude vytvořena věcná položka v tabulce **Věcných položek** (pokud budou řádky nákupu obsahovat finanční účet). Kromě toho jsou nákupní objednávky vždy zaznamenávány v tabulkách **Hlavička rekapitulace nákupu a   Hlavička nákupní faktury**.**  **
 
-Než začnete účtování, můžete vytisknout testovací sestavu, která obsahuje všechny informace v nákupní objednávce a označuje případné chyby. Chcete-li sestavu vytisknout, zvolte možnost **Účtování** a poté zvolte **Testovat sestavu**.
+Než začnete účtovat, můžete vytisknout testovací sestavu, která obsahuje všechny informace v nákupní objednávce a označuje případné chyby. Chcete-li sestavu vytisknout, zvolte možnost **Účtovat** a poté zvolte **Testovací sestava**.
 
 **Důležité**: Když zaúčtujete objednávku, můžete vytvořit jak příjemku, tak fakturu.  To může být provedeno současně nebo nezávisle. Můžete také vytvořit částečnou příjemku a částečnou fakturu tím, že předtím než účtujete, vyplníte pole **Množ. k příjmu** a **Množ. k fakturaci** na jednotlivých řádcích nákupní objednávky.  Všimněte si, že nemůžete vytvořit fakturu za něco, co nebylo přijato. To znamená, že předtím, než budete moci fakturovat, musíte mít zaznamenanou příjemku, nebo musíte vybrat přijmout a fakturovat současně. 
 

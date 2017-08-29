@@ -26,7 +26,7 @@ Použití obchodních vztahů na kontaktech je proces o dvou krocích. Nejprve d
 Kód obchodních vztahů definuje kategorii nebo typ obchodního vztahu, jako je například BANKA nebo PRÁVO. Můžete mít několik kódů obchodních vztahů. Chcete-li definovat obchodní vztah, použijete okno **Obchodní vztahy**.
 
 1. V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Obchodní vztahy** a pak vyberte související odkaz.
-2. Vyberte akci **Nové** a vyplňte kód a popis. Kód může mít maximálně 11 znaků a může obsahovat jakékoli kombinace čísel a písmen.
+2. Vyberte akci **Nový** a vyplňte kód a popis. Kód může mít maximálně 11 znaků a může obsahovat jakékoli kombinace čísel a písmen.
 
 ## <a name="assign-business-relations-to-a-contact"></a>Přiřazení obchodních vztahů ke kontaktu
 Nemůžete přiřadit obchodní vztahy ke kontaktním osobám - pouze společnosti.

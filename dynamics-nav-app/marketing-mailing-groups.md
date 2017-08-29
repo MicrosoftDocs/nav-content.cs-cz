@@ -28,16 +28,16 @@ Kód poštovní skupiny definuje typ nebo kategorii např. PŘESUN pro přesun k
 
 ## <a name="assign-mailing-groups-to-a-contact"></a>Přiřazení poštovní skupiny ke kontaktu
 1. Otevřete kontakt.
-2. Zvolte akci **Poštovní skupiny**. Otevře se okno **Kontaktování poštovních skupin**.
+2. Zvolte akci **Poštovní skupiny**. Otevře se okno **Poštovní skupiny kontaktu**.
 3. V poli **Kód poštovních skupin** vyberte poštovní skupiny, které chcete přiřadit.
 
 Opakujte tyto kroky, abyste přiřadili tolik poštovních skupin, kolik chcete. Poštovní skupiny můžete také přiřadit stejným postupem ze seznamu kontaktů.
 
-Počet poštovních skupin, které jste přidali ke kontaktu, se zobrazuje v poli **Počet poštovních skupin** v sekci **Segmentace** v okně **Kontakt**.
+Počet poštovních skupin, které jste přidali ke kontaktu, se zobrazuje v poli **Počet poštovních skupin** v sekci **Segmentace** v okně **Kontaktu**.
 
-Po přidělení poštovních skupin k vašim kontaktům můžete pomocí těchto informací vybrat kontakty pro vaše segmenty. Další informace naleznete v tématu [Návod: Přidání kontaktů do segmentů](marketing-add-contact-segment.md).
+Po přidělení poštovních skupin k vašim kontaktům můžete pomocí těchto informací vybrat kontakty pro vaše segmenty. Pro další informace viz [Návod: Přidání kontaktů do segmentů](marketing-add-contact-segment.md).
 
 ##<a name="see-also"></a>Viz také
-[Vytvoření kontaktních společností](marketing-create-contact-companies.md)  
+[Vytváření kontaktních společností](marketing-create-contact-companies.md)  
 [Vytvoření kontaktních osob](marketing-create-contact-persons.md)  
 
