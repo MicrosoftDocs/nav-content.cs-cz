@@ -29,16 +29,16 @@ Indexace se používá k úpravě více hodnot DM například na základě změn
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Finanční deník DM** a pak vyberte související odkaz.  
 2. Vytvořte počáteční řádek deníku a vyplňte pole podle potřeby.
 3. Do pole **Typ zaúčtování DM** vyberte **Zhodnocení**.
-4. Zvolte** možnost Vložit protiúčet DM**. Druhý řádek deníku je vytvořen pro vyrovnávací účet, který je nastaven pro zhodnocení zaúčtování.
+4. Zvolte možnost **Vložit protiúčet DM**. Druhý řádek deníku je vytvořen pro vyrovnávací účet, který je nastaven pro zhodnocení zaúčtování.
 
-    **Poznámka**: Krok 4 funguje pouze v případě, že jste nastavili následující: V okně **Karta účto skupiny DM** pro zaúčtování skupin DM, pole **Účet zhodnocení** obsahuje hlavní knihu účtu MD a pole **Protiúčet zhodnocení** obsahuje** **účet hlavní knihy, na který chcete zaúčtovat zůstatkové položky pro zhodnocení. Další informace naleznete v tématu "Nastavení skupin zaúčtování DM“ [Návod: Nastavení informací o obecném dlouhodobém majetku](fa-how-setup-general.md).
+    **Poznámka**: Krok 4 funguje pouze v případě, že jste nastavili následující: V okně **Karta účto skupiny DM** pro zaúčtování skupin DM, pole **Účet zhodnocení** obsahuje hlavní knihu účtu MD a pole **Protiúčet**** ****zhodnocení** obsahuje účet hlavní knihy, na který chcete zaúčtovat zůstatkové položky pro zhodnocení. Další informace naleznete v tématu "Nastavení skupin zaúčtování DM“ [Návod: Nastavení informací o obecném dlouhodobém majetku](fa-how-setup-general.md).
 5. Zvolte akci **Účtovat**.
 
 ## <a name="to-post-a-write-down-from-the-fixed-asset-gl-journal"></a>Zaúčtování snížení hodnoty z finančního deníku DM  
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Finanční deník DM** a pak vyberte související odkaz.  
 2. Vytvořte počáteční řádek deníku a vyplňte pole podle potřeby.
 3. Do pole **Typ zaúčtování DM** vyberte **Snížení hodnoty**.
-4. Zvolte** možnost Vložit protiúčet DM**. Druhý řádek deníku je vytvořen pro vyrovnávací účet, který je nastaven pro zaúčtování snížení hodnoty.
+4. Zvolte možnost **Vložit protiúčet DM**. Druhý řádek deníku je vytvořen pro vyrovnávací účet, který je nastaven pro zaúčtování snížení hodnoty.
 
     **Poznámka**: Krok 4 funguje pouze v případě, že jste nastavili následující: V okně **Karta účto skupiny DM** pro zaúčtování skupin DM, pole **Účet znehodnocení** obsahuje hlavní knihu účtu Dal a pole **Výdajový účet znehodnocení** obsahuje hlavní knihu účtu MD, na který chcete zaúčtovat zůstatkové položky pro snížení hodnoty. Další informace naleznete v tématu "Nastavení skupin zaúčtování DM“ [Návod: Nastavení informací o obecném dlouhodobém majetku](fa-how-setup-general.md).
 5. Zvolte akci **Účtovat**.
@@ -61,7 +61,7 @@ Indexace se používá k úpravě více hodnot DM, například na základě změ
 ## <a name="to-post-additional-acquisition-costs"></a>Zaúčtování doplňující pořizovací ceny
 Zaúčtování doplňující pořizovací ceny pro dlouhodobý majetek je stejné jako zaúčtování původní pořizovací ceny z nákupní faktury nebo z deníku DM. Další informace naleznete v tématu [Návod: Pořízení DM](fa-how-acquire.md).  
 
-Pokud již byl odpis vypočítán pro dlouhodobý majetek, vyberte zaškrtávací políčko **Odpis nákladů pořízení k tomu, **aby byla doplňující pořizovací cena snížena o odpis hodnoty při vyřazení v poměru k částce, o kterou již dříve získané dlouhodobé aktivum bylo odpisováno. To zajišťuje, že doba odpisování se nezmění.  
+Pokud již byl odpis vypočítán pro dlouhodobý majetek, vyberte zaškrtávací políčko **Odpis  nákladů pořízení** k tomu, aby byla doplňující pořizovací cena snížena o odpis hodnoty při vyřazení v poměru k částce, o kterou již dříve získané dlouhodobé aktivum bylo odpisováno. To zajišťuje, že doba odpisování se nezmění.  
 
 Procentní odpis je vypočten jako:  
 
@@ -86,7 +86,7 @@ Pokud jste vybrali zaškrtávací políčko **Odpisy od zúčt.data DM** na fakt
 
 *účetní hodnota x počet dnů odepisování / zbývající počet dnů odpisování = (4800 - 100) x 15/1410 = 50*
 
-Pokud jste vybrali zaškrtávací políčko **Odpis nákladů pořízení na **faktuře před zaúčtováním, tak se provede následující výpočet:  
+Pokud jste vybrali zaškrtávací políčko **Odpis nákladů pořízení** na faktuře před zaúčtováním, tak se provede následující výpočet:  
 
 *Doplňující pořizovací náklady jsou odepisovány ((150 x 100) / 4800) / 100 x 480 = 15*
 

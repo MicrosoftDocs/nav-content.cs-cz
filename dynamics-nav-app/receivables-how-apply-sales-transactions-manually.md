@@ -51,13 +51,13 @@ Můžete také vyrovnat platby zákazníků a platby dodavatelů v okně **Dení
 2. Na prvním řádku deníku zadejte příslušné informace o položce, která má být vyrovnána.
 3. Do pole **Typ dokumentu** zadejte **Platba**.
 4. V poli **Typ účtu** vyberte **Zákazník**.
-5. V poli **Typ protiúčtu **vyberte **Bankovní účet**.
+5. V poli **Typ Protiúčtu** vyberte **Bankovní účet**.
 6. V poli **Číslo vyrovnání dokladu vyberte pole** k otevření okna **Položky vyrovnání zákazníka**.
 7. V okně **Vyrovnat položky zákazníka** vyberte položku, na kterou chcete platbu vyrovnat.
 8. Do pole **Částka k vyrovnání** zadejte částku, kterou chcete vyrovnat pro položku. Pokud nezadáte částku, vyrovná se maximum částky.
 
     V dolní části okna **Vyrovnat položky zákazníka** můžete vidět konkrétní částku v poli **Vyrovnaná částka** a také zda se vyrovná zůstatek.
-9. Zvolte tlačítko **OK**. Okno **Deník přijaté hotovosti** nyní zobrazuje položku, kterou jste vybrali,** zadanou v** Polích Typ vyrovnání dokladu**** a **Číslo vyrovnání dokladu**.
+9. Zvolte tlačítko **OK**. Okno **Deník přijaté hotovosti** nyní zobrazuje položku, kterou jste vybrali, zadanou v polích **Typ vyrovnání dokladu** a **Číslo vyrovnání** **dokladu**.
 10. Zaúčtujte deník přijaté hotovosti.
 
 ## <a name="to-apply-a-payment-to-multiple-customer-ledger-entries"></a>Vyrovnání platby pro více položek knihy zákazníka
@@ -65,7 +65,7 @@ Můžete také vyrovnat platby zákazníků a platby dodavatelů v okně **Dení
 2. Na prvním řádku deníku zadejte příslušné informace o položce, která má být vyrovnána.
 3. Do pole **Typ dokumentu** zadejte **Platba**.
 4. V poli **Typ účtu** vyberte **Zákazník**.
-5. V poli **Typ protiúčtu **vyberte **Bankovní účet**.
+5. V poli **Typ Protiúčtu** vyberte **Bankovní účet**.
 6. Do pole **Částka** zadejte úplnou platbu jako zápornou částku.
 7. Chcete-li platbu zaúčtovat na více položek knihy zákazníka, zvolte akci **Vyrovnat položky**.
 8. Vyberte řádek s položkami, které chcete vyrovnat a potom vyberte akci **Nastavit ID vyrovnání**.
@@ -78,11 +78,11 @@ Můžete také vyrovnat platby zákazníků a platby dodavatelů v okně **Dení
 ## <a name="to-apply-a-credit-memo-to-a-single-customer-ledger-entry"></a>Použití dobropisů k položce knihy jednoho zákazníka
 1. V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Prodejní dobropisy** a pak vyberte související odkaz.
 2. Otevřete relevantní prodejní dobropis.
-3. Chcete-li vyrovnat dobropis pro položku knihy jednoho zákazníka při zaúčtování, v poli **Číslo vyrovnání dokladu ** vyberte položku, na kterou chcete vyrovnat platbu.
+3. Chcete-li vyrovnat dobropis pro položku knihy jednoho zákazníka při zaúčtování, v poli **Číslo vyrovnání dokladu** vyberte položku, na kterou chcete vyrovnat platbu.
 4. Na řádku v poli **Částka k vyrovnání** zadejte částku, kterou chcete vyrovnat pro položku.
 
     Pokud nezadáte částku, program automaticky použije maximum částky. V dolní části okna **Vyrovnat položky zákazníka** můžete vidět konkrétní částku v poli **Vyrovnaná částka** a také zda se vyrovná zůstatek.
-5. Zvolte tlačítko **OK**. Okno **Prodejní dobropisy** nyní zobrazuje položku, kterou jste vybrali,** zadanou** v polích Typ vyrovnání dokladu**** a **Číslo vyrovnání dokladu**. a částka dobropisu k zaúčtování je upravená o případné slevy na platbu.
+5. Zvolte tlačítko **OK**. Okno **Prodejní dobropisy** nyní zobrazuje položku, kterou jste vybrali, zadanou v polích **Typ vyrovnání Dokladu** a **Číslo vyrovnání** **dokladu**. a částka dobropisu k zaúčtování je upravená o případné slevy na platbu.
 6. Zaúčtujte dobropis.
 
 ## <a name="to-apply-a-credit-memo-to-multiple-customer-ledger-entries"></a>Vyrovnání dobropisu na více položek knihy zákazníka

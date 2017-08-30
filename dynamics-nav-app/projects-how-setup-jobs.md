@@ -22,7 +22,7 @@ V okně **Nastavení projektů** musíte určit, jak chcete používat určité 
 Na jednotlivých kartách projektu musíte nastavit ceny pro položky projektu, zdroje a finanční účty projektu, zároveň musíte nastavit účto skupiny projektu.
 
 ## <a name="to-set-general-information-for-jobs"></a>Nastavení obecných informací pro projekty
-1. V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu** , zadejte **Nastavení projektů** a zvolte související odkaz.
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Nastavení projektů** a zvolte související odkaz.
 2. Vyplňte pole podle potřeby. Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.
 
 **Poznámka**: Zaškrtávací políčko **Apply Usage Link** je poměrně složité, a proto je vysvětleno v následující části.
@@ -32,11 +32,11 @@ Když pracujete na projektu, možná budete chtít vědět, jak spotřeba odpov�
 
 Pokud zaškrtnete políčko **Apply Usage Link** , můžete zobrazit informace o řádku plánování projektu. Můžete nastavit množství zdrojů, zboží nebo finančních účtů a pak uvést, jaké množství chcete převést do deníku projektu. Pole **Zbývající množství** na řádku plánování projektu vám poví, co má být zbývá přenést a zaúčtovat do deníku projektu.
 
-Pokud je zaškrtnuto políčko **Apply Usage Link** a typ řádku plánování projektu je **Fakturovatelný** , Finance vytvoří řádek plánování projektu typu **Rozpočet** poté co zaúčtujete řádek deníku.
+Pokud je zaškrtnuto políčko **Apply Usage Link** a typ řádku plánování projektu je **Fakturovatelný** , Finance vytvoří řádek plánování projektu typu **Rozpočet** poté, co zaúčtujete řádek deníku.
 
 **Poznámka**: Pokud je zaškrtnuto políčko **Apply Usage Link** na kartě projektu a pole **Typ řádku** na řádku deníku projektu je prázdné, tak se nové řádky plánování projektu typu **Rozpočet** vytvoří když zaúčtujete řádky deníku projektu. Pokud není zaškrtnuto políčko **Apply Usage Link** na kartě projektu a pole **Typ řádku** na řádku deníku projektu je prázdné, potom se řádky plánování projektu nevytvoří když zaúčtujete řádky deníku projektu. Pro další informace, viz [Návod: Záznam spotřeby pro Projekty](projects-how-record-job-usage.md) .
 
-1. V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu** , zadejte **Nastavení projektů** a zvolte související odkaz.
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Nastavení projektů** a zvolte související odkaz.
 2. Zaškrtněte nebo zrušte zaškrtnutí políčka **Apply Usage Link** .
 
 **Poznámka**: Můžete provést jiné nastavení zaškrtávacího pole **Apply Usage Link** jednotlivých kartách projektu. V takovém případě nastavení pro tento projekt přepíše obecné výchozí hodnoty popsané výše.
@@ -44,7 +44,7 @@ Pokud je zaškrtnuto políčko **Apply Usage Link** a typ řádku plánování p
 ## <a name="to-set-up-prices-for-job-resources"></a>Nastavení cen zdrojů projektu  
 Můžete nastavit konkrétní ceny zdrojů pro projekt. K tomu použijte okno **Ceny zdrojů projektu** .
 
-1. V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu**, zadejte **Projekty** a zvolte související odkaz.  
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Projekty** a zvolte související odkaz.  
 2. Vyberte příslušný projekt a poté vyberte akci **Zdroj** .
 3. V okně **Ceny zdrojů projektu** vyplňte pole podle potřeby.
 
@@ -57,7 +57,7 @@ Hodnota v poli **Jednotková cena** pro zdroj bude použita na řádcích pláno
 ## <a name="to-set-up-prices-for-job-items"></a>Nastavení cen pro položky projektu  
 Můžete nastavit konkrétní ceny zboží pro projekt. Chcete-li to provést, použijte okno **Ceny položek projektu** .
 
-1. V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu**, zadejte **Projekty** a zvolte související odkaz.  
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Projekty** a zvolte související odkaz.  
 2. Vyberte příslušný projekt a poté vyberte akci **Položka** .
 3. V okně **Ceny položek projektu** vyplňte pole podle potřeby.
 
@@ -70,7 +70,7 @@ Hodnota v poli **Jednotková cena** pro danou položku bude použita na řádcí
 ## <a name="to-set-up-prices-for-job-general-ledger-accounts"></a>Nastavení cen pro finanční účty projektu  
 Můžete nastavit konkrétní ceny pro finanční výdaje projektu K tomu použijete okno **Ceny Finančního účtu projektu** .
 
-1. V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu**, zadejte **Projekty** a zvolte související odkaz.  
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Projekty** a zvolte související odkaz.  
 2. Vyberte příslušný projekt a poté vyberte akci **Finanční účet** .  
 3. V okně **Ceny Finančního účtu projektu** vyplňte pole podle potřeby.
 

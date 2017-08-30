@@ -51,18 +51,18 @@ Pokud vás váš dodavatel informuje o fakturačních slevách, které poskytne,
 
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Dodavatelé** a zvolte související odkaz.
 2. Otevřete kartu dodavatele, který bude mít nárok na fakturační slevu.
-3. V poli **Kód fakturační slevy vyberte **kód pro příslušné podmínky fakturační slevy pro výpočet slev na fakturu pro dodavatele.
+3. V poli **Kód fakturační Slevy** vyberte kód pro příslušné podmínky fakturační slevy pro výpočet slev na fakturu pro dodavatele.
 
     **Poznámka**: Kódy fakturační slevy představují stávající karty dodavatele. To vám umožní rychle přiřadit podmínky fakturační slevy výběrem jména dalších dodavatelů, kteří budou mít stejné podmínky.
 
     Pokračujte v nastavení nových podmínek slevy na nákupní fakturu.
-4. V okně **Karta dodavatele** vyberte akci **Fakturační slevy**. Otevře se** okno Dod.fakturační slevy**.
+4. V okně **Karta dodavatele** vyberte akci **Fakturační slevy**. Otevře se okno **Dod.fakturační slevy**.
 5. Do pole **Kód měny** zadejte kód pro měnu, na kterou se využijí podmínky fakturační slevy na řádku. Nechte pole prázdné pro nastavení podmínek fakturační slevy v USD.
 6. V poli **Minimální částka** zadejte minimální částku, kterou musí mít faktura pro slevu.
 7. V poli **Sleva %** zadejte fakturační slevu jako procento částky faktury.
 8. Opakujte kroky 5 až 7 pro každou měnu, na kterou dodavatel obdrží jinou fakturační slevu.
 
-Fakturační sleva je nyní nastavena a přidělena danému dodavateli. Když vyberete kód dodavatele v poli **Kód fakturační slevy na **ostatních kartách dodavatelů, stejná fakturační sleva je přidělena těmto dodavatelům.
+Fakturační sleva je nyní nastavena a přidělena danému dodavateli. Když vyberete kód dodavatele v poli **Kód fakturační Slevy** na ostatních kartách dodavatelů, stejná fakturační sleva je přidělena těmto dodavatelům.
 
 ## <a name="see-also"></a>Viz také  
 [Nastavení nákupu](purchasing-setup-purchasing.md)  

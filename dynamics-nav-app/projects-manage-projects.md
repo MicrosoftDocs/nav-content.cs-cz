@@ -23,11 +23,11 @@ Než budete moci pro správu projektů používat Dynamics 365 for Financials, m
 
 Následující tabulka popisuje sekvenci činností s odkazy na témata, která je popisují.
 
-|Dále |viz |
+|Popis |Odkaz |
 |---|----|
 |Vytvářet projekty, přiřazovat činnosti projektu a připravovat řádky plánování projektu.|[Návod: Vytvořit projekt](projects-how-create-jobs.md)|
 |Přidělení zdrojů na projekty a řízení cen zdrojů.|[Návod: Použít zdroje pro projekty](projects-how-use-resources.md)|
-|Vytvořit časový list s integrovanými činnostmi projektu, plánovacími řádky a účtovanými řádky časového rozvrhu v deníku projektu.|[Návod: Použít časové listy pro projekty](projects-how-use-time-sheets.md)|
+|Vytvořit časový rozvrh s integrovanými činnostmi projektu, plánovacími řádky a účtovanými řádky časového rozvrhu v deníku projektu.|[Návod: Použít časové rozvrhy pro projekty](projects-how-use-time-sheets.md)|
 |Rozpočet na zdroje, které mají být použity v projektech, a srovnání skutečného využití položek a zdrojů s rozpočtem, aby se zlepšila kvalita a nákladová efektivita budoucích projektů.|[Návod: Spravujte rozpočty projektu](projects-how-manage-budgets.md)|
 |Zkontrolujte a zaznamenávejte využití na různých částech vašeho projektu, které se automaticky aktualizují, když měníte a přenášíte informace z řádku plánování projektu do deníků projektu nebo faktur projektu za účelem účtování.|[Návod: Záznam využití pro projekty](projects-how-record-job-usage.md)|
 |Zakoupit spotřební materiál pro daný projekt, a to buď na nákupních objednávkách nebo fakturách, a zaznamenávat položky a časové využití.|[Návod: Správa spotřebního materiálu](projects-how-manage-project-supplies.md)|

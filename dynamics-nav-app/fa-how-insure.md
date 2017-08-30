@@ -70,12 +70,12 @@ Dynamics NAV poskytuje specializované přehledy a statistiky, které se použí
 Chcete-li získat přehled o svých pojistných smlouvách, můžete zobrazit náhled nebo tisk sestavy **Přehled pojištění**, která zobrazuje všechny smlouvy a nejdůležitější pole z karty pojištění.  
 
 ### <a name="insurance-coverage"></a>Pojistné krytí
-Chcete-li zjistit, které pojistné smlouvy pokrývají jednotlivé aktiva a jakou částkou, můžete si zobrazit nebo vytisknout** sestavu Pojištění-celk.hodnota poj.**.
+Chcete-li zjistit, které pojistné smlouvy pokrývají jednotlivé aktiva a jakou částkou, můžete si zobrazit nebo vytisknout sestavu **Pojištění-celk.hodnota poj.**.
 
 ### <a name="overunder-coverage"></a>Předimenzované nebo poddimenzované krytí
 Můžete zkontrolovat, zda je dlouhodobý majetek nadměrně nebo nedostatečně pojištěn následujícími způsoby:
 - Okno **Statistika pojištění**. Pozitivní částka v poli **Předimenzované nebo poddimenzované pojištění** znamená, že dlouhodobý majetek je nadbytečně pojištěn. Záporná částka znamená, že je nedostatečně pojištěn.
-- V okně **Statistika DM** zvolte pole **Celková pojištěná částka** pro zobrazení** okna Položky pojistného krytí**.  
+- V okně **Statistika DM** zvolte pole **Celková pojištěná částka** pro zobrazení okna **Položky pojistného krytí**.  
 - Sestava **Předimenzované nebo poddimenzované krytí**.  
 - Sestava **Analýza pojištění**.
 

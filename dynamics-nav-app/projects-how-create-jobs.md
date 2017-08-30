@@ -1,5 +1,5 @@
 ---
-title: "Návod: Vytvořit projekt"
+title: "Návod: Tvorba projektů"
 author: SorenGP
 ms.custom: na
 ms.date: 11/01/2016
@@ -16,7 +16,7 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-create-jobs"></a>Návod: Vytvořit projekt
+# <a name="how-to-create-jobs"></a>Návod: Tvorba projektů
 Když spustíte nový projekt, musíte vytvořit kartu projektu s integrovanými činnostmi a plánovacími řádky projektu, které jsou strukturované ve dvou vrstvách.  
 
 První vrstva se skládá z pracovních činností. Musíte vytvořit alespoň jednu činnost na projektu, protože veškeré účtování se týká činnosti projektu. Pokud máte alespoň jednu projektovou činnost, můžete nastavit řádky plánování projektu a účtovat spotřebu do projektu.
@@ -30,7 +30,7 @@ Struktura vrstev umožňuje rozdělit projekt na menší úlohy, a proto použij
 ## <a name="to-create-a-job-card"></a>Vytvoření karty projektu
 Vytvořte kartu projektu a potom pro ni vytvořte pracovní řádky a řádky plánování projektu.
 
-1. V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu**, zadejte **Projekty** a zvolte související odkaz.  
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Projekty** a zvolte související odkaz.  
 2. Vyberte akci **Nový** a poté vyplňte pole. Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.
 3. Chcete-li zadat projekt s informacemi z jiných projektů, zvolte akci **Kopírovat Projekt** , vyplňte pole podle potřeby a potom klepněte na tlačítko **OK** .
 
@@ -53,13 +53,13 @@ Nové činnosti projektu můžete upřesnit na řádcích plánování projektu.
 
 |Typ|Popis|
 |----|-----------|
-|**Rozpočet**|Poskytuje odhadovanou spotřebu a náklady na projekt, obvykle v typu čas a materiály projektu. Řádky plánování tohoto typu nelze fakturovat.|
+|**Rozpočet**|Poskytuje odhadovanou spotřebu a náklady na projekt, obvykle v časovém a materiálním typu projektu. Řádky plánování tohoto typu nelze fakturovat.|
 |**Fakturace**|Poskytuje odhadovanou fakturaci zákazníkovi, obvykle v projektu s pevnou cenou.|
 |**Oba typy Rozpočet a Fakturace**|Poskytuje rozpočtovou spotřebu stejně jako to, co chcete fakturovat.|  
 
 **Poznámka**. Při zadávání informací na řádcích plánování projektu se automaticky vyplňují informace o nákladech. Například náklady, cena a sleva pro zdroje a zboží jsou zpočátku založeny na informacích, které jsou uvedeny na kartě zboží a zdrojů.
 
-1. V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu**, zadejte **Projekty** a zvolte související odkaz.
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Projekty** a zvolte související odkaz.
 2. Otevřete příslušnou kartu projektu.
 3. Vyberte činnost projektu, která v poli **Typ činnosti projektu** obsahuje položku **Účtování** , a poté vyberte akci **Řádky plánování projektu** .  
 4. V okně **Řádky plánování projektu** na novém řádku vyplňte pole podle potřeby.

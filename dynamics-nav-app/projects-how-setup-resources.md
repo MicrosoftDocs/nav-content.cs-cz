@@ -26,21 +26,21 @@ Určujete výchozí částku za hodinu, kdy je zdroj vytvořen. Například poku
 ## <a name="to-set-up-a-resource"></a>Nastavení zdroje
 Vytvořte kartu pro každý zdroj, který chcete použít v projektech.
 
-1. V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu**, zadejte **Zdroje** a zvolte související odkaz.
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Zdroje** a zvolte související odkaz.
 2. Zvolte akci **Nový**.
 3. Vyplňte pole podle potřeby. Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.  
 
 ## <a name="to-set-up-a-resource-group"></a>Nastavení skupiny zdrojů
 Můžete kombinovat několik zdrojů v jedné skupině zdrojů. Všechny kapacity a rozpočty skupin zdrojů jsou shromažďovány z jednotlivých zdrojů. Je také možné zadávat kapacity pro skupiny zdrojů buď nezávisle na nahromaděných hodnotách nebo vedle nich.
 
-1. V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu** , zadejte **Skupiny zdrojů** a zvolte související odkaz.
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Skupiny zdrojů** a zvolte související odkaz.
 2. Zvolte akci **Nový**.
 3. Vyplňte pole podle potřeby.
 
 ## <a name="to-set-capacity-for-a-resource"></a>Nastavení kapacity pro prostředek 
-Chcete-li vypočítat, kolik času může zdroj vynaložit na projekty, musí být jejich kapacita nejprve nastavena jako dostupný čas za období v pracovním kalendáři. Toto nastavení se používá při vyplňování řádků plánování projektu, které obsahují zdroj. Pro další informace, viz [Návod: Vytvořit projekty](projects-how-create-jobs.md).
+Chcete-li vypočítat, kolik času může zdroj vynaložit na projekty, musí být jejich kapacita nejprve nastavena jako dostupný čas za období v pracovním kalendáři. Toto nastavení se používá při vyplňování řádků plánování projektu, které obsahují zdroj. Další informace naleznete v tématu [Návod: Vytvořit projekty](projects-how-create-jobs.md).
 
-1. V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu**, zadejte **Zdroje** a zvolte související odkaz.
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Zdroje** a zvolte související odkaz.
 2. Otevřete příslušnou kartu zdroje a potom vyberte akci **Kapacita zdroje**.
 3. V okně **Kapacita zdroje** v poli **Zobrazit po** určete délku období, například **Den** , který je zobrazen ve sloupcích na záložce s náhledem **Matice kapacity zdrojů**.
 4. Pro každý prostředek na řádku určete pro každé období ve sloupcích počet hodin, kdy je prostředek k dispozici.
@@ -52,7 +52,7 @@ Chcete-li vypočítat, kolik času může zdroj vynaložit na projekty, musí b�
 ## <a name="to-set-up-alternate-resource-costs"></a>Nastavení alternativních nákladů na zdroje
 Kromě nákladů uvedených na kartě zdroje můžete nastavit alternativní náklady pro každý zdroj. Například pokud zaplatíte zaměstnanci vyšší hodinovou sazbu za přesčasy, můžete nastavit náklady na zdroje za přesčasovou sazbu. Náhradní cena, kterou nastavíte pro zdroj, přepíše náklady na kartě zdroje při použití zdroje v deníku zdrojů.
 
-1. V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu**, zadejte **Zdroje** a zvolte související odkaz.  
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Zdroje** a zvolte související odkaz.  
 2. Vyberte zdroj, pro který chcete nastavit jeden nebo více alternativních nákladů a pak vyberte akci **Náklady**.  
 3. V okně **Náklady zdrojů** vyplňte pole podle potřeby.  
 4. Opakujte krok 3 pro každou alternativní cenu zdroje, kterou chcete nastavit.

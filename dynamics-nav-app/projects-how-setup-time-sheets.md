@@ -24,11 +24,11 @@ Jakmile nastavíte, jak bude vaše organizace používat časové rozvrhy, můž
 - Jeden nebo více uživatelů jako správce časového rozvrhu a schvalovatel pro všechny časové rozvrhy.
 - Schvalovatel časového rozvrhu pro každý zdroj.
 
-Když jste nastavili časové rozvrhy, můžete vytvořit časové rozvrhy pro zdroje, přiřadit je k řádkům plánování projektu a zaúčtovat řádky časových rozvrhů. Pro další informace, viz [Návod: Použití časových rozvrhů](projects-how-use-time-sheets.md).
+Když jste nastavili časové rozvrhy, můžete vytvořit časové rozvrhy pro zdroje, přiřadit je k řádkům plánování projektu a zaúčtovat řádky časových rozvrhů. Další informace naleznete v tématu [Návod: Použití časových rozvrhů](projects-how-use-time-sheets.md).
 
 ## <a name="to-set-up-general-information-for-time-sheets"></a>Nastavení obecných informací pro časové rozvrhy  
 
-1. V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu** , zadejte **Nastavení zdrojů** a zvolte související odkaz.  
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Nastavení zdrojů** a zvolte související odkaz.  
 2. Vyplňte pole podle potřeby. Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.
 3. Pro pole **Časový rozvrh podle schválení projektu** vyberte jednu z následujících možností.
 
@@ -40,7 +40,7 @@ Když jste nastavili časové rozvrhy, můžete vytvořit časové rozvrhy pro z
 
 ## <a name="to-assign-a-time-sheet-administrator"></a>Přiřadit správce časového rozvrhu  
 
-1. V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu** , zadejte **Nastavení uživatele** a zvolte související odkaz.  
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Nastavení uživatele** a zvolte související odkaz.  
 2.  Přidejte nového uživatele, pokud seznam uživatelů neobsahuje osobu, kterou chcete mít správcem časových rozvrhů. Pro další informace prosím kontaktujte svého správce.  
 3. Vyberte uživatele, kterého chcete mít správcem časových rozvrhů, a poté vyberte **Admin. časového rozvrhu**. zaškrtávací políčko.  
 
@@ -48,7 +48,7 @@ Když jste nastavili časové rozvrhy, můžete vytvořit časové rozvrhy pro z
 
 ## <a name="to-assign-a-time-sheets-owner-and-approver"></a>Přiřazení vlastníku časového rozvrhu a schvalovatele  
 
-1. V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu**, zadejte **Zdroje** a zvolte související odkaz.
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Zdroje** a zvolte související odkaz.
 2. Vyberte zdroj, pro který chcete nastavit možnost používat časové rozvrhy, a poté zaškrtněte políčko **Použít časový rozvrh** .  
 3. V poli **ID vlastníka časového rozvrhu** zadejte ID vlastníka časového rozvrhu. Vlastník může zadat časový údaj na časovém rozvrhu a předložit jej ke schválení. Obecně platí, že pokud je zdroj osoba, je tato osoba také vlastníkem.  
 4. Do pole **ID schvalovatele časového rozvrhu** zadejte ID schvalovatele časového rozvrhu. Schvalovatel může schvalovat, odmítnout nebo znovu otevřít časový rozvrh.  

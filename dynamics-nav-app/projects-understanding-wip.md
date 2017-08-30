@@ -33,5 +33,5 @@ Dynamics NAV podporuje následující metody výpočtu a zaznamenávání hodnot
 [Finance](finance-setup.md)  
 [Správa nákupu](purchasing-manage-purchasing.md)         
 [Správa prodeje](sales-manage-sales.md)      
-[Pracujte s Dynamics NAV](ui-work-product.md)  
+[Práce s Dynamics NAV](ui-work-product.md)  
 

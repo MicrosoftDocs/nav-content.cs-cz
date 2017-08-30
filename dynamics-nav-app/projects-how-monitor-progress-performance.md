@@ -36,23 +36,23 @@ Můžete vytvořit metodu NV projektu, která odráží potřeby vaší organiza
 
 **Poznámka**. Po použití nové metody k vytvoření položek NV nelze metodu odstranit nebo upravit.  
 
-1. V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu** , zadejte **Metody projektu NV** a zvolte související odkaz.  
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Metody projektu NV** a zvolte související odkaz.  
 2. Vyberte akci **Nový** a poté vyplňte pole. Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.  
 3. Zavřete okno.   
-4. Pro nastavení této metody jako výchozí, v pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu** , zadejte **Nastavení projektů** a zvolte související odkaz.  
+4. Pro nastavení této metody jako výchozí, v pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Nastavení projektů** a zvolte související odkaz.  
 5. V poli **Výchozí metoda NV** vyberte metodu ze seznamu.
 
-## <a name="to-define-a-wip-method-for-a-job"></a>Pro definování metody NV pro projekt  
+## <a name="to-define-a-wip-method-for-a-job"></a>Definice metody NV pro projekt  
 Při vytváření nového projektu musíte zadat, kterou metodu NV použijete. V některých případech je metoda NV projektu, kterou můžete použít, nastavena jako výchozí.
 
-1. V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu**, zadejte **Projekty** a zvolte související odkaz.
-2. Zvolte akci **Nový**. Pro další informace, viz [Návod: Vytvořit projekty](projects-how-create-jobs.md).  
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Projekty** a zvolte související odkaz.
+2. Zvolte akci **Nový**. Další informace naleznete v tématu [Návod: Vytvořit projekty](projects-how-create-jobs.md).  
 3. V okně **Karta projektu** v poli **Metoda NV** vyberte metodu NV ze seznamu. Pokud byla definována výchozí metoda, můžete v případě potřeby vybrat jinou možnost.  
 
 ## <a name="to-calculate-wip"></a>Vypočítat NV  
 Můžete stanovit částku NV, která má být zaúčtována na rozvahové účty pro vykazování konce období. Použijete dávkovou úlohu **Vypočítat NV projektu** .  
 
-1. V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu** , zadejte **Výpočet NV projektu** a zvolte související odkaz.  
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Výpočet NV projektu** a zvolte související odkaz.  
 2. Vyberte akci **Vypočítat NV**.
 3. V okně **Vypočítat NV projektu** vyplňte pole podle potřeby.
 4. Zvolte tlačítko **OK**.  
@@ -62,16 +62,16 @@ Můžete stanovit částku NV, která má být zaúčtována na rozvahové účt
 ## <a name="to-post-wip"></a>Zaúčtovat NV  
 Když jste vypočítali NV, můžete ji zaúčtovat do rozvahových účtů pro vykazování konce období. Použijete dávkovou úlohu **Zaúčtovat NV projektu do hl. knihy** .
 
-1. V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu** , zadejte **Zaúčtovat NV projektu do hl. knihy** a zvolte související odkaz.  
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Zaúčtovat NV projektu do hl. knihy** a zvolte související odkaz.  
 2. V okně **Zaúčtovat NV projektu do fin. den.** vyplňte pole podle potřeby.  
 3. Zvolte tlačítko **OK**.
 
-## <a name="to-view-job-usage-estimates-and-post-updates"></a>Chcete-li zobrazit odhady spotřeby projektu a zaúčtovat aktualizace  
-Můžete sledovat spotřebu projektu až do jeho dokončení v jednom kroku. K tomu použijte **Výp. projektu Dávková úloha Zbývající spotřeba** pro všechny činnosti až do konce projektu včetně.  
+## <a name="to-view-job-usage-estimates-and-post-updates"></a>Zobrazení odhadu spotřeby projektu a zaúčtování aktualizace  
+Můžete sledovat spotřebu projektu až do jeho dokončení v jednom kroku. K tomu použijte **Výp. projektu. Dávkovou úlohu Zbývající spotřeba** pro všechny činnosti až do konce projektu.  
 
 To vám umožní sledovat a porovnávat původní odhady s aktuálními výsledky a podle potřeby provádět úpravy nebo nové položky. Například můžete odhadnout, že práce vyžadovala 10 hodin a dosud to trvalo 15 hodin. Můžete přidat další pět hodin do existujícího řádku deníku nebo vytvořit nový řádek deníku, který vykáže těchto pět hodin jako přesčas, což je další typ práce. Vypočítá se příslušná cena a náklady a poté je můžete zaúčtovat do deníku.  
 
-**Poznámka**: Položky zboží vytvářejí položky zboží a snižují množství zásob. Dávková úloha **Zaúčtovat náklady na zás. do hl. knihy** převádí náklady ze zásob do hlavní knihy. Položky zdrojů vytvářejí položky zdrojů.  
+**Poznámka**: Položky zboží vytvářejí položky zboží a snižují množství zásob. Dávková úloha **Zaúčtovat náklady na zás. do hl. knihy** převádí náklady ze zásob do hlavní knihy. Položky zdrojů vytvářejí věcné položky zdrojů.  
 
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Deník projektu** a pak vyberte související odkaz.  
 2. Vyberte příslušný deník projektu a potom vyberte položku **Výp. Akce Zbývající spotřeba** .  

@@ -45,7 +45,7 @@ Pokud používáte lineární metodu, musíte zadat jednu z následujících mo�
 
 Zbývající doba odpisování je vypočtena jako počet dnů odpisování mínus počet dnů mezi počátečním datem odpisování a posledním datem vložení dlouhodobého majetku.  
 
-Účetní hodnota může být snížena o zaúčtované zhodnocení, snížení hodnoty, vlastní 1 nebo vlastní 2 částky, v závislosti na tom, zda je pole **Zahrnout do výpočtu odpisů deaktivováno **a je aktivováno pole **Část účetní hodnoty** v okně **Nastavení typu účtování DM**.  
+Účetní hodnota může být snížena o zaúčtované zhodnocení, snížení hodnoty, vlastní 1 nebo vlastní 2 částky, v závislosti na tom, zda je pole **Zahrnout do výpočtu odpisů** deaktivováno a je aktivováno pole **Část účetní hodnoty** v okně **Nastavení typu účtování DM**.  
 
 Tento výpočet zajišťuje, že dlouhodobý majetek je plně odepsán v den ukončení odpisů.    
 ### <a name="fixed-yearly-percentage"></a>Pevná roční procentní sazba  
@@ -252,9 +252,9 @@ Pořizovací cena činí 100 000 LM a odpisovatelná životnost je pět let. Odp
 
 * Počáteční datum odpisování  
 
-Používáte-li metodu uživatelem definovanou pole **První uživ.definované datum a ****Počáteční datum odpisování** musí být vyplněno v okně **Knihy odpisů DM**. Pole **První uživ.definované datum a **pole **Délka období** v okně **Tabulky odpisů** se používají k určení časových intervalů, které mají být použity pro výpočty odpisů. Tím je zajištěno, že program začne používat určený procentní podíl ve stejný den pro všechny aktiva. Pole **Počáteční datum odpisování** se používá pro výpočet počtu dnů odpisování.  
+Používáte-li metodu uživatelem definovanou pole **První uživ.definované datum** a **Počáteční datum odpisování** musí být vyplněno v okně **Knihy odpisů DM**. Pole **První uživ.definované ****datum** a pole **Délka období** v okně **Tabulky odpisů** se používají k určení časových intervalů, které mají být použity pro výpočty odpisů. Tím je zajištěno, že program začne používat určený procentní podíl ve stejný den pro všechny aktiva. Pole **Počáteční datum odpisování** se používá pro výpočet počtu dnů odpisování.  
 
-V předchozím příkladě v obou polích **První uživ.definované datum a ****Počáteční datum odpisování** obsahuje 01/01/01. Pokud ovšem pole **První uživ.definované datum obsahuje **01/01/10 a pole **Počáteční datum odpisování** obsahuje 04/01/11, výsledek bude:  
+V předchozím příkladě v obou polích **První uživ.definované ****datum** a **Počáteční datum odpisování** obsahuje 01/01/01. Pokud ovšem pole **První uživ.definované ****datum** obsahuje 01/01/10 a pole **Počáteční datum odpisování** obsahuje 04/01/11, výsledek bude:  
 
 |Datum|Typ zaúčtování DM|Dny|Částka|Účetní hodnota|  
 |----------|---------------------|----------|------------|----------------|  

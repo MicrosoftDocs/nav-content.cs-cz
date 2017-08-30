@@ -39,8 +39,8 @@ Na řádku deníku odsouhlasení plateb, u něhož byla platba nastavena na zaú
 5. V poli **Číslo Dodavatele** zadejte dodavatele, pro kterého budou vytvořeny došlé doklady obsahující namapovaný text nebo platby budou zaúčtovány. Další informace naleznete v tématu [Návod: Použití funkce OCR k převedení souborů PDF a obrázkových souborů do elektronických dokladů](across-how-use-ocr-pdf-images-files.md).      
 6. V poli **Číslo účtu MD** zadejte účet, kde platby obsahující mapovaný text budou zaúčtovány, pokud se jedná o příchozí platby. U příchozích plateb je znaménko hodnoty v poli **Částka výkazu** kladné.
 7. V poli **Číslo účtu Dal** zadejte účet, kde platby obsahující mapovaný text budou zaúčtovány, pokud se jedná o odchozí platby. U odchozích plateb je hodnoty v poli **Částka výpisu** záporná.
-8. V poli **Typ zdroje vyrovnání zadejte, **zda bude platba zaúčtována do účtu hlavní knihy nebo do účtu zákazníka nebo dodavatele.
-9. V poli **Číslo zdroje vyrovnání zadejte účet,** na který bude platba zaúčtována v závislosti na vašem výběru** v poli Typ zdroje vyrovnání**.
+8. V poli **Typ zdroje vyrovnání** zadejte, zda bude platba zaúčtována do účtu hlavní knihy nebo do účtu zákazníka nebo dodavatele.
+9. V poli **Číslo zdroje vyrovnání zadejte účet,** na který bude platba zaúčtována v závislosti na vašem výběru v poli **Typ zdroje vyrovnání**.
 10. Opakujte kroky 4 až 8 pro všechny texty o platbách, které chcete mapovat na účty pro přímé účtování bez vyrovnání.
 
 Příště, jakmile importujete soubor s výpisem z banky nebo zvolíte akci **Automatické vyrovnání** v okně **Deník odsouhlasení plateb**, budou řádky deníku pro platby, které obsahují zadaný mapovaný text s mapovanými účty v poli **Typ účtu** a **Číslo účtu**. Pole **Spolehlivost shody** bude obsahovat **Vysoká - textové mapování účtů**. To je za předpokladu, že funkce automatické vyrovnání může poskytnout pouze spolehlivost shody **Nízká** nebo **Střední**.
