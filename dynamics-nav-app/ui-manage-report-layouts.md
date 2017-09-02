@@ -1,5 +1,5 @@
 ---
-title: "Správa rozložení sestav"
+title: "Správa rozvržení sestav"
 author: SusanneWindfeldPedersen
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,42 +16,42 @@ ms.lasthandoff: 07/19/2017
 
 ---
     
-# <a name="manage-report-layouts"></a>Správa rozložení sestav
-Rozložení sestavy řídí obsah a formát sestavy, včetně toho, která datová pole datové sady sestavy se objeví v sestavě a jak budou uspořádány, včetně stylu textu, obrázků a dalších. Z klientů Dynamics NAV můžete změnit, které rozložení se použije na sestavu, vytvořit nové rozložení nebo modifikovat existující rozložení.  
+# <a name="manage-report-layouts"></a>Správa rozvržení sestav
+Rozvržení sestavy řídí obsah a formát sestavy, včetně toho, která datová pole datové sady sestavy se objeví v sestavě a jak budou uspořádány, včetně stylu textu, obrázků a dalších. Z klientů Dynamics NAV můžete změnit, které rozvržení se použije na sestavu, vytvořit nové rozvržení nebo modifikovat existující rozvržení.  
 
-Sady rozložení zejména nastavují následující:
+Sady rozvržení zejména nastavují následující:
 
 - Popisky a datová pole, která mají být zahrnuta z datové sady sestavy Dynamics NAV.
 - Formát textu, například typ písma, velikost a barva.
 - Logo společnosti a její postavení.
 - Nastavení obecné stránky, jako například okraje a obrázky na pozadí. 
 
-Dynamics NAV lze nastavit s více rozloženími sestavy, mezi kterými můžete  podle potřeby přepínat. Můžete použít jedno z vestavěných rozložení sestavy, nebo můžete vytvořit vlastní rozložení sestavy a podle potřeby je přiřadit k sestavám.
+Dynamics NAV lze nastavit s více rozvrženími sestavy, mezi kterými můžete  podle potřeby přepínat. Můžete použít jedno z vestavěných rozvržení sestavy, nebo můžete vytvořit vlastní rozvržení sestavy a podle potřeby je přiřadit k sestavám.
 
-Existují dva typy rozložení sestavy, které můžete použít v sestavách: Aplikace Word a RDLC.
+Existují dva typy rozvržení sestavy, které můžete použít v sestavách: Aplikace Word a RDLC.
 
-## <a name="word-report-layout-overview"></a>Přehled rozložení sestavy aplikace Word
-Rozložení sestavy aplikace Word je založeno na dokumentu aplikace Word (typ souboru .docx). Rozložení sestavy aplikace Word umožňují navrhnout rozvržení sestavy pomocí aplikace Microsoft Word 2013 nebo novější. Rozložení sestavy aplikace Word určuje obsah sestavy - kontroluje, jak jsou uspořádány a jak vypadají prvky obsahu. Dokument rozložení sestavy aplikace Word obvykle používá tabulky k uspořádání obsahu, kde mohou buňky obsahovat datová pole, text nebo obrázky.
+## <a name="word-report-layout-overview"></a>Přehled rozvržení sestavy aplikace Word
+Rozvržení sestavy aplikace Word je založeno na dokumentu aplikace Word (typ souboru .docx). Rozvržení sestavy aplikace Word umožňují navrhnout rozvržení sestavy pomocí aplikace Microsoft Word 2013 nebo novější. Rozvržení sestavy aplikace Word určuje obsah sestavy - kontroluje, jak jsou uspořádány a jak vypadají prvky obsahu. Dokument rozvržení sestavy aplikace Word obvykle používá tabulky k uspořádání obsahu, kde mohou buňky obsahovat datová pole, text nebo obrázky.
 
-## <a name="rdlc-layout-overview"></a>Přehled rozložení RDLC
-Rozložení RDLC jsou založeny na rozložení definice sestavy klienta (typy souborů typu .rdlc nebo .rdl). Tato rozložení jsou vytvořena a upravena pomocí nástroje Microsoft SQL Server – Tvůrce sestav. Koncept návrhu rozložení RDLC je podobný jako rozložení aplikace Word, kde rozložení definuje obecný formát sestavy a určuje pole z datové sady. Návrh rozložení RDLC je mnohem pokročilejší než rozvržení aplikace Word.
+## <a name="rdlc-layout-overview"></a>Přehled rozvržení RDLC
+Rozvržení RDLC jsou založeny na rozvržení definice sestavy klienta (typy souborů typu .rdlc nebo .rdl). Tato rozvržení jsou vytvořena a upravena pomocí nástroje Microsoft SQL Server – Tvůrce sestav. Koncept návrhu rozvržení RDLC je podobný jako rozvržení aplikace Word, kde rozvržení definuje obecný formát sestavy a určuje pole z datové sady. Návrh rozvržení RDLC je mnohem pokročilejší než rozvržení aplikace Word.
 
-## <a name="built-in-and-custom-report-layouts"></a>Vestavěné a vlastní rozložení sestavy
-Dynamics NAV obsahuje několik vestavěných rozložení. Vestavěné rozložení jsou předdefinované rozložení, které jsou určeny pro konkrétní sestavy. Sestavy Dynamics NAV budou mít vestavěnou sestavu jako rozložení sestavy RDLC, rozložení sestavy aplikace Word nebo v některých případech i v obou. V aplikaci Dynamics NAV nelze vestavěné rozložení upravovat, ale používáte jej jako výchozí bod pro vytváření vlastních rozložení sestav. 
+## <a name="built-in-and-custom-report-layouts"></a>Vestavěné a vlastní rozvržení sestavy
+Dynamics NAV obsahuje několik vestavěných rozvržení. Vestavěné rozvržení jsou předdefinované rozvržení, které jsou určeny pro konkrétní sestavy. Sestavy Dynamics NAV budou mít vestavěnou sestavu jako rozvržení sestavy RDLC, rozvržení sestavy aplikace Word nebo v některých případech i v obou. V aplikaci Dynamics NAV nelze vestavěné rozvržení upravovat, ale používáte jej jako výchozí bod pro vytváření vlastních rozvržení sestav. 
 
-Vlastní rozložení jsou rozložení sestavy, které navrhujete, abyste změnili vzhled sestavy. Obvykle vytvoříte vlastní rozložení založené na vestavěném rozložení, ale můžete je vytvořit od začátku nebo z kopie existujícího vlastního rozložení. Vlastní rozložení umožňují vytvořit více rozložení pro stejnou sestavu, mezi kterými můžete podle potřeby přepínat. Například můžete mít různé rozložení pro každou společnost Dynamics NAV, nebo můžete mít různé rozložení pro stejnou společnost pro určité příležitosti nebo události, jako je speciální kampaň nebo prázdninová sezóna.
+Vlastní rozvržení jsou rozvržení sestavy, které navrhujete, abyste změnili vzhled sestavy. Obvykle vytvoříte vlastní rozvržení založené na vestavěném rozvržení, ale můžete je vytvořit od začátku nebo z kopie existujícího vlastního rozvržení. Vlastní rozvržení umožňují vytvořit více rozvržení pro stejnou sestavu, mezi kterými můžete podle potřeby přepínat. Například můžete mít různé rozvržení pro každou společnost Dynamics NAV, nebo můžete mít různé rozvržení pro stejnou společnost pro určité příležitosti nebo události, jako je speciální kampaň nebo prázdninová sezóna.
 
-## <a name="deciding-whether-to-use-a-word-or-rdlc-report-layout"></a>Rozhodování, zda použít rozložení sestavy aplikace Word nebo RDLC 
-Rozložení sestavy může být založeno buď na dokumentu aplikace Word nebo souboru RDLC. Rozhodování, zda chcete použít rozložení sestavy aplikace Word nebo rozložení sestavy RDLC, bude záviset na tom, jak chcete, aby vygenerovaná sestava vypadala a na znalostech o aplikacích Word a Microsoft SQL Server – Tvůrce sestav. 
+## <a name="deciding-whether-to-use-a-word-or-rdlc-report-layout"></a>Rozhodování, zda použít rozvržení sestavy aplikace Word nebo RDLC 
+Rozvržení sestavy může být založeno buď na dokumentu aplikace Word nebo souboru RDLC. Rozhodování, zda chcete použít rozvržení sestavy aplikace Word nebo rozvržení sestavy RDLC, bude záviset na tom, jak chcete, aby vygenerovaná sestava vypadala a na znalostech o aplikacích Word a Microsoft SQL Server – Tvůrce sestav. 
 
-Obecné koncepty návrhu pro rozložení aplikace Word a RDLC jsou velmi podobné. Každý typ má však určité funkce návrhu, které ovlivňují, jak se vygenerovaná sestava zobrazuje v Dynamics NAV. To znamená, že stejný přehled může vypadat jinak, pokud používáte rozložení sestavy aplikace Word oproti rozložení sestavy RDLC.
+Obecné koncepty návrhu pro rozvržení aplikace Word a RDLC jsou velmi podobné. Každý typ má však určité funkce návrhu, které ovlivňují, jak se vygenerovaná sestava zobrazuje v Dynamics NAV. To znamená, že stejný přehled může vypadat jinak, pokud používáte rozvržení sestavy aplikace Word oproti rozvržení sestavy RDLC.
 
-Proces nastavení rozložení sestavy aplikace Word a RDLC v sestavách je stejný. Hlavní rozdíl je v tom, jak upravujete rozložení. Rozložení sestav aplikace Word jsou obvykle jednodušší k vytvoření a úpravám  než rozložení sestav RDLC, protože můžete použít aplikaci Word. Rozložení sestavy RDLC se upravuje pomocí nástroje SQL Server – Tvůrce sestav, který je určen pro pokročilejší uživatele. 
+Proces nastavení rozvržení sestavy aplikace Word a RDLC v sestavách je stejný. Hlavní rozdíl je v tom, jak upravujete rozvržení. Rozvržení sestav aplikace Word jsou obvykle jednodušší k vytvoření a úpravám  než rozvržení sestav RDLC, protože můžete použít aplikaci Word. Rozvržení sestavy RDLC se upravuje pomocí nástroje SQL Server – Tvůrce sestav, který je určen pro pokročilejší uživatele. 
 
-Pro více informací o tom, jak změnit rozložení, které chcete použít, viz [Návod: Změna aktuálně používaného rozložení v sestavě](ui-how-change-layout-currently-used-report.md)
+Pro více informací o tom, jak změnit rozvržení, které chcete použít, viz [Návod: Změna aktuálně používaného rozvržení v sestavě](ui-how-change-layout-currently-used-report.md)
 
 ## <a name="see-also"></a>Viz také
 [Práce s Dynamics NAV](ui-work-product.md)  
-[Návod: Vytvoření vlastního rozložení sestavy](ui-how-create-custom-report-layout.md)  
+[Návod: Vytvoření vlastního rozvržení sestavy](ui-how-create-custom-report-layout.md)  
 [Návod: Odesílání dokladů e-mailem](ui-how-send-documents-email.md)
 
