@@ -21,13 +21,13 @@ Dynamics NAV vám pomůže dokončit úkoly rychleji a správněji tím, že př
 
 Funkce, která pro vás zadává hodnoty do polí, je typicky nabízena pro úkoly, kde zadáváte velké objemy transakčních dat a chcete se vyhnout chybám a zároveň šetřit čas. Toto téma obsahuje výběr takových funkcí. Další sekce budou přidány v následujících aktualizacích Dynamics NAV.
 
-## <a name="the-suggest-balancing-amount-check-box-in-the-general-journal-batches-window"></a>Zaškrtávací políčko **Navrhovat vyrovnávací částku** v okně **Dávky finančního deníku**
+## <a name="the-suggest-balancing-amount-check-box-in-the-general-journal-batches-window"></a>Zaškrtávací políčko **Navrhovat vyrovnávací částku** v okně **Listy finančního deníku**
 Pokud například zadáváte řádky finančního deníku pro více výdajů, které musí být všechny zaslány na stejný bankovní účet, pak pokaždé, když pro výdaj zadáte nový řádek deníku, můžete mít pole **Částka** na řádku bankovního účtu automaticky aktualizováno na částku, která vyrovnává výdaje.  Další informace o práci s finančními deníky naleznete v části [Práce s finančními deníky](ui-work-general-journals.md).
 
 ### <a name="to-have-the-amount-field-on-balancing-general-journal-lines-filled-automatically"></a>Chcete-li mít pole **Částka** na vyrovnávacích řádcích finančního deníku automaticky vyplněná. 
 1. V pravém horním rohu vyberte ikonu **Hledat stránku nebo sestavu**, zadejte **Finanční deníky**, a pak zvolte související odkaz.
 2. Na řádku pro vámi preferovanou dávku finančního deníku vyberte zaškrtávací políčko **Navrhovat vyrovnávací částku**.
-3. Otevřete finanční deník a pokračujte k registraci a účtování transakcí pomocí popsané funkce pro automatické zadání hodnoty pole.       
+3. Otevřete finanční deník a pokračujte k zaznamenání a účtování transakcí pomocí popsané funkce pro automatické zadání hodnoty pole.       
 
 Další informace o tom, jak nastavit osobní dávku finančního deníku, například jak zpracovat výdaje, nalezte v části [Práce s finančními deníky](ui-work-general-journals.md).
 

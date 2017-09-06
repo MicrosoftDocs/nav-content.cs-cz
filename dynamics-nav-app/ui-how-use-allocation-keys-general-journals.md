@@ -21,7 +21,7 @@ Když zaúčtováváte finanční deník, můžete přidělit  položku několik
 
 ## <a name="to-set-up-allocation-keys"></a>Nastavení rozdělovacích klíčů 
 1. V pravém horním rohu vyberte ikonu **Hledat stránku nebo sestavu**, zadejte **Periodický finanční deník**, a pak zvolte související odkaz.
-2. Zvolte pole **Název dávky** a otevřete okno **Dávky finančního deníku**.
+2. Zvolte pole **Název listu** a otevřete okno **Listy finančního deníku**.
 3. Můžete buď upravit rozdělení v existující dávce v seznamu nebo vytvořit novou dávku s přiděleními.
   * Chcete-li vytvořit novou dávku, zvolte akci **Nový** a přejděte k dalšímu kroku.
   * Chcete-li změnit rozdělení existujícího deníku, vyberte deník a přejděte ke kroku 7.    

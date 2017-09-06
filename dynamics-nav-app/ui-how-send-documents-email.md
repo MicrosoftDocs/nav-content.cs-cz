@@ -25,7 +25,7 @@ Jako přílohu k emailovým zprávám můžete zaslat prakticky všechny typy do
 
 Ve všech podporovaných dokumentech iniciujete zasílání e-mailů pro zaúčtované doklady výběrem akce **Odeslat** a pro nezaúčtované výběrem akce **Účtovat a Odeslat**.
 
-Je-li pole **E-mail** v okně **Komu odeslat doklad** nastaveno na ** Ano (příkaz pro nastavení),** pak se okno **Odeslat e-mail** otevře s již vyplněnou kontaktní osobou v poli **Komu:** a dokladem přiloženým jako soubor PDF.  V poli **Tělo zprávy** můžete buď zadat text ručně, nebo můžete mít pole vyplněné specifickým tělem e-mailu, které jste nastavili.
+Je-li pole **E-mail** v okně **Komu odeslat doklad** nastaveno na ** Ano (příkaz pro nastavení)**, pak se okno **Odeslat e-mail** otevře s již vyplněnou kontaktní osobou v poli **Komu:** a dokladem přiloženým jako soubor PDF.  V poli **Tělo zprávy** můžete buď zadat text ručně, nebo můžete mít pole vyplněné specifickým tělem e-mailu, které jste nastavili.
 
 Následující postup popisuje, jak nastavit sestavu **Prodej - faktura**, která má být použita pro specifická těla emailů, když zasíláte zaúčtované prodejní faktury emailem.
 
