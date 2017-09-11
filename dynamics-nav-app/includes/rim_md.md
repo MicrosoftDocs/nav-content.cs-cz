@@ -1,1 +1,1 @@
-Služby RapidStart
+<span data-ttu-id="34f06-101">Služby RapidStart</span><span class="sxs-lookup"><span data-stu-id="34f06-101">RapidStart Services</span></span>

@@ -17,46 +17,46 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 07/19/2017
 
 ---
-# <a name="how-to-register-dynamics-nav-in-the-azure-management-portal"></a>Návod: Registrace Dynamics NAV na portálu pro správu Azure
-Pokud chcete používat služby založené na programu Microsoft Azure, musíte registrovat svůj Dynamics NAV na portálu pro správu Azure. Například rozšíření [Prognóza prodeje a zásob](ui-extensions-sales-forecast.md) vyžaduje zadání klíče API a URI API a další služby vyžadují obdobné informace. Takže kde najdete tyto informace?
+# <a name="how-to-register-dynamics-nav-in-the-azure-management-portal"></a><span data-ttu-id="b09d4-102">Návod: Registrace Dynamics NAV na portálu pro správu Azure</span><span class="sxs-lookup"><span data-stu-id="b09d4-102">How to: Register Dynamics NAV in the Azure Management Portal</span></span>
+<span data-ttu-id="b09d4-103">Pokud chcete používat služby založené na programu Microsoft Azure, musíte registrovat svůj Dynamics NAV na portálu pro správu Azure.</span><span class="sxs-lookup"><span data-stu-id="b09d4-103">If you want to use services that are based on Microsoft Azure, you must register your Dynamics NAV in the Azure Management Portal.</span></span> <span data-ttu-id="b09d4-104">Například rozšíření [Prognóza prodeje a zásob](ui-extensions-sales-forecast.md) vyžaduje zadání klíče API a URI API a další služby vyžadují obdobné informace.</span><span class="sxs-lookup"><span data-stu-id="b09d4-104">For example, the [Sales and Inventory Forecast](ui-extensions-sales-forecast.md) extension requires that you specify an API key and API URI, and other services require similar information.</span></span> <span data-ttu-id="b09d4-105">Takže kde najdete tyto informace?</span><span class="sxs-lookup"><span data-stu-id="b09d4-105">So where do you find that information?</span></span>
 
-Pro registraci Dynamics NAV v portálu pro správu můžete použít průvodce **Nastavení portálu pro správu Azure** a extrahovat informace, které potřebujete k používání služeb, jako například prodloužení Prognózy prodeje a zásob, Power BI, Office 365 atd. Na portálu pro správu Azure se stačí registrovat pouze jednou, nicméně musíte být v Dynamics NAV buď správcem nebo superuživatelem.
+<span data-ttu-id="b09d4-106">Pro registraci Dynamics NAV v portálu pro správu můžete použít průvodce **Nastavení portálu pro správu Azure** a extrahovat informace, které potřebujete k používání služeb, jako například prodloužení Prognózy prodeje a zásob, Power BI, Office 365 atd.</span><span class="sxs-lookup"><span data-stu-id="b09d4-106">You can use the **Set Up Azure Management Portal** guide to register Dynamics NAV in the Azure Management Portal and extract the information you need to use services such as the Sales and Inventory Forecast extension, Power BI, Office 365, and so on.</span></span> <span data-ttu-id="b09d4-107">Na portálu pro správu Azure se stačí registrovat pouze jednou, nicméně musíte být v Dynamics NAV buď správcem nebo superuživatelem.</span><span class="sxs-lookup"><span data-stu-id="b09d4-107">You must register in the Azure Management Portal only once, and you must be an administrator or superuser in Dynamics NAV.</span></span>
 
-Bod registrace znamená, že služba Dynamics NAV a služba, kterou chcete připojit, musí o sobě znát podrobnosti Azure Active Directory (Azure AD).
+<span data-ttu-id="b09d4-108">Bod registrace znamená, že služba Dynamics NAV a služba, kterou chcete připojit, musí o sobě znát podrobnosti Azure Active Directory (Azure AD).</span><span class="sxs-lookup"><span data-stu-id="b09d4-108">The point of the registration is that Dynamics NAV and the service that you want to connect to must know the Azure Active Directory (Azure AD) details about each other.</span></span>
 
-## <a name="to-register-dynamics-nav-in-the-azure-management-portal"></a>Registrace Dynamics NAV v portálu pro správu Azure
-1. Přihlaste se k portálu pro správu Azure [https://portal.azure.com](https://portal.azure.com).
-    Pokud nejste obeznámeni s portálem pro správu Azure, najdete pokyny v  [Knihovně dokumentace Azure](https://azure.microsoft.com/en-us/documentation/articles).
-2. V levém navigačním podokně vyberte možnost **Více služeb**, a poté zvolte **Registrace aplikací**.
-3. V horním menu vyberte možnost  **Přidat**, a poté v podokně **Vytvořit** vyplňte pole s následujícími informacemi:
-    - **Název**: Zadejte název pro Vaše řešení Dynamics NAV, jako například *Dynamics NAV*.
-    - **Typ aplikace**: Vyberte **Webovou aplikaci* rozhraní / API**.
-    - **Přidat URL**: Zadejte adresu URL pro vašeho webového klienta Dynamics NAV, například *https://MyServer:8080/DynamicsNAV/WebClient/OAuthLanding.htm*.
-        Soubor OAuthLanding.htm je soubor, který pomáhá spravovat výměnu dat mezi službou Dynamics NAV a dalšími službami prostřednictvím služby Azure AD.
-4. Zvolte tlačítko **Vytvořit**.
-    To přidává Váš Dynamics NAV do **Podokna registrací aplikací**, takže k němu nyní můžete přidat nastavení.
-5. V **Seznamu registrací aplikace**, vyberte Vaši novou aplikaci. Pokud se tím neotevře podokno **Nastavení**, měla by se zobrazit akce k otevření **Nastavení**.
-6. V podokně **Nastavení**, v sekci **Přístup API**, vyberte **Klíče**.
-7. V podokně **Klíče** zadejte popis a pokud chcete, aby klíč vypršel, pak vyberte možnost **Uložit**.
-8. Zkopírujte vygenerovaný klíč do dočasného umístění - budete jej potřebovat pro další postup.  
-9. V sekci **Přístup API** zvolte **Požadované oprávnění**.
-    - Přidejte delegovaná oprávnění k zobrazení všech sestav služby Power BI
-    - Přidejte delegovaná oprávnění k Přihlášení a čtení uživatelského profilu v rámci služby Windows Azure Active Directory
-    - Opakujte pro další služby, kterým chcete povolit přístup do vašeho Dynamics NAV. 
-10. Zavřete podokno **Nastavení** a potom z podokna **Základy** zkopírujte hodnotu **ID aplikace** do dočasného umístění.
+## <a name="to-register-dynamics-nav-in-the-azure-management-portal"></a><span data-ttu-id="b09d4-109">Registrace Dynamics NAV v portálu pro správu Azure</span><span class="sxs-lookup"><span data-stu-id="b09d4-109">To register Dynamics NAV in the Azure Management Portal</span></span>
+1. <span data-ttu-id="b09d4-110">Přihlaste se k portálu pro správu Azure [https://portal.azure.com](https://portal.azure.com).</span><span class="sxs-lookup"><span data-stu-id="b09d4-110">Log in to the Azure Management Portal at [https://portal.azure.com](https://portal.azure.com).</span></span>
+    <span data-ttu-id="b09d4-111">Pokud nejste obeznámeni s portálem pro správu Azure, najdete pokyny v  [Knihovně dokumentace Azure](https://azure.microsoft.com/en-us/documentation/articles).</span><span class="sxs-lookup"><span data-stu-id="b09d4-111">If you are not familiar with the Azure Management Portal, you can find guidance in the [Azure documentation library](https://azure.microsoft.com/en-us/documentation/articles).</span></span>
+2. <span data-ttu-id="b09d4-112">V levém navigačním podokně vyberte možnost **Více služeb**, a poté zvolte **Registrace aplikací**.</span><span class="sxs-lookup"><span data-stu-id="b09d4-112">In the left navigation pane, choose **More services**, and then choose **App registrations**.</span></span>
+3. <span data-ttu-id="b09d4-113">V horním menu vyberte možnost  **Přidat**, a poté v podokně **Vytvořit** vyplňte pole s následujícími informacemi:</span><span class="sxs-lookup"><span data-stu-id="b09d4-113">In the top menu, choose **Add**, and then, in the **Create pane**, fill in the fields with the following information:</span></span>
+    - <span data-ttu-id="b09d4-114">**Název**: Zadejte název pro Vaše řešení Dynamics NAV, jako například *Dynamics NAV*.</span><span class="sxs-lookup"><span data-stu-id="b09d4-114">**Name**: Specify a name for your Dynamics NAV solution, such as *Dynamics NAV*.</span></span>
+    - <span data-ttu-id="b09d4-115">**Typ aplikace**: Vyberte **Webovou aplikaci* rozhraní / API**.</span><span class="sxs-lookup"><span data-stu-id="b09d4-115">**Application Type**: Choose **Web app* / API**.</span></span>
+    - <span data-ttu-id="b09d4-116">**Přidat URL**: Zadejte adresu URL pro vašeho webového klienta Dynamics NAV, například *https://MyServer:8080/DynamicsNAV/WebClient/OAuthLanding.htm*.</span><span class="sxs-lookup"><span data-stu-id="b09d4-116">**Sign-on URL**: Enter the URL for your Dynamics NAV browser client, such as *https://MyServer:8080/DynamicsNAV/WebClient/OAuthLanding.htm*.</span></span>
+        <span data-ttu-id="b09d4-117">Soubor OAuthLanding.htm je soubor, který pomáhá spravovat výměnu dat mezi službou Dynamics NAV a dalšími službami prostřednictvím služby Azure AD.</span><span class="sxs-lookup"><span data-stu-id="b09d4-117">The OAuthLanding.htm file is a file that helps manage the exchange of data between Dynamics NAV and other services through Azure AD.</span></span>
+4. <span data-ttu-id="b09d4-118">Zvolte tlačítko **Vytvořit**.</span><span class="sxs-lookup"><span data-stu-id="b09d4-118">Choose the **Create** button.</span></span>
+    <span data-ttu-id="b09d4-119">To přidává Váš Dynamics NAV do **Podokna registrací aplikací**, takže k němu nyní můžete přidat nastavení.</span><span class="sxs-lookup"><span data-stu-id="b09d4-119">This adds your Dynamics NAV to the **App registrations pane**, so you can now add settings to it.</span></span>
+5. <span data-ttu-id="b09d4-120">V **Seznamu registrací aplikace**, vyberte Vaši novou aplikaci.</span><span class="sxs-lookup"><span data-stu-id="b09d4-120">In the **App registrations list**, choose your new app.</span></span> <span data-ttu-id="b09d4-121">Pokud se tím neotevře podokno **Nastavení**, měla by se zobrazit akce k otevření **Nastavení**.</span><span class="sxs-lookup"><span data-stu-id="b09d4-121">If this does not open the **Settings** pane, you should see an action to open **Settings**.</span></span>
+6. <span data-ttu-id="b09d4-122">V podokně **Nastavení**, v sekci **Přístup API**, vyberte **Klíče**.</span><span class="sxs-lookup"><span data-stu-id="b09d4-122">In the **Settings** pane, in the **API Access** section, choose **Keys**.</span></span>
+7. <span data-ttu-id="b09d4-123">V podokně **Klíče** zadejte popis a pokud chcete, aby klíč vypršel, pak vyberte možnost **Uložit**.</span><span class="sxs-lookup"><span data-stu-id="b09d4-123">In the **Keys** pane, specify a description and when you want to let the key expire, and then choose **Save**.</span></span>
+8. <span data-ttu-id="b09d4-124">Zkopírujte vygenerovaný klíč do dočasného umístění - budete jej potřebovat pro další postup.  </span><span class="sxs-lookup"><span data-stu-id="b09d4-124">Copy the generated key to a temporary location - you will need it in the next procedure.</span></span>
+9. <span data-ttu-id="b09d4-125">V sekci **Přístup API** zvolte **Požadované oprávnění**.</span><span class="sxs-lookup"><span data-stu-id="b09d4-125">In the **API Access** section, choose **Required Permissions**.</span></span>
+    - <span data-ttu-id="b09d4-126">Přidejte delegovaná oprávnění k zobrazení všech sestav služby Power BI</span><span class="sxs-lookup"><span data-stu-id="b09d4-126">Add delegated permissions to view all reports to the Power BI Service</span></span>
+    - <span data-ttu-id="b09d4-127">Přidejte delegovaná oprávnění k Přihlášení a čtení uživatelského profilu v rámci služby Windows Azure Active Directory</span><span class="sxs-lookup"><span data-stu-id="b09d4-127">Add delegated permissions to Sign In and read user profile to Windows Azure Active Directory</span></span>
+    - <span data-ttu-id="b09d4-128">Opakujte pro další služby, kterým chcete povolit přístup do vašeho Dynamics NAV. </span><span class="sxs-lookup"><span data-stu-id="b09d4-128">Repeat for other services that you want to grant access to your Dynamics NAV</span></span>
+10. <span data-ttu-id="b09d4-129">Zavřete podokno **Nastavení** a potom z podokna **Základy** zkopírujte hodnotu **ID aplikace** do dočasného umístění.</span><span class="sxs-lookup"><span data-stu-id="b09d4-129">Close the **Settings** pane, and then, in the **Essentials** pane, copy the value of the **Application ID** to a temporary location.</span></span>
 
-Nyní jste zaregistrovali Váš Dynamics NAV na portálu pro správu Azure, dali jste přístup příslušným službám a získali jste informace, které potřebujete v Dynamics NAV.  
+<span data-ttu-id="b09d4-130">Nyní jste zaregistrovali Váš Dynamics NAV na portálu pro správu Azure, dali jste přístup příslušným službám a získali jste informace, které potřebujete v Dynamics NAV.</span><span class="sxs-lookup"><span data-stu-id="b09d4-130">You have now registered your Dynamics NAV in the Azure Management Portal, you have given access to the relevant services, and you have extracted the information that you need in Dynamics NAV.</span></span>  
 
-## <a name="to-add-the-information-to-dynamics-nav"></a>Přidání informací do Dynamics NAV
-1. V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu**, zadejte **Nastavení Azure AD** a zvolte související odkaz.
-2. V průvodci zvolte **Další**.
-3. Do pole **ID klienta** zadejte obsah, který jste předtím zkopírovali z pole **ID aplikace**.
-4. Do pole **Tajný klíč**, zadejte obsah, který jste předtím  zkopírovali z pole **Klíče**. 
-5. Vyberte možnost **Další**.  Pokud se neobjeví chybová zpráva, jste hotoví.
+## <a name="to-add-the-information-to-dynamics-nav"></a><span data-ttu-id="b09d4-131">Přidání informací do Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="b09d4-131">To add the information to Dynamics NAV</span></span>
+1. <span data-ttu-id="b09d4-132">V pravém horním rohu zvolte ikonu **Hledat stránku nebo sestavu**, zadejte **Nastavení Azure AD** a zvolte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="b09d4-132">In the top right corner, choose the **Search for Page or Report** icon, enter **Azure AD Application Setup Wizard**, and then choose the related link.</span></span>
+2. <span data-ttu-id="b09d4-133">V průvodci zvolte **Další**.</span><span class="sxs-lookup"><span data-stu-id="b09d4-133">In the wizard, choose **Next**.</span></span>
+3. <span data-ttu-id="b09d4-134">Do pole **ID klienta** zadejte obsah, který jste předtím zkopírovali z pole **ID aplikace**.</span><span class="sxs-lookup"><span data-stu-id="b09d4-134">In the **Client ID** field, specify the content that you copied from the **Application ID** field earlier.</span></span>
+4. <span data-ttu-id="b09d4-135">Do pole **Tajný klíč**, zadejte obsah, který jste předtím  zkopírovali z pole **Klíče**. </span><span class="sxs-lookup"><span data-stu-id="b09d4-135">In the **Secret Key** field, specify the content that you copied from the **Keys** pane earlier.</span></span>
+5. <span data-ttu-id="b09d4-136">Vyberte možnost **Další**. </span><span class="sxs-lookup"><span data-stu-id="b09d4-136">Choose **Next**.</span></span> <span data-ttu-id="b09d4-137">Pokud se neobjeví chybová zpráva, jste hotoví.</span><span class="sxs-lookup"><span data-stu-id="b09d4-137">Unless you see an error message, you are now done.</span></span>
 
-Váš Dynamics NAV je registrován a připraven k připojení ke službám, jako je například Cortana Intelligence a Power BI.
+<span data-ttu-id="b09d4-138">Váš Dynamics NAV je registrován a připraven k připojení ke službám, jako je například Cortana Intelligence a Power BI.</span><span class="sxs-lookup"><span data-stu-id="b09d4-138">Your Dynamics NAV is registered and ready to connect to services such as Cortana Intelligence and Power BI.</span></span>
 
-## <a name="see-also"></a>Viz také
-[Prodej a prognóza zásob](ui-extensions-sales-forecast.md)  
-[Nastavení Vašeho Dynamics NAV](setup.md)  
+## <a name="see-also"></a><span data-ttu-id="b09d4-139">Viz také</span><span class="sxs-lookup"><span data-stu-id="b09d4-139">See Also</span></span>
+[<span data-ttu-id="b09d4-140">Prodej a prognóza zásob</span><span class="sxs-lookup"><span data-stu-id="b09d4-140">Sales and Inventory Forecast</span></span>](ui-extensions-sales-forecast.md)  
+[<span data-ttu-id="b09d4-141">Nastavení Vašeho Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="b09d4-141">Set Up Your Dynamics NAV</span></span>](setup.md)  
 

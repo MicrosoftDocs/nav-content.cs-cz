@@ -1,1 +1,1 @@
-Klient Klient Na míru rolím
+<span data-ttu-id="1e8d9-101">Klient Klient Na míru rolím</span><span class="sxs-lookup"><span data-stu-id="1e8d9-101">RoleTailored client</span></span>

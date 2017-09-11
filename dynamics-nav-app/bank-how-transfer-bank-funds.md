@@ -9,47 +9,47 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f34bef80c64cbad0a0b20d4d021cefbdc5a1cb64
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: aa36ff606cf832049e7f002af724a9185289a2b3
 ms.contentlocale: cs-cz
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-transfer-bank-funds"></a>Návod: Převod bankovních prostředků
-Někdy budete možná muset převést částku z jednoho bankovního účtu na jiný. Chcete-li to provést, musíte odeslat transakci do finančního deníku. Úloha se liší v závislosti na tom, zda bankovní účty používají stejnou měnu nebo různé měny.
+# <a name="how-to-transfer-bank-funds"></a><span data-ttu-id="ecaa5-102">Návod: Převod bankovních prostředků</span><span class="sxs-lookup"><span data-stu-id="ecaa5-102">How to: Transfer Bank Funds</span></span>
+<span data-ttu-id="ecaa5-103">Někdy budete možná muset převést částku z jednoho bankovního účtu na jiný.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-103">You may sometimes need to transfer an amount from one bank account to another.</span></span> <span data-ttu-id="ecaa5-104">Chcete-li to provést, musíte odeslat transakci do finančního deníku.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-104">To do this, you must post the a transaction in the general journal.</span></span> <span data-ttu-id="ecaa5-105">Úloha se liší v závislosti na tom, zda bankovní účty používají stejnou měnu nebo různé měny.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-105">The task varies depending on whether the bank accounts use the same currency or different currencies.</span></span>
 
-## <a name="to-post-a-transfer-between-bank-accounts-with-the-same-currency-code"></a>Zaúčtování převodu mezi bankovními účty se stejným kódem měny
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Finanční deník** a pak vyberte související odkaz.
-2. Na řádku deníku vyplňte pole **Zúčtovací datum** a **Číslo dokladu** .
-3. V poli **Typ účtu** vyberte **Bankovní účet**.
-4. V poli **Číslo účtu** vyberte banku, ze které chcete peníze převést.
-5. Do pole **Částka** zadejte částku, kterou chcete převést.
-6. V poli **Typ protiúčtu** vyberte **Bankovní účet**.
-7. V poli **Typ protiúčtu vyberte bankovní** účet, ke kterému chcete peníze převést.
-8. Zaúčtujte deník.
+## <a name="to-post-a-transfer-between-bank-accounts-with-the-same-currency-code"></a><span data-ttu-id="ecaa5-106">Zaúčtování převodu mezi bankovními účty se stejným kódem měny</span><span class="sxs-lookup"><span data-stu-id="ecaa5-106">To post a transfer between bank accounts with the same currency code</span></span>
+1. <span data-ttu-id="ecaa5-107">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Finanční deník** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-107">In the top right corner, choose the **Search for Page or Report** icon, enter **General Journal**, and then choose the related link.</span></span>
+2. <span data-ttu-id="ecaa5-108">Na řádku deníku vyplňte pole **Zúčtovací datum** a **Číslo dokladu**</span><span class="sxs-lookup"><span data-stu-id="ecaa5-108">On a journal line, fill in the **Posting Date** and **Document No.**</span></span> <span data-ttu-id="ecaa5-109">.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-109">fields.</span></span>
+3. <span data-ttu-id="ecaa5-110">V poli **Typ účtu** vyberte **Bankovní účet**.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-110">In the **Account Type** field, select **Bank Account**.</span></span>
+4. <span data-ttu-id="ecaa5-111">V poli **Číslo účtu**</span><span class="sxs-lookup"><span data-stu-id="ecaa5-111">In the **Account No.**</span></span> <span data-ttu-id="ecaa5-112">vyberte banku, ze které chcete peníze převést.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-112">field, select the bank from which you want to transfer the funds.</span></span>
+5. <span data-ttu-id="ecaa5-113">Do pole **Částka** zadejte částku, kterou chcete převést.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-113">In the **Amount** field, enter the amount to be transferred.</span></span>
+6. <span data-ttu-id="ecaa5-114">V poli **Typ protiúčtu** vyberte **Bankovní účet**.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-114">In the **Bal. Account Type** field, select **Bank Account**.</span></span>
+7. <span data-ttu-id="ecaa5-115">V poli **Typ protiúčtu vyberte bankovní**</span><span class="sxs-lookup"><span data-stu-id="ecaa5-115">In the **Bal. Account No.**</span></span> <span data-ttu-id="ecaa5-116">účet, ke kterému chcete peníze převést.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-116">field, select the bank account to which you want to transfer the funds.</span></span>
+8. <span data-ttu-id="ecaa5-117">Zaúčtujte deník.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-117">Post the journal.</span></span>
 
-## <a name="to-post-a-transfer-between-bank-accounts-with-different-currency-codes"></a>Zaúčtování převodu mezi bankovními účty s různými kódy měn
-Chcete-li převádět finanční prostředky mezi bankovními účty, které používají různé měny, musíte zaúčtovat dva řádky finančního deníku.
+## <a name="to-post-a-transfer-between-bank-accounts-with-different-currency-codes"></a><span data-ttu-id="ecaa5-118">Zaúčtování převodu mezi bankovními účty s různými kódy měn</span><span class="sxs-lookup"><span data-stu-id="ecaa5-118">To post a transfer between bank accounts with different currency codes</span></span>
+<span data-ttu-id="ecaa5-119">Chcete-li převádět finanční prostředky mezi bankovními účty, které používají různé měny, musíte zaúčtovat dva řádky finančního deníku.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-119">To transfer funds between bank accounts that use different currencies, you must post two general journal lines.</span></span>
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Finanční deník** a pak vyberte související odkaz.
-2. Vytvořte dva řádky deníku a vyplňte pole **Zúčtovací datum** a **Číslo dokumentu** .
-3. Na prvním řádku deníku v poli **Typ** vyberte **Bankovní účet**.
-4. V poli **Číslo účtu** vyberte bankovní účet, ze kterého chcete peníze převést.
-5. V poli **Částka** zadejte částku v měně bankovního účtu. Zadejte částku Dal se znaménkem mínus. Zadejte částku MD se znaménkem mínus.
-6. V poli **Typ protiúčtu** vyberte **Bankovní účet**.
-7. V poli **Typ protiúčtu vyberte bankovní** účet, ke kterému chcete peníze převést.
-8. Na druhém řádku deníku v poli **Typ** vyberte **Bankovní účet**.
-9. V poli **Číslo účtu** vyberte bankovní účet, na který chcete peníze převést.
-10. V poli **Částka** zadejte částku v měně bankovního účtu. Zadejte částku Dal se znaménkem mínus. Zadejte částku MD se znaménkem mínus.
-11. V poli **Typ ****protiúčtu** vyberte **Bankovní účet**.  
-12. V poli **Typ protiúčtu vyberte bankovní** účet, ze kterého chcete peníze převést.
+1. <span data-ttu-id="ecaa5-120">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Finanční deník** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-120">In the top right corner, choose the **Search for Page or Report** icon, enter **General Journal**, and then choose the related link.</span></span>
+2. <span data-ttu-id="ecaa5-121">Vytvořte dva řádky deníku a vyplňte pole **Zúčtovací datum** a **Číslo dokumentu**</span><span class="sxs-lookup"><span data-stu-id="ecaa5-121">Create two journal lines, and fill in the **Posting Date** and **Document No.**</span></span> <span data-ttu-id="ecaa5-122">.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-122">fields.</span></span>
+3. <span data-ttu-id="ecaa5-123">Na prvním řádku deníku v poli **Typ** vyberte **Bankovní účet**.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-123">On the first journal line, in the **Type** field, select **Bank Account**.</span></span>
+4. <span data-ttu-id="ecaa5-124">V poli **Číslo účtu**</span><span class="sxs-lookup"><span data-stu-id="ecaa5-124">In the **Account No.**</span></span> <span data-ttu-id="ecaa5-125">vyberte bankovní účet, ze kterého chcete peníze převést.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-125">field, select the bank account from which you want to transfer the funds.</span></span>
+5. <span data-ttu-id="ecaa5-126">V poli **Částka** zadejte částku v měně bankovního účtu.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-126">In the **Amount** field, enter the amount in the currency of the bank account.</span></span> <span data-ttu-id="ecaa5-127">Zadejte částku Dal se znaménkem mínus.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-127">Enter credit amounts with a minus sign.</span></span> <span data-ttu-id="ecaa5-128">Zadejte částku MD se znaménkem mínus.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-128">Enter debit amounts without a minus sign.</span></span>
+6. <span data-ttu-id="ecaa5-129">V poli **Typ protiúčtu** vyberte **Bankovní účet**.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-129">In the **Bal. Account Type** field, select **Bank Account**.</span></span>
+7. <span data-ttu-id="ecaa5-130">V poli **Typ protiúčtu vyberte bankovní**</span><span class="sxs-lookup"><span data-stu-id="ecaa5-130">In the **Bal. Account No.**</span></span> <span data-ttu-id="ecaa5-131">účet, ke kterému chcete peníze převést.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-131">field, select the bank account to which you want to transfer the funds.</span></span>
+8. <span data-ttu-id="ecaa5-132">Na druhém řádku deníku v poli **Typ** vyberte **Bankovní účet**.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-132">On the second journal line, in the **Type** field, select **Bank Account**.</span></span>
+9. <span data-ttu-id="ecaa5-133">V poli **Číslo účtu**</span><span class="sxs-lookup"><span data-stu-id="ecaa5-133">In the **Account No.**</span></span> <span data-ttu-id="ecaa5-134">vyberte bankovní účet, na který chcete peníze převést.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-134">field, select the bank account to which you want to transfer the funds.</span></span>
+10. <span data-ttu-id="ecaa5-135">V poli **Částka** zadejte částku v měně bankovního účtu.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-135">In the **Amount** field, enter the amount in the currency of the bank account.</span></span> <span data-ttu-id="ecaa5-136">Zadejte částku Dal se znaménkem mínus.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-136">Enter credit amounts with a minus sign.</span></span> <span data-ttu-id="ecaa5-137">Zadejte částku MD se znaménkem mínus.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-137">Enter debit amounts without a minus sign.</span></span>
+11. <span data-ttu-id="ecaa5-138">V poli **Typ ****protiúčtu** vyberte **Bankovní účet**.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-138">In the **Bal. Account Type** field, select **Bank Account**.</span></span>  
+12. <span data-ttu-id="ecaa5-139">V poli **Typ protiúčtu vyberte bankovní**</span><span class="sxs-lookup"><span data-stu-id="ecaa5-139">In the **Bal. Account No.**</span></span> <span data-ttu-id="ecaa5-140">účet, ze kterého chcete peníze převést.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-140">field, select the bank account from which you want to transfer the funds.</span></span>
 
-    **Poznámka**: Pokud se kurzy používané v deníku liší od směnných kurzů v okně **Směnné kurzy**, zadejte třetí řádek pro kurzový zisk nebo ztrátu. Zadejte **Finanční účet** v poli **Typ účtu**. Zadejte číslo finančního účtu pro kurzový zisk nebo ztrátu v poli **Číslo účtu** . Zadejte kurzový zisk nebo ztrátu v poli **Částka** s nebo bez znaménka mínus pro částku Dal a MD.
-13. Zaúčtujte deník.
+    <span data-ttu-id="ecaa5-141">**Poznámka**: Pokud se kurzy používané v deníku liší od směnných kurzů v okně **Směnné kurzy**, zadejte třetí řádek pro kurzový zisk nebo ztrátu.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-141">**Note**: If the exchange rates used in the journal are different than the exchange rates in the **Currency Exchange Rates** window, enter a third line for the exchange rate gain or loss.</span></span> <span data-ttu-id="ecaa5-142">Zadejte **Finanční účet** v poli **Typ účtu**.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-142">Enter **G/L Account** in the **Account Type** field.</span></span> <span data-ttu-id="ecaa5-143">Zadejte číslo finančního účtu pro kurzový zisk nebo ztrátu v poli **Číslo účtu**</span><span class="sxs-lookup"><span data-stu-id="ecaa5-143">Enter the G/L account number for exchange rate gain or loss in the **Account No.**</span></span> <span data-ttu-id="ecaa5-144">.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-144">field.</span></span> <span data-ttu-id="ecaa5-145">Zadejte kurzový zisk nebo ztrátu v poli **Částka** s nebo bez znaménka mínus pro částku Dal a MD.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-145">Enter the exchange rate gain or loss in the **Amount** field with or without a minus sign for credits and debits respectively.</span></span>
+13. <span data-ttu-id="ecaa5-146">Zaúčtujte deník.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-146">Post the journal.</span></span>
 
-## <a name="see-also"></a>Viz také  
-[Správa bankovních účtů.](bank-manage-bank-accounts.md)  
-[Nastavení bankovnictví](bank-setup-banking.md)  
-[Práce s finančním deníkem](ui-work-general-journals.md)
+## <a name="see-also"></a><span data-ttu-id="ecaa5-147">Viz také</span><span class="sxs-lookup"><span data-stu-id="ecaa5-147">See Also</span></span>  
+[<span data-ttu-id="ecaa5-148">Správa bankovních účtů.</span><span class="sxs-lookup"><span data-stu-id="ecaa5-148">Manage Bank Accounts</span></span>](bank-manage-bank-accounts.md)  
+[<span data-ttu-id="ecaa5-149">Nastavení bankovnictví</span><span class="sxs-lookup"><span data-stu-id="ecaa5-149">Set Up Banking</span></span>](bank-setup-banking.md)  
+[<span data-ttu-id="ecaa5-150">Práce s finančním deníkem</span><span class="sxs-lookup"><span data-stu-id="ecaa5-150">Work with General Journals</span></span>](ui-work-general-journals.md)
 

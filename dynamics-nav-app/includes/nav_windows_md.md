@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV Windows Klient
+<span data-ttu-id="189fe-101">Microsoft Dynamics NAV Windows Klient</span><span class="sxs-lookup"><span data-stu-id="189fe-101">Microsoft Dynamics NAV Windows client</span></span>

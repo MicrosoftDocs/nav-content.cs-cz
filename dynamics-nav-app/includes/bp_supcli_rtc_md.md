@@ -1,1 +1,1 @@
-Pouze klient Microsoft Dynamics NAV Windows
+<span data-ttu-id="825f2-101">Pouze klient Microsoft Dynamics NAV Windows</span><span class="sxs-lookup"><span data-stu-id="825f2-101">Microsoft Dynamics NAV Windows client only</span></span>

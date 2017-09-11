@@ -9,25 +9,25 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 1444d49cdd3d51a1adc9f2f999b564ef4aa3ff22
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: b29d4364f40730f5eb691c8b05b4048867caeafd
 ms.contentlocale: cs-cz
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
-# <a name="relationship-management"></a>Správce vztahů
-Funkce Dynamics NAV správce vztahů vám pomáhá spravovat a podporovat vaše obchodní úsilí. Díky těmto funkcím máte přístup k úplným a přesným informacím, abyste se mohli soustředit na své interakce preferovaných segmentů zákazníků/kontaktů.
+# <a name="relationship-management"></a><span data-ttu-id="1e8ce-102">Správce vztahů</span><span class="sxs-lookup"><span data-stu-id="1e8ce-102">Relationship Management</span></span>
+<span data-ttu-id="1e8ce-103">Funkce Dynamics NAV správce vztahů vám pomáhá spravovat a podporovat vaše obchodní úsilí.</span><span class="sxs-lookup"><span data-stu-id="1e8ce-103">The relationship management features of Dynamics NAV help you manage and support your sales efforts.</span></span> <span data-ttu-id="1e8ce-104">Díky těmto funkcím máte přístup k úplným a přesným informacím, abyste se mohli soustředit na své interakce preferovaných segmentů zákazníků/kontaktů.</span><span class="sxs-lookup"><span data-stu-id="1e8ce-104">With these features, you have access to complete and accurate information so you can focus your interactions on preferred customer/contact segments.</span></span>
 
-Správné prodejní a marketingové praktiky jsou hlavně o tom, jak učinit správné rozhodnutí v ten pravý čas. Dynamics NAV poskytuje přesný a včasný přehled vašich kontaktních informací, abyste mohli účinněji sloužit potenciálním zákazníkům a zvýšit jejich spokojenost.
+<span data-ttu-id="1e8ce-105">Správné prodejní a marketingové praktiky jsou hlavně o tom, jak učinit správné rozhodnutí v ten pravý čas.</span><span class="sxs-lookup"><span data-stu-id="1e8ce-105">Good sales and marketing practices are all about how to make the best decisions at the right time.</span></span> <span data-ttu-id="1e8ce-106">Dynamics NAV poskytuje přesný a včasný přehled vašich kontaktních informací, abyste mohli účinněji sloužit potenciálním zákazníkům a zvýšit jejich spokojenost.</span><span class="sxs-lookup"><span data-stu-id="1e8ce-106">Dynamics NAV provides a precise and timely overview of your contact information so that you can serve your prospective customers more efficiently and increase customer satisfaction.</span></span>
 
-Chcete-li začít, podívejte se na následující témata:
+<span data-ttu-id="1e8ce-107">Chcete-li začít, podívejte se na následující témata:</span><span class="sxs-lookup"><span data-stu-id="1e8ce-107">To get started, see the following topics:</span></span>
 
-[Správa kontaktů](marketing-contacts.md)  
-[Správa segmentů](marketing-segments.md)  
-[Záznam interakcí](marketing-interactions.md)  
-[Správa prodejních příležitostí](marketing-manage-sales-opportunities.md)
+[<span data-ttu-id="1e8ce-108">Správa kontaktů</span><span class="sxs-lookup"><span data-stu-id="1e8ce-108">Manage Contacts</span></span>](marketing-contacts.md)  
+[<span data-ttu-id="1e8ce-109">Správa segmentů</span><span class="sxs-lookup"><span data-stu-id="1e8ce-109">Manage Segments</span></span>](marketing-segments.md)  
+[<span data-ttu-id="1e8ce-110">Záznam interakcí</span><span class="sxs-lookup"><span data-stu-id="1e8ce-110">Recording Interactions</span></span>](marketing-interactions.md)  
+[<span data-ttu-id="1e8ce-111">Správa prodejních příležitostí</span><span class="sxs-lookup"><span data-stu-id="1e8ce-111">Manage Sales Opportunities</span></span>](marketing-manage-sales-opportunities.md)
 
-##<a name="see-also"></a>Viz také
-[Správa prodeje](sales-manage-sales.md)  
-[Nastavení marketingu a správy kontaktů](marketing-setup-marketing.md)
+##<a name="see-also"></a><span data-ttu-id="1e8ce-112">Viz také</span><span class="sxs-lookup"><span data-stu-id="1e8ce-112">See Also</span></span>
+[<span data-ttu-id="1e8ce-113">Správa prodeje</span><span class="sxs-lookup"><span data-stu-id="1e8ce-113">Manage Sales</span></span>](sales-manage-sales.md)  
+[<span data-ttu-id="1e8ce-114">Nastavení marketingu a správy kontaktů</span><span class="sxs-lookup"><span data-stu-id="1e8ce-114">Set Up Marketing and Contact Management</span></span>](marketing-setup-marketing.md)
 

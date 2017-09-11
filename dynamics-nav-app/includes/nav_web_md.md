@@ -1,1 +1,1 @@
-Webový klient Microsoft Dynamics NAV
+<span data-ttu-id="5d3bc-101">Webový klient Microsoft Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="5d3bc-101">Microsoft Dynamics NAV Web client</span></span>

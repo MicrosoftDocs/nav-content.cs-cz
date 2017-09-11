@@ -16,98 +16,98 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-set-up-general-fixed-assets-information"></a>Návod: Nastavení informací o obecném dlouhodobém majetku
-Než budete moci spravovat dlouhodobý majetek, musíte nastavit výchozí finanční účty, alokační klíče, šablony deníků a dávky pro zaúčtování DM a reklasifikaci a klasifikovat dlouhodobý majetek v třídách, jako je Hmotný a Nehmotný.
+# <a name="how-to-set-up-general-fixed-assets-information"></a><span data-ttu-id="40983-102">Návod: Nastavení informací o obecném dlouhodobém majetku</span><span class="sxs-lookup"><span data-stu-id="40983-102">How to: Set Up General Fixed Assets Information</span></span>
+<span data-ttu-id="40983-103">Než budete moci spravovat dlouhodobý majetek, musíte nastavit výchozí finanční účty, alokační klíče, šablony deníků a dávky pro zaúčtování DM a reklasifikaci a klasifikovat dlouhodobý majetek v třídách, jako je Hmotný a Nehmotný.</span><span class="sxs-lookup"><span data-stu-id="40983-103">Before you can manage fixed assets, you must set up default G/L accounts, allocation keys, journal templates and batches for fixed asset posting and reclassification, and you can classify fixed assets in classes, such as Tangible and Intangible.</span></span>
 
-## <a name="to-set-up-general-default-values-for-fixed-assets"></a>Nastavení obecných výchozích hodnot pro dlouhodobý majetek
-Definujte obecné chování nebo funkčnost DM a nastavte řadu čísel dokumentu v okně **Nastavení DM**.
+## <a name="to-set-up-general-default-values-for-fixed-assets"></a><span data-ttu-id="40983-104">Nastavení obecných výchozích hodnot pro dlouhodobý majetek</span><span class="sxs-lookup"><span data-stu-id="40983-104">To set up general default values for fixed assets</span></span>
+<span data-ttu-id="40983-105">Definujte obecné chování nebo funkčnost DM a nastavte řadu čísel dokumentu v okně **Nastavení DM**.</span><span class="sxs-lookup"><span data-stu-id="40983-105">You define the general behavior or the fixed asset functionality and set up document number series in the  in the **Fixed Assets Setup** window.</span></span>
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Nastavení DM** a pak vyberte související odkaz.  
-2. Vyplňte pole podle potřeby. Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.
+1. <span data-ttu-id="40983-106">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Nastavení DM** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="40983-106">In the top right corner, choose the **Search for Page or Report** icon, enter **Fixed Assets Setup**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="40983-107">Vyplňte pole podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="40983-107">Fill in the fields as necessary.</span></span> <span data-ttu-id="40983-108">Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.</span><span class="sxs-lookup"><span data-stu-id="40983-108">Choose a field to read a short description of the field or link to more information.</span></span>
 
-## <a name="to-set-up-fixed-asset-posting-groups"></a>Nastavení účtovacích skupin DM  
-Pomocí účtovacích skupin můžete definovat skupiny DM. Položky pro tyto účtovací skupiny jsou zaúčtovány na stejných účtech hlavní knihy.  
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Účto skupiny DM** a pak vyberte související odkaz.  
-2. Zvolte akci **Nový**.
-3. V okně **Karta účto skupiny DM** vyplňte pole podle potřeby.
+## <a name="to-set-up-fixed-asset-posting-groups"></a><span data-ttu-id="40983-109">Nastavení účtovacích skupin DM</span><span class="sxs-lookup"><span data-stu-id="40983-109">To set up fixed asset posting groups</span></span>  
+<span data-ttu-id="40983-110">Pomocí účtovacích skupin můžete definovat skupiny DM.</span><span class="sxs-lookup"><span data-stu-id="40983-110">You use posting groups to define groups of fixed assets.</span></span> <span data-ttu-id="40983-111">Položky pro tyto účtovací skupiny jsou zaúčtovány na stejných účtech hlavní knihy.</span><span class="sxs-lookup"><span data-stu-id="40983-111">Entries for these posting groups are posted to the same general ledger accounts.</span></span>  
+1. <span data-ttu-id="40983-112">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Účto skupiny DM** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="40983-112">In the top right corner, choose the **Search for Page or Report** icon, enter **FA Posting Groups**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="40983-113">Zvolte akci **Nový**.</span><span class="sxs-lookup"><span data-stu-id="40983-113">Choose the **New** action.</span></span>
+3. <span data-ttu-id="40983-114">V okně **Karta účto skupiny DM** vyplňte pole podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="40983-114">In the **FA Posting Group Card** window, fill in the fields as necessary.</span></span>
 
-    **Poznámka**: Chcete-li se ujistit, že vyrovnávací účty pro různý zaúčtovaný dlouhodobý majetek jsou automaticky vloženy, zvolte akci **Vložit protiúčet DM** na řádcích deníku a postupujte podle dalšího kroku založeného na zhodnocení zaúčtování.
-4. V záložce s náhledem **Vyrovnávací účet** pole **Protiúčet zhodnocení** obsahuje účet hlavní knihy, na který chcete zaúčtovat zůstatkové položky pro zhodnocení.
+    <span data-ttu-id="40983-115">**Poznámka**: Chcete-li se ujistit, že vyrovnávací účty pro různý zaúčtovaný dlouhodobý majetek jsou automaticky vloženy, zvolte akci **Vložit protiúčet DM** na řádcích deníku a postupujte podle dalšího kroku založeného na zhodnocení zaúčtování.</span><span class="sxs-lookup"><span data-stu-id="40983-115">**Note**: To make sure that balancing accounts for different fixed assets postings are automatically inserted when you choose the **Insert FA Bal. Account** action on journal lines, follow the next step, based on appreciation posting.</span></span>
+4. <span data-ttu-id="40983-116">V záložce s náhledem **Vyrovnávací účet** pole **Protiúčet zhodnocení** obsahuje účet hlavní knihy, na který chcete zaúčtovat zůstatkové položky pro zhodnocení.</span><span class="sxs-lookup"><span data-stu-id="40983-116">On the **Balancing Account** FastTab, in the **Appreciation Bal. Account** field, select the general ledger account to which you want to post balancing entries for appreciation.</span></span>
 
-Další informace o použití akce **Vložit protiúčet DM** na řádcích finančního deníku DM, viz například [Návod: Přecenění DM](fa-how-revalue.md).
+<span data-ttu-id="40983-117">Další informace o použití akce **Vložit protiúčet DM** na řádcích finančního deníku DM, viz například [Návod: Přecenění DM](fa-how-revalue.md).</span><span class="sxs-lookup"><span data-stu-id="40983-117">For more information about using the **Insert FA Bal. Account** action on fixed asset G/L journal lines, see, for example, [How to: Revalue Fixed Assets](fa-how-revalue.md).</span></span>
 
-## <a name="to-set-up-fixed-asset-allocation-keys"></a>Nastavení přidělovacích klíčů DM  
-Transakce mohou být přiděleny různým oddělením nebo projektům podle uživatelsky definovaných přidělovacích klíčů. Například byste mohli nastavit přidělovací klíč pro přidělení nákladů na odpisy vozidel s 35% administrativnímu oddělení a 65% prodejnímu oddělení. Další informace naleznete v tématu [Návod: Použití přidělovacího klíče v obecných denících](ui-how-use-allocation-keys-general-journals.md).
+## <a name="to-set-up-fixed-asset-allocation-keys"></a><span data-ttu-id="40983-118">Nastavení přidělovacích klíčů DM</span><span class="sxs-lookup"><span data-stu-id="40983-118">To set up fixed asset allocation keys</span></span>  
+<span data-ttu-id="40983-119">Transakce mohou být přiděleny různým oddělením nebo projektům podle uživatelsky definovaných přidělovacích klíčů.</span><span class="sxs-lookup"><span data-stu-id="40983-119">Transactions can be allocated to various departments or projects, according to user-defined allocation keys.</span></span> <span data-ttu-id="40983-120">Například byste mohli nastavit přidělovací klíč pro přidělení nákladů na odpisy vozidel s 35% administrativnímu oddělení a 65% prodejnímu oddělení.</span><span class="sxs-lookup"><span data-stu-id="40983-120">For example, you could set up an allocation key to allocate depreciation costs on cars with 35 percent to the administration department and 65 percent to the sales department.</span></span> <span data-ttu-id="40983-121">Další informace naleznete v tématu [Návod: Použití přidělovacího klíče v obecných denících](ui-how-use-allocation-keys-general-journals.md).</span><span class="sxs-lookup"><span data-stu-id="40983-121">For more information, see [How to: Use Allocation Keys in General Journals](ui-how-use-allocation-keys-general-journals.md).</span></span>
 
-Přidělovací klíče platí pro třídy DM, nikoli pro jednotlivý majetek.  
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Účto skupiny DM** a pak vyberte související odkaz.  
-2. V okně **Účto skupiny DM** vyberte akci **Přidělení** a poté vyberte typ účtování.
-3. V okně **Přidělení DM** vyplňte pole podle potřeby.
-4. Opakujte kroky 2 a 3 pro každý typ účtování, pro který chcete definovat přidělovací klíče.
+<span data-ttu-id="40983-122">Přidělovací klíče platí pro třídy DM, nikoli pro jednotlivý majetek.</span><span class="sxs-lookup"><span data-stu-id="40983-122">Allocation keys apply to fixed asset classes, not to individual assets.</span></span>  
+1. <span data-ttu-id="40983-123">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Účto skupiny DM** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="40983-123">In the top right corner, choose the **Search for Page or Report** icon, enter **FA Posting Groups**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="40983-124">V okně **Účto skupiny DM** vyberte akci **Přidělení** a poté vyberte typ účtování.</span><span class="sxs-lookup"><span data-stu-id="40983-124">In the **FA Posting Groups** window, choose the **Allocations** action, and then choose a posting type.</span></span>
+3. <span data-ttu-id="40983-125">V okně **Přidělení DM** vyplňte pole podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="40983-125">In the **FA Allocations** window, fill in the fields as necessary.</span></span>
+4. <span data-ttu-id="40983-126">Opakujte kroky 2 a 3 pro každý typ účtování, pro který chcete definovat přidělovací klíče.</span><span class="sxs-lookup"><span data-stu-id="40983-126">Repeat steps 2 and 3 for each posting type that you want to define allocation keys for.</span></span>
 
-## <a name="to-set-up-fixed-asset-journal-templates"></a>Nastavení šablon deníku DM  
-Šablona je předdefinované rozložení pro deník. Šablona obsahuje informace o sledovacích kódech, výkazech a číselných řadách. Další informace naleznete v tématu [Práce s Finančním deníkem](ui-work-general-journals.md).
+## <a name="to-set-up-fixed-asset-journal-templates"></a><span data-ttu-id="40983-127">Nastavení šablon deníku DM</span><span class="sxs-lookup"><span data-stu-id="40983-127">To set up fixed asset journal templates</span></span>  
+<span data-ttu-id="40983-128">Šablona je předdefinované rozložení pro deník.</span><span class="sxs-lookup"><span data-stu-id="40983-128">A template is a predefined layout for a journal.</span></span> <span data-ttu-id="40983-129">Šablona obsahuje informace o sledovacích kódech, výkazech a číselných řadách.</span><span class="sxs-lookup"><span data-stu-id="40983-129">The template contains information about trace codes, reports, and number series.</span></span> <span data-ttu-id="40983-130">Další informace naleznete v tématu [Práce s Finančním deníkem](ui-work-general-journals.md).</span><span class="sxs-lookup"><span data-stu-id="40983-130">For more information, see [Work with General Journals](ui-work-general-journals.md).</span></span>
 
-Dynamics NAV automaticky vytvoří šablonu deníku DM při prvním otevření okna **Deník DM**, ale můžete nastavit další šablony deníku.  
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Šablony deníku DM** a pak vyberte související odkaz.  
-2. Vyplňte pole podle potřeby.
+<span data-ttu-id="40983-131">Dynamics NAV automaticky vytvoří šablonu deníku DM při prvním otevření okna **Deník DM**, ale můžete nastavit další šablony deníku.</span><span class="sxs-lookup"><span data-stu-id="40983-131">Dynamics NAV automatically creates a fixed asset journal template the first time that you open the **Fixed Asset Journal** window, but you can set up additional journal templates.</span></span>  
+1. <span data-ttu-id="40983-132">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Šablony deníku DM** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="40983-132">In the top right corner, choose the **Search for Page or Report** icon, enter **FA Journal Templates**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="40983-133">Vyplňte pole podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="40983-133">Fill in the fields as necessary.</span></span>
 
-## <a name="to-set-up-fixed-asset-journal-batches"></a>Nastavení dávek deníku DM
-Můžete nastavit více dávek deníku, což jsou jednotlivé deníky pro každou šablonu deníku. Zaměstnanci mohou například mít vlastní dávku deníku, která používá iniciály zaměstnanců jako název šablony deníku. Další informace naleznete v tématu [Práce s Finančním deníkem](ui-work-general-journals.md).  
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Šablony deníku DM** a pak vyberte související odkaz.  
-2. Vyberte příslušnou šablonu deníku a pak zvolte akci **Dávky**.
-3. V okně **Dávky deníku DM** vyplňte pole podle potřeby.
+## <a name="to-set-up-fixed-asset-journal-batches"></a><span data-ttu-id="40983-134">Nastavení dávek deníku DM</span><span class="sxs-lookup"><span data-stu-id="40983-134">To set up fixed asset journal batches</span></span>
+<span data-ttu-id="40983-135">Můžete nastavit více dávek deníku, což jsou jednotlivé deníky pro každou šablonu deníku.</span><span class="sxs-lookup"><span data-stu-id="40983-135">You can set up multiple journal batches, which are individual journals for each journal template.</span></span> <span data-ttu-id="40983-136">Zaměstnanci mohou například mít vlastní dávku deníku, která používá iniciály zaměstnanců jako název šablony deníku.</span><span class="sxs-lookup"><span data-stu-id="40983-136">For example, employees can have their own journal batch that uses the employee’s initials as the journal batch name.</span></span> <span data-ttu-id="40983-137">Další informace naleznete v tématu [Práce s Finančním deníkem](ui-work-general-journals.md).</span><span class="sxs-lookup"><span data-stu-id="40983-137">For more information, see [Work with General Journals](ui-work-general-journals.md).</span></span>  
+1. <span data-ttu-id="40983-138">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Šablony deníku DM** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="40983-138">In the top right corner, choose the **Search for Page or Report** icon, enter **FA Journal Templates**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="40983-139">Vyberte příslušnou šablonu deníku a pak zvolte akci **Dávky**.</span><span class="sxs-lookup"><span data-stu-id="40983-139">Select the relevant journal template, and then choose the **Batches** action.</span></span>
+3. <span data-ttu-id="40983-140">V okně **Dávky deníku DM** vyplňte pole podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="40983-140">In the **FA Journal Batches** window, fill in the fields as necessary.</span></span>
 
-## <a name="to-set-up-fixed-asset-reclassification-journal-templates"></a>Nastavení šablon deníku pro reklasifikaci DM  
-Používáte-li vyhrazené přeřazení deníků, když potřebujete převést, rozdělit nebo kombinovat dlouhodobý majetek. Dynamics NAV automaticky vytvoří šablonu deníku pro reklasifikaci DM při prvním otevření okna **Deník přeřazení DM**, ale můžete nastavit další reklasifikaci šablony deníku. Další informace naleznete v tématu [Práce s Finančním deníkem](ui-work-general-journals.md).  
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Šablony deníku přeřazení DM** a pak vyberte související odkaz.  
-2. Vyplňte pole podle potřeby.
+## <a name="to-set-up-fixed-asset-reclassification-journal-templates"></a><span data-ttu-id="40983-141">Nastavení šablon deníku pro reklasifikaci DM</span><span class="sxs-lookup"><span data-stu-id="40983-141">To set up fixed asset reclassification journal templates</span></span>  
+<span data-ttu-id="40983-142">Používáte-li vyhrazené přeřazení deníků, když potřebujete převést, rozdělit nebo kombinovat dlouhodobý majetek.</span><span class="sxs-lookup"><span data-stu-id="40983-142">You use dedicated reclassification journals when you need to transfer, split, or combine fixed assets.</span></span> <span data-ttu-id="40983-143">Dynamics NAV automaticky vytvoří šablonu deníku pro reklasifikaci DM při prvním otevření okna **Deník přeřazení DM**, ale můžete nastavit další reklasifikaci šablony deníku.</span><span class="sxs-lookup"><span data-stu-id="40983-143">Dynamics NAV automatically creates a fixed asset reclassification journal template the first time that you open the **FA Reclass. Journal** window, but you can set up additional reclassification journal templates.</span></span> <span data-ttu-id="40983-144">Další informace naleznete v tématu [Práce s Finančním deníkem](ui-work-general-journals.md).</span><span class="sxs-lookup"><span data-stu-id="40983-144">For more information, see [Work with General Journals](ui-work-general-journals.md).</span></span>  
+1. <span data-ttu-id="40983-145">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Šablony deníku přeřazení DM** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="40983-145">In the top right corner, choose the **Search for Page or Report** icon, enter **FA Reclass. Journal Templates**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="40983-146">Vyplňte pole podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="40983-146">Fill in the fields as necessary.</span></span>
 
-## <a name="to-set-up-fixed-asset-reclassification-journal-batches"></a>Nastavení dávky deníku pro reklasifikaci DM  
-Můžete nastavit více dávek deníku, což jsou jednotlivé deníky pro každou reklasifikaci šablony deníku. Zaměstnanci mohou mít například vlastní reklasifikaci dávky deníku, který používá iniciály zaměstnanců jako název reklasifikaci dávky deníku. Další informace naleznete v tématu [Práce s Finančním deníkem](ui-work-general-journals.md).
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Šablony deníku ****přeřazení DM** a pak vyberte související odkaz.  
-2. Vyberte příslušnou šablonu deníku a pak zvolte akci **Dávky**.
-3. V okně **Listy deníku přeřazení DM** vyplňte pole podle potřeby.
+## <a name="to-set-up-fixed-asset-reclassification-journal-batches"></a><span data-ttu-id="40983-147">Nastavení dávky deníku pro reklasifikaci DM</span><span class="sxs-lookup"><span data-stu-id="40983-147">To set up fixed asset reclassification journal batches</span></span>  
+<span data-ttu-id="40983-148">Můžete nastavit více dávek deníku, což jsou jednotlivé deníky pro každou reklasifikaci šablony deníku.</span><span class="sxs-lookup"><span data-stu-id="40983-148">You can set up multiple journal batches, which are individual journals for each reclassification journal template.</span></span> <span data-ttu-id="40983-149">Zaměstnanci mohou mít například vlastní reklasifikaci dávky deníku, který používá iniciály zaměstnanců jako název reklasifikaci dávky deníku.</span><span class="sxs-lookup"><span data-stu-id="40983-149">For example, employees can have their own reclassification journal batch that uses the employee’s initials as the reclassification journal batch name.</span></span> <span data-ttu-id="40983-150">Další informace naleznete v tématu [Práce s Finančním deníkem](ui-work-general-journals.md).</span><span class="sxs-lookup"><span data-stu-id="40983-150">For more information, see [Work with General Journals](ui-work-general-journals.md).</span></span>
+1. <span data-ttu-id="40983-151">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Šablony deníku ****přeřazení DM** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="40983-151">In the top right corner, choose the **Search for Page or Report** icon, enter **FA Reclass. Journal Templates**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="40983-152">Vyberte příslušnou šablonu deníku a pak zvolte akci **Dávky**.</span><span class="sxs-lookup"><span data-stu-id="40983-152">Select the relevant journal template, and then choose the **Batches** action.</span></span>
+3. <span data-ttu-id="40983-153">V okně **Listy deníku přeřazení DM** vyplňte pole podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="40983-153">In the **FA Reclass. Journal Batches** window, fill in the fields as necessary.</span></span>
 
-## <a name="to-set-up-fixed-asset-class-codes"></a>Nastavení kódů tříd DM  
-Kódy tříd DM můžou být použity k seskupení DM, například do hmotného a nehmotného majetku.
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Třidy DM** a pak vyberte související odkaz.
-2. Zadejte kódy a názvy pro třídy, které chcete vytvořit.
+## <a name="to-set-up-fixed-asset-class-codes"></a><span data-ttu-id="40983-154">Nastavení kódů tříd DM</span><span class="sxs-lookup"><span data-stu-id="40983-154">To set up fixed asset class codes</span></span>  
+<span data-ttu-id="40983-155">Kódy tříd DM můžou být použity k seskupení DM, například do hmotného a nehmotného majetku.</span><span class="sxs-lookup"><span data-stu-id="40983-155">Fixed asset class codes can be used to group fixed assets, for example, in tangible and intangible assets.</span></span>
+1. <span data-ttu-id="40983-156">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Třidy DM** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="40983-156">In the top right corner, choose the **Search for Page or Report** icon, enter **FA Classes**, and then choose the related link.</span></span>
+2. <span data-ttu-id="40983-157">Zadejte kódy a názvy pro třídy, které chcete vytvořit.</span><span class="sxs-lookup"><span data-stu-id="40983-157">Enter codes and names for the classes that you want to create.</span></span>
 
-## <a name="to-set-up-fixed-asset-subclass-codes"></a>Nastavení podtřídových kódů DM
-Používáte-li podtřídové kódy DM k seskupení svého DM do kategorií jako jsou budovy, vozidla, nábytek nebo strojní zařízení.  
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Podtřídy DM** a pak vyberte související odkaz.
-2. Zadejte kódy a názvy pro třídy, které chcete vytvořit.
+## <a name="to-set-up-fixed-asset-subclass-codes"></a><span data-ttu-id="40983-158">Nastavení podtřídových kódů DM</span><span class="sxs-lookup"><span data-stu-id="40983-158">To set up fixed asset subclass codes</span></span>
+<span data-ttu-id="40983-159">Používáte-li podtřídové kódy DM k seskupení svého DM do kategorií jako jsou budovy, vozidla, nábytek nebo strojní zařízení.</span><span class="sxs-lookup"><span data-stu-id="40983-159">You use fixed asset subclass codes to group your fixed assets into categories, such as buildings, vehicles, furniture, or machinery.</span></span>  
+1. <span data-ttu-id="40983-160">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Podtřídy DM** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="40983-160">In the top right corner, choose the **Search for Page or Report** icon, enter **FA Subclasses**, and then choose the related link.</span></span>
+2. <span data-ttu-id="40983-161">Zadejte kódy a názvy pro třídy, které chcete vytvořit.</span><span class="sxs-lookup"><span data-stu-id="40983-161">Enter codes and names for the classes that you want to create.</span></span>
 
-## <a name="to-set-up-fixed-asset-location-codes"></a>Nastavení kódů místa DM
-Použijete kódy místa DM k registraci umístění DM, např. oddělení prodeje, příjem, správa, výroba nebo sklad. Tyto informace jsou užitečné pro účely pojištění a inventáře.
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Umístění DM** a pak vyberte související odkaz.
-2. Zadejte kódy a názvy pro umístění DM, který chcete vytvořit.
+## <a name="to-set-up-fixed-asset-location-codes"></a><span data-ttu-id="40983-162">Nastavení kódů místa DM</span><span class="sxs-lookup"><span data-stu-id="40983-162">To set up fixed asset location codes</span></span>
+<span data-ttu-id="40983-163">Použijete kódy místa DM k registraci umístění DM, např. oddělení prodeje, příjem, správa, výroba nebo sklad.</span><span class="sxs-lookup"><span data-stu-id="40983-163">You use fixed asset location codes to register the location of the fixed asset, such as sales department, reception, administration, production, or warehouse.</span></span> <span data-ttu-id="40983-164">Tyto informace jsou užitečné pro účely pojištění a inventáře.</span><span class="sxs-lookup"><span data-stu-id="40983-164">This information is useful for insurance and inventory purposes.</span></span>
+1. <span data-ttu-id="40983-165">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Umístění DM** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="40983-165">In the top right corner, choose the **Search for Page or Report** icon, enter **FA locations**, and then choose the related link.</span></span>
+2. <span data-ttu-id="40983-166">Zadejte kódy a názvy pro umístění DM, který chcete vytvořit.</span><span class="sxs-lookup"><span data-stu-id="40983-166">Enter codes and names for the fixed asset locations that you want to create.</span></span>
 
-## <a name="to-register-opening-entries"></a>Zaregistrování otevíracích položek  
-Pokud používáte dlouhodobý majetek v Dynamics NAV poprvé, musíte nastavit oblast aplikace hlavní knihy před nastavením DM. Jak to uděláte, závisí na tom, zda je dlouhodobý majetek integrován do hlavní knihy.  
+## <a name="to-register-opening-entries"></a><span data-ttu-id="40983-167">Zaregistrování otevíracích položek</span><span class="sxs-lookup"><span data-stu-id="40983-167">To register opening entries</span></span>  
+<span data-ttu-id="40983-168">Pokud používáte dlouhodobý majetek v Dynamics NAV poprvé, musíte nastavit oblast aplikace hlavní knihy před nastavením DM.</span><span class="sxs-lookup"><span data-stu-id="40983-168">If you are using the fixed assets in Dynamics NAV for the first time, you must set up the general ledger application area before you set up fixed assets.</span></span> <span data-ttu-id="40983-169">Jak to uděláte, závisí na tom, zda je dlouhodobý majetek integrován do hlavní knihy.</span><span class="sxs-lookup"><span data-stu-id="40983-169">How you do this depends on whether fixed assets is integrated with general ledger.</span></span>  
 
- Následující postup se používá, pokud mají být transakce DM zaúčtovány do hlavní knihy.  
+ <span data-ttu-id="40983-170">Následující postup se používá, pokud mají být transakce DM zaúčtovány do hlavní knihy.</span><span class="sxs-lookup"><span data-stu-id="40983-170">The following procedure is used if fixed asset transactions are to be posted to the general ledger.</span></span>  
 
-1. Ujistěte se, že jste dokončili základní nastavení procedury pro dlouhodobý majetek.  
-2. Vytvořte kartu DM pro každý existující majetek.  
-3. Nastavení odpisových knih DM.  
-4. Povolte integraci hlavní knihy podle následujících kroků.
-5. Do pole **Hledat** zadejte **Knihy odpisů** a poté vyberte příslušný odkaz.  
-6. Vyberte příslušnou knihu odpisů. Na kartě **Domů** ve skupině **Správa** vyberte možnost **Upravit** a otevřete okno **Karta knihy odpisů**.
-7. V záložce s náhledem **Integrace** se ujistěte, že všechna pole jsou prázdná odstraněním všech značek zaškrtnutí. Pokud máte více než jednu odpisovou knihu, zapněte integraci hlavní knihy pro každý z nich.  
-8. V deníku DM zadejte následující řádky pro každý majetek:
-    - Řádek s pořizovací cenou.
-    - Řádek s akumulovaným odpisem do konce předchozího fiskálního roku.
-    - Řádek s akumulovaným odpisem od začátku běžného fiskálního roku do data, kdy je Dynamics NAV nastaven tak, aby začal vypočítávat odpisy.
+1. <span data-ttu-id="40983-171">Ujistěte se, že jste dokončili základní nastavení procedury pro dlouhodobý majetek.</span><span class="sxs-lookup"><span data-stu-id="40983-171">Make sure that you have completed the basic setup procedures for fixed assets.</span></span>  
+2. <span data-ttu-id="40983-172">Vytvořte kartu DM pro každý existující majetek.</span><span class="sxs-lookup"><span data-stu-id="40983-172">Create a fixed asset card for each existing asset.</span></span>  
+3. <span data-ttu-id="40983-173">Nastavení odpisových knih DM.</span><span class="sxs-lookup"><span data-stu-id="40983-173">Set up fixed asset depreciation books.</span></span>  
+4. <span data-ttu-id="40983-174">Povolte integraci hlavní knihy podle následujících kroků.</span><span class="sxs-lookup"><span data-stu-id="40983-174">Enable general ledger integration by following the next steps.</span></span>
+5. <span data-ttu-id="40983-175">Do pole **Hledat** zadejte **Knihy odpisů** a poté vyberte příslušný odkaz.</span><span class="sxs-lookup"><span data-stu-id="40983-175">In the **Search** box, enter **Depreciation Books**, and then choose the related link.</span></span>  
+6. <span data-ttu-id="40983-176">Vyberte příslušnou knihu odpisů.</span><span class="sxs-lookup"><span data-stu-id="40983-176">Select the relevant depreciation book.</span></span> <span data-ttu-id="40983-177">Na kartě **Domů** ve skupině **Správa** vyberte možnost **Upravit** a otevřete okno **Karta knihy odpisů**.</span><span class="sxs-lookup"><span data-stu-id="40983-177">On the **Home** tab, in the **Manage** group, choose **Edit** to open the **Depreciation Book Card** window.</span></span>
+7. <span data-ttu-id="40983-178">V záložce s náhledem **Integrace** se ujistěte, že všechna pole jsou prázdná odstraněním všech značek zaškrtnutí.</span><span class="sxs-lookup"><span data-stu-id="40983-178">On the **Integration** FastTab, make sure all fields are blank by clearing all check marks.</span></span> <span data-ttu-id="40983-179">Pokud máte více než jednu odpisovou knihu, zapněte integraci hlavní knihy pro každý z nich.</span><span class="sxs-lookup"><span data-stu-id="40983-179">If you have more than one depreciation book, turn on general ledger integration for each one.</span></span>  
+8. <span data-ttu-id="40983-180">V deníku DM zadejte následující řádky pro každý majetek:</span><span class="sxs-lookup"><span data-stu-id="40983-180">In the fixd asset journal, enter the following lines for each asset:</span></span>
+    - <span data-ttu-id="40983-181">Řádek s pořizovací cenou.</span><span class="sxs-lookup"><span data-stu-id="40983-181">A line with the acquisition cost.</span></span>
+    - <span data-ttu-id="40983-182">Řádek s akumulovaným odpisem do konce předchozího fiskálního roku.</span><span class="sxs-lookup"><span data-stu-id="40983-182">A line with the accumulated depreciation to the end of the previous fiscal year.</span></span>
+    - <span data-ttu-id="40983-183">Řádek s akumulovaným odpisem od začátku běžného fiskálního roku do data, kdy je Dynamics NAV nastaven tak, aby začal vypočítávat odpisy.</span><span class="sxs-lookup"><span data-stu-id="40983-183">A line with the accumulated depreciation from the start of the current fiscal year to the date that Dynamics NAV is set to start calculating the depreciation.</span></span>
 
-Máte-li další počáteční zůstatky, můžete je nyní také zadat, například napsat\-dolů a zhodnocení.  
+<span data-ttu-id="40983-184">Máte-li další počáteční zůstatky, můžete je nyní také zadat, například napsat\-dolů a zhodnocení.</span><span class="sxs-lookup"><span data-stu-id="40983-184">If you have other opening balances you can also enter them now, such as write\-down and appreciation.</span></span>  
 
-Pokud není dlouhodobý majetek integrován do hlavní knihy, přeskočte kroky 4 až 7.
+<span data-ttu-id="40983-185">Pokud není dlouhodobý majetek integrován do hlavní knihy, přeskočte kroky 4 až 7.</span><span class="sxs-lookup"><span data-stu-id="40983-185">If the fixed assets are not integrated with the general ledger, skip steps 4 through 7.</span></span>
 
-## <a name="see-also"></a>Viz také
-[Nastavení DM](fa-setup.md)  
-[Správa DM](fa-manage.md)  
-[Finance](finance-setup.md)  
-[Vítejte v Dynamics NAV](across-get-started.md)
+## <a name="see-also"></a><span data-ttu-id="40983-186">Viz také</span><span class="sxs-lookup"><span data-stu-id="40983-186">See Also</span></span>
+[<span data-ttu-id="40983-187">Nastavení DM</span><span class="sxs-lookup"><span data-stu-id="40983-187">Set Up Fixed Assets</span></span>](fa-setup.md)  
+[<span data-ttu-id="40983-188">Správa DM</span><span class="sxs-lookup"><span data-stu-id="40983-188">Manage Fixed Assets</span></span>](fa-manage.md)  
+[<span data-ttu-id="40983-189">Finance</span><span class="sxs-lookup"><span data-stu-id="40983-189">Finance</span></span>](finance-setup.md)  
+[<span data-ttu-id="40983-190">Vítejte v Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="40983-190">Welcome to Dynamics NAV</span></span>](across-get-started.md)
 

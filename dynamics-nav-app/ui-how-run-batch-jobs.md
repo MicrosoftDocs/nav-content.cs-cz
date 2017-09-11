@@ -16,17 +16,17 @@ ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-run-batch-jobs"></a>Návod: Spuštění dávkových úloh
-Dávková úloha je rutina, která zpracovává data v dávkách, jako například dávková úloha **Úprava směnných kurzů**. Existují dávkové úlohy, které provádějí pravidelné účetní činnosti, jako například uzávěrku výsledovky na konci fiskálního roku. Mnoho dávkových úloh provádí výpočty, jako například výpočet poplatků za nastavení financí, vyrovnání kurzových rozdílů a výpočet jednotkových cen.
+# <a name="how-to-run-batch-jobs"></a><span data-ttu-id="9240b-102">Návod: Spuštění dávkových úloh</span><span class="sxs-lookup"><span data-stu-id="9240b-102">How to: Run Batch Jobs</span></span>
+<span data-ttu-id="9240b-103">Dávková úloha je rutina, která zpracovává data v dávkách, jako například dávková úloha **Úprava směnných kurzů**.</span><span class="sxs-lookup"><span data-stu-id="9240b-103">A batch job is a routine that processes data in batches, for example the **Adjust Exchange Rates** batch job.</span></span> <span data-ttu-id="9240b-104">Existují dávkové úlohy, které provádějí pravidelné účetní činnosti, jako například uzávěrku výsledovky na konci fiskálního roku.</span><span class="sxs-lookup"><span data-stu-id="9240b-104">There are batch jobs that perform periodic accounting activities, such as closing the income statement at the end of a fiscal year.</span></span> <span data-ttu-id="9240b-105">Mnoho dávkových úloh provádí výpočty, jako například výpočet poplatků za nastavení financí, vyrovnání kurzových rozdílů a výpočet jednotkových cen.</span><span class="sxs-lookup"><span data-stu-id="9240b-105">Many batch jobs do calculation work, such as calculation of finance-setup charges, exchange rate adjustment, and calculation of unit prices.</span></span>
 
-Dávková úloha je jako sestava, s výjimkou toho, že dávková úloha používá výsledek své práce k přímé aktualizaci informací, namísto tisku výsledků.
+<span data-ttu-id="9240b-106">Dávková úloha je jako sestava, s výjimkou toho, že dávková úloha používá výsledek své práce k přímé aktualizaci informací, namísto tisku výsledků.</span><span class="sxs-lookup"><span data-stu-id="9240b-106">A batch job is like a report, except the batch job uses the result of its work to update information directly, instead of printing the results.</span></span>
 
-## <a name="to-run-a-batch-job"></a>Spustit dávkovou úlohu
-1. K otevření okna požadavku pro relevantní dávkovou úlohu, zvolte v pravém horním rohu ikonu **Hledat stránku nebo sestavu**, zadejte název dávkové úlohy a zvolte související odkaz.
-2. Pokud je zde pro dávkovou úlohu záložka **Možnosti**, vyplňte pole, k tomu abyste určili, co bude dávková úloha dělat.
-3. Okno může obsahovat jednu nebo více záložek s filtry, které můžete použít k omezení dat obsažených v dávkové úloze.  Můžete zadat kritéria v navrhovaných filtrech nebo přidat více filtrů.
-4. Zvolte tlačítko **OK** pro spuštění dávkové úlohy. 
+## <a name="to-run-a-batch-job"></a><span data-ttu-id="9240b-107">Spustit dávkovou úlohu</span><span class="sxs-lookup"><span data-stu-id="9240b-107">To run a batch job</span></span>
+1. <span data-ttu-id="9240b-108">K otevření okna požadavku pro relevantní dávkovou úlohu, zvolte v pravém horním rohu ikonu **Hledat stránku nebo sestavu**, zadejte název dávkové úlohy a zvolte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="9240b-108">To open the request window for the relevant batch job, in the top right corner, choose the **Search for Page or Report** icon, enter the name of the batch job, and then choose the related link.</span></span>
+2. <span data-ttu-id="9240b-109">Pokud je zde pro dávkovou úlohu záložka **Možnosti**, vyplňte pole, k tomu abyste určili, co bude dávková úloha dělat.</span><span class="sxs-lookup"><span data-stu-id="9240b-109">If there is an **Options** FastTab for the batch job, fill in the fields to determine what the batch job will do.</span></span>
+3. <span data-ttu-id="9240b-110">Okno může obsahovat jednu nebo více záložek s filtry, které můžete použít k omezení dat obsažených v dávkové úloze. </span><span class="sxs-lookup"><span data-stu-id="9240b-110">The window may contain one or more FastTab with filters, which you can use to limit the data included in the batch job.</span></span> <span data-ttu-id="9240b-111">Můžete zadat kritéria v navrhovaných filtrech nebo přidat více filtrů.</span><span class="sxs-lookup"><span data-stu-id="9240b-111">You can enter criteria in the suggested filters or add more filters.</span></span>
+4. <span data-ttu-id="9240b-112">Zvolte tlačítko **OK** pro spuštění dávkové úlohy. </span><span class="sxs-lookup"><span data-stu-id="9240b-112">Choose the **OK** button to start the batch job.</span></span>
 
-## <a name="see-also"></a>Viz také
-[Zadávání kritérií ve filtrech.](ui-enter-criteria-filters.md)
+## <a name="see-also"></a><span data-ttu-id="9240b-113">Viz také</span><span class="sxs-lookup"><span data-stu-id="9240b-113">See Also</span></span>
+[<span data-ttu-id="9240b-114">Zadávání kritérií ve filtrech.</span><span class="sxs-lookup"><span data-stu-id="9240b-114">Entering Criteria in Filters</span></span>](ui-enter-criteria-filters.md)
 

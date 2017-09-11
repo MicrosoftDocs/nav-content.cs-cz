@@ -1,1 +1,1 @@
-CRONUS International Ltd. demonstrační databáze
+<span data-ttu-id="2184f-101">CRONUS International Ltd.</span><span class="sxs-lookup"><span data-stu-id="2184f-101">CRONUS International Ltd.</span></span> <span data-ttu-id="2184f-102">demonstrační databáze</span><span class="sxs-lookup"><span data-stu-id="2184f-102">demonstration database</span></span>

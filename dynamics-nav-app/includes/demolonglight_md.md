@@ -1,1 +1,1 @@
-CRONUS demonstrační databáze
+<span data-ttu-id="55327-101">CRONUS demonstrační databáze</span><span class="sxs-lookup"><span data-stu-id="55327-101">CRONUS demonstration database</span></span>

@@ -9,86 +9,86 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: e4135aa801b0b507b5f179d02a240a7554ed45cd
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: bde70a8febc561b68908b1da2729fff59b105fd9
 ms.contentlocale: cs-cz
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-use-approval-workflows"></a>Návod: Použití schvalovacího workflow
-Pokud musí být záznam, například nákupní doklad nebo zákaznická karta schválen někým ve vaší organizaci, odešlete požadavek na schválení jako součást workflow. Na základě nastavení workflow je příslušná schvalující osoba informována o tom, že záznam vyžaduje schválení.
+# <a name="how-to-use-approval-workflows"></a><span data-ttu-id="c252f-102">Návod: Použití schvalovacího workflow</span><span class="sxs-lookup"><span data-stu-id="c252f-102">How to: Use Approval Workflows</span></span>
+<span data-ttu-id="c252f-103">Pokud musí být záznam, například nákupní doklad nebo zákaznická karta schválen někým ve vaší organizaci, odešlete požadavek na schválení jako součást workflow.</span><span class="sxs-lookup"><span data-stu-id="c252f-103">When a record, such as a purchase document or a customer card, needs to be approved by someone in your organization, you send an approval request as part of a workflow.</span></span> <span data-ttu-id="c252f-104">Na základě nastavení workflow je příslušná schvalující osoba informována o tom, že záznam vyžaduje schválení.</span><span class="sxs-lookup"><span data-stu-id="c252f-104">Based on how the workflow is set up, the appropriate approver is then notified that the record requires their approval.</span></span>
 
-Základní schvalovací workflow pro nákupní doklady, prodejní doklady, platební deníky, zákaznické karty a karty položek jsou připraveny k zahájení jako asistenční nastavení. Další informace naleznete v tématu [Vítejte v Dynamics NAV](across-get-started.md).
+<span data-ttu-id="c252f-105">Základní schvalovací workflow pro nákupní doklady, prodejní doklady, platební deníky, zákaznické karty a karty položek jsou připraveny k zahájení jako asistenční nastavení.</span><span class="sxs-lookup"><span data-stu-id="c252f-105">Core approval workflows for purchases documents, sales documents, payment journals, customer cards, and item cards are ready to start as assisted setup.</span></span> <span data-ttu-id="c252f-106">Další informace naleznete v tématu [Vítejte v Dynamics NAV](across-get-started.md).</span><span class="sxs-lookup"><span data-stu-id="c252f-106">For more information, see [Welcome to Dynamics NAV](across-get-started.md).</span></span>
 
-## <a name="to-request-approval-of-a-record"></a>Požadavek na schválení záznamu
-Následující úloha je prováděna schvalovacím uživatelem.
+## <a name="to-request-approval-of-a-record"></a><span data-ttu-id="c252f-107">Požadavek na schválení záznamu</span><span class="sxs-lookup"><span data-stu-id="c252f-107">To request approval of a record</span></span>
+<span data-ttu-id="c252f-108">Následující úloha je prováděna schvalovacím uživatelem.</span><span class="sxs-lookup"><span data-stu-id="c252f-108">The following task is performed by an approval user.</span></span>
 
-1. V okně, které představuje záznam, zvolte akci **Odeslat žádost o schválení**.
-2. Chcete-li zobrazit všechny vaše žádosti o schválení, zvolte v pravém horním rohu ikonu **Vyhledat stránku nebo sestavu**, zadejte **Požadavky na schválení** a pak vyberte související odkaz.
+1. <span data-ttu-id="c252f-109">V okně, které představuje záznam, zvolte akci **Odeslat žádost o schválení**.</span><span class="sxs-lookup"><span data-stu-id="c252f-109">In the window that presents the record, choose the **Send Approval Request** action.</span></span>
+2. <span data-ttu-id="c252f-110">Chcete-li zobrazit všechny vaše žádosti o schválení, zvolte v pravém horním rohu ikonu **Vyhledat stránku nebo sestavu**, zadejte **Požadavky na schválení** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="c252f-110">To see all your approval requests, in the top right corner, choose the **Search for Page or Report** icon, enter **Approval Request Entries**, and then choose the related link.</span></span>
 
-Stav položky ke schválení je aktualizován z **Vytvořeno** do **Otevřeno**. Stav záznamu například nákupní faktury je aktualizována z **Otevřeno** do **Čeká na schválení** a zůstává uzamčen pro zpracování až do doby, než všichni schvalovatelé schválí záznam.
+<span data-ttu-id="c252f-111">Stav položky ke schválení je aktualizován z **Vytvořeno** do **Otevřeno**.</span><span class="sxs-lookup"><span data-stu-id="c252f-111">The status of the approval entry is updated from **Created** to **Open**.</span></span> <span data-ttu-id="c252f-112">Stav záznamu například nákupní faktury je aktualizována z **Otevřeno** do **Čeká na schválení** a zůstává uzamčen pro zpracování až do doby, než všichni schvalovatelé schválí záznam.</span><span class="sxs-lookup"><span data-stu-id="c252f-112">The status of the record, for example a purchase invoice, is updated from **Open** to **Pending Approval** and remains locked for processing until all approvers have approved the record.</span></span>
 
-Když schvalovatel schválil záznam, stav se změní na **Vydáno**. Potom můžete pokračovat ve svých úkolech se záznamem.
+<span data-ttu-id="c252f-113">Když schvalovatel schválil záznam, stav se změní na **Vydáno**.</span><span class="sxs-lookup"><span data-stu-id="c252f-113">When the approver has approved the record, the status changes to **Released**.</span></span> <span data-ttu-id="c252f-114">Potom můžete pokračovat ve svých úkolech se záznamem.</span><span class="sxs-lookup"><span data-stu-id="c252f-114">You can then continue your tasks with the record.</span></span>
 
-## <a name="to-cancel-requests-for-approval"></a>Zrušení žádosti o schválení
-Následující úloha je prováděna schvalovacím uživatelem s právy schvalující osoby.
+## <a name="to-cancel-requests-for-approval"></a><span data-ttu-id="c252f-115">Zrušení žádosti o schválení</span><span class="sxs-lookup"><span data-stu-id="c252f-115">To cancel requests for approval</span></span>
+<span data-ttu-id="c252f-116">Následující úloha je prováděna schvalovacím uživatelem s právy schvalující osoby.</span><span class="sxs-lookup"><span data-stu-id="c252f-116">The following task is performed by an approval user with approver rights.</span></span>
 
-Zákazník může chtít po odeslání ke schválení změnit objednávku. V takovém případě můžete zrušit proces schvalování a provést potřebné změny objednávky, než požádáte o opětovné schválení.
+<span data-ttu-id="c252f-117">Zákazník může chtít po odeslání ke schválení změnit objednávku.</span><span class="sxs-lookup"><span data-stu-id="c252f-117">A customer may want to change an order after it has been submitted for approval.</span></span> <span data-ttu-id="c252f-118">V takovém případě můžete zrušit proces schvalování a provést potřebné změny objednávky, než požádáte o opětovné schválení.</span><span class="sxs-lookup"><span data-stu-id="c252f-118">In this case, you can cancel the approval process and make the necessary changes to the order before you request approval again.</span></span>
 
-1. V okně, které zobrazuje záznam, zvolte akci **Zrušit žádost o schválení**.
+1. <span data-ttu-id="c252f-119">V okně, které zobrazuje záznam, zvolte akci **Zrušit žádost o schválení**.</span><span class="sxs-lookup"><span data-stu-id="c252f-119">In the window that displays the record, choose the **Cancel Approval Request** action.</span></span>
 
-Pokud byla žádost o schválení zrušena, změní se status příslušné položky schválení na **Zrušeno**. Stav záznamu je aktualizován z **Čeká na schválení** do **Otevřeno**. Schvalovací proces pak může začít znovu.
+<span data-ttu-id="c252f-120">Pokud byla žádost o schválení zrušena, změní se status příslušné položky schválení na **Zrušeno**.</span><span class="sxs-lookup"><span data-stu-id="c252f-120">When the approval request has been canceled, the status of the related approval entry is changed to **Canceled**.</span></span> <span data-ttu-id="c252f-121">Stav záznamu je aktualizován z **Čeká na schválení** do **Otevřeno**.</span><span class="sxs-lookup"><span data-stu-id="c252f-121">The status of the record is updated from **Pending Approval** to **Open**.</span></span> <span data-ttu-id="c252f-122">Schvalovací proces pak může začít znovu.</span><span class="sxs-lookup"><span data-stu-id="c252f-122">The approval process can then start again.</span></span>
 
-## <a name="to-make-minor-changes-to-approved-records"></a>Provedení drobné změny schválených záznamů
-Chcete-li provést menší změnu záznamu po jeho schválení, můžete znovu otevřít záznam, provést změnu a poté ji vydat. U drobných změn to provedete pomocí tlačítek **Znovu otevřít** a **Vydat**.
+## <a name="to-make-minor-changes-to-approved-records"></a><span data-ttu-id="c252f-123">Provedení drobné změny schválených záznamů</span><span class="sxs-lookup"><span data-stu-id="c252f-123">To make minor changes to approved records</span></span>
+<span data-ttu-id="c252f-124">Chcete-li provést menší změnu záznamu po jeho schválení, můžete znovu otevřít záznam, provést změnu a poté ji vydat.</span><span class="sxs-lookup"><span data-stu-id="c252f-124">If you want to make a minor change to a record after it has been approved, you can reopen the record, make the change, and then release it.</span></span> <span data-ttu-id="c252f-125">U drobných změn to provedete pomocí tlačítek **Znovu otevřít** a **Vydat**.</span><span class="sxs-lookup"><span data-stu-id="c252f-125">For minor changes, you do this with the **Reopen** and **Release** buttons.</span></span>
 
-1. Otevřete okno, které zobrazuje záznam například nákupní fakturu a poté zvolte akci **Znovu otevřít**.
+1. <span data-ttu-id="c252f-126">Otevřete okno, které zobrazuje záznam například nákupní fakturu a poté zvolte akci **Znovu otevřít**.</span><span class="sxs-lookup"><span data-stu-id="c252f-126">Open the window that displays the record, such as a purchase invoice, and then choose the **Reopen** action.</span></span>
 
-    Políčko **Stav dokumentu** se změní na Otevřeno.
-3. Proveďte potřebné změny v záznamu, například adresu dodavatele.
-4. Zvolte akci **Vydat**.
+    <span data-ttu-id="c252f-127">Políčko **Stav dokumentu** se změní na Otevřeno.</span><span class="sxs-lookup"><span data-stu-id="c252f-127">The **Document Status** field is changed to Open.</span></span>
+3. <span data-ttu-id="c252f-128">Proveďte potřebné změny v záznamu, například adresu dodavatele.</span><span class="sxs-lookup"><span data-stu-id="c252f-128">Make the necessary changes on the record, such as the vendor’s address.</span></span>
+4. <span data-ttu-id="c252f-129">Zvolte akci **Vydat**.</span><span class="sxs-lookup"><span data-stu-id="c252f-129">Choose the **Release** action.</span></span>
 
-Když znovu otevřete zdrojový záznam, stav příslušné položky schválení zůstane schválen v okně **Položky ke schválení**.
+<span data-ttu-id="c252f-130">Když znovu otevřete zdrojový záznam, stav příslušné položky schválení zůstane schválen v okně **Položky ke schválení**.</span><span class="sxs-lookup"><span data-stu-id="c252f-130">When you reopen the source record, the status of the related approval entry remains Approved in the **Approval Entries** window.</span></span>
 
-## <a name="to-approve-or-reject-requests-for-approval"></a>Schválení nebo odmítnutí žádosti o schválení
-Následující úloha je prováděna schvalovacím uživatelem s právy schvalující osoby.
+## <a name="to-approve-or-reject-requests-for-approval"></a><span data-ttu-id="c252f-131">Schválení nebo odmítnutí žádosti o schválení</span><span class="sxs-lookup"><span data-stu-id="c252f-131">To approve or reject requests for approval</span></span>
+<span data-ttu-id="c252f-132">Následující úloha je prováděna schvalovacím uživatelem s právy schvalující osoby.</span><span class="sxs-lookup"><span data-stu-id="c252f-132">The following task is performed by an approval user with approver rights.</span></span>
 
-Žádosti o schválení můžete zpracovat v okně **Požadavky na schválení** například za účelem schválení více žádostí najednou. Alternativně můžete zpracovat každý požadavek na souvisejícím záznamu například okno **Nákupní faktura**, výběrem odkazu v obdržené notifikaci.
+<span data-ttu-id="c252f-133">Žádosti o schválení můžete zpracovat v okně **Požadavky na schválení** například za účelem schválení více žádostí najednou.</span><span class="sxs-lookup"><span data-stu-id="c252f-133">You can process approval requests in the **Requests to Approve** window, for example to approve multiple requests at a time.</span></span> <span data-ttu-id="c252f-134">Alternativně můžete zpracovat každý požadavek na souvisejícím záznamu například okno **Nákupní faktura**, výběrem odkazu v obdržené notifikaci.</span><span class="sxs-lookup"><span data-stu-id="c252f-134">Alternatively, you can process each request on the related record, such as the **Purchase Invoice** window, by choosing the link in the notification that you receive.</span></span>
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Požadavky na schválení** a pak vyberte související odkaz. 
-2. Vyberte jeden nebo více řádků pro záznam nebo záznamy, které chcete schválit nebo odmítnout.
-3. Zvolte akci **Schválit**, **Odmítnout** nebo **Delegovat**.
+1. <span data-ttu-id="c252f-135">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Požadavky na schválení** a pak vyberte související odkaz. </span><span class="sxs-lookup"><span data-stu-id="c252f-135">In the top right corner, choose the **Search for Page or Report** icon, enter **Requests to Approve**, and then choose the related link.</span></span>
+2. <span data-ttu-id="c252f-136">Vyberte jeden nebo více řádků pro záznam nebo záznamy, které chcete schválit nebo odmítnout.</span><span class="sxs-lookup"><span data-stu-id="c252f-136">Select one or more lines for the record or records that you want to approve or reject.</span></span>
+3. <span data-ttu-id="c252f-137">Zvolte akci **Schválit**, **Odmítnout** nebo **Delegovat**.</span><span class="sxs-lookup"><span data-stu-id="c252f-137">Choose the **Approve**, **Reject**, or **Delegate** actions.</span></span>
 
-Pokud byl záznam schválen nebo odmítnut, změní se stav schválení v poli **Stav** na **Schváleno** nebo **Odmítnuto**.
+<span data-ttu-id="c252f-138">Pokud byl záznam schválen nebo odmítnut, změní se stav schválení v poli **Stav** na **Schváleno** nebo **Odmítnuto**.</span><span class="sxs-lookup"><span data-stu-id="c252f-138">When a record has been approved or rejected, the approval status in the **Status** field changes to **Approved** or **Rejected**.</span></span>
 
-Je-li nastavena schvalovací hierarchie, stav záznamu bude **Čeká na schválení**, dokud všichni schvalovatelé neschválí záznam. Pak se stav záznamu změní na **Vydáno**.
+<span data-ttu-id="c252f-139">Je-li nastavena schvalovací hierarchie, stav záznamu bude **Čeká na schválení**, dokud všichni schvalovatelé neschválí záznam.</span><span class="sxs-lookup"><span data-stu-id="c252f-139">If an approver hierarchy is set up, the record status will be **Pending Approval** until all approvers have approved the record.</span></span> <span data-ttu-id="c252f-140">Pak se stav záznamu změní na **Vydáno**.</span><span class="sxs-lookup"><span data-stu-id="c252f-140">Then the record status will change to **Released**.</span></span>
 
-Současně se stav schválení změní z **Vytvořeno** na **Otevřeno**, jakmile bude vytvořena žádost o schválení pro záznam. Pokud je žádost zamítnuta, změní se status schválení na **Odmítnuto**. Stav zůstává **Otevřeno** nebo **Odmítnuto**, dokud všichni schvalující žádost neschválí.
+<span data-ttu-id="c252f-141">Současně se stav schválení změní z **Vytvořeno** na **Otevřeno**, jakmile bude vytvořena žádost o schválení pro záznam.</span><span class="sxs-lookup"><span data-stu-id="c252f-141">At the same time, the approval status changes from **Created** to **Open** as soon as an approval request for the record is created.</span></span> <span data-ttu-id="c252f-142">Pokud je žádost zamítnuta, změní se status schválení na **Odmítnuto**.</span><span class="sxs-lookup"><span data-stu-id="c252f-142">If the request is rejected, the approval status changes to **Rejected**.</span></span> <span data-ttu-id="c252f-143">Stav zůstává **Otevřeno** nebo **Odmítnuto**, dokud všichni schvalující žádost neschválí.</span><span class="sxs-lookup"><span data-stu-id="c252f-143">The status remains **Open** or **Rejected** until all approvers have approved the request.</span></span>
 
-## <a name="to-delegate-requests-for-approval"></a>Delegování žádosti o schválení
-Následující úloha je prováděna schvalovacím uživatelem s právy schvalující osoby.
+## <a name="to-delegate-requests-for-approval"></a><span data-ttu-id="c252f-144">Delegování žádosti o schválení</span><span class="sxs-lookup"><span data-stu-id="c252f-144">To delegate requests for approval</span></span>
+<span data-ttu-id="c252f-145">Následující úloha je prováděna schvalovacím uživatelem s právy schvalující osoby.</span><span class="sxs-lookup"><span data-stu-id="c252f-145">The following task is performed by an approval user with approver rights.</span></span>
 
-Chcete-li zabránit tomu, aby se dokumenty shromažďovaly nebo jinak zablokovaly workflow, schvalovatel a správce schvalování mohou přenést žádost o schválení na náhradního schvalujícího. Náhradník může být buď určeným náhradníkem, přímým schvalovatelem nebo schvalovacím správcem v uvedeném pořadí priority. Tuto funkci obvykle používáte, pokud je schvalovatel mimo kancelář a není schopen schválit žádosti před datem splatnosti.
+<span data-ttu-id="c252f-146">Chcete-li zabránit tomu, aby se dokumenty shromažďovaly nebo jinak zablokovaly workflow, schvalovatel a správce schvalování mohou přenést žádost o schválení na náhradního schvalujícího.</span><span class="sxs-lookup"><span data-stu-id="c252f-146">To prevent documents from piling up or otherwise block the workflow, the approver and the approval administrator can delegate an approval request to a substitute approver.</span></span> <span data-ttu-id="c252f-147">Náhradník může být buď určeným náhradníkem, přímým schvalovatelem nebo schvalovacím správcem v uvedeném pořadí priority.</span><span class="sxs-lookup"><span data-stu-id="c252f-147">The substitute can either be a designated substitute, the direct approver, or the approval administrator, in that order of priority.</span></span> <span data-ttu-id="c252f-148">Tuto funkci obvykle používáte, pokud je schvalovatel mimo kancelář a není schopen schválit žádosti před datem splatnosti.</span><span class="sxs-lookup"><span data-stu-id="c252f-148">You typically use this feature if an approver is out of office and is unable to approve requests before the due date.</span></span>
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Požadavky na schválení** a pak vyberte související odkaz.
-2. Vyberte jeden nebo více řádků pro žádosti o schválení, které chcete přenést na náhradního schvalujícího a potom vyberte akci **Delegovat**.
+1. <span data-ttu-id="c252f-149">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Požadavky na schválení** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="c252f-149">In the top right corner, choose the **Search for Page or Report** icon, enter **Requests to Approve**, and then choose the related link.</span></span>
+2. <span data-ttu-id="c252f-150">Vyberte jeden nebo více řádků pro žádosti o schválení, které chcete přenést na náhradního schvalujícího a potom vyberte akci **Delegovat**.</span><span class="sxs-lookup"><span data-stu-id="c252f-150">Select one or more lines for the approval requests that you want to delegate to a substitute approver, and then choose the **Delegate** action.</span></span>
 
-Oznámení o schválení žádosti je odesláno schvalujícímu náhradníkovi.
+<span data-ttu-id="c252f-151">Oznámení o schválení žádosti je odesláno schvalujícímu náhradníkovi.</span><span class="sxs-lookup"><span data-stu-id="c252f-151">A notification to approve the request is sent to the substitute approver.</span></span>
 
-## <a name="to-manage-overdue-approval-requests"></a>Správa žádostí o schválení po splatnosti
-Následující úloha je prováděna schvalovacím uživatelem s právy schvalující osoby.
+## <a name="to-manage-overdue-approval-requests"></a><span data-ttu-id="c252f-152">Správa žádostí o schválení po splatnosti</span><span class="sxs-lookup"><span data-stu-id="c252f-152">To manage overdue approval requests</span></span>
+<span data-ttu-id="c252f-153">Následující úloha je prováděna schvalovacím uživatelem s právy schvalující osoby.</span><span class="sxs-lookup"><span data-stu-id="c252f-153">The following task is performed by an approval user with approver rights.</span></span>
 
-V pravidelných intervalech musíte připomenout uživatelům schvalovacího workflow žádosti o schválení po splatnosti, na které musí reagovat. Použijete funkci Odeslání upozornění o schválení.
+<span data-ttu-id="c252f-154">V pravidelných intervalech musíte připomenout uživatelům schvalovacího workflow žádosti o schválení po splatnosti, na které musí reagovat.</span><span class="sxs-lookup"><span data-stu-id="c252f-154">At regular intervals, you must remind approval workflow users of overdue approval requests that they must react on.</span></span> <span data-ttu-id="c252f-155">Použijete funkci Odeslání upozornění o schválení.</span><span class="sxs-lookup"><span data-stu-id="c252f-155">You use the Send Overdue Approval Notifications function for this.</span></span>
 
-Funkce Odeslání upozornění o schválení kontroluje všechny otevřené žádosti o schválení, které jsou v současné době opožděné. Každý schvalovatel, který má alespoň jeden záznam o schválení po uplynutí doby platnosti, obdrží oznámení se seznamem všech žádostí o schválení po splatnosti. Oznámení se také zašle jejich schvalovatelům a všem žadatelům o schválení po splatnosti. Toto pomáhá, pokud musí být položka schválení po splatnosti delegována na náhradníka.
+<span data-ttu-id="c252f-156">Funkce Odeslání upozornění o schválení kontroluje všechny otevřené žádosti o schválení, které jsou v současné době opožděné.</span><span class="sxs-lookup"><span data-stu-id="c252f-156">The Send Overdue Approval Notifications function checks for all open approval requests that are currently overdue.</span></span> <span data-ttu-id="c252f-157">Každý schvalovatel, který má alespoň jeden záznam o schválení po uplynutí doby platnosti, obdrží oznámení se seznamem všech žádostí o schválení po splatnosti.</span><span class="sxs-lookup"><span data-stu-id="c252f-157">Each approver that has at least one overdue approval entry receives a notification with the list of all their overdue approval requests.</span></span> <span data-ttu-id="c252f-158">Oznámení se také zašle jejich schvalovatelům a všem žadatelům o schválení po splatnosti.</span><span class="sxs-lookup"><span data-stu-id="c252f-158">The notification is also sent to their approver and all the requesters of the overdue approvals.</span></span> <span data-ttu-id="c252f-159">Toto pomáhá, pokud musí být položka schválení po splatnosti delegována na náhradníka.</span><span class="sxs-lookup"><span data-stu-id="c252f-159">This helps if the overdue approval entry must be delegated to a substitute.</span></span>
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Požadavky na schválení po splatnosti** a pak vyberte související odkaz.
-2. V okně **Požadavky na schválení po splatnosti** zvolte akci **Odeslat upozornění o schválení po splatnosti**.
+1. <span data-ttu-id="c252f-160">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Požadavky na schválení po splatnosti** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="c252f-160">In the top right corner, choose the **Search for Page or Report** icon, enter **Overdue Approval Requests**, and then choose the related link.</span></span>
+2. <span data-ttu-id="c252f-161">V okně **Požadavky na schválení po splatnosti** zvolte akci **Odeslat upozornění o schválení po splatnosti**.</span><span class="sxs-lookup"><span data-stu-id="c252f-161">In the **Overdue Approval Requests** window, choose the **Send Overdue Approval Notifications** action.</span></span>
 
-## <a name="see-also"></a>Viz také  
-[Správa prodeje](sales-manage-sales.md)    
-[Došlé doklady](across-income-documents.md)  
-[Správa nákupu](purchasing-manage-purchasing.md)  
-[Práce s Dynamics NAV](ui-work-product.md)
+## <a name="see-also"></a><span data-ttu-id="c252f-162">Viz také</span><span class="sxs-lookup"><span data-stu-id="c252f-162">See Also</span></span>  
+<span data-ttu-id="c252f-163">[Správa prodeje](sales-manage-sales.md)  </span><span class="sxs-lookup"><span data-stu-id="c252f-163">[Manage Sales](sales-manage-sales.md)  </span></span>  
+[<span data-ttu-id="c252f-164">Došlé doklady</span><span class="sxs-lookup"><span data-stu-id="c252f-164">Incoming Documents</span></span>](across-income-documents.md)  
+[<span data-ttu-id="c252f-165">Správa nákupu</span><span class="sxs-lookup"><span data-stu-id="c252f-165">Manage Purchasing</span></span>](purchasing-manage-purchasing.md)  
+[<span data-ttu-id="c252f-166">Práce s Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="c252f-166">Work With Dynamics NAV</span></span>](ui-work-product.md)
 

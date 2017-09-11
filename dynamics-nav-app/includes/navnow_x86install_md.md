@@ -1,1 +1,1 @@
-C:\\Program Files \(x86\)\\Microsoft Dynamics NAV\\100
+<span data-ttu-id="390cf-101">C:\\Program Files \(x86\)\\Microsoft Dynamics NAV\\100</span><span class="sxs-lookup"><span data-stu-id="390cf-101">C:\\Program Files \(x86\)\\Microsoft Dynamics NAV\\100</span></span>

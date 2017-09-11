@@ -9,23 +9,23 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 9a23b88053e20c9b78adb140078b5cead02eff26
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 10fe32d2153d92aea0f9e6db8ebfb0e465fc04f4
 ms.contentlocale: cs-cz
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-set-up-bank-accounts"></a>Návod: Nastavení bankovních účtů
-Použijte bankovní účty v Dynamics NAV, které slouží ke sledování vašich bankovních transakcí. Účty mohou být denominovány v místní měně nebo v cizí měně. Po nastavení bankovních účtů můžete použít také možnost kontroly tisku.
+# <a name="how-to-set-up-bank-accounts"></a><span data-ttu-id="5a8a0-102">Návod: Nastavení bankovních účtů</span><span class="sxs-lookup"><span data-stu-id="5a8a0-102">How to: Set Up Bank Accounts</span></span>
+<span data-ttu-id="5a8a0-103">Použijte bankovní účty v Dynamics NAV, které slouží ke sledování vašich bankovních transakcí.</span><span class="sxs-lookup"><span data-stu-id="5a8a0-103">You use bank accounts in the Dynamics NAV to keep track of your banking transactions.</span></span> <span data-ttu-id="5a8a0-104">Účty mohou být denominovány v místní měně nebo v cizí měně.</span><span class="sxs-lookup"><span data-stu-id="5a8a0-104">Accounts can be denominated in your local currency or in a foreign currency.</span></span> <span data-ttu-id="5a8a0-105">Po nastavení bankovních účtů můžete použít také možnost kontroly tisku.</span><span class="sxs-lookup"><span data-stu-id="5a8a0-105">After you have set up bank accounts, you can also use the check printing option.</span></span>
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Bankovní účty** a pak vyberte související odkaz. 
-2. V okně **Bankovní účty** zvolte akci **Nový**.
-3. Vyplňte pole podle potřeby. Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.
+1. <span data-ttu-id="5a8a0-106">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Bankovní účty** a pak vyberte související odkaz. </span><span class="sxs-lookup"><span data-stu-id="5a8a0-106">In the top right corner, choose the **Search for Page or Report** icon, enter **Bank Accounts**, and then choose the related link.</span></span>
+2. <span data-ttu-id="5a8a0-107">V okně **Bankovní účty** zvolte akci **Nový**.</span><span class="sxs-lookup"><span data-stu-id="5a8a0-107">In the **Bank Accounts** window, choose the **New** action.</span></span>
+3. <span data-ttu-id="5a8a0-108">Vyplňte pole podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="5a8a0-108">Fill in the fields as necessary.</span></span> <span data-ttu-id="5a8a0-109">Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.</span><span class="sxs-lookup"><span data-stu-id="5a8a0-109">Choose a field to read a short description of the field or link to more information.</span></span>
 
-**Poznámka**: Pole v záložce s náhledem **Převod** se týkají importu/exportu bankovních prostředků a souborů. Další informace naleznete v [Návod: Nastavení služby převodu bankovních dat](bank-how-setup-bank-data-conversion-service.md).
+<span data-ttu-id="5a8a0-110">**Poznámka**: Pole v záložce s náhledem **Převod** se týkají importu/exportu bankovních prostředků a souborů.</span><span class="sxs-lookup"><span data-stu-id="5a8a0-110">**Note**: Fields on the **Transfer** FastTab are related to import/export of bank feeds and files.</span></span> <span data-ttu-id="5a8a0-111">Další informace naleznete v [Návod: Nastavení služby převodu bankovních dat](bank-how-setup-bank-data-conversion-service.md).</span><span class="sxs-lookup"><span data-stu-id="5a8a0-111">For more information, see [How to: Set Up the Bank Data Conversion Service](bank-how-setup-bank-data-conversion-service.md).</span></span>
 
-## <a name="see-also"></a>Viz také  
-[Nastavení bankovnictví](bank-setup-banking.md)  
-[Správa bankovních účtů](bank-manage-bank-accounts.md)
+## <a name="see-also"></a><span data-ttu-id="5a8a0-112">Viz také</span><span class="sxs-lookup"><span data-stu-id="5a8a0-112">See Also</span></span>  
+[<span data-ttu-id="5a8a0-113">Nastavení bankovnictví</span><span class="sxs-lookup"><span data-stu-id="5a8a0-113">Set Up Banking</span></span>](bank-setup-banking.md)  
+[<span data-ttu-id="5a8a0-114">Správa bankovních účtů</span><span class="sxs-lookup"><span data-stu-id="5a8a0-114">Manage Bank Accounts</span></span>](bank-manage-bank-accounts.md)
 

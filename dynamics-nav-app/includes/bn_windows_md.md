@@ -1,1 +1,1 @@
-Chcete-li zobrazit okno témat v této sekci, zvolte poddruhy v obsahu.
+<span data-ttu-id="8eaee-101">Chcete-li zobrazit okno témat v této sekci, zvolte poddruhy v obsahu.</span><span class="sxs-lookup"><span data-stu-id="8eaee-101">To see the window topics in this section, choose the subentries in the table of contents.</span></span>

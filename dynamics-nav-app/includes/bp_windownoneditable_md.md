@@ -1,1 +1,1 @@
-Nemůžete změnit obsah tohoto okna.
+<span data-ttu-id="632c6-101">Nemůžete změnit obsah tohoto okna.</span><span class="sxs-lookup"><span data-stu-id="632c6-101">You cannot change the contents of this window.</span></span>

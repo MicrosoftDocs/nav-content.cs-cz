@@ -1,1 +1,1 @@
-Možnosti
+<span data-ttu-id="252d3-101">Možnosti</span><span class="sxs-lookup"><span data-stu-id="252d3-101">Option</span></span>

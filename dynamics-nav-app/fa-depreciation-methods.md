@@ -16,335 +16,335 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="depreciation-methods"></a>Metody odpisování
-K dispozici je osm metod odpisování:  
-- Lineární  
-- Zrychlený 1  
-- Zrychlený 2  
-- ZR1/SL  
-- ZR2/SL  
-- Uživatelem definovaný   
-- Ruční  
+# <a name="depreciation-methods"></a><span data-ttu-id="e01ac-102">Metody odpisování</span><span class="sxs-lookup"><span data-stu-id="e01ac-102">Depreciation Methods</span></span>
+<span data-ttu-id="e01ac-103">K dispozici je osm metod odpisování:</span><span class="sxs-lookup"><span data-stu-id="e01ac-103">There are eight methods of depreciation available:</span></span>  
+- <span data-ttu-id="e01ac-104">Lineární</span><span class="sxs-lookup"><span data-stu-id="e01ac-104">Straight-Line</span></span>  
+- <span data-ttu-id="e01ac-105">Zrychlený 1</span><span class="sxs-lookup"><span data-stu-id="e01ac-105">Declining-Balance 1</span></span>  
+- <span data-ttu-id="e01ac-106">Zrychlený 2</span><span class="sxs-lookup"><span data-stu-id="e01ac-106">Declining-Balance 2</span></span>  
+- <span data-ttu-id="e01ac-107">ZR1/SL</span><span class="sxs-lookup"><span data-stu-id="e01ac-107">DB1/SL</span></span>  
+- <span data-ttu-id="e01ac-108">ZR2/SL</span><span class="sxs-lookup"><span data-stu-id="e01ac-108">DB2/SL</span></span>  
+- <span data-ttu-id="e01ac-109">Uživatelem definovaný </span><span class="sxs-lookup"><span data-stu-id="e01ac-109">User-defined</span></span>  
+- <span data-ttu-id="e01ac-110">Ruční</span><span class="sxs-lookup"><span data-stu-id="e01ac-110">Manual</span></span>  
 
-    Pokud používáte ruční metodu, je nutné ručně zadat odpis dlouhodobého majetku ve finančním deníku. Dávková úloha **Výpočet odpisů** vynechává dlouhodobý majetek, který používá metodu ručního odpisování. Tuto metodu můžete použít pro majetek, který nepodléhá odpisům například pozemky.  
-- Pololetní konvence  
+    <span data-ttu-id="e01ac-111">Pokud používáte ruční metodu, je nutné ručně zadat odpis dlouhodobého majetku ve finančním deníku.</span><span class="sxs-lookup"><span data-stu-id="e01ac-111">When you use the manual method, you must enter depreciation manually in the fixed asset G/L journal.</span></span> <span data-ttu-id="e01ac-112">Dávková úloha **Výpočet odpisů** vynechává dlouhodobý majetek, který používá metodu ručního odpisování.</span><span class="sxs-lookup"><span data-stu-id="e01ac-112">The **Calculate Depreciation** batch job omits fixed assets that use the manual depreciation method.</span></span> <span data-ttu-id="e01ac-113">Tuto metodu můžete použít pro majetek, který nepodléhá odpisům například pozemky.</span><span class="sxs-lookup"><span data-stu-id="e01ac-113">You can use this method for assets that are not subject to depreciation, for example, land.</span></span>  
+- <span data-ttu-id="e01ac-114">Pololetní konvence</span><span class="sxs-lookup"><span data-stu-id="e01ac-114">Half-Year Convention</span></span>  
 
-    Při použití této metody se dlouhodobý majetek každoročně odpisuje o stejnou částku.  
+    <span data-ttu-id="e01ac-115">Při použití této metody se dlouhodobý majetek každoročně odpisuje o stejnou částku.</span><span class="sxs-lookup"><span data-stu-id="e01ac-115">When this method is used, a fixed asset is depreciated by the same amount each year.</span></span>  
 
-## <a name="straight-line-depreciation"></a>Lineární odpisy
-Pokud používáte lineární metodu, musíte zadat jednu z následujících možností do knihy odpisů dlouhodobého majetku:
-- Doba odpisování (roky nebo měsíce) nebo konečný termín odpisování  
-- Pevné roční procento  
-- Pevná roční částka  
-- Odpisové období  
+## <a name="straight-line-depreciation"></a><span data-ttu-id="e01ac-116">Lineární odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-116">Straight-Line Depreciation</span></span>
+<span data-ttu-id="e01ac-117">Pokud používáte lineární metodu, musíte zadat jednu z následujících možností do knihy odpisů dlouhodobého majetku:</span><span class="sxs-lookup"><span data-stu-id="e01ac-117">When using the straight-line method, you must specify one of the following options in the fixed asset depreciation book:</span></span>
+- <span data-ttu-id="e01ac-118">Doba odpisování (roky nebo měsíce) nebo konečný termín odpisování</span><span class="sxs-lookup"><span data-stu-id="e01ac-118">The depreciation period (years or months) or a depreciation ending date</span></span>  
+- <span data-ttu-id="e01ac-119">Pevné roční procento</span><span class="sxs-lookup"><span data-stu-id="e01ac-119">A fixed yearly percentage</span></span>  
+- <span data-ttu-id="e01ac-120">Pevná roční částka</span><span class="sxs-lookup"><span data-stu-id="e01ac-120">A fixed yearly amount</span></span>  
+- <span data-ttu-id="e01ac-121">Odpisové období</span><span class="sxs-lookup"><span data-stu-id="e01ac-121">Depreciation period</span></span>  
 
-### <a name="depreciation-period"></a>Odpisové Období  
- Pokud zadáte dobu odpisování (počet odpisových let, počet odpisových měsíců nebo konečný termín odpisování), program použije pro výpočet odpisové částky následující vzorec:  
+### <a name="depreciation-period"></a><span data-ttu-id="e01ac-122">Odpisové Období</span><span class="sxs-lookup"><span data-stu-id="e01ac-122">Depreciation Period</span></span>  
+ <span data-ttu-id="e01ac-123">Pokud zadáte dobu odpisování (počet odpisových let, počet odpisových měsíců nebo konečný termín odpisování), program použije pro výpočet odpisové částky následující vzorec:</span><span class="sxs-lookup"><span data-stu-id="e01ac-123">If you enter the depreciation period (the number of depreciation years, the number of depreciation months, or the depreciation ending date), then the program uses the following formula to calculate the depreciation amount:</span></span>  
 
-*Částka odpisů = ((Účetní hodnota - Hodnota při vyřazení) x Počet dnů odpisů) / Zbývající dny odpisů*  
+<span data-ttu-id="e01ac-124">*Částka odpisů = ((Účetní hodnota - Hodnota při vyřazení) x Počet dnů odpisů) / Zbývající dny odpisů*</span><span class="sxs-lookup"><span data-stu-id="e01ac-124">*Depreciation Amount = ((Book value - Salvage Value) x Number of Depreciation Days) / Remaining Depreciation Days*</span></span>  
 
-Zbývající doba odpisování je vypočtena jako počet dnů odpisování mínus počet dnů mezi počátečním datem odpisování a posledním datem vložení dlouhodobého majetku.  
+<span data-ttu-id="e01ac-125">Zbývající doba odpisování je vypočtena jako počet dnů odpisování mínus počet dnů mezi počátečním datem odpisování a posledním datem vložení dlouhodobého majetku.</span><span class="sxs-lookup"><span data-stu-id="e01ac-125">Remaining depreciation days are calculated as the number of depreciation days minus the number of days between the depreciation starting date and the last fixed asset entry date.</span></span>  
 
-Účetní hodnota může být snížena o zaúčtované zhodnocení, snížení hodnoty, vlastní 1 nebo vlastní 2 částky, v závislosti na tom, zda je pole **Zahrnout do výpočtu odpisů** deaktivováno a je aktivováno pole **Část účetní hodnoty** v okně **Nastavení typu účtování DM**.  
+<span data-ttu-id="e01ac-126">Účetní hodnota může být snížena o zaúčtované zhodnocení, snížení hodnoty, vlastní 1 nebo vlastní 2 částky, v závislosti na tom, zda je pole **Zahrnout do výpočtu odpisů** deaktivováno a je aktivováno pole **Část účetní hodnoty** v okně **Nastavení typu účtování DM**.</span><span class="sxs-lookup"><span data-stu-id="e01ac-126">Book value may be reduced by posted appreciation, write-down, custom 1 or custom 2 amounts, depending on whether the **Include in Depr. Calculation** field is deactivated and whether the **Part of Book Value** field is activated in the **FA Posting Type Setup** window.</span></span>  
 
-Tento výpočet zajišťuje, že dlouhodobý majetek je plně odepsán v den ukončení odpisů.    
-### <a name="fixed-yearly-percentage"></a>Pevná roční procentní sazba  
-Zadáte-li pevnou roční procentní sazbu, program vypočítá odpisovou část dle následujícího vzorce:  
+<span data-ttu-id="e01ac-127">Tento výpočet zajišťuje, že dlouhodobý majetek je plně odepsán v den ukončení odpisů.</span><span class="sxs-lookup"><span data-stu-id="e01ac-127">This calculation ensures that the fixed asset is fully depreciated at the depreciation ending date.</span></span>    
+### <a name="fixed-yearly-percentage"></a><span data-ttu-id="e01ac-128">Pevná roční procentní sazba</span><span class="sxs-lookup"><span data-stu-id="e01ac-128">Fixed Yearly Percentage</span></span>  
+<span data-ttu-id="e01ac-129">Zadáte-li pevnou roční procentní sazbu, program vypočítá odpisovou část dle následujícího vzorce:</span><span class="sxs-lookup"><span data-stu-id="e01ac-129">If you enter a fixed yearly percentage, the program uses the following formula to calculate the depreciation amount:</span></span>  
 
-Částka odpisů = (Lineární % x Odpisovatelný základ x Počet odpisových dní) / (100 x 360)  
+<span data-ttu-id="e01ac-130">Částka odpisů = (Lineární % x Odpisovatelný základ x Počet odpisových</span><span class="sxs-lookup"><span data-stu-id="e01ac-130">Depreciation Amount = (Straight-Line % x Depreciable Basis x Number of Depr.</span></span> <span data-ttu-id="e01ac-131">dní) / (100 x 360)</span><span class="sxs-lookup"><span data-stu-id="e01ac-131">Days) / (100 x 360)</span></span>  
 
-### <a name="fixed-yearly-amount"></a>Pevná roční částka  
-Pokud zadáte pevnou roční částku, program použije tento vzorec pro výpočet částky odpisů:  
+### <a name="fixed-yearly-amount"></a><span data-ttu-id="e01ac-132">Pevná roční částka</span><span class="sxs-lookup"><span data-stu-id="e01ac-132">Fixed Yearly Amount</span></span>  
+<span data-ttu-id="e01ac-133">Pokud zadáte pevnou roční částku, program použije tento vzorec pro výpočet částky odpisů:</span><span class="sxs-lookup"><span data-stu-id="e01ac-133">If you enter a fixed yearly amount, the program uses this formula to calculate the depreciation amount:</span></span>  
 
-Částka odpisů = (pevná částka odpisů x počet dnů odepisování) / 360  
+<span data-ttu-id="e01ac-134">Částka odpisů = (pevná částka odpisů x počet dnů odepisování) / 360</span><span class="sxs-lookup"><span data-stu-id="e01ac-134">Depreciation Amount = (Fixed Depreciation Amount x Number of Depreciation Days) / 360</span></span>  
 
-### <a name="example---straight-line-depreciation"></a>Příklad - Lineární odpisy
-Dlouhodobý majetek má pořizovací cenu 100 000 LM. Odhadovaná doba života je osm let.  
+### <a name="example---straight-line-depreciation"></a><span data-ttu-id="e01ac-135">Příklad - Lineární odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-135">Example - Straight-Line Depreciation</span></span>
+<span data-ttu-id="e01ac-136">Dlouhodobý majetek má pořizovací cenu 100 000 LM.</span><span class="sxs-lookup"><span data-stu-id="e01ac-136">A fixed asset has an acquisition cost of LCY 100,000.</span></span> <span data-ttu-id="e01ac-137">Odhadovaná doba života je osm let.</span><span class="sxs-lookup"><span data-stu-id="e01ac-137">The estimated life is eight years.</span></span>  
 
- Dávková úloha **Výpočet odpisů** se provádí dvakrát ročně. Položka knihy dlouhodobého majetku vypadá takto:  
+ <span data-ttu-id="e01ac-138">Dávková úloha **Výpočet odpisů** se provádí dvakrát ročně.</span><span class="sxs-lookup"><span data-stu-id="e01ac-138">The **Calculate Depreciation** batch job is run biannually.</span></span> <span data-ttu-id="e01ac-139">Položka knihy dlouhodobého majetku vypadá takto:</span><span class="sxs-lookup"><span data-stu-id="e01ac-139">The fixed asset ledger entry looks like this:</span></span>  
 
-|Datum|Typ zaúčtování DM|Dny|Částka|Účetní hodnota|  
+|<span data-ttu-id="e01ac-140">Datum</span><span class="sxs-lookup"><span data-stu-id="e01ac-140">Date</span></span>|<span data-ttu-id="e01ac-141">Typ zaúčtování DM</span><span class="sxs-lookup"><span data-stu-id="e01ac-141">FA Posting Type</span></span>|<span data-ttu-id="e01ac-142">Dny</span><span class="sxs-lookup"><span data-stu-id="e01ac-142">Days</span></span>|<span data-ttu-id="e01ac-143">Částka</span><span class="sxs-lookup"><span data-stu-id="e01ac-143">Amount</span></span>|<span data-ttu-id="e01ac-144">Účetní hodnota</span><span class="sxs-lookup"><span data-stu-id="e01ac-144">Book Value</span></span>|  
 |----------|---------------------|----------|------------|----------------|  
-|01/01/10|Pořizovací cena|*|100 000,00|100 000,00|  
-|06/30/10|Odpisy|180|-6 250,00|93 750,00|  
-|12/31/10|Odpisy|180|-6 250,00|87 500,00|  
-|06/30/11|Odpisy|180|-6 250,00|81 250,00|  
-|12/31/11|Odpisy|180|-6 250,00|75 000,00|  
-|06/30/17|Odpisy|180|-6 250,00|6 250,00|  
-|12/31/17|Odpisy|180|-6 250,00|0|  
+|<span data-ttu-id="e01ac-145">01/01/10</span><span class="sxs-lookup"><span data-stu-id="e01ac-145">01/01/10</span></span>|<span data-ttu-id="e01ac-146">Pořizovací cena</span><span class="sxs-lookup"><span data-stu-id="e01ac-146">Acquisition Cost</span></span>|*|<span data-ttu-id="e01ac-147">100 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-147">100,000.00</span></span>|<span data-ttu-id="e01ac-148">100 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-148">100,000.00</span></span>|  
+|<span data-ttu-id="e01ac-149">06/30/10</span><span class="sxs-lookup"><span data-stu-id="e01ac-149">06/30/10</span></span>|<span data-ttu-id="e01ac-150">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-150">Depreciation</span></span>|<span data-ttu-id="e01ac-151">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-151">180</span></span>|<span data-ttu-id="e01ac-152">-6 250,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-152">-6,250.00</span></span>|<span data-ttu-id="e01ac-153">93 750,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-153">93,750.00</span></span>|  
+|<span data-ttu-id="e01ac-154">12/31/10</span><span class="sxs-lookup"><span data-stu-id="e01ac-154">12/31/10</span></span>|<span data-ttu-id="e01ac-155">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-155">Depreciation</span></span>|<span data-ttu-id="e01ac-156">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-156">180</span></span>|<span data-ttu-id="e01ac-157">-6 250,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-157">-6,250.00</span></span>|<span data-ttu-id="e01ac-158">87 500,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-158">87,500.00</span></span>|  
+|<span data-ttu-id="e01ac-159">06/30/11</span><span class="sxs-lookup"><span data-stu-id="e01ac-159">06/30/11</span></span>|<span data-ttu-id="e01ac-160">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-160">Depreciation</span></span>|<span data-ttu-id="e01ac-161">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-161">180</span></span>|<span data-ttu-id="e01ac-162">-6 250,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-162">-6,250.00</span></span>|<span data-ttu-id="e01ac-163">81 250,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-163">81,250.00</span></span>|  
+|<span data-ttu-id="e01ac-164">12/31/11</span><span class="sxs-lookup"><span data-stu-id="e01ac-164">12/31/11</span></span>|<span data-ttu-id="e01ac-165">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-165">Depreciation</span></span>|<span data-ttu-id="e01ac-166">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-166">180</span></span>|<span data-ttu-id="e01ac-167">-6 250,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-167">-6,250.00</span></span>|<span data-ttu-id="e01ac-168">75 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-168">75,000.00</span></span>|  
+|<span data-ttu-id="e01ac-169">06/30/17</span><span class="sxs-lookup"><span data-stu-id="e01ac-169">06/30/17</span></span>|<span data-ttu-id="e01ac-170">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-170">Depreciation</span></span>|<span data-ttu-id="e01ac-171">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-171">180</span></span>|<span data-ttu-id="e01ac-172">-6 250,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-172">-6,250.00</span></span>|<span data-ttu-id="e01ac-173">6 250,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-173">6,250.00</span></span>|  
+|<span data-ttu-id="e01ac-174">12/31/17</span><span class="sxs-lookup"><span data-stu-id="e01ac-174">12/31/17</span></span>|<span data-ttu-id="e01ac-175">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-175">Depreciation</span></span>|<span data-ttu-id="e01ac-176">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-176">180</span></span>|<span data-ttu-id="e01ac-177">-6 250,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-177">-6,250.00</span></span>|<span data-ttu-id="e01ac-178">0</span><span class="sxs-lookup"><span data-stu-id="e01ac-178">0</span></span>|  
 
-* Počáteční datum odpisování  
+* <span data-ttu-id="e01ac-179">Počáteční datum odpisování</span><span class="sxs-lookup"><span data-stu-id="e01ac-179">Depreciation starting date</span></span>  
 
-## <a name="declining-balance-1-depreciation"></a>Zrychlený odpis 1
-Jedná se o zrychlenou metodu odpisování, která přiděluje největší část nákladů na majetek v prvních letech své životnosti. Používáte-li tuto metodu, musíte zadat pevný roční procentní podíl.  
+## <a name="declining-balance-1-depreciation"></a><span data-ttu-id="e01ac-180">Zrychlený odpis 1</span><span class="sxs-lookup"><span data-stu-id="e01ac-180">Declining-Balance 1 Depreciation</span></span>
+<span data-ttu-id="e01ac-181">Jedná se o zrychlenou metodu odpisování, která přiděluje největší část nákladů na majetek v prvních letech své životnosti.</span><span class="sxs-lookup"><span data-stu-id="e01ac-181">This is an accelerated depreciation method that allocates the largest portion of the cost of an asset to the early years of its useful lifetime.</span></span> <span data-ttu-id="e01ac-182">Používáte-li tuto metodu, musíte zadat pevný roční procentní podíl.</span><span class="sxs-lookup"><span data-stu-id="e01ac-182">If you use this method, you must enter a fixed yearly percentage.</span></span>  
 
-Program používá pro výpočet odpisů následující vzorec:  
+<span data-ttu-id="e01ac-183">Program používá pro výpočet odpisů následující vzorec:</span><span class="sxs-lookup"><span data-stu-id="e01ac-183">The program uses the following formula to calculate depreciation amounts:</span></span>  
 
-*Částka odpisů = (Zrychlený % x počet odpisových dní x Odpisový základ) / (100 x 360)*  
+<span data-ttu-id="e01ac-184">*Částka odpisů = (Zrychlený % x počet odpisových dní x Odpisový základ) / (100 x 360)*</span><span class="sxs-lookup"><span data-stu-id="e01ac-184">*Depreciation Amount = (Declining-Bal. % x Number of Depreciation Days x Depr. Basis) / (100 x 360)*</span></span>  
 
-Odpisový základ se vypočítá jako účetní hodnota snížená o zaúčtované odpisy od počátku běžného fiskálního roku.  
+<span data-ttu-id="e01ac-185">Odpisový základ se vypočítá jako účetní hodnota snížená o zaúčtované odpisy od počátku běžného fiskálního roku.</span><span class="sxs-lookup"><span data-stu-id="e01ac-185">The depreciable basis is calculated as the book value less posted depreciation since the starting date of the current fiscal year.</span></span>  
 
-Zaúčtovaná částka odpisů může obsahovat položky s různými druhy zaúčtování (odpis, vlastní1 a vlastní2), které byly zveřejněny od data zahájení současného fiskálního roku. Tyto typy zaúčtování jsou zahrnuty v částce zaúčtovaného odpisu, pokud jsou zaškrtnuty značky v poli **Typ odpisování** a v poli **Část účetní hodnoty** v okně **Nastavení typu účtování DM**.  
+<span data-ttu-id="e01ac-186">Zaúčtovaná částka odpisů může obsahovat položky s různými druhy zaúčtování (odpis, vlastní1 a vlastní2), které byly zveřejněny od data zahájení současného fiskálního roku.</span><span class="sxs-lookup"><span data-stu-id="e01ac-186">The posted depreciation amount can contain entries with various posting types (write-down, custom1, and custom2) posted since the starting date of the current fiscal year.</span></span> <span data-ttu-id="e01ac-187">Tyto typy zaúčtování jsou zahrnuty v částce zaúčtovaného odpisu, pokud jsou zaškrtnuty značky v poli **Typ odpisování** a v poli **Část účetní hodnoty** v okně **Nastavení typu účtování DM**.</span><span class="sxs-lookup"><span data-stu-id="e01ac-187">These posting types are included in the posted depreciation amount if there are check marks in the **Depreciation Type** and the **Part of Book Value** fields in the **FA Posting Type Setup** window.</span></span>  
 
-### <a name="example---declining-balance-1-depreciation"></a>Příklad - Zrychlený odpis 1
-Dlouhodobý majetek má pořizovací cenu 100 000 LM. V poli **Zrychlený %** je hodnota 25. Dávková úloha  **Výpočet odpisů** se provádí dvakrát ročně. Položky knihy dlouhodobého majetku vypadají takto:  
+### <a name="example---declining-balance-1-depreciation"></a><span data-ttu-id="e01ac-188">Příklad - Zrychlený odpis 1</span><span class="sxs-lookup"><span data-stu-id="e01ac-188">Example - Declining-Balance 1 Depreciation</span></span>
+<span data-ttu-id="e01ac-189">Dlouhodobý majetek má pořizovací cenu 100 000 LM.</span><span class="sxs-lookup"><span data-stu-id="e01ac-189">A fixed asset has an acquisition cost of LCY 100,000.</span></span> <span data-ttu-id="e01ac-190">V poli **Zrychlený %** je hodnota 25.</span><span class="sxs-lookup"><span data-stu-id="e01ac-190">The **Declining-Balance %** field is 25.</span></span> <span data-ttu-id="e01ac-191">Dávková úloha  **Výpočet odpisů** se provádí dvakrát ročně.</span><span class="sxs-lookup"><span data-stu-id="e01ac-191">The **Calculate Depreciation** batch job is run biannually.</span></span> <span data-ttu-id="e01ac-192">Položky knihy dlouhodobého majetku vypadají takto:</span><span class="sxs-lookup"><span data-stu-id="e01ac-192">The fixed asset ledger entries look like this</span></span>  
 
-|Datum|Typ zaúčtování DM|Dny|Částka|Účetní hodnota|  
+|<span data-ttu-id="e01ac-193">Datum</span><span class="sxs-lookup"><span data-stu-id="e01ac-193">Date</span></span>|<span data-ttu-id="e01ac-194">Typ zaúčtování DM</span><span class="sxs-lookup"><span data-stu-id="e01ac-194">FA Posting Type</span></span>|<span data-ttu-id="e01ac-195">Dny</span><span class="sxs-lookup"><span data-stu-id="e01ac-195">Days</span></span>|<span data-ttu-id="e01ac-196">Částka</span><span class="sxs-lookup"><span data-stu-id="e01ac-196">Amount</span></span>|<span data-ttu-id="e01ac-197">Účetní hodnota</span><span class="sxs-lookup"><span data-stu-id="e01ac-197">Book Value</span></span>|  
 |----------|---------------------|----------|------------|----------------|  
-|01/01/10|Pořizovací cena|*|100 000,00|100 000,00|  
-|06/30/10|Odpisy|180|-12 500,00|87 500,00|  
-|12/31/10|Odpisy|180|-12 500,00|75 000,00|  
-|06/30/11|Odpisy|180|-9 375,00|65 625,00|  
-|12/31/11|Odpisy|180|-9 375,00|56 250,00|  
-|06/30/12|Odpisy|180|-7 031,25|49 218,75|  
-|12/31/12|Odpisy|180|-7 031,25|42 187,50|  
-|06/30/13|Odpisy|180|-5 273,44|36 914,06|  
-|12/31/13|Odpisy|180|-5 273,44|31 640,62|  
-|06/30/14|Odpisy|180|-3 955,08|27 685,54|  
-|12/31/14|Odpisy|180|-3 955,08|23 730,46|  
+|<span data-ttu-id="e01ac-198">01/01/10</span><span class="sxs-lookup"><span data-stu-id="e01ac-198">01/01/10</span></span>|<span data-ttu-id="e01ac-199">Pořizovací cena</span><span class="sxs-lookup"><span data-stu-id="e01ac-199">Acquisition Costs</span></span>|*|<span data-ttu-id="e01ac-200">100 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-200">100,000.00</span></span>|<span data-ttu-id="e01ac-201">100 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-201">100,000.00</span></span>|  
+|<span data-ttu-id="e01ac-202">06/30/10</span><span class="sxs-lookup"><span data-stu-id="e01ac-202">06/30/10</span></span>|<span data-ttu-id="e01ac-203">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-203">Depreciation</span></span>|<span data-ttu-id="e01ac-204">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-204">180</span></span>|<span data-ttu-id="e01ac-205">-12 500,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-205">-12,500.00</span></span>|<span data-ttu-id="e01ac-206">87 500,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-206">87,500.00</span></span>|  
+|<span data-ttu-id="e01ac-207">12/31/10</span><span class="sxs-lookup"><span data-stu-id="e01ac-207">12/31/10</span></span>|<span data-ttu-id="e01ac-208">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-208">Depreciation</span></span>|<span data-ttu-id="e01ac-209">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-209">180</span></span>|<span data-ttu-id="e01ac-210">-12 500,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-210">-12,500.00</span></span>|<span data-ttu-id="e01ac-211">75 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-211">75,000.00</span></span>|  
+|<span data-ttu-id="e01ac-212">06/30/11</span><span class="sxs-lookup"><span data-stu-id="e01ac-212">06/30/11</span></span>|<span data-ttu-id="e01ac-213">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-213">Depreciation</span></span>|<span data-ttu-id="e01ac-214">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-214">180</span></span>|<span data-ttu-id="e01ac-215">-9 375,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-215">-9,375.00</span></span>|<span data-ttu-id="e01ac-216">65 625,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-216">65,625.00</span></span>|  
+|<span data-ttu-id="e01ac-217">12/31/11</span><span class="sxs-lookup"><span data-stu-id="e01ac-217">12/31/11</span></span>|<span data-ttu-id="e01ac-218">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-218">Depreciation</span></span>|<span data-ttu-id="e01ac-219">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-219">180</span></span>|<span data-ttu-id="e01ac-220">-9 375,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-220">-9,375.00</span></span>|<span data-ttu-id="e01ac-221">56 250,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-221">56,250.00</span></span>|  
+|<span data-ttu-id="e01ac-222">06/30/12</span><span class="sxs-lookup"><span data-stu-id="e01ac-222">06/30/12</span></span>|<span data-ttu-id="e01ac-223">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-223">Depreciation</span></span>|<span data-ttu-id="e01ac-224">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-224">180</span></span>|<span data-ttu-id="e01ac-225">-7 031,25</span><span class="sxs-lookup"><span data-stu-id="e01ac-225">-7,031.25</span></span>|<span data-ttu-id="e01ac-226">49 218,75</span><span class="sxs-lookup"><span data-stu-id="e01ac-226">49,218.75</span></span>|  
+|<span data-ttu-id="e01ac-227">12/31/12</span><span class="sxs-lookup"><span data-stu-id="e01ac-227">12/31/12</span></span>|<span data-ttu-id="e01ac-228">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-228">Depreciation</span></span>|<span data-ttu-id="e01ac-229">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-229">180</span></span>|<span data-ttu-id="e01ac-230">-7 031,25</span><span class="sxs-lookup"><span data-stu-id="e01ac-230">-7,031.25</span></span>|<span data-ttu-id="e01ac-231">42 187,50</span><span class="sxs-lookup"><span data-stu-id="e01ac-231">42,187.50</span></span>|  
+|<span data-ttu-id="e01ac-232">06/30/13</span><span class="sxs-lookup"><span data-stu-id="e01ac-232">06/30/13</span></span>|<span data-ttu-id="e01ac-233">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-233">Depreciation</span></span>|<span data-ttu-id="e01ac-234">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-234">180</span></span>|<span data-ttu-id="e01ac-235">-5 273,44</span><span class="sxs-lookup"><span data-stu-id="e01ac-235">-5,273.44</span></span>|<span data-ttu-id="e01ac-236">36 914,06</span><span class="sxs-lookup"><span data-stu-id="e01ac-236">36,914.06</span></span>|  
+|<span data-ttu-id="e01ac-237">12/31/13</span><span class="sxs-lookup"><span data-stu-id="e01ac-237">12/31/13</span></span>|<span data-ttu-id="e01ac-238">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-238">Depreciation</span></span>|<span data-ttu-id="e01ac-239">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-239">180</span></span>|<span data-ttu-id="e01ac-240">-5 273,44</span><span class="sxs-lookup"><span data-stu-id="e01ac-240">-5,273.44</span></span>|<span data-ttu-id="e01ac-241">31 640,62</span><span class="sxs-lookup"><span data-stu-id="e01ac-241">31,640.62</span></span>|  
+|<span data-ttu-id="e01ac-242">06/30/14</span><span class="sxs-lookup"><span data-stu-id="e01ac-242">06/30/14</span></span>|<span data-ttu-id="e01ac-243">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-243">Depreciation</span></span>|<span data-ttu-id="e01ac-244">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-244">180</span></span>|<span data-ttu-id="e01ac-245">-3 955,08</span><span class="sxs-lookup"><span data-stu-id="e01ac-245">-3,955.08</span></span>|<span data-ttu-id="e01ac-246">27 685,54</span><span class="sxs-lookup"><span data-stu-id="e01ac-246">27,685.54</span></span>|  
+|<span data-ttu-id="e01ac-247">12/31/14</span><span class="sxs-lookup"><span data-stu-id="e01ac-247">12/31/14</span></span>|<span data-ttu-id="e01ac-248">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-248">Depreciation</span></span>|<span data-ttu-id="e01ac-249">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-249">180</span></span>|<span data-ttu-id="e01ac-250">-3 955,08</span><span class="sxs-lookup"><span data-stu-id="e01ac-250">-3,955.08</span></span>|<span data-ttu-id="e01ac-251">23 730,46</span><span class="sxs-lookup"><span data-stu-id="e01ac-251">23,730.46</span></span>|  
 
-* Počáteční datum odpisování  
+* <span data-ttu-id="e01ac-252">Počáteční datum odpisování</span><span class="sxs-lookup"><span data-stu-id="e01ac-252">Depreciation starting date</span></span>  
 
- Metoda výpočtu:  
+ <span data-ttu-id="e01ac-253">Metoda výpočtu:</span><span class="sxs-lookup"><span data-stu-id="e01ac-253">Calculation Method:</span></span>  
 
-*1. rok: 25% z 100,000 = 25,000 = 12,500 + 12,500*
+<span data-ttu-id="e01ac-254">*1. rok: 25% z 100,000 = 25,000 = 12,500 + 12,500*</span><span class="sxs-lookup"><span data-stu-id="e01ac-254">*1st Year: 25% of 100,000 = 25,000 = 12,500 + 12,500*</span></span>
 
-*2. rok: 25% z 75,000 = 18,750 = 9,375 + 9,375*
+<span data-ttu-id="e01ac-255">*2. rok: 25% z 75,000 = 18,750 = 9,375 + 9,375*</span><span class="sxs-lookup"><span data-stu-id="e01ac-255">*2nd Year: 25% of 75,000 = 18,750 = 9,375 + 9,375*</span></span>
 
-*3. rok: 25% z 56,250 = 14,062.50 = 7,031.25 + 7,031.25*
+<span data-ttu-id="e01ac-256">*3. rok: 25% z 56,250 = 14,062.50 = 7,031.25 + 7,031.25*</span><span class="sxs-lookup"><span data-stu-id="e01ac-256">*3rd Year: 25% of 56,250 = 14,062.50 = 7,031.25 + 7,031.25*</span></span>
 
-Výpočet pokračuje, dokud účetní hodnota neodpovídá konečnému počtu zaokrouhlení částky nebo hodnotě, kterou zadáte.   
+<span data-ttu-id="e01ac-257">Výpočet pokračuje, dokud účetní hodnota neodpovídá konečnému počtu zaokrouhlení částky nebo hodnotě, kterou zadáte.</span><span class="sxs-lookup"><span data-stu-id="e01ac-257">The calculation continues until the book value equals the final rounding amount or the salvage value that you entered.</span></span>   
 
-## <a name="declining-balance-2-depreciation"></a>Zrychlený odpis 2
-Zrychlený 1 metoda a Zrychlený 2 metoda vypočítá stejnou celkovou částku odpisů za každý rok. Pokud však spustíte dávkovou úlohu **Výpočet odpisů** vícekrát za rok, metoda ZR 1 bude mít za následek stejné částky odpisů pro každé období odpisování. Metoda ZR 2 na druhé straně bude mít za následek částky odpisů, které klesnou za každé období.  
+## <a name="declining-balance-2-depreciation"></a><span data-ttu-id="e01ac-258">Zrychlený odpis 2</span><span class="sxs-lookup"><span data-stu-id="e01ac-258">Declining-Balance 2 Depreciation</span></span>
+<span data-ttu-id="e01ac-259">Zrychlený 1 metoda a Zrychlený 2 metoda vypočítá stejnou celkovou částku odpisů za každý rok.</span><span class="sxs-lookup"><span data-stu-id="e01ac-259">The Declining-Balance 1 method and the Declining-Balance 2 method calculate the same total depreciation amount for each year.</span></span> <span data-ttu-id="e01ac-260">Pokud však spustíte dávkovou úlohu **Výpočet odpisů** vícekrát za rok, metoda ZR 1 bude mít za následek stejné částky odpisů pro každé období odpisování.</span><span class="sxs-lookup"><span data-stu-id="e01ac-260">If, however, you run the **Calculate Depreciation** batch job more than once a year, the DB 1 method will result in equal depreciation amounts for each depreciation period.</span></span> <span data-ttu-id="e01ac-261">Metoda ZR 2 na druhé straně bude mít za následek částky odpisů, které klesnou za každé období.</span><span class="sxs-lookup"><span data-stu-id="e01ac-261">The DB 2 method, on the other hand, will result in depreciation amounts that decline for each period.</span></span>  
 
-### <a name="example---declining-balance-2-depreciation"></a>Příklad - Zrychlený odpis 2
-Dlouhodobý majetek má pořizovací cenu 100 000 LM. V poli **Zrychlený %** je hodnota 25. Dávková úloha **Výpočet odpisů** se provádí dvakrát ročně. Položky knihy dlouhodobého majetku vypadají takto:  
+### <a name="example---declining-balance-2-depreciation"></a><span data-ttu-id="e01ac-262">Příklad - Zrychlený odpis 2</span><span class="sxs-lookup"><span data-stu-id="e01ac-262">Example - Declining-Balance 2 Depreciation</span></span>
+<span data-ttu-id="e01ac-263">Dlouhodobý majetek má pořizovací cenu 100 000 LM.</span><span class="sxs-lookup"><span data-stu-id="e01ac-263">A fixed asset has an acquisition cost of LCY 100,000.</span></span> <span data-ttu-id="e01ac-264">V poli **Zrychlený %** je hodnota 25.</span><span class="sxs-lookup"><span data-stu-id="e01ac-264">The **Declining-Balance %** field is 25.</span></span> <span data-ttu-id="e01ac-265">Dávková úloha **Výpočet odpisů** se provádí dvakrát ročně.</span><span class="sxs-lookup"><span data-stu-id="e01ac-265">The **Calculate Depreciation** batch job is run biannually.</span></span> <span data-ttu-id="e01ac-266">Položky knihy dlouhodobého majetku vypadají takto:</span><span class="sxs-lookup"><span data-stu-id="e01ac-266">The fixed asset ledger entries look like this:</span></span>  
 
-|Datum|Typ zaúčtování DM|Dny|Částka|Účetní hodnota|  
+|<span data-ttu-id="e01ac-267">Datum</span><span class="sxs-lookup"><span data-stu-id="e01ac-267">Date</span></span>|<span data-ttu-id="e01ac-268">Typ zaúčtování DM</span><span class="sxs-lookup"><span data-stu-id="e01ac-268">FA Posting Type</span></span>|<span data-ttu-id="e01ac-269">Dny</span><span class="sxs-lookup"><span data-stu-id="e01ac-269">Days</span></span>|<span data-ttu-id="e01ac-270">Částka</span><span class="sxs-lookup"><span data-stu-id="e01ac-270">Amount</span></span>|<span data-ttu-id="e01ac-271">Účetní hodnota</span><span class="sxs-lookup"><span data-stu-id="e01ac-271">Book Value</span></span>|  
 |----------|---------------------|----------|------------|----------------|  
-|01/01/10|Pořizovací cena|*|100 000,00|100 000,00|  
-|06/30/10|Odpisy|180|-13 397,46|86 602,54|  
-|12/31/10|Odpisy|180|-11 602,54|75 000,00|  
-|06/30/11|Odpisy|180|-10 048,09|64 951,91|  
-|12/31/11|Odpisy|180|-8 701,91|56 250,00|  
+|<span data-ttu-id="e01ac-272">01/01/10</span><span class="sxs-lookup"><span data-stu-id="e01ac-272">01/01/10</span></span>|<span data-ttu-id="e01ac-273">Pořizovací cena</span><span class="sxs-lookup"><span data-stu-id="e01ac-273">Acquisition Costs</span></span>|*|<span data-ttu-id="e01ac-274">100 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-274">100,000.00</span></span>|<span data-ttu-id="e01ac-275">100 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-275">100,000.00</span></span>|  
+|<span data-ttu-id="e01ac-276">06/30/10</span><span class="sxs-lookup"><span data-stu-id="e01ac-276">06/30/10</span></span>|<span data-ttu-id="e01ac-277">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-277">Depreciation</span></span>|<span data-ttu-id="e01ac-278">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-278">180</span></span>|<span data-ttu-id="e01ac-279">-13 397,46</span><span class="sxs-lookup"><span data-stu-id="e01ac-279">-13,397.46</span></span>|<span data-ttu-id="e01ac-280">86 602,54</span><span class="sxs-lookup"><span data-stu-id="e01ac-280">86,602.54</span></span>|  
+|<span data-ttu-id="e01ac-281">12/31/10</span><span class="sxs-lookup"><span data-stu-id="e01ac-281">12/31/10</span></span>|<span data-ttu-id="e01ac-282">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-282">Depreciation</span></span>|<span data-ttu-id="e01ac-283">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-283">180</span></span>|<span data-ttu-id="e01ac-284">-11 602,54</span><span class="sxs-lookup"><span data-stu-id="e01ac-284">-11,602.54</span></span>|<span data-ttu-id="e01ac-285">75 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-285">75,000.00</span></span>|  
+|<span data-ttu-id="e01ac-286">06/30/11</span><span class="sxs-lookup"><span data-stu-id="e01ac-286">06/30/11</span></span>|<span data-ttu-id="e01ac-287">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-287">Depreciation</span></span>|<span data-ttu-id="e01ac-288">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-288">180</span></span>|<span data-ttu-id="e01ac-289">-10 048,09</span><span class="sxs-lookup"><span data-stu-id="e01ac-289">-10,048.09</span></span>|<span data-ttu-id="e01ac-290">64 951,91</span><span class="sxs-lookup"><span data-stu-id="e01ac-290">64,951.91</span></span>|  
+|<span data-ttu-id="e01ac-291">12/31/11</span><span class="sxs-lookup"><span data-stu-id="e01ac-291">12/31/11</span></span>|<span data-ttu-id="e01ac-292">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-292">Depreciation</span></span>|<span data-ttu-id="e01ac-293">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-293">180</span></span>|<span data-ttu-id="e01ac-294">-8 701,91</span><span class="sxs-lookup"><span data-stu-id="e01ac-294">-8,701.91</span></span>|<span data-ttu-id="e01ac-295">56 250,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-295">56,250.00</span></span>|  
 
-* Počáteční datum odpisování  
+* <span data-ttu-id="e01ac-296">Počáteční datum odpisování</span><span class="sxs-lookup"><span data-stu-id="e01ac-296">Depreciation starting date</span></span>  
 
-Metoda výpočtu:
-- BV = účetní hodnota  
-- ND = počet dnů odpisování  
-- ZRP = Zrychlený procenta  
-- P = ZRP/100  
-- D = ND/360  
+<span data-ttu-id="e01ac-297">Metoda výpočtu:</span><span class="sxs-lookup"><span data-stu-id="e01ac-297">Calculation Method:</span></span>
+- <span data-ttu-id="e01ac-298">BV = účetní hodnota</span><span class="sxs-lookup"><span data-stu-id="e01ac-298">BV = Book value</span></span>  
+- <span data-ttu-id="e01ac-299">ND = počet dnů odpisování</span><span class="sxs-lookup"><span data-stu-id="e01ac-299">ND = Number of depreciation days</span></span>  
+- <span data-ttu-id="e01ac-300">ZRP = Zrychlený procenta</span><span class="sxs-lookup"><span data-stu-id="e01ac-300">DBP = Declining-balance percent</span></span>  
+- <span data-ttu-id="e01ac-301">P = ZRP/100</span><span class="sxs-lookup"><span data-stu-id="e01ac-301">P = DBP/100</span></span>  
+- <span data-ttu-id="e01ac-302">D = ND/360</span><span class="sxs-lookup"><span data-stu-id="e01ac-302">D = ND/360</span></span>  
 
-Vzorec pro výpočet odpisových částek je:  
+<span data-ttu-id="e01ac-303">Vzorec pro výpočet odpisových částek je:</span><span class="sxs-lookup"><span data-stu-id="e01ac-303">The formula for calculating the depreciation amounts is:</span></span>  
 
-*DA = BV x (1 – (1 –P)<sup>D<sup>*  
+<span data-ttu-id="e01ac-304">*DA = BV x (1 – (1 –P)<sup>D<sup>*</span><span class="sxs-lookup"><span data-stu-id="e01ac-304">*DA = BV x (1 – (1 –P)<sup>D<sup>*</span></span>  
 
-Hodnoty odpisování jsou:  
+<span data-ttu-id="e01ac-305">Hodnoty odpisování jsou:</span><span class="sxs-lookup"><span data-stu-id="e01ac-305">The depreciation values are:</span></span>  
 
-|Datum|Výpočet|  
+|<span data-ttu-id="e01ac-306">Datum</span><span class="sxs-lookup"><span data-stu-id="e01ac-306">Date</span></span>|<span data-ttu-id="e01ac-307">Výpočet</span><span class="sxs-lookup"><span data-stu-id="e01ac-307">Calculation</span></span>|  
 |----------|-----------------|  
-|06/30/10|DA = 100,000.00 x (1 -(1 - 0.25)<sup>0.5<sup>) = 13,397.46|  
-|12/31/10|DA = 86,602.54 x (1 - (1 - 0.25)<sup>0.5<sup>) = 11,602.54|  
-|06/30/11|DA = 75,000.00 x (1 - (1 - 0.25)<sup>0.5<sup>) = 10,048.09|  
-|12/31/11|DA = 64,951.91 x (1 - (1 - 0.25)<sup>0.5<sup>) = 8,701.91|  
+|<span data-ttu-id="e01ac-308">06/30/10</span><span class="sxs-lookup"><span data-stu-id="e01ac-308">06/30/10</span></span>|<span data-ttu-id="e01ac-309">DA = 100,000.00 x (1 -(1 - 0.25)<sup>0.5<sup>) = 13,397.46</span><span class="sxs-lookup"><span data-stu-id="e01ac-309">DA = 100,000.00 x (1 -(1 - 0.25)<sup>0.5<sup>) = 13,397.46</span></span>|  
+|<span data-ttu-id="e01ac-310">12/31/10</span><span class="sxs-lookup"><span data-stu-id="e01ac-310">12/31/10</span></span>|<span data-ttu-id="e01ac-311">DA = 86,602.54 x (1 - (1 - 0.25)<sup>0.5<sup>) = 11,602.54</span><span class="sxs-lookup"><span data-stu-id="e01ac-311">DA = 86,602.54 x (1 - (1 - 0.25)<sup>0.5<sup>) = 11,602.54</span></span>|  
+|<span data-ttu-id="e01ac-312">06/30/11</span><span class="sxs-lookup"><span data-stu-id="e01ac-312">06/30/11</span></span>|<span data-ttu-id="e01ac-313">DA = 75,000.00 x (1 - (1 - 0.25)<sup>0.5<sup>) = 10,048.09</span><span class="sxs-lookup"><span data-stu-id="e01ac-313">DA = 75,000.00 x (1 - (1 - 0.25)<sup>0.5<sup>) = 10,048.09</span></span>|  
+|<span data-ttu-id="e01ac-314">12/31/11</span><span class="sxs-lookup"><span data-stu-id="e01ac-314">12/31/11</span></span>|<span data-ttu-id="e01ac-315">DA = 64,951.91 x (1 - (1 - 0.25)<sup>0.5<sup>) = 8,701.91</span><span class="sxs-lookup"><span data-stu-id="e01ac-315">DA = 64,951.91 x (1 - (1 - 0.25)<sup>0.5<sup>) = 8,701.91</span></span>|  
 
-## <a name="db1sl-depreciation"></a>ZR1/SL odpis
-Výpočet pokračuje, dokud účetní hodnota neodpovídá konečnému počtu zaokrouhlení částky nebo hodnotě, kterou zadáte.
+## <a name="db1sl-depreciation"></a><span data-ttu-id="e01ac-316">ZR1/SL odpis</span><span class="sxs-lookup"><span data-stu-id="e01ac-316">DB1/SL Depreciation</span></span>
+<span data-ttu-id="e01ac-317">Výpočet pokračuje, dokud účetní hodnota neodpovídá konečnému počtu zaokrouhlení částky nebo hodnotě, kterou zadáte.</span><span class="sxs-lookup"><span data-stu-id="e01ac-317">The calculation continues until the book value equals the final rounding amount or the salvage value that you entered.</span></span>
 
-ZR1/SL je zkrácená kombinace Zrychlený 1 a Lineární.  
+<span data-ttu-id="e01ac-318">ZR1/SL je zkrácená kombinace Zrychlený 1 a Lineární.</span><span class="sxs-lookup"><span data-stu-id="e01ac-318">DB1/SL is an abbreviated combination of Declining-Balance 1 and Straight-Line.</span></span>  
 
-Dávková úloha **Výpočet odpisů** vypočítá Lineární částku a klesající částku zůstatku, ale pouze část větší z obou částek je převedena do deníku.  
+<span data-ttu-id="e01ac-319">Dávková úloha **Výpočet odpisů** vypočítá Lineární částku a klesající částku zůstatku, ale pouze část větší z obou částek je převedena do deníku.</span><span class="sxs-lookup"><span data-stu-id="e01ac-319">The **Calculate Depreciation** batch job calculates a straight-line amount and a declining balance amount, but only the greater of the two amounts is transferred to the journal.</span></span>  
 
-Program dokáže zpracovat výpočet klesajícího zůstatku pomocí různých procent.  
+<span data-ttu-id="e01ac-320">Program dokáže zpracovat výpočet klesajícího zůstatku pomocí různých procent.</span><span class="sxs-lookup"><span data-stu-id="e01ac-320">The program can handle declining-balance calculation using various percentages.</span></span>  
 
-Používáte-li tuto metodu, musíte zadat odhadovanou životnost a klesající procentuální zůstatek v okně **Knihy odpisů DM**.  
+<span data-ttu-id="e01ac-321">Používáte-li tuto metodu, musíte zadat odhadovanou životnost a klesající procentuální zůstatek v okně **Knihy odpisů DM**.</span><span class="sxs-lookup"><span data-stu-id="e01ac-321">If you use this method, you must enter the estimated useful lifetime and a declining balance percentage in the **FA Depreciation Books** window.</span></span>  
 
-### <a name="example---db1-sl-depreciation"></a>Například - ZR1-SL Odpisy
-Dlouhodobý majetek má pořizovací cenu 100 000 LM. V okně **Knihy odpisů DM** pole **Zrychlený %** obsahuje hodnotu 25 a pole **Počet roků odpisování** obsahuje hodnotu 8. Dávková úloha **Výpočet odpisů** se provádí dvakrát ročně.  
+### <a name="example---db1-sl-depreciation"></a><span data-ttu-id="e01ac-322">Například - ZR1-SL Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-322">Example - DB1-SL Depreciation</span></span>
+<span data-ttu-id="e01ac-323">Dlouhodobý majetek má pořizovací cenu 100 000 LM.</span><span class="sxs-lookup"><span data-stu-id="e01ac-323">A fixed asset has an acquisition cost of LCY 100,000.</span></span> <span data-ttu-id="e01ac-324">V okně **Knihy odpisů DM** pole **Zrychlený %** obsahuje hodnotu 25 a pole **Počet roků odpisování** obsahuje hodnotu 8.</span><span class="sxs-lookup"><span data-stu-id="e01ac-324">In the **FA Depreciation Books** window, the **Declining-Balance %** field contains 25 and the **No. of Depreciation Years** field contains 8.</span></span> <span data-ttu-id="e01ac-325">Dávková úloha **Výpočet odpisů** se provádí dvakrát ročně.</span><span class="sxs-lookup"><span data-stu-id="e01ac-325">The **Calculate Depreciation** batch job is run biannually.</span></span>  
 
-Položky knihy dlouhodobého majetku vypadají takto:  
+<span data-ttu-id="e01ac-326">Položky knihy dlouhodobého majetku vypadají takto:</span><span class="sxs-lookup"><span data-stu-id="e01ac-326">The fixed asset ledger entries look like this:</span></span>  
 
-|Datum|Typ zaúčtování DM|Dny|Částka|Účetní hodnota|  
+|<span data-ttu-id="e01ac-327">Datum</span><span class="sxs-lookup"><span data-stu-id="e01ac-327">Date</span></span>|<span data-ttu-id="e01ac-328">Typ zaúčtování DM</span><span class="sxs-lookup"><span data-stu-id="e01ac-328">FA Posting Type</span></span>|<span data-ttu-id="e01ac-329">Dny</span><span class="sxs-lookup"><span data-stu-id="e01ac-329">Days</span></span>|<span data-ttu-id="e01ac-330">Částka</span><span class="sxs-lookup"><span data-stu-id="e01ac-330">Amount</span></span>|<span data-ttu-id="e01ac-331">Účetní hodnota</span><span class="sxs-lookup"><span data-stu-id="e01ac-331">Book Value</span></span>|  
 |----------|---------------------|----------|------------|----------------|  
-|01/01/10|Pořizovací cena|*|100 000,00|100 000,00|  
-|06/30/10|Odpisy|180|-12 500,00|87 500,00|  
-|12/31/10|Odpisy|180|-12 500,00|75 000,00|  
-|06/30/11|Odpisy|180|-9 375,00|65 625,00|  
-|12/31/11|Odpisy|180|-9 375,00|56 250,00|  
-|06/30/12|Odpisy|180|-7 031,25|49 218,75|  
-|12/31/12|Odpisy|180|-7 031,25|42 187,50|  
-|06/30/13|Odpisy|180|-5 273,44|36 914,06|  
-|12/31/13|Odpisy|180|-5 273,44|31 640,62|  
-|06/30/14|Odpisy|180|-3 955,08|27 685,54|  
-|12/31/14|Odpisy|180|-3 955,08|23 730,46|  
-|06/30/15|Odpisy|180|-3 955,08|19,775.38 SL|  
-|12/31/15|Odpisy|180|-3 955,08|15,820.30 SL|  
-|06/30/16|Odpisy|180|-3 955,08|11,865.22 SL|  
-|12/31/16|Odpisy|180|-3 955,07|7,910.15 SL|  
-|06/30/17|Odpisy|180|-3 955,08|3,955.07 SL|  
-|12/31/17|Odpisy|180|-3 955,07|0.00 SL|  
+|<span data-ttu-id="e01ac-332">01/01/10</span><span class="sxs-lookup"><span data-stu-id="e01ac-332">01/01/10</span></span>|<span data-ttu-id="e01ac-333">Pořizovací cena</span><span class="sxs-lookup"><span data-stu-id="e01ac-333">Acquisition Costs</span></span>|*|<span data-ttu-id="e01ac-334">100 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-334">100,000.00</span></span>|<span data-ttu-id="e01ac-335">100 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-335">100,000.00</span></span>|  
+|<span data-ttu-id="e01ac-336">06/30/10</span><span class="sxs-lookup"><span data-stu-id="e01ac-336">06/30/10</span></span>|<span data-ttu-id="e01ac-337">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-337">Depreciation</span></span>|<span data-ttu-id="e01ac-338">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-338">180</span></span>|<span data-ttu-id="e01ac-339">-12 500,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-339">-12,500.00</span></span>|<span data-ttu-id="e01ac-340">87 500,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-340">87,500.00</span></span>|  
+|<span data-ttu-id="e01ac-341">12/31/10</span><span class="sxs-lookup"><span data-stu-id="e01ac-341">12/31/10</span></span>|<span data-ttu-id="e01ac-342">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-342">Depreciation</span></span>|<span data-ttu-id="e01ac-343">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-343">180</span></span>|<span data-ttu-id="e01ac-344">-12 500,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-344">-12,500.00</span></span>|<span data-ttu-id="e01ac-345">75 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-345">75,000.00</span></span>|  
+|<span data-ttu-id="e01ac-346">06/30/11</span><span class="sxs-lookup"><span data-stu-id="e01ac-346">06/30/11</span></span>|<span data-ttu-id="e01ac-347">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-347">Depreciation</span></span>|<span data-ttu-id="e01ac-348">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-348">180</span></span>|<span data-ttu-id="e01ac-349">-9 375,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-349">-9,375.00</span></span>|<span data-ttu-id="e01ac-350">65 625,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-350">65,625.00</span></span>|  
+|<span data-ttu-id="e01ac-351">12/31/11</span><span class="sxs-lookup"><span data-stu-id="e01ac-351">12/31/11</span></span>|<span data-ttu-id="e01ac-352">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-352">Depreciation</span></span>|<span data-ttu-id="e01ac-353">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-353">180</span></span>|<span data-ttu-id="e01ac-354">-9 375,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-354">-9,375.00</span></span>|<span data-ttu-id="e01ac-355">56 250,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-355">56,250.00</span></span>|  
+|<span data-ttu-id="e01ac-356">06/30/12</span><span class="sxs-lookup"><span data-stu-id="e01ac-356">06/30/12</span></span>|<span data-ttu-id="e01ac-357">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-357">Depreciation</span></span>|<span data-ttu-id="e01ac-358">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-358">180</span></span>|<span data-ttu-id="e01ac-359">-7 031,25</span><span class="sxs-lookup"><span data-stu-id="e01ac-359">-7,031.25</span></span>|<span data-ttu-id="e01ac-360">49 218,75</span><span class="sxs-lookup"><span data-stu-id="e01ac-360">49,218.75</span></span>|  
+|<span data-ttu-id="e01ac-361">12/31/12</span><span class="sxs-lookup"><span data-stu-id="e01ac-361">12/31/12</span></span>|<span data-ttu-id="e01ac-362">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-362">Depreciation</span></span>|<span data-ttu-id="e01ac-363">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-363">180</span></span>|<span data-ttu-id="e01ac-364">-7 031,25</span><span class="sxs-lookup"><span data-stu-id="e01ac-364">-7,031.25</span></span>|<span data-ttu-id="e01ac-365">42 187,50</span><span class="sxs-lookup"><span data-stu-id="e01ac-365">42,187.50</span></span>|  
+|<span data-ttu-id="e01ac-366">06/30/13</span><span class="sxs-lookup"><span data-stu-id="e01ac-366">06/30/13</span></span>|<span data-ttu-id="e01ac-367">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-367">Depreciation</span></span>|<span data-ttu-id="e01ac-368">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-368">180</span></span>|<span data-ttu-id="e01ac-369">-5 273,44</span><span class="sxs-lookup"><span data-stu-id="e01ac-369">-5,273.44</span></span>|<span data-ttu-id="e01ac-370">36 914,06</span><span class="sxs-lookup"><span data-stu-id="e01ac-370">36,914.06</span></span>|  
+|<span data-ttu-id="e01ac-371">12/31/13</span><span class="sxs-lookup"><span data-stu-id="e01ac-371">12/31/13</span></span>|<span data-ttu-id="e01ac-372">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-372">Depreciation</span></span>|<span data-ttu-id="e01ac-373">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-373">180</span></span>|<span data-ttu-id="e01ac-374">-5 273,44</span><span class="sxs-lookup"><span data-stu-id="e01ac-374">-5,273.44</span></span>|<span data-ttu-id="e01ac-375">31 640,62</span><span class="sxs-lookup"><span data-stu-id="e01ac-375">31,640.62</span></span>|  
+|<span data-ttu-id="e01ac-376">06/30/14</span><span class="sxs-lookup"><span data-stu-id="e01ac-376">06/30/14</span></span>|<span data-ttu-id="e01ac-377">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-377">Depreciation</span></span>|<span data-ttu-id="e01ac-378">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-378">180</span></span>|<span data-ttu-id="e01ac-379">-3 955,08</span><span class="sxs-lookup"><span data-stu-id="e01ac-379">-3,955.08</span></span>|<span data-ttu-id="e01ac-380">27 685,54</span><span class="sxs-lookup"><span data-stu-id="e01ac-380">27,685.54</span></span>|  
+|<span data-ttu-id="e01ac-381">12/31/14</span><span class="sxs-lookup"><span data-stu-id="e01ac-381">12/31/14</span></span>|<span data-ttu-id="e01ac-382">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-382">Depreciation</span></span>|<span data-ttu-id="e01ac-383">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-383">180</span></span>|<span data-ttu-id="e01ac-384">-3 955,08</span><span class="sxs-lookup"><span data-stu-id="e01ac-384">-3,955.08</span></span>|<span data-ttu-id="e01ac-385">23 730,46</span><span class="sxs-lookup"><span data-stu-id="e01ac-385">23,730.46</span></span>|  
+|<span data-ttu-id="e01ac-386">06/30/15</span><span class="sxs-lookup"><span data-stu-id="e01ac-386">06/30/15</span></span>|<span data-ttu-id="e01ac-387">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-387">Depreciation</span></span>|<span data-ttu-id="e01ac-388">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-388">180</span></span>|<span data-ttu-id="e01ac-389">-3 955,08</span><span class="sxs-lookup"><span data-stu-id="e01ac-389">-3,955.08</span></span>|<span data-ttu-id="e01ac-390">19,775.38 SL</span><span class="sxs-lookup"><span data-stu-id="e01ac-390">19,775.38 SL</span></span>|  
+|<span data-ttu-id="e01ac-391">12/31/15</span><span class="sxs-lookup"><span data-stu-id="e01ac-391">12/31/15</span></span>|<span data-ttu-id="e01ac-392">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-392">Depreciation</span></span>|<span data-ttu-id="e01ac-393">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-393">180</span></span>|<span data-ttu-id="e01ac-394">-3 955,08</span><span class="sxs-lookup"><span data-stu-id="e01ac-394">-3,955.08</span></span>|<span data-ttu-id="e01ac-395">15,820.30 SL</span><span class="sxs-lookup"><span data-stu-id="e01ac-395">15,820.30 SL</span></span>|  
+|<span data-ttu-id="e01ac-396">06/30/16</span><span class="sxs-lookup"><span data-stu-id="e01ac-396">06/30/16</span></span>|<span data-ttu-id="e01ac-397">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-397">Depreciation</span></span>|<span data-ttu-id="e01ac-398">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-398">180</span></span>|<span data-ttu-id="e01ac-399">-3 955,08</span><span class="sxs-lookup"><span data-stu-id="e01ac-399">-3,955.08</span></span>|<span data-ttu-id="e01ac-400">11,865.22 SL</span><span class="sxs-lookup"><span data-stu-id="e01ac-400">11,865.22 SL</span></span>|  
+|<span data-ttu-id="e01ac-401">12/31/16</span><span class="sxs-lookup"><span data-stu-id="e01ac-401">12/31/16</span></span>|<span data-ttu-id="e01ac-402">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-402">Depreciation</span></span>|<span data-ttu-id="e01ac-403">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-403">180</span></span>|<span data-ttu-id="e01ac-404">-3 955,07</span><span class="sxs-lookup"><span data-stu-id="e01ac-404">-3,955.07</span></span>|<span data-ttu-id="e01ac-405">7,910.15 SL</span><span class="sxs-lookup"><span data-stu-id="e01ac-405">7,910.15 SL</span></span>|  
+|<span data-ttu-id="e01ac-406">06/30/17</span><span class="sxs-lookup"><span data-stu-id="e01ac-406">06/30/17</span></span>|<span data-ttu-id="e01ac-407">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-407">Depreciation</span></span>|<span data-ttu-id="e01ac-408">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-408">180</span></span>|<span data-ttu-id="e01ac-409">-3 955,08</span><span class="sxs-lookup"><span data-stu-id="e01ac-409">-3,955.08</span></span>|<span data-ttu-id="e01ac-410">3,955.07 SL</span><span class="sxs-lookup"><span data-stu-id="e01ac-410">3,955.07 SL</span></span>|  
+|<span data-ttu-id="e01ac-411">12/31/17</span><span class="sxs-lookup"><span data-stu-id="e01ac-411">12/31/17</span></span>|<span data-ttu-id="e01ac-412">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-412">Depreciation</span></span>|<span data-ttu-id="e01ac-413">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-413">180</span></span>|<span data-ttu-id="e01ac-414">-3 955,07</span><span class="sxs-lookup"><span data-stu-id="e01ac-414">-3,955.07</span></span>|<span data-ttu-id="e01ac-415">0.00 SL</span><span class="sxs-lookup"><span data-stu-id="e01ac-415">0.00 SL</span></span>|  
 
-* Počáteční datum odpisování  
+* <span data-ttu-id="e01ac-416">Počáteční datum odpisování</span><span class="sxs-lookup"><span data-stu-id="e01ac-416">Depreciation starting date</span></span>  
 
-"SL" po účetní hodnotě znamená, že byla použita lineární metoda.  
+<span data-ttu-id="e01ac-417">"SL" po účetní hodnotě znamená, že byla použita lineární metoda.</span><span class="sxs-lookup"><span data-stu-id="e01ac-417">"SL" after the book value means that the straight-line method has been used.</span></span>  
 
-Způsob výpočtu:  
+<span data-ttu-id="e01ac-418">Způsob výpočtu:</span><span class="sxs-lookup"><span data-stu-id="e01ac-418">Calculation method:</span></span>  
 
-1. rok:
+<span data-ttu-id="e01ac-419">1. rok:</span><span class="sxs-lookup"><span data-stu-id="e01ac-419">1st year:</span></span>
 
-*Zrychlená částka: 25% z 100,000 = 25,000 = 12,500 + 12,500*  
+<span data-ttu-id="e01ac-420">*Zrychlená částka: 25% z 100,000 = 25,000 = 12,500 + 12,500*</span><span class="sxs-lookup"><span data-stu-id="e01ac-420">*Declining-balance amount: 25% of 100,000 = 25,000 = 12,500 + 12,500*</span></span>  
 
-*Lineární částka = 100,000 / 8 = 12,500 = 6,250 + 6,250*  
+<span data-ttu-id="e01ac-421">*Lineární částka = 100,000 / 8 = 12,500 = 6,250 + 6,250*</span><span class="sxs-lookup"><span data-stu-id="e01ac-421">*Straight-line amount = 100,000 / 8 = 12,500 = 6,250 + 6,250*</span></span>  
 
-Klesající částka se používá, protože je to větší částka.  
+<span data-ttu-id="e01ac-422">Klesající částka se používá, protože je to větší částka.</span><span class="sxs-lookup"><span data-stu-id="e01ac-422">The declining-balance amount is used because it is the greater amount.</span></span>  
 
-6. rok (2015):  
+<span data-ttu-id="e01ac-423">6. rok (2015):</span><span class="sxs-lookup"><span data-stu-id="e01ac-423">6th year (2015):</span></span>  
 
-*Zrychlená částka: 25% z 23,730.46 = 4,943.85= 2,471.92 + 2,471.92*  
+<span data-ttu-id="e01ac-424">*Zrychlená částka: 25% z 23,730.46 = 4,943.85= 2,471.92 + 2,471.92*</span><span class="sxs-lookup"><span data-stu-id="e01ac-424">*Declining-balance amount: 25% of 23,730.46 = 4,943.85= 2,471.92 + 2,471.92*</span></span>  
 
-*Lineární částka = 23,730.46/3 = 7,910.15 = 3,995.07 + 3,995.08*  
+<span data-ttu-id="e01ac-425">*Lineární částka = 23,730.46/3 = 7,910.15 = 3,995.07 + 3,995.08*</span><span class="sxs-lookup"><span data-stu-id="e01ac-425">*Straight-line amount = 23,730.46/3 = 7,910.15 = 3,995.07 + 3,995.08*</span></span>  
 
-Lineární částka se používá, protože je to větší částka.  
+<span data-ttu-id="e01ac-426">Lineární částka se používá, protože je to větší částka.</span><span class="sxs-lookup"><span data-stu-id="e01ac-426">The straight-line amount is used because it is the greater amount.</span></span>  
 
-## <a name="user-defined-depreciation"></a>Uživatelem definovaný odpis
-Program má zařízení, které umožňuje nastavit uživatelem definované metody odpisování.  
+## <a name="user-defined-depreciation"></a><span data-ttu-id="e01ac-427">Uživatelem definovaný odpis</span><span class="sxs-lookup"><span data-stu-id="e01ac-427">User-defined Depreciation</span></span>
+<span data-ttu-id="e01ac-428">Program má zařízení, které umožňuje nastavit uživatelem definované metody odpisování.</span><span class="sxs-lookup"><span data-stu-id="e01ac-428">The program has a facility that allows you to set up user-defined depreciation methods.</span></span>  
 
-Metodu uživatelem definovanou můžete použít v okně **Tabulky odpisů**, kde musíte pro každé období (měsíc, čtvrtletí, rok nebo účetní období) zadat procento odpisů.  
+<span data-ttu-id="e01ac-429">Metodu uživatelem definovanou můžete použít v okně **Tabulky odpisů**, kde musíte pro každé období (měsíc, čtvrtletí, rok nebo účetní období) zadat procento odpisů.</span><span class="sxs-lookup"><span data-stu-id="e01ac-429">With a user-defined method, you use the **Depreciation Tables** window, where you must enter a depreciation percentage for each period (month, quarter, year, or accounting period).</span></span>  
 
-Vzorec pro výpočet odpisových částek je:  
+<span data-ttu-id="e01ac-430">Vzorec pro výpočet odpisových částek je:</span><span class="sxs-lookup"><span data-stu-id="e01ac-430">The formula for calculating the depreciation amounts is:</span></span>  
 
-Částka odpisů = (Odpisy % x Počet dnů odpisů x Odpisový základ) / (100 x 360)
+<span data-ttu-id="e01ac-431">Částka odpisů = (Odpisy % x Počet dnů odpisů x Odpisový</span><span class="sxs-lookup"><span data-stu-id="e01ac-431">Depreciation Amount = (Depreciation % x Number of Depreciation Days x Depr.</span></span> <span data-ttu-id="e01ac-432">základ) / (100 x 360)</span><span class="sxs-lookup"><span data-stu-id="e01ac-432">Basis) / (100 x 360)</span></span>
 
-### <a name="depreciation-based-on-number-of-units"></a>Odpisy založené na počtu jednotek  
- Tato uživatelem definovaná metoda může být také použita k odpisování na základě počtu jednotek, například v případě výrobních strojů se stanovenou životností. V okně **Tabulky odpisů** můžete zadat počet jednotek, které lze vytvořit v každém období (měsíc, čtvrtletí, rok nebo účetní období).  
+### <a name="depreciation-based-on-number-of-units"></a><span data-ttu-id="e01ac-433">Odpisy založené na počtu jednotek</span><span class="sxs-lookup"><span data-stu-id="e01ac-433">Depreciation Based on Number of Units</span></span>  
+ <span data-ttu-id="e01ac-434">Tato uživatelem definovaná metoda může být také použita k odpisování na základě počtu jednotek, například v případě výrobních strojů se stanovenou životností.</span><span class="sxs-lookup"><span data-stu-id="e01ac-434">This user-defined method can also be used to depreciate based on number of units, for example, in the case of production machines with an established lifetime capacity.</span></span> <span data-ttu-id="e01ac-435">V okně **Tabulky odpisů** můžete zadat počet jednotek, které lze vytvořit v každém období (měsíc, čtvrtletí, rok nebo účetní období).</span><span class="sxs-lookup"><span data-stu-id="e01ac-435">In the **Depreciation Tables** window, you can enter the number of units that can be produced in each period (month, quarter, year, or accounting period).</span></span>  
 
-### <a name="to-set-up-user-defined-depreciation-methods"></a>Nastavení uživatelem definovaných metod odpisování
-V okně **Tabulky odpisů** můžete nastavit uživatelem definované metody odpisování. Například můžete nastavit odpis podle počtu jednotek.  
+### <a name="to-set-up-user-defined-depreciation-methods"></a><span data-ttu-id="e01ac-436">Nastavení uživatelem definovaných metod odpisování</span><span class="sxs-lookup"><span data-stu-id="e01ac-436">To set up user-defined depreciation methods</span></span>
+<span data-ttu-id="e01ac-437">V okně **Tabulky odpisů** můžete nastavit uživatelem definované metody odpisování.</span><span class="sxs-lookup"><span data-stu-id="e01ac-437">In the **Depreciation Table** window, you can set up user-defined depreciation methods.</span></span> <span data-ttu-id="e01ac-438">Například můžete nastavit odpis podle počtu jednotek.</span><span class="sxs-lookup"><span data-stu-id="e01ac-438">For example, you can set up depreciation based on number of units.</span></span>  
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Tabulky odpisů** a pak vyberte související odkaz.
-2. V okně **Přehled tabulek odpisů** zvolte akci **Nový**.
-3. V okně **Karta tabulky odpisů** vyplňte pole podle potřeby. Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.
+1. <span data-ttu-id="e01ac-439">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Tabulky odpisů** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="e01ac-439">In the top right corner, choose the **Search for Page or Report** icon, enter **Depreciation Tables**, and then choose the related link.</span></span>
+2. <span data-ttu-id="e01ac-440">V okně **Přehled tabulek odpisů** zvolte akci **Nový**.</span><span class="sxs-lookup"><span data-stu-id="e01ac-440">In the **Depreciation Table List** window, choose the **New** action.</span></span>
+3. <span data-ttu-id="e01ac-441">V okně **Karta tabulky odpisů** vyplňte pole podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="e01ac-441">**Depreciation Table Card** window, fill in the fields as necessary.</span></span> <span data-ttu-id="e01ac-442">Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.</span><span class="sxs-lookup"><span data-stu-id="e01ac-442">Choose a field to read a short description of the field or link to more information.</span></span>
 
-### <a name="example---user-defined-depreciation"></a>Příklad - Uživatelem definované odpisy
-Používáte metodu odpisování, která vám umožňuje rychleji odpisovat majetek pro účely daně z příjmů.  
+### <a name="example---user-defined-depreciation"></a><span data-ttu-id="e01ac-443">Příklad - Uživatelem definované odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-443">Example - User-defined Depreciation</span></span>
+<span data-ttu-id="e01ac-444">Používáte metodu odpisování, která vám umožňuje rychleji odpisovat majetek pro účely daně z příjmů.</span><span class="sxs-lookup"><span data-stu-id="e01ac-444">You use a depreciation method that allows you to depreciate assets in an accelerated manner for income tax purposes.</span></span>  
 
-Pro dlouhodobý majetek s tříletou životností pro daňové účely byste použili následující odpisové sazby:  
+<span data-ttu-id="e01ac-445">Pro dlouhodobý majetek s tříletou životností pro daňové účely byste použili následující odpisové sazby:</span><span class="sxs-lookup"><span data-stu-id="e01ac-445">You would use the following depreciation rates for a fixed asset with a three-year lifetime for tax purposes:</span></span>  
 
-1. rok: 25%  
+<span data-ttu-id="e01ac-446">1. rok: 25%</span><span class="sxs-lookup"><span data-stu-id="e01ac-446">year 1: 25%</span></span>  
 
-2. rok: 38%  
+<span data-ttu-id="e01ac-447">2. rok: 38%</span><span class="sxs-lookup"><span data-stu-id="e01ac-447">year 2: 38%</span></span>  
 
-3. rok: 37%  
+<span data-ttu-id="e01ac-448">3. rok: 37%</span><span class="sxs-lookup"><span data-stu-id="e01ac-448">year 3: 37%</span></span>  
 
-Pořizovací cena činí 100 000 LM a odpisovatelná životnost je pět let. Odpisy se vypočítají ročně.  
+<span data-ttu-id="e01ac-449">Pořizovací cena činí 100 000 LM a odpisovatelná životnost je pět let.</span><span class="sxs-lookup"><span data-stu-id="e01ac-449">The acquisition cost is LCY 100,000, and the depreciable lifetime is five years.</span></span> <span data-ttu-id="e01ac-450">Odpisy se vypočítají ročně.</span><span class="sxs-lookup"><span data-stu-id="e01ac-450">Depreciation is calculated annually.</span></span>  
 
-|Datum|Typ zaúčtování DM|Dny|Částka|Účetní hodnota|  
+|<span data-ttu-id="e01ac-451">Datum</span><span class="sxs-lookup"><span data-stu-id="e01ac-451">Date</span></span>|<span data-ttu-id="e01ac-452">Typ zaúčtování DM</span><span class="sxs-lookup"><span data-stu-id="e01ac-452">FA Posting Type</span></span>|<span data-ttu-id="e01ac-453">Dny</span><span class="sxs-lookup"><span data-stu-id="e01ac-453">Days</span></span>|<span data-ttu-id="e01ac-454">Částka</span><span class="sxs-lookup"><span data-stu-id="e01ac-454">Amount</span></span>|<span data-ttu-id="e01ac-455">Účetní hodnota</span><span class="sxs-lookup"><span data-stu-id="e01ac-455">Book Value</span></span>|  
 |----------|---------------------|----------|------------|----------------|  
-|01/01/10|Pořizovací cena|*|100 000,00|100 000,00|  
-|12/31/10|Odpisy|360|-25 000,00|75 000,00|  
-|12/31/11|Odpisy|360|-38 000,00|37 000,00|  
-|12/31/12|Odpisy|360|-37 000,00|0|  
-|12/31/13|Odpisy|Žádný|Žádný|0|  
-|12/31/14|Odpisy|Žádný|Žádný|0|  
+|<span data-ttu-id="e01ac-456">01/01/10</span><span class="sxs-lookup"><span data-stu-id="e01ac-456">01/01/10</span></span>|<span data-ttu-id="e01ac-457">Pořizovací cena</span><span class="sxs-lookup"><span data-stu-id="e01ac-457">Acquisition Cost</span></span>|*|<span data-ttu-id="e01ac-458">100 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-458">100,000.00</span></span>|<span data-ttu-id="e01ac-459">100 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-459">100,000.00</span></span>|  
+|<span data-ttu-id="e01ac-460">12/31/10</span><span class="sxs-lookup"><span data-stu-id="e01ac-460">12/31/10</span></span>|<span data-ttu-id="e01ac-461">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-461">Depreciation</span></span>|<span data-ttu-id="e01ac-462">360</span><span class="sxs-lookup"><span data-stu-id="e01ac-462">360</span></span>|<span data-ttu-id="e01ac-463">-25 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-463">-25,000.00</span></span>|<span data-ttu-id="e01ac-464">75 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-464">75,000.00</span></span>|  
+|<span data-ttu-id="e01ac-465">12/31/11</span><span class="sxs-lookup"><span data-stu-id="e01ac-465">12/31/11</span></span>|<span data-ttu-id="e01ac-466">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-466">Depreciation</span></span>|<span data-ttu-id="e01ac-467">360</span><span class="sxs-lookup"><span data-stu-id="e01ac-467">360</span></span>|<span data-ttu-id="e01ac-468">-38 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-468">-38,000.00</span></span>|<span data-ttu-id="e01ac-469">37 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-469">37,000.00</span></span>|  
+|<span data-ttu-id="e01ac-470">12/31/12</span><span class="sxs-lookup"><span data-stu-id="e01ac-470">12/31/12</span></span>|<span data-ttu-id="e01ac-471">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-471">Depreciation</span></span>|<span data-ttu-id="e01ac-472">360</span><span class="sxs-lookup"><span data-stu-id="e01ac-472">360</span></span>|<span data-ttu-id="e01ac-473">-37 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-473">-37,000.00</span></span>|<span data-ttu-id="e01ac-474">0</span><span class="sxs-lookup"><span data-stu-id="e01ac-474">0</span></span>|  
+|<span data-ttu-id="e01ac-475">12/31/13</span><span class="sxs-lookup"><span data-stu-id="e01ac-475">12/31/13</span></span>|<span data-ttu-id="e01ac-476">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-476">Depreciation</span></span>|<span data-ttu-id="e01ac-477">Žádný</span><span class="sxs-lookup"><span data-stu-id="e01ac-477">None</span></span>|<span data-ttu-id="e01ac-478">Žádný</span><span class="sxs-lookup"><span data-stu-id="e01ac-478">None</span></span>|<span data-ttu-id="e01ac-479">0</span><span class="sxs-lookup"><span data-stu-id="e01ac-479">0</span></span>|  
+|<span data-ttu-id="e01ac-480">12/31/14</span><span class="sxs-lookup"><span data-stu-id="e01ac-480">12/31/14</span></span>|<span data-ttu-id="e01ac-481">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-481">Depreciation</span></span>|<span data-ttu-id="e01ac-482">Žádný</span><span class="sxs-lookup"><span data-stu-id="e01ac-482">None</span></span>|<span data-ttu-id="e01ac-483">Žádný</span><span class="sxs-lookup"><span data-stu-id="e01ac-483">None</span></span>|<span data-ttu-id="e01ac-484">0</span><span class="sxs-lookup"><span data-stu-id="e01ac-484">0</span></span>|  
 
-* Počáteční datum odpisování  
+* <span data-ttu-id="e01ac-485">Počáteční datum odpisování</span><span class="sxs-lookup"><span data-stu-id="e01ac-485">Depreciation starting date</span></span>  
 
-Používáte-li metodu uživatelem definovanou pole **První uživ.definované datum** a **Počáteční datum odpisování** musí být vyplněno v okně **Knihy odpisů DM**. Pole **První uživ.definované ****datum** a pole **Délka období** v okně **Tabulky odpisů** se používají k určení časových intervalů, které mají být použity pro výpočty odpisů. Tím je zajištěno, že program začne používat určený procentní podíl ve stejný den pro všechny aktiva. Pole **Počáteční datum odpisování** se používá pro výpočet počtu dnů odpisování.  
+<span data-ttu-id="e01ac-486">Používáte-li metodu uživatelem definovanou pole **První uživ.definované datum** a **Počáteční datum odpisování** musí být vyplněno v okně **Knihy odpisů DM**.</span><span class="sxs-lookup"><span data-stu-id="e01ac-486">If you use a user-defined method, the **First User-Defined Depr. Date** and **Depreciation Starting Date** fields must be filled in in the **FA Depreciation Books** window.</span></span> <span data-ttu-id="e01ac-487">Pole **První uživ.definované ****datum** a pole **Délka období** v okně **Tabulky odpisů** se používají k určení časových intervalů, které mají být použity pro výpočty odpisů.</span><span class="sxs-lookup"><span data-stu-id="e01ac-487">The **First User-Defined Depr. Date** field and the contents in the **Period Length** field in the **Depreciation Tables** window are used to determine the time intervals to be used for depreciation calculations.</span></span> <span data-ttu-id="e01ac-488">Tím je zajištěno, že program začne používat určený procentní podíl ve stejný den pro všechny aktiva.</span><span class="sxs-lookup"><span data-stu-id="e01ac-488">This ensures that the program will start using the specified percentage on the same day for all assets.</span></span> <span data-ttu-id="e01ac-489">Pole **Počáteční datum odpisování** se používá pro výpočet počtu dnů odpisování.</span><span class="sxs-lookup"><span data-stu-id="e01ac-489">The **Depreciation Starting Date** field is used to calculate the number of depreciation days.</span></span>  
 
-V předchozím příkladě v obou polích **První uživ.definované ****datum** a **Počáteční datum odpisování** obsahuje 01/01/01. Pokud ovšem pole **První uživ.definované ****datum** obsahuje 01/01/10 a pole **Počáteční datum odpisování** obsahuje 04/01/11, výsledek bude:  
+<span data-ttu-id="e01ac-490">V předchozím příkladě v obou polích **První uživ.definované ****datum** a **Počáteční datum odpisování** obsahuje 01/01/01.</span><span class="sxs-lookup"><span data-stu-id="e01ac-490">In the previous example, both the **First User-Defined Depr. Date** and **Depreciation Starting Date** fields contain 01/01/01.</span></span> <span data-ttu-id="e01ac-491">Pokud ovšem pole **První uživ.definované ****datum** obsahuje 01/01/10 a pole **Počáteční datum odpisování** obsahuje 04/01/11, výsledek bude:</span><span class="sxs-lookup"><span data-stu-id="e01ac-491">If, however, the **First User-Defined Depr. Date** field contained 01/01/10 and the **Depreciation Starting Date** field contained 04/01/11, the result would be:</span></span>  
 
-|Datum|Typ zaúčtování DM|Dny|Částka|Účetní hodnota|  
+|<span data-ttu-id="e01ac-492">Datum</span><span class="sxs-lookup"><span data-stu-id="e01ac-492">Date</span></span>|<span data-ttu-id="e01ac-493">Typ zaúčtování DM</span><span class="sxs-lookup"><span data-stu-id="e01ac-493">FA Posting Type</span></span>|<span data-ttu-id="e01ac-494">Dny</span><span class="sxs-lookup"><span data-stu-id="e01ac-494">Days</span></span>|<span data-ttu-id="e01ac-495">Částka</span><span class="sxs-lookup"><span data-stu-id="e01ac-495">Amount</span></span>|<span data-ttu-id="e01ac-496">Účetní hodnota</span><span class="sxs-lookup"><span data-stu-id="e01ac-496">Book Value</span></span>|  
 |----------|---------------------|----------|------------|----------------|  
-|01/01/10|Pořizovací cena|*|100 000,00|100 000,00|  
-|12/31/10|Odpisy|270|-18 750,00|81 250,00|  
-|12/31/11|Odpisy|360|-38 000,00|42 250,00|  
-|12/31/12|Odpisy|360|-37 000,00|6 250,00|  
-|12/31/13|Odpisy|90|-6 250,00|0|  
-|12/31/14|Odpisy|Žádný|Žádný|0|  
+|<span data-ttu-id="e01ac-497">01/01/10</span><span class="sxs-lookup"><span data-stu-id="e01ac-497">01/01/10</span></span>|<span data-ttu-id="e01ac-498">Pořizovací cena</span><span class="sxs-lookup"><span data-stu-id="e01ac-498">Acquisition Cost</span></span>|*|<span data-ttu-id="e01ac-499">100 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-499">100,000.00</span></span>|<span data-ttu-id="e01ac-500">100 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-500">100,000.00</span></span>|  
+|<span data-ttu-id="e01ac-501">12/31/10</span><span class="sxs-lookup"><span data-stu-id="e01ac-501">12/31/10</span></span>|<span data-ttu-id="e01ac-502">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-502">Depreciation</span></span>|<span data-ttu-id="e01ac-503">270</span><span class="sxs-lookup"><span data-stu-id="e01ac-503">270</span></span>|<span data-ttu-id="e01ac-504">-18 750,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-504">-18,750.00</span></span>|<span data-ttu-id="e01ac-505">81 250,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-505">81,250.00</span></span>|  
+|<span data-ttu-id="e01ac-506">12/31/11</span><span class="sxs-lookup"><span data-stu-id="e01ac-506">12/31/11</span></span>|<span data-ttu-id="e01ac-507">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-507">Depreciation</span></span>|<span data-ttu-id="e01ac-508">360</span><span class="sxs-lookup"><span data-stu-id="e01ac-508">360</span></span>|<span data-ttu-id="e01ac-509">-38 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-509">-38,000.00</span></span>|<span data-ttu-id="e01ac-510">42 250,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-510">42,250.00</span></span>|  
+|<span data-ttu-id="e01ac-511">12/31/12</span><span class="sxs-lookup"><span data-stu-id="e01ac-511">12/31/12</span></span>|<span data-ttu-id="e01ac-512">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-512">Depreciation</span></span>|<span data-ttu-id="e01ac-513">360</span><span class="sxs-lookup"><span data-stu-id="e01ac-513">360</span></span>|<span data-ttu-id="e01ac-514">-37 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-514">-37,000.00</span></span>|<span data-ttu-id="e01ac-515">6 250,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-515">6,250.00</span></span>|  
+|<span data-ttu-id="e01ac-516">12/31/13</span><span class="sxs-lookup"><span data-stu-id="e01ac-516">12/31/13</span></span>|<span data-ttu-id="e01ac-517">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-517">Depreciation</span></span>|<span data-ttu-id="e01ac-518">90</span><span class="sxs-lookup"><span data-stu-id="e01ac-518">90</span></span>|<span data-ttu-id="e01ac-519">-6 250,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-519">-6,250.00</span></span>|<span data-ttu-id="e01ac-520">0</span><span class="sxs-lookup"><span data-stu-id="e01ac-520">0</span></span>|  
+|<span data-ttu-id="e01ac-521">12/31/14</span><span class="sxs-lookup"><span data-stu-id="e01ac-521">12/31/14</span></span>|<span data-ttu-id="e01ac-522">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-522">Depreciation</span></span>|<span data-ttu-id="e01ac-523">Žádný</span><span class="sxs-lookup"><span data-stu-id="e01ac-523">None</span></span>|<span data-ttu-id="e01ac-524">Žádný</span><span class="sxs-lookup"><span data-stu-id="e01ac-524">None</span></span>|<span data-ttu-id="e01ac-525">0</span><span class="sxs-lookup"><span data-stu-id="e01ac-525">0</span></span>|  
 
-* Počáteční datum odpisování
+* <span data-ttu-id="e01ac-526">Počáteční datum odpisování</span><span class="sxs-lookup"><span data-stu-id="e01ac-526">Depreciation starting date</span></span>
 
-## <a name="half-year-convention-depreciation"></a>Pololetní konvence odpisů   
-Metoda Pololetní konvence bude použita pouze tehdy, pokud do pole **Použít pololetní konvenci** umístíte zaškrtávací políčko v okně **Kniha odpisů DM**.  
+## <a name="half-year-convention-depreciation"></a><span data-ttu-id="e01ac-527">Pololetní konvence odpisů</span><span class="sxs-lookup"><span data-stu-id="e01ac-527">Half-Year Convention Depreciation</span></span>   
+<span data-ttu-id="e01ac-528">Metoda Pololetní konvence bude použita pouze tehdy, pokud do pole **Použít pololetní konvenci** umístíte zaškrtávací políčko v okně **Kniha odpisů DM**.</span><span class="sxs-lookup"><span data-stu-id="e01ac-528">The Half-Year Convention method will only be applied if you have placed a check mark in the **Use Half-Year Convention** field in the fixed **FA Depreciation Book** window.</span></span>  
 
-Tuto metodu odpisování lze použít v souvislosti s následujícími metodami odpisování v programu:  
-- Lineární
-- Zrychlený 1
-- ZR1/SL  
+<span data-ttu-id="e01ac-529">Tuto metodu odpisování lze použít v souvislosti s následujícími metodami odpisování v programu:</span><span class="sxs-lookup"><span data-stu-id="e01ac-529">This depreciation method can be used in conjunction with the following depreciation methods in the program:</span></span>  
+- <span data-ttu-id="e01ac-530">Lineární</span><span class="sxs-lookup"><span data-stu-id="e01ac-530">Straight-Line</span></span>
+- <span data-ttu-id="e01ac-531">Zrychlený 1</span><span class="sxs-lookup"><span data-stu-id="e01ac-531">Declining-Balance 1</span></span>
+- <span data-ttu-id="e01ac-532">ZR1/SL</span><span class="sxs-lookup"><span data-stu-id="e01ac-532">DB1/SL</span></span>  
 
-Pokud se použije pololetní konvence, bude mít dlouhodobý majetek v prvním finančním roce šestiměsíční odpisy bez ohledu na obsah pole **Počáteční datum odpisování**.  
+<span data-ttu-id="e01ac-533">Pokud se použije pololetní konvence, bude mít dlouhodobý majetek v prvním finančním roce šestiměsíční odpisy bez ohledu na obsah pole **Počáteční datum odpisování**.</span><span class="sxs-lookup"><span data-stu-id="e01ac-533">When Half-Year Convention is applied, a fixed asset will have six months depreciation in the first fiscal year regardless of the contents of the **Depreciation Starting Date** field.</span></span>  
 
-**Poznámka**. Odhadovaná životnost dlouhodobého majetku, která zůstane po prvním fiskálním roce, bude vždy obsahovat půl roku s použitím metody pololetní konvence. Proto, aby byla metoda pololetní konvence aplikována správně, musí pole **Poslední datum odpisování** v okně **Kniha odpisů DM** vždy obsahovat datum, které je přesně šest měsíců před konečným datem fiskálního roku, ve kterém se stávající dlouhodobý majetek stane plně odepsán.  
+<span data-ttu-id="e01ac-534">**Poznámka**.</span><span class="sxs-lookup"><span data-stu-id="e01ac-534">**Note**.</span></span> <span data-ttu-id="e01ac-535">Odhadovaná životnost dlouhodobého majetku, která zůstane po prvním fiskálním roce, bude vždy obsahovat půl roku s použitím metody pololetní konvence.</span><span class="sxs-lookup"><span data-stu-id="e01ac-535">The estimated life of the fixed asset that is remaining after the first fiscal year will always contain a half-year using the Half-Year Convention Method.</span></span> <span data-ttu-id="e01ac-536">Proto, aby byla metoda pololetní konvence aplikována správně, musí pole **Poslední datum odpisování** v okně **Kniha odpisů DM** vždy obsahovat datum, které je přesně šest měsíců před konečným datem fiskálního roku, ve kterém se stávající dlouhodobý majetek stane plně odepsán.</span><span class="sxs-lookup"><span data-stu-id="e01ac-536">Thus, for the Half-Year Convention method to be applied correctly, the **Depreciation Ending Date** field in the **FA Depreciation Book** window must always contain a date which is exactly six months before the final date of the fiscal year in which the fixed asset will become fully depreciated.</span></span>  
 
-### <a name="example---half-year-convention-depreciation"></a>Příklad - pololetní konvence odpisů
-Dlouhodobý majetek má pořizovací cenu 100 000 LM. **Počáteční datum odpisování** je 03/01/10. Odhadovaná životnost je pět let, takže **Poslední datum odpisování** musí být 06/30/15. Dávková úloha **Výpočet odpisů** se provádí ročně. Tento příklad je založen na kalendářním fiskálním roce.  
+### <a name="example---half-year-convention-depreciation"></a><span data-ttu-id="e01ac-537">Příklad - pololetní konvence odpisů</span><span class="sxs-lookup"><span data-stu-id="e01ac-537">Example - Half-Year Convention Depreciation</span></span>
+<span data-ttu-id="e01ac-538">Dlouhodobý majetek má pořizovací cenu 100 000 LM.</span><span class="sxs-lookup"><span data-stu-id="e01ac-538">A fixed asset has an acquisition cost of LCY 100,000.</span></span> <span data-ttu-id="e01ac-539">**Počáteční datum odpisování** je 03/01/10.</span><span class="sxs-lookup"><span data-stu-id="e01ac-539">The **Depreciation Starting Date** is 03/01/10.</span></span> <span data-ttu-id="e01ac-540">Odhadovaná životnost je pět let, takže **Poslední datum odpisování** musí být 06/30/15.</span><span class="sxs-lookup"><span data-stu-id="e01ac-540">The estimated life is five years, so the **Depreciation Ending Date** must be 06/30/15.</span></span> <span data-ttu-id="e01ac-541">Dávková úloha **Výpočet odpisů** se provádí ročně.</span><span class="sxs-lookup"><span data-stu-id="e01ac-541">The **Calculate Depreciation** batch job is run annually.</span></span> <span data-ttu-id="e01ac-542">Tento příklad je založen na kalendářním fiskálním roce.</span><span class="sxs-lookup"><span data-stu-id="e01ac-542">This example is based on a calendar fiscal year.</span></span>  
 
- Položky knihy dlouhodobého majetku vypadají takto:  
+ <span data-ttu-id="e01ac-543">Položky knihy dlouhodobého majetku vypadají takto:</span><span class="sxs-lookup"><span data-stu-id="e01ac-543">The fixed asset ledger entries look like this:</span></span>  
 
-|Datum|Typ zaúčtování DM|Dny|Částka|Účetní hodnota|  
+|<span data-ttu-id="e01ac-544">Datum</span><span class="sxs-lookup"><span data-stu-id="e01ac-544">Date</span></span>|<span data-ttu-id="e01ac-545">Typ zaúčtování DM</span><span class="sxs-lookup"><span data-stu-id="e01ac-545">FA Posting Type</span></span>|<span data-ttu-id="e01ac-546">Dny</span><span class="sxs-lookup"><span data-stu-id="e01ac-546">Days</span></span>|<span data-ttu-id="e01ac-547">Částka</span><span class="sxs-lookup"><span data-stu-id="e01ac-547">Amount</span></span>|<span data-ttu-id="e01ac-548">Účetní hodnota</span><span class="sxs-lookup"><span data-stu-id="e01ac-548">Book Value</span></span>|  
 |----------|---------------------|----------|------------|----------------|  
-|03/01/10|Pořizovací cena|*|100 000,00|100 000,00|  
-|12/31/10|Odpisy|270|-10 000,00|90 000,00|  
-|12/31/11|Odpisy|360|-20 000,00|70 000,00|  
-|12/31/12|Odpisy|360|-20 000,00|50 000,00|  
-|12/31/13|Odpisy|360|-20 000,00|30 000,00|  
-|12/31/14|Odpisy|360|-20 000,00|10 000,00|  
-|12/31/15|Odpisy|180|-10 000,00|0,00|  
+|<span data-ttu-id="e01ac-549">03/01/10</span><span class="sxs-lookup"><span data-stu-id="e01ac-549">03/01/10</span></span>|<span data-ttu-id="e01ac-550">Pořizovací cena</span><span class="sxs-lookup"><span data-stu-id="e01ac-550">Acquisition Cost</span></span>|*|<span data-ttu-id="e01ac-551">100 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-551">100,000.00</span></span>|<span data-ttu-id="e01ac-552">100 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-552">100,000.00</span></span>|  
+|<span data-ttu-id="e01ac-553">12/31/10</span><span class="sxs-lookup"><span data-stu-id="e01ac-553">12/31/10</span></span>|<span data-ttu-id="e01ac-554">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-554">Depreciation</span></span>|<span data-ttu-id="e01ac-555">270</span><span class="sxs-lookup"><span data-stu-id="e01ac-555">270</span></span>|<span data-ttu-id="e01ac-556">-10 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-556">-10,000.00</span></span>|<span data-ttu-id="e01ac-557">90 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-557">90,000.00</span></span>|  
+|<span data-ttu-id="e01ac-558">12/31/11</span><span class="sxs-lookup"><span data-stu-id="e01ac-558">12/31/11</span></span>|<span data-ttu-id="e01ac-559">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-559">Depreciation</span></span>|<span data-ttu-id="e01ac-560">360</span><span class="sxs-lookup"><span data-stu-id="e01ac-560">360</span></span>|<span data-ttu-id="e01ac-561">-20 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-561">-20,000.00</span></span>|<span data-ttu-id="e01ac-562">70 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-562">70,000.00</span></span>|  
+|<span data-ttu-id="e01ac-563">12/31/12</span><span class="sxs-lookup"><span data-stu-id="e01ac-563">12/31/12</span></span>|<span data-ttu-id="e01ac-564">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-564">Depreciation</span></span>|<span data-ttu-id="e01ac-565">360</span><span class="sxs-lookup"><span data-stu-id="e01ac-565">360</span></span>|<span data-ttu-id="e01ac-566">-20 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-566">-20,000.00</span></span>|<span data-ttu-id="e01ac-567">50 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-567">50,000.00</span></span>|  
+|<span data-ttu-id="e01ac-568">12/31/13</span><span class="sxs-lookup"><span data-stu-id="e01ac-568">12/31/13</span></span>|<span data-ttu-id="e01ac-569">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-569">Depreciation</span></span>|<span data-ttu-id="e01ac-570">360</span><span class="sxs-lookup"><span data-stu-id="e01ac-570">360</span></span>|<span data-ttu-id="e01ac-571">-20 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-571">-20,000.00</span></span>|<span data-ttu-id="e01ac-572">30 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-572">30,000.00</span></span>|  
+|<span data-ttu-id="e01ac-573">12/31/14</span><span class="sxs-lookup"><span data-stu-id="e01ac-573">12/31/14</span></span>|<span data-ttu-id="e01ac-574">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-574">Depreciation</span></span>|<span data-ttu-id="e01ac-575">360</span><span class="sxs-lookup"><span data-stu-id="e01ac-575">360</span></span>|<span data-ttu-id="e01ac-576">-20 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-576">-20,000.00</span></span>|<span data-ttu-id="e01ac-577">10 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-577">10,000.00</span></span>|  
+|<span data-ttu-id="e01ac-578">12/31/15</span><span class="sxs-lookup"><span data-stu-id="e01ac-578">12/31/15</span></span>|<span data-ttu-id="e01ac-579">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-579">Depreciation</span></span>|<span data-ttu-id="e01ac-580">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-580">180</span></span>|<span data-ttu-id="e01ac-581">-10 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-581">-10,000.00</span></span>|<span data-ttu-id="e01ac-582">0,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-582">0.00</span></span>|  
 
-* Počáteční datum odpisování  
+* <span data-ttu-id="e01ac-583">Počáteční datum odpisování</span><span class="sxs-lookup"><span data-stu-id="e01ac-583">Depreciation starting date</span></span>  
 
-## <a name="example---db1sl-depreciation-using-half-year-convention"></a>Příklad - Odpisy ZR1/SL pomocí pololetní konvence  
-Dlouhodobý majetek má pořizovací cenu 100 000 LM. **Počáteční datum odpisování** je 11/01/10. Odhadovaná životnost je pět let, takže **Poslední datum odpisování** musí být 06/30/15. V okně **Knihy odpisů DM** pole **Zrychlený %** obsahuje 40. Dávková úloha **Výpočet odpisů** se provádí ročně. Tento příklad je založen na kalendářním fiskálním roce.  
+## <a name="example---db1sl-depreciation-using-half-year-convention"></a><span data-ttu-id="e01ac-584">Příklad - Odpisy ZR1/SL pomocí pololetní konvence</span><span class="sxs-lookup"><span data-stu-id="e01ac-584">Example - DB1/SL Depreciation Using Half-Year Convention</span></span>  
+<span data-ttu-id="e01ac-585">Dlouhodobý majetek má pořizovací cenu 100 000 LM.</span><span class="sxs-lookup"><span data-stu-id="e01ac-585">A fixed asset has an acquisition cost of LCY 100,000.</span></span> <span data-ttu-id="e01ac-586">**Počáteční datum odpisování** je 11/01/10.</span><span class="sxs-lookup"><span data-stu-id="e01ac-586">The **Depreciation Starting Date** is 11/01/10.</span></span> <span data-ttu-id="e01ac-587">Odhadovaná životnost je pět let, takže **Poslední datum odpisování** musí být 06/30/15.</span><span class="sxs-lookup"><span data-stu-id="e01ac-587">The estimated life is five years, so the **Depreciation Ending Date** must be 06/30/15.</span></span> <span data-ttu-id="e01ac-588">V okně **Knihy odpisů DM** pole **Zrychlený %** obsahuje 40.</span><span class="sxs-lookup"><span data-stu-id="e01ac-588">In the **FA Depreciation Books** window, the **Declining-Balance %** field contains 40.</span></span> <span data-ttu-id="e01ac-589">Dávková úloha **Výpočet odpisů** se provádí ročně.</span><span class="sxs-lookup"><span data-stu-id="e01ac-589">The **Calculate Depreciation** batch job is run annually.</span></span> <span data-ttu-id="e01ac-590">Tento příklad je založen na kalendářním fiskálním roce.</span><span class="sxs-lookup"><span data-stu-id="e01ac-590">This example is based on a calendar fiscal year.</span></span>  
 
-Položky knihy dlouhodobého majetku vypadají takto:  
+<span data-ttu-id="e01ac-591">Položky knihy dlouhodobého majetku vypadají takto:</span><span class="sxs-lookup"><span data-stu-id="e01ac-591">The fixed asset ledger entries look like this:</span></span>  
 
-|Datum|Typ zaúčtování DM|Dny|Částka|Účetní hodnota|  
+|<span data-ttu-id="e01ac-592">Datum</span><span class="sxs-lookup"><span data-stu-id="e01ac-592">Date</span></span>|<span data-ttu-id="e01ac-593">Typ zaúčtování DM</span><span class="sxs-lookup"><span data-stu-id="e01ac-593">FA Posting Type</span></span>|<span data-ttu-id="e01ac-594">Dny</span><span class="sxs-lookup"><span data-stu-id="e01ac-594">Days</span></span>|<span data-ttu-id="e01ac-595">Částka</span><span class="sxs-lookup"><span data-stu-id="e01ac-595">Amount</span></span>|<span data-ttu-id="e01ac-596">Účetní hodnota</span><span class="sxs-lookup"><span data-stu-id="e01ac-596">Book Value</span></span>|  
 |----------|---------------------|----------|------------|----------------|  
-|11/01/10|Pořizovací cena|*|100 000,00|100 000,00|  
-|12/31/10|Odpisy|60|-20 000,00|80 000,00|  
-|12/31/11|Odpisy|360|-32 000,00|48 000,00|  
-|12/31/12|Odpisy|360|-19 200,00|28 800,00|  
-|12/31/13|Odpisy|360|-11 520,00|17 280,00|  
-|12/31/14|Odpisy|360|-11 520,00|5,760.00 SL|  
-|12/31/15|Odpisy|180|-5 760,00|0.00 SL|  
+|<span data-ttu-id="e01ac-597">11/01/10</span><span class="sxs-lookup"><span data-stu-id="e01ac-597">11/01/10</span></span>|<span data-ttu-id="e01ac-598">Pořizovací cena</span><span class="sxs-lookup"><span data-stu-id="e01ac-598">Acquisition Cost</span></span>|*|<span data-ttu-id="e01ac-599">100 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-599">100,000.00</span></span>|<span data-ttu-id="e01ac-600">100 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-600">100,000.00</span></span>|  
+|<span data-ttu-id="e01ac-601">12/31/10</span><span class="sxs-lookup"><span data-stu-id="e01ac-601">12/31/10</span></span>|<span data-ttu-id="e01ac-602">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-602">Depreciation</span></span>|<span data-ttu-id="e01ac-603">60</span><span class="sxs-lookup"><span data-stu-id="e01ac-603">60</span></span>|<span data-ttu-id="e01ac-604">-20 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-604">-20,000.00</span></span>|<span data-ttu-id="e01ac-605">80 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-605">80,000.00</span></span>|  
+|<span data-ttu-id="e01ac-606">12/31/11</span><span class="sxs-lookup"><span data-stu-id="e01ac-606">12/31/11</span></span>|<span data-ttu-id="e01ac-607">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-607">Depreciation</span></span>|<span data-ttu-id="e01ac-608">360</span><span class="sxs-lookup"><span data-stu-id="e01ac-608">360</span></span>|<span data-ttu-id="e01ac-609">-32 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-609">-32,000.00</span></span>|<span data-ttu-id="e01ac-610">48 000,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-610">48,000.00</span></span>|  
+|<span data-ttu-id="e01ac-611">12/31/12</span><span class="sxs-lookup"><span data-stu-id="e01ac-611">12/31/12</span></span>|<span data-ttu-id="e01ac-612">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-612">Depreciation</span></span>|<span data-ttu-id="e01ac-613">360</span><span class="sxs-lookup"><span data-stu-id="e01ac-613">360</span></span>|<span data-ttu-id="e01ac-614">-19 200,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-614">-19,200.00</span></span>|<span data-ttu-id="e01ac-615">28 800,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-615">28,800.00</span></span>|  
+|<span data-ttu-id="e01ac-616">12/31/13</span><span class="sxs-lookup"><span data-stu-id="e01ac-616">12/31/13</span></span>|<span data-ttu-id="e01ac-617">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-617">Depreciation</span></span>|<span data-ttu-id="e01ac-618">360</span><span class="sxs-lookup"><span data-stu-id="e01ac-618">360</span></span>|<span data-ttu-id="e01ac-619">-11 520,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-619">-11,520.00</span></span>|<span data-ttu-id="e01ac-620">17 280,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-620">17,280.00</span></span>|  
+|<span data-ttu-id="e01ac-621">12/31/14</span><span class="sxs-lookup"><span data-stu-id="e01ac-621">12/31/14</span></span>|<span data-ttu-id="e01ac-622">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-622">Depreciation</span></span>|<span data-ttu-id="e01ac-623">360</span><span class="sxs-lookup"><span data-stu-id="e01ac-623">360</span></span>|<span data-ttu-id="e01ac-624">-11 520,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-624">-11,520.00</span></span>|<span data-ttu-id="e01ac-625">5,760.00 SL</span><span class="sxs-lookup"><span data-stu-id="e01ac-625">5,760.00 SL</span></span>|  
+|<span data-ttu-id="e01ac-626">12/31/15</span><span class="sxs-lookup"><span data-stu-id="e01ac-626">12/31/15</span></span>|<span data-ttu-id="e01ac-627">Odpisy</span><span class="sxs-lookup"><span data-stu-id="e01ac-627">Depreciation</span></span>|<span data-ttu-id="e01ac-628">180</span><span class="sxs-lookup"><span data-stu-id="e01ac-628">180</span></span>|<span data-ttu-id="e01ac-629">-5 760,00</span><span class="sxs-lookup"><span data-stu-id="e01ac-629">-5,760.00</span></span>|<span data-ttu-id="e01ac-630">0.00 SL</span><span class="sxs-lookup"><span data-stu-id="e01ac-630">0.00 SL</span></span>|  
 
- * Počáteční datum odpisování  
+ * <span data-ttu-id="e01ac-631">Počáteční datum odpisování</span><span class="sxs-lookup"><span data-stu-id="e01ac-631">Depreciation starting date</span></span>  
 
-"SL" po účetní hodnotě znamená, že byla použita lineární metoda.  
+<span data-ttu-id="e01ac-632">"SL" po účetní hodnotě znamená, že byla použita lineární metoda.</span><span class="sxs-lookup"><span data-stu-id="e01ac-632">"SL" after the book value means that the straight-line method has been used.</span></span>  
 
-Způsob výpočtu:  
+<span data-ttu-id="e01ac-633">Způsob výpočtu:</span><span class="sxs-lookup"><span data-stu-id="e01ac-633">Calculation method:</span></span>  
 
-1. rok:  
+<span data-ttu-id="e01ac-634">1. rok:</span><span class="sxs-lookup"><span data-stu-id="e01ac-634">1st year:</span></span>  
 
-*Snížená částka = celková roční částka = 40% ze 100 000 = 40 000. Tedy za půl roku 40 000/2 = 20 000*  
+<span data-ttu-id="e01ac-635">*Snížená částka = celková roční částka = 40% ze 100 000 = 40 000. Tedy za půl roku 40 000/2 = 20 000*</span><span class="sxs-lookup"><span data-stu-id="e01ac-635">*Declining-balance amount = Full year amount = 40% of 100,000 = 40,000. Thus, for half a year 40,000 / 2 = 20,000*</span></span>  
 
-*Lineární částka = celková roční částka = 100 000/5 = 20 000. Tedy za půl roku = 20 000/2 = 10 000*  
+<span data-ttu-id="e01ac-636">*Lineární částka = celková roční částka = 100 000/5 = 20 000. Tedy za půl roku = 20 000/2 = 10 000*</span><span class="sxs-lookup"><span data-stu-id="e01ac-636">*Straight-line amount = Full year amount = 100,000 / 5 = 20,000. Thus, for half a year = 20,000 / 2 = 10,000*</span></span>  
 
-Klesající částka se používá, protože je to větší částka.  
+<span data-ttu-id="e01ac-637">Klesající částka se používá, protože je to větší částka.</span><span class="sxs-lookup"><span data-stu-id="e01ac-637">The declining-balance amount is used because it is the greater amount.</span></span>  
 
-5. Rok (2004):  
+<span data-ttu-id="e01ac-638">5. Rok (2004):</span><span class="sxs-lookup"><span data-stu-id="e01ac-638">5th year (2004):</span></span>  
 
-*Klesající částka = 40% z 17 280 000 = 6 912,00*  
+<span data-ttu-id="e01ac-639">*Klesající částka = 40% z 17 280 000 = 6 912,00*</span><span class="sxs-lookup"><span data-stu-id="e01ac-639">*Declining-balance amount = 40% of 17,280.00 = 6,912.00*</span></span>  
 
-*Lineární částka = 28,800 / 1.5 = 11,520.00*  
+<span data-ttu-id="e01ac-640">*Lineární částka = 28,800 / 1.5 = 11,520.00*</span><span class="sxs-lookup"><span data-stu-id="e01ac-640">*Straight-line amount = 28,800 / 1.5 = 11,520.00*</span></span>  
 
-Lineární částka se používá, protože je to větší částka.
+<span data-ttu-id="e01ac-641">Lineární částka se používá, protože je to větší částka.</span><span class="sxs-lookup"><span data-stu-id="e01ac-641">The straight-line amount is used because it is the greater amount.</span></span>
 
-## <a name="duplicating-entries-to-more-depreciation-books"></a>Kopírování položek do dalších odpisových knih
-Pokud máte tři knihy odpisů B1, B2 a B3 a chcete duplikovat položky z B1 na B2 a B3, můžete zaškrtnout políčko **Část seznamu duplikací** na kartách odpisů pro B2 a B3. To může být užitečné, pokud je odpisová kniha B1 integrována s hlavní knihou a používá finanční deník dlouhodobého majetku a Knihy odpisů B2 a B3, které nejsou integrovány do hlavní knihy a používají deník dlouhodobého majetku.  
+## <a name="duplicating-entries-to-more-depreciation-books"></a><span data-ttu-id="e01ac-642">Kopírování položek do dalších odpisových knih</span><span class="sxs-lookup"><span data-stu-id="e01ac-642">Duplicating Entries to More Depreciation Books</span></span>
+<span data-ttu-id="e01ac-643">Pokud máte tři knihy odpisů B1, B2 a B3 a chcete duplikovat položky z B1 na B2 a B3, můžete zaškrtnout políčko **Část seznamu duplikací** na kartách odpisů pro B2 a B3.</span><span class="sxs-lookup"><span data-stu-id="e01ac-643">If you have three depreciation books, B1, B2 and B3, and you want to duplicate entries from B1 to B2 and B3, you can place a check mark in the **Part of Duplication List** field on the depreciation book cards for B2 and B3.</span></span> <span data-ttu-id="e01ac-644">To může být užitečné, pokud je odpisová kniha B1 integrována s hlavní knihou a používá finanční deník dlouhodobého majetku a Knihy odpisů B2 a B3, které nejsou integrovány do hlavní knihy a používají deník dlouhodobého majetku.</span><span class="sxs-lookup"><span data-stu-id="e01ac-644">This can be useful if depreciation book B1 is integrated with the general ledger and uses the fixed asset G/L journal, and depreciation books B2 and B3 are not integrated with the general ledger and use the fixed asset journal.</span></span>  
 
-Při zadání položky v B1 ve finančním deníku dlouhodobého majetku a zaškrtnutí do pole **Použití seznamu duplikací** program duplikuje záznam v knize B2 a B3 v deníku dlouhodobého majetku, když je záznam zaúčtován.  
+<span data-ttu-id="e01ac-645">Při zadání položky v B1 ve finančním deníku dlouhodobého majetku a zaškrtnutí do pole **Použití seznamu duplikací** program duplikuje záznam v knize B2 a B3 v deníku dlouhodobého majetku, když je záznam zaúčtován.</span><span class="sxs-lookup"><span data-stu-id="e01ac-645">When you enter an entry in B1 in the fixed asset G/L journal and place a check mark in the **Use Duplication List** field, the program will duplicate the entry in book B2 and B3 in the fixed asset journal when the entry is posted.</span></span>  
 
-**Poznámka**: Není možné duplikovat ve stejném deníku a dávku deníku, jakou jste zkopírovali. Pokud zaúčtujete položky dlouhodobého majetku ve finančním deníku, můžete je duplikovat v deníku dlouhodobého majetku nebo ve finančním deníku dlouhodobého majetku pomocí jiné dávky.  
+<span data-ttu-id="e01ac-646">**Poznámka**: Není možné duplikovat ve stejném deníku a dávku deníku, jakou jste zkopírovali.</span><span class="sxs-lookup"><span data-stu-id="e01ac-646">**Note**: It is not possible to duplicate in the same journal and journal batch as you are duplicating from.</span></span> <span data-ttu-id="e01ac-647">Pokud zaúčtujete položky dlouhodobého majetku ve finančním deníku, můžete je duplikovat v deníku dlouhodobého majetku nebo ve finančním deníku dlouhodobého majetku pomocí jiné dávky.</span><span class="sxs-lookup"><span data-stu-id="e01ac-647">If you post entries in the fixed asset G/L journal, you can duplicate them in the fixed asset journal or in the fixed asset G/L journal using another batch.</span></span>  
 
-**Poznámka**: Stejné číselné řady nelze použít ve finančním deníku dlouhodobého majetku a deníku dlouhodobého majetku. Při zaúčtování položek do finančního deníku dlouhodobého majetku musíte nechat pole **Číslo dokumentu** prázdné . Zadáte-li číslo do pole, program duplikuje číslo do deníku dlouhodobého majetku a nemůžete zaúčtovat deník, pokud ručně nezměníte číslo dokumentu.     
+<span data-ttu-id="e01ac-648">**Poznámka**: Stejné číselné řady nelze použít ve finančním deníku dlouhodobého majetku a deníku dlouhodobého majetku.</span><span class="sxs-lookup"><span data-stu-id="e01ac-648">**Note**: It is not possible to use the same number series in the fixed asset G/L journal and the fixed asset journal.</span></span> <span data-ttu-id="e01ac-649">Při zaúčtování položek do finančního deníku dlouhodobého majetku musíte nechat pole **Číslo dokumentu** prázdné</span><span class="sxs-lookup"><span data-stu-id="e01ac-649">When you post entries in the fixed asset G/L journal, you must leave the **Document No.**</span></span> <span data-ttu-id="e01ac-650">.</span><span class="sxs-lookup"><span data-stu-id="e01ac-650">field empty.</span></span> <span data-ttu-id="e01ac-651">Zadáte-li číslo do pole, program duplikuje číslo do deníku dlouhodobého majetku a nemůžete zaúčtovat deník, pokud ručně nezměníte číslo dokumentu.</span><span class="sxs-lookup"><span data-stu-id="e01ac-651">If you enter a number in the field, the program duplicates the number into the fixed asset journal and you cannot post the journal unless you manually change the document number.</span></span>     
 
-## <a name="see-also"></a>Viz také
-[Správa dlouhodobého majetku](fa-manage.md)  
-[Nastavení dlouhodobého majetku](fa-setup.md)  
-[Finance](finance-setup.md)  
-[Vítejte v Dynamics NAV](across-get-started.md)
+## <a name="see-also"></a><span data-ttu-id="e01ac-652">Viz také</span><span class="sxs-lookup"><span data-stu-id="e01ac-652">See Also</span></span>
+[<span data-ttu-id="e01ac-653">Správa dlouhodobého majetku</span><span class="sxs-lookup"><span data-stu-id="e01ac-653">Manage Fixed Assets</span></span>](fa-manage.md)  
+[<span data-ttu-id="e01ac-654">Nastavení dlouhodobého majetku</span><span class="sxs-lookup"><span data-stu-id="e01ac-654">Set Up Fixed Assets</span></span>](fa-setup.md)  
+[<span data-ttu-id="e01ac-655">Finance</span><span class="sxs-lookup"><span data-stu-id="e01ac-655">Finance</span></span>](finance-setup.md)  
+[<span data-ttu-id="e01ac-656">Vítejte v Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="e01ac-656">Welcome to Dynamics NAV</span></span>](across-get-started.md)
 

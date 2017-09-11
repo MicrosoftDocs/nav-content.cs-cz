@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV zajišťovací nástroje pro Microsoft Azure
+<span data-ttu-id="15f57-101">Microsoft Dynamics NAV zajišťovací nástroje pro Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="15f57-101">Microsoft Dynamics NAV Provisioning Tools for Microsoft Azure</span></span>

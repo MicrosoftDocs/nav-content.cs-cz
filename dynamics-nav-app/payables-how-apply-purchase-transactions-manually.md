@@ -16,105 +16,105 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-apply-vendor-payments-manually"></a>Návod: Manuální vyrovnání plateb dodavatele
+# <a name="how-to-apply-vendor-payments-manually"></a><span data-ttu-id="2eb34-102">Návod: Manuální vyrovnání plateb dodavatele</span><span class="sxs-lookup"><span data-stu-id="2eb34-102">How to: Apply Vendor Payments Manually</span></span>
 
-Když odešlete platbu nebo obdržíte od dodavatele refundaci, musíte se rozhodnout, zda bude platit nebo refundovat na jednu nebo více otevřených položek. Můžete zadat přesnou částku, kterou chcete použít na doklad o platbě nebo refundaci, a pak jen částečně použít položky dodavatele. Musíte použít všechny záznamy v registru dodavatelů, abyste získali správné statistiky dodavatelů a přehledy výpisů z účtu a poplatků za nastavení finančních prostředků.
+<span data-ttu-id="2eb34-103">Když odešlete platbu nebo obdržíte od dodavatele refundaci, musíte se rozhodnout, zda bude platit nebo refundovat na jednu nebo více otevřených položek.</span><span class="sxs-lookup"><span data-stu-id="2eb34-103">When you send a payment or receive a refund from a vendor, you must decide whether to apply the payment or refund to one or more open entries.</span></span> <span data-ttu-id="2eb34-104">Můžete zadat přesnou částku, kterou chcete použít na doklad o platbě nebo refundaci, a pak jen částečně použít položky dodavatele.</span><span class="sxs-lookup"><span data-stu-id="2eb34-104">You can specify the exact amount that you want to apply to the payment receipt or refund, and then only partially apply vendor ledger entries.</span></span> <span data-ttu-id="2eb34-105">Musíte použít všechny záznamy v registru dodavatelů, abyste získali správné statistiky dodavatelů a přehledy výpisů z účtu a poplatků za nastavení finančních prostředků.</span><span class="sxs-lookup"><span data-stu-id="2eb34-105">You must apply all vendor ledger entries to obtain correct vendor statistics and reports of the account statements and finance-setup charges.</span></span>
 
-**Poznámka**: Dodavatelé mohou někdy vrátit refundaci platby namísto dobropisu k zaplacení budoucích faktur, zvláště když vrátíte položky, které jste již zaplatili, nebo když jste zaplatili fakturu.
+<span data-ttu-id="2eb34-106">**Poznámka**: Dodavatelé mohou někdy vrátit refundaci platby namísto dobropisu k zaplacení budoucích faktur, zvláště když vrátíte položky, které jste již zaplatili, nebo když jste zaplatili fakturu.</span><span class="sxs-lookup"><span data-stu-id="2eb34-106">**Note**: Vendors may sometimes give a payment refund instead of a credit memo to offset against future invoices, especially when you return items that you have already paid for or when you have overpaid an invoice.</span></span>
 
-Položky dodavatele můžete vyrovnat třemi různými způsoby:
+<span data-ttu-id="2eb34-107">Položky dodavatele můžete vyrovnat třemi různými způsoby:</span><span class="sxs-lookup"><span data-stu-id="2eb34-107">You can apply vendor ledger entries in three different ways:</span></span>
 
-- Zadáním informací do specializovaných oken, například okna **Deníky plateb** a **Deníky vyrovnání plateb**.
-- Z dokladů nákupních dobropisů.
-- Z položek dodavatele po zakoupení jsou zaúčtovány nákupní doklady, ale nejsou vyrovnány.
+- <span data-ttu-id="2eb34-108">Zadáním informací do specializovaných oken, například okna **Deníky plateb** a **Deníky vyrovnání plateb**.</span><span class="sxs-lookup"><span data-stu-id="2eb34-108">By entering information in dedicated windows, such as the **Payment Journal** window and the **Payment Reconciliation Journal** window.</span></span>
+- <span data-ttu-id="2eb34-109">Z dokladů nákupních dobropisů.</span><span class="sxs-lookup"><span data-stu-id="2eb34-109">From purchase credit memo documents.</span></span>
+- <span data-ttu-id="2eb34-110">Z položek dodavatele po zakoupení jsou zaúčtovány nákupní doklady, ale nejsou vyrovnány.</span><span class="sxs-lookup"><span data-stu-id="2eb34-110">From vendor ledger entries after purchase documents are posted but not applied.</span></span>
 
-**Poznámka**: Pokud pole **Metoda vyrovnání** na kartě dodavatele obsahuje **Vyrovnání nejstarší**, pak budou platby automaticky uplatněny na nejstarší položku otevřeného kreditu, pokud ručně neurčíte, ke které položce se vztahuje. Pokud je metoda použití pro zákazníka **Ručně**, musíte je vyrovnat ručně.
+<span data-ttu-id="2eb34-111">**Poznámka**: Pokud pole **Metoda vyrovnání** na kartě dodavatele obsahuje **Vyrovnání nejstarší**, pak budou platby automaticky uplatněny na nejstarší položku otevřeného kreditu, pokud ručně neurčíte, ke které položce se vztahuje.</span><span class="sxs-lookup"><span data-stu-id="2eb34-111">**Note**: If the **Application Method** field on the vendor card contains **Apply to Oldest**, then payments will automatically be applied to the oldest open credit entry if you do not manually specify which entry to apply to.</span></span> <span data-ttu-id="2eb34-112">Pokud je metoda použití pro zákazníka **Ručně**, musíte je vyrovnat ručně.</span><span class="sxs-lookup"><span data-stu-id="2eb34-112">If the application method for a customer is **Manual**, then you must apply entries manually.</span></span>
 
-Platby dodavatelů můžete vyrovnat ručně na související doklady o nákupu, když zaúčtujete platby v okně **Deníky plateb**. Informace o vyplňování deníku plateb naleznete v části [Návod: Vytváření plateb](payables-make-payments.md).
+<span data-ttu-id="2eb34-113">Platby dodavatelů můžete vyrovnat ručně na související doklady o nákupu, když zaúčtujete platby v okně **Deníky plateb**.</span><span class="sxs-lookup"><span data-stu-id="2eb34-113">You can apply vendor payments manually to their related purchase documents when you post the payments in the **Payment Journal** window.</span></span> <span data-ttu-id="2eb34-114">Informace o vyplňování deníku plateb naleznete v části [Návod: Vytváření plateb](payables-make-payments.md).</span><span class="sxs-lookup"><span data-stu-id="2eb34-114">For information about filling the payment journal, see [How to: Make Payments](payables-make-payments.md).</span></span>
 
-Můžete také vyrovnat platby dodavatele a platby zákazníka poté, co se platby objeví ve vaší bance jako záporné bankovní transakce. V okně **Deníky vyrovnání plateb** můžete použít funkce pro import bankovních výpisů, automatické přihlašování a odsouhlasení bankovních účtů. Další informace naleznete v tématu [Odsouhlasení plateb pomocí automatického vyrovnání](receivables-how-reconcile-payments-auto-application.md).
+<span data-ttu-id="2eb34-115">Můžete také vyrovnat platby dodavatele a platby zákazníka poté, co se platby objeví ve vaší bance jako záporné bankovní transakce.</span><span class="sxs-lookup"><span data-stu-id="2eb34-115">You can also apply vendor payments, and customer payments, after the payments appear as negative bank transactions at your bank.</span></span> <span data-ttu-id="2eb34-116">V okně **Deníky vyrovnání plateb** můžete použít funkce pro import bankovních výpisů, automatické přihlašování a odsouhlasení bankovních účtů.</span><span class="sxs-lookup"><span data-stu-id="2eb34-116">In the **Payment Reconciliation Journal** window, you can use functions for bank statement import, automatic application, and bank account reconciliation.</span></span> <span data-ttu-id="2eb34-117">Další informace naleznete v tématu [Odsouhlasení plateb pomocí automatického vyrovnání](receivables-how-reconcile-payments-auto-application.md).</span><span class="sxs-lookup"><span data-stu-id="2eb34-117">For more information, see [Reconcile Payments Using Automatic Application](receivables-how-reconcile-payments-auto-application.md).</span></span>
 
-## <a name="to-apply-a-payment-to-a-single-or-multiple-vendor-ledger-entries"></a>Platba na jednu nebo více položek dodavatele
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Deníky plateb** a pak vyberte související odkaz.
-2. V okně **Deníky plateb** vložte do prvního řádku deníku příslušné informace o položce platby.
-3. Chcete-li použít jedinou položku dodavatele:
-4. V poli **Číslo vyrovnání  dokladu** , které otevře okno **Vyrovnat položky dodavatele**.
-5. V okně **Vyrovnat položky dodavatele** vyberte položku, na kterou chcete platbu vyrovnat.
-6. Na řádku v poli **Částka k vyrovnání** zadejte částku k použití na položku.
-7. Nebo použijte více položek dodavatele:
-8. Vyberte tlačítko **Vyrovnat položky**.
-9. V okně **Vyrovnání položek dodavatele** vyberte řádek s položkami, ve kterých chcete platbu použít.
-10. Zvolte akci **Nastavení ID vyrovnání**.  
-11. Na každém řádku v poli **Částka k vyrovnání** zadejte částku k vyrovnání jednotlivé položky.
+## <a name="to-apply-a-payment-to-a-single-or-multiple-vendor-ledger-entries"></a><span data-ttu-id="2eb34-118">Platba na jednu nebo více položek dodavatele</span><span class="sxs-lookup"><span data-stu-id="2eb34-118">To apply a payment to a single or multiple vendor ledger entries</span></span>
+1. <span data-ttu-id="2eb34-119">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Deníky plateb** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="2eb34-119">In the top right corner, choose the **Search for Page or Report** icon, enter **Payment Journal**, and then choose the related link.</span></span>
+2. <span data-ttu-id="2eb34-120">V okně **Deníky plateb** vložte do prvního řádku deníku příslušné informace o položce platby.</span><span class="sxs-lookup"><span data-stu-id="2eb34-120">In the **Payment Journal** window, on the first journal line, enter the relevant information about the payment entry.</span></span>
+3. <span data-ttu-id="2eb34-121">Chcete-li použít jedinou položku dodavatele:</span><span class="sxs-lookup"><span data-stu-id="2eb34-121">To apply a single vendor ledger entry:</span></span>
+4. <span data-ttu-id="2eb34-122">V poli **Číslo vyrovnání  dokladu**</span><span class="sxs-lookup"><span data-stu-id="2eb34-122">In the **Applies-to Doc. No.**</span></span> <span data-ttu-id="2eb34-123">, které otevře okno **Vyrovnat položky dodavatele**.</span><span class="sxs-lookup"><span data-stu-id="2eb34-123">field, choose the field to open the **Apply Vendor Entries** window.</span></span>
+5. <span data-ttu-id="2eb34-124">V okně **Vyrovnat položky dodavatele** vyberte položku, na kterou chcete platbu vyrovnat.</span><span class="sxs-lookup"><span data-stu-id="2eb34-124">In the **Apply Vendor Entries** window, select the entry to apply the payment to.</span></span>
+6. <span data-ttu-id="2eb34-125">Na řádku v poli **Částka k vyrovnání** zadejte částku k použití na položku.</span><span class="sxs-lookup"><span data-stu-id="2eb34-125">On the line in the **Amount to Apply** field, enter the amount to apply to the entry.</span></span>
+7. <span data-ttu-id="2eb34-126">Nebo použijte více položek dodavatele:</span><span class="sxs-lookup"><span data-stu-id="2eb34-126">Or, to apply multiple vendor ledger entries:</span></span>
+8. <span data-ttu-id="2eb34-127">Vyberte tlačítko **Vyrovnat položky**.</span><span class="sxs-lookup"><span data-stu-id="2eb34-127">Choose the **Apply Entries** action.</span></span>
+9. <span data-ttu-id="2eb34-128">V okně **Vyrovnání položek dodavatele** vyberte řádek s položkami, ve kterých chcete platbu použít.</span><span class="sxs-lookup"><span data-stu-id="2eb34-128">In the **Apply Vendor Entries** window, select the lines with the entries to apply the payment to.</span></span>
+10. <span data-ttu-id="2eb34-129">Zvolte akci **Nastavení ID vyrovnání**.</span><span class="sxs-lookup"><span data-stu-id="2eb34-129">Choose the **Set Applies-to ID** action.</span></span>  
+11. <span data-ttu-id="2eb34-130">Na každém řádku v poli **Částka k vyrovnání** zadejte částku k vyrovnání jednotlivé položky.</span><span class="sxs-lookup"><span data-stu-id="2eb34-130">On each line in the **Amount to Apply** field, enter the amount to apply to the individual entry.</span></span>
 
-    Pokud nezadáte částku, automaticky se použije maximální částka. V dolní části okna **Vyrovnání položek dodavatele** můžete vidět částku v poli Použitá částka a zjistíte, zda se aplikace vyrovnává.
-12. Zvolte tlačítko **OK**.
-13. Zvolte akci **Účtovat** uveďte deník plateb.
+    <span data-ttu-id="2eb34-131">Pokud nezadáte částku, automaticky se použije maximální částka.</span><span class="sxs-lookup"><span data-stu-id="2eb34-131">If you do not enter an amount, then the maximum amount is automatically applied.</span></span> <span data-ttu-id="2eb34-132">V dolní části okna **Vyrovnání položek dodavatele** můžete vidět částku v poli Použitá částka a zjistíte, zda se aplikace vyrovnává.</span><span class="sxs-lookup"><span data-stu-id="2eb34-132">At the bottom of the **Apply Vendor Entries** window, you can see the amount in the Applied Amount field, and you can see whether the application balances.</span></span>
+12. <span data-ttu-id="2eb34-133">Zvolte tlačítko **OK**.</span><span class="sxs-lookup"><span data-stu-id="2eb34-133">Choose the **OK** button.</span></span>
+13. <span data-ttu-id="2eb34-134">Zvolte akci **Účtovat** uveďte deník plateb.</span><span class="sxs-lookup"><span data-stu-id="2eb34-134">Choose the **Post** action to post the payment journal.</span></span>
 
-## <a name="to-apply-a-credit-memo-to-a-single-or-multiple-vendor-ledger-entries"></a>Vyrovnání dobropisu k jedné nebo více položkám prodejce
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Nákupní dobropisy** a zvolte související odkaz.
-2. Otevřete dobropis, který chcete vyrovnat.
-3. Zadejte příslušné informace do hlavičky.
-4. Chcete-li vyrovnat jedinou položku dodavatele:
-5. Na záložce s náhledem **Vyrovnání** v poli dokladu s **Číslem vyrovnání dokladu dokladu** vyberte položku, na kterou chcete použít kredit.
-6. Na řádku v poli **Částka k vyrovnání** zadejte částku k vyrovnání na položky.
-7. Nebo použijte více položek dodavatele:
-8. Vyberte tlačítko **Vyrovnat položky**.
-9. Zvolte řádky s položkami, na které chcete vyrovnat dobropisem.
-10. Zvolte akci **Nastavení ID vyrovnání**.  
-11. Na každém řádku v poli **Částka k vyrovnání** zadejte částku k vyrovnání jednotlivé položky.
+## <a name="to-apply-a-credit-memo-to-a-single-or-multiple-vendor-ledger-entries"></a><span data-ttu-id="2eb34-135">Vyrovnání dobropisu k jedné nebo více položkám prodejce</span><span class="sxs-lookup"><span data-stu-id="2eb34-135">To apply a credit memo to a single or multiple vendor ledger entries</span></span>
+1. <span data-ttu-id="2eb34-136">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Nákupní dobropisy** a zvolte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="2eb34-136">In the top right corner, choose the **Search for Page or Report** icon, enter **Purchase Credit Memo**, and then choose the related link.</span></span>
+2. <span data-ttu-id="2eb34-137">Otevřete dobropis, který chcete vyrovnat.</span><span class="sxs-lookup"><span data-stu-id="2eb34-137">Open the credit memo that you want to apply.</span></span>
+3. <span data-ttu-id="2eb34-138">Zadejte příslušné informace do hlavičky.</span><span class="sxs-lookup"><span data-stu-id="2eb34-138">Enter the relevant information in the header.</span></span>
+4. <span data-ttu-id="2eb34-139">Chcete-li vyrovnat jedinou položku dodavatele:</span><span class="sxs-lookup"><span data-stu-id="2eb34-139">To apply a single vendor ledger entry:</span></span>
+5. <span data-ttu-id="2eb34-140">Na záložce s náhledem **Vyrovnání** v poli dokladu s **Číslem vyrovnání dokladu dokladu**</span><span class="sxs-lookup"><span data-stu-id="2eb34-140">On the **Application** FastTab, in the **Applies-to Doc. No.**</span></span> <span data-ttu-id="2eb34-141">vyberte položku, na kterou chcete použít kredit.</span><span class="sxs-lookup"><span data-stu-id="2eb34-141">field, select the entry to apply the credit to.</span></span>
+6. <span data-ttu-id="2eb34-142">Na řádku v poli **Částka k vyrovnání** zadejte částku k vyrovnání na položky.</span><span class="sxs-lookup"><span data-stu-id="2eb34-142">On the line in the **Amount to Apply** field, enter the amount to apply to the entry.</span></span>
+7. <span data-ttu-id="2eb34-143">Nebo použijte více položek dodavatele:</span><span class="sxs-lookup"><span data-stu-id="2eb34-143">Or, to apply multiple vendor ledger entries:</span></span>
+8. <span data-ttu-id="2eb34-144">Vyberte tlačítko **Vyrovnat položky**.</span><span class="sxs-lookup"><span data-stu-id="2eb34-144">Choose the **Apply Entries** action.</span></span>
+9. <span data-ttu-id="2eb34-145">Zvolte řádky s položkami, na které chcete vyrovnat dobropisem.</span><span class="sxs-lookup"><span data-stu-id="2eb34-145">Select the lines with the entries to apply the credit memo to.</span></span>
+10. <span data-ttu-id="2eb34-146">Zvolte akci **Nastavení ID vyrovnání**.</span><span class="sxs-lookup"><span data-stu-id="2eb34-146">Choose the **Set Applies-to ID** action.</span></span>  
+11. <span data-ttu-id="2eb34-147">Na každém řádku v poli **Částka k vyrovnání** zadejte částku k vyrovnání jednotlivé položky.</span><span class="sxs-lookup"><span data-stu-id="2eb34-147">On each line in the **Amount to Apply** field, enter the amount to apply to the individual entry.</span></span>
 
-    Pokud nezadáte částku, automaticky se použije maximální částka. V dolní části okna **Vyrovnání položky dodavatele** můžete vidět částku v poli **Vyrovnaná částka** a zjistíte, zda se aplikace vyrovnává.
-12. Zvolte tlačítko **OK**.  
-Okno **Nákupní dobropis** zobrazuje položku, kterou jste vybrali v poli dokumentu **Typ Vyrovnání dokladu ** A poli číslo **Vyrovnání dokladu. dokladu**  . Okno také zobrazuje částku dobropisu, který má být zaúčtován, upraven o případné slevy na platbě.
-13. Zvolte tlačítko **Účtovat**, chcete-li dobropis zaúčtovat.
+    <span data-ttu-id="2eb34-148">Pokud nezadáte částku, automaticky se použije maximální částka.</span><span class="sxs-lookup"><span data-stu-id="2eb34-148">If you do not enter an amount, then the maximum amount is automatically applied.</span></span> <span data-ttu-id="2eb34-149">V dolní části okna **Vyrovnání položky dodavatele** můžete vidět částku v poli **Vyrovnaná částka** a zjistíte, zda se aplikace vyrovnává.</span><span class="sxs-lookup"><span data-stu-id="2eb34-149">At the bottom of the **Apply Vendor Entries** window, you can see the amount in the **Applied Amount** field, and you can see whether the application balances.</span></span>
+12. <span data-ttu-id="2eb34-150">Zvolte tlačítko **OK**.</span><span class="sxs-lookup"><span data-stu-id="2eb34-150">Choose the **OK** button.</span></span>  
+<span data-ttu-id="2eb34-151">Okno **Nákupní dobropis** zobrazuje položku, kterou jste vybrali v poli dokumentu **Typ Vyrovnání dokladu ** A poli číslo **Vyrovnání dokladu. dokladu**</span><span class="sxs-lookup"><span data-stu-id="2eb34-151">The **Purchase Credit Memo** window shows the entry that you have selected in the **Applies-to Doc. Type** field and the **Applies-to Doc. No.**</span></span> <span data-ttu-id="2eb34-152"> .</span><span class="sxs-lookup"><span data-stu-id="2eb34-152">field.</span></span> <span data-ttu-id="2eb34-153">Okno také zobrazuje částku dobropisu, který má být zaúčtován, upraven o případné slevy na platbě.</span><span class="sxs-lookup"><span data-stu-id="2eb34-153">The window also shows the amount of the credit memo to be posted, adjusted for any payment discounts.</span></span>
+13. <span data-ttu-id="2eb34-154">Zvolte tlačítko **Účtovat**, chcete-li dobropis zaúčtovat.</span><span class="sxs-lookup"><span data-stu-id="2eb34-154">Choose the **Post** button to post the purchase credit memo.</span></span>
 
-## <a name="to-apply-posted-vendor-ledger-entries"></a>Vyrovnání položek dodavatele
+## <a name="to-apply-posted-vendor-ledger-entries"></a><span data-ttu-id="2eb34-155">Vyrovnání položek dodavatele</span><span class="sxs-lookup"><span data-stu-id="2eb34-155">To apply posted vendor ledger entries</span></span>
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Dodavatelé** a zvolte související odkaz.
-2. Otevřete příslušného dodavatele s položkami, které již byly zaúčtovány.
-3. Zvolte akci **Položky** a poté akci **Vyrovnat položky**.
-4. V okně **Vyrovnat položky dodavatele** můžete vidět otevřené položky dodavatele.
-5. Vyberte řádek s položkou, která bude vyrovnána.
-6. Zvolte akci **Nastavení ID vyrovnání**.
-7. Pole **Platí pro ID** zobrazuje tři hvězdičky, pokud pracujete v systému pro jednoho uživatele nebo v uživatelském ID, pokud pracujete v systému více uživatelů.  
-8. Pro každý řádek v poli **Částka k vyrovnání** zadejte částku k vyrovnání jednotlivé položky.
+1. <span data-ttu-id="2eb34-156">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Dodavatelé** a zvolte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="2eb34-156">In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.</span></span>
+2. <span data-ttu-id="2eb34-157">Otevřete příslušného dodavatele s položkami, které již byly zaúčtovány.</span><span class="sxs-lookup"><span data-stu-id="2eb34-157">Open the relevant vendor with entries that have already been posted.</span></span>
+3. <span data-ttu-id="2eb34-158">Zvolte akci **Položky** a poté akci **Vyrovnat položky**.</span><span class="sxs-lookup"><span data-stu-id="2eb34-158">Choose the **Ledger Entries** action, and then choose the **Apply Entries** action.</span></span>
+4. <span data-ttu-id="2eb34-159">V okně **Vyrovnat položky dodavatele** můžete vidět otevřené položky dodavatele.</span><span class="sxs-lookup"><span data-stu-id="2eb34-159">In the **Apply Vendor Entries** window, you can see the open entries for the vendor.</span></span>
+5. <span data-ttu-id="2eb34-160">Vyberte řádek s položkou, která bude vyrovnána.</span><span class="sxs-lookup"><span data-stu-id="2eb34-160">Select the line with the entry that will be applied.</span></span>
+6. <span data-ttu-id="2eb34-161">Zvolte akci **Nastavení ID vyrovnání**.</span><span class="sxs-lookup"><span data-stu-id="2eb34-161">Choose the **Set Applies-to ID** action.</span></span>
+7. <span data-ttu-id="2eb34-162">Pole **Platí pro ID** zobrazuje tři hvězdičky, pokud pracujete v systému pro jednoho uživatele nebo v uživatelském ID, pokud pracujete v systému více uživatelů.</span><span class="sxs-lookup"><span data-stu-id="2eb34-162">The **Applies-to ID** field displays three asterisks if you work in a single-user system or your user ID if you work in a multiuser system.</span></span>  
+8. <span data-ttu-id="2eb34-163">Pro každý řádek v poli **Částka k vyrovnání** zadejte částku k vyrovnání jednotlivé položky.</span><span class="sxs-lookup"><span data-stu-id="2eb34-163">For each line in the **Amount to Apply** field, enter the amount to apply to the individual entry.</span></span>
 
-    Pokud nezadáte částku, automaticky se použije maximální částka. Částku můžete vidět v poli **Vyrovnaná částka** v dolní části okna **Vyrovnat položky dodavatele**.
-9. Zvolte akci **Účtovat vyrovnání**.  
-Zobrazí se okno **Účtovat vyrovnání** s číslem dokladu přihlášené položky a datem zaúčtování položky s datem posledního zadávání.
-10. Zvolte tlačítko **OK** pro zaúčtování vyrovnání.
+    <span data-ttu-id="2eb34-164">Pokud nezadáte částku, automaticky se použije maximální částka.</span><span class="sxs-lookup"><span data-stu-id="2eb34-164">If you do not enter an amount, then the maximum amount is automatically applied.</span></span> <span data-ttu-id="2eb34-165">Částku můžete vidět v poli **Vyrovnaná částka** v dolní části okna **Vyrovnat položky dodavatele**.</span><span class="sxs-lookup"><span data-stu-id="2eb34-165">You can see the amount in the **Applied Amount** field at the bottom of the **Apply Vendor Entries** window.</span></span>
+9. <span data-ttu-id="2eb34-166">Zvolte akci **Účtovat vyrovnání**.</span><span class="sxs-lookup"><span data-stu-id="2eb34-166">Choose the **Post Application** action.</span></span>  
+<span data-ttu-id="2eb34-167">Zobrazí se okno **Účtovat vyrovnání** s číslem dokladu přihlášené položky a datem zaúčtování položky s datem posledního zadávání.</span><span class="sxs-lookup"><span data-stu-id="2eb34-167">The **Post Application** window opens with the document number of the applying entry and the posting date of the entry with the most recent posting date.</span></span>
+10. <span data-ttu-id="2eb34-168">Zvolte tlačítko **OK** pro zaúčtování vyrovnání.</span><span class="sxs-lookup"><span data-stu-id="2eb34-168">Choose the **OK** button to post the application.</span></span>
 
-## <a name="to-apply-vendor-ledger-entries-in-different-currencies-to-one-another"></a>Vyrovnání položek dodavatele v různých měnách
-Pokud nakoupíte od dodavatele v jedné měně a odešlete v druhé měně, můžete pořád použít fakturaci nákupu.
+## <a name="to-apply-vendor-ledger-entries-in-different-currencies-to-one-another"></a><span data-ttu-id="2eb34-169">Vyrovnání položek dodavatele v různých měnách</span><span class="sxs-lookup"><span data-stu-id="2eb34-169">To apply vendor ledger entries in different currencies to one another</span></span>
+<span data-ttu-id="2eb34-170">Pokud nakoupíte od dodavatele v jedné měně a odešlete v druhé měně, můžete pořád použít fakturaci nákupu.</span><span class="sxs-lookup"><span data-stu-id="2eb34-170">If you buy from a vendor in one currency and make payment in another currency, you can still apply the invoice to the payment.</span></span>
 
-Pokud vyrovnáte položku (položka 1) v jedné měně k položce (položka 2) v jiné měně, datum zaúčtování položky 1 se použije k nalezení příslušného směnného kurzu pro převod částek na položku 2. Příslušný směnný kurz naleznete v okně **Směnné kurzy**.
+<span data-ttu-id="2eb34-171">Pokud vyrovnáte položku (položka 1) v jedné měně k položce (položka 2) v jiné měně, datum zaúčtování položky 1 se použije k nalezení příslušného směnného kurzu pro převod částek na položku 2.</span><span class="sxs-lookup"><span data-stu-id="2eb34-171">If you apply an entry (Entry 1) in one currency to an entry (Entry 2) in a different currency, the posting date on Entry 1 is used to find the relevant exchange rate to convert amounts on Entry 2.</span></span> <span data-ttu-id="2eb34-172">Příslušný směnný kurz naleznete v okně **Směnné kurzy**.</span><span class="sxs-lookup"><span data-stu-id="2eb34-172">The relevant exchange rate is found in the **Currency Exchange Rates** window.</span></span>
 
-Vyrovnání položek dodavatele v různých měnách musí být povoleno. Pro další informace viz [Návod: Umožnění vyrovnání položek v různých měnách](finance-setup-how-enable-application-ledger-entries-different-currencies.md)
+<span data-ttu-id="2eb34-173">Vyrovnání položek dodavatele v různých měnách musí být povoleno.</span><span class="sxs-lookup"><span data-stu-id="2eb34-173">Applying vendor ledger entries in different currencies must be enabled.</span></span> <span data-ttu-id="2eb34-174">Pro další informace viz [Návod: Umožnění vyrovnání položek v různých měnách](finance-setup-how-enable-application-ledger-entries-different-currencies.md)</span><span class="sxs-lookup"><span data-stu-id="2eb34-174">For more information, see [How to: Enable Application of Ledger Entries in Different Currencies](finance-setup-how-enable-application-ledger-entries-different-currencies.md)</span></span>
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Deníky pojištění** a vyberte související odkaz.
-2. Otevřete deník, který chcete, a vyplňte první prázdný řádek deníku pomocí kódu měny.
-3. Vyberte tlačítko **Vyrovnat položky**.
-4. Vyberte řádek s položkou, pro kterou chcete použít položku v deníku plateb, vyberte akci **Nastavení ID vyrovnání** a pak vyberte položku, kterou chcete použít.
-5. Zvolte tlačítko **OK** pro návrat do deníku plateb.
-6. Zaúčtujte deník plateb.
+1. <span data-ttu-id="2eb34-175">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Deníky pojištění** a vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="2eb34-175">In the top right corner, choose the **Search for Page or Report** icon, enter **Payment Journal**, and choose the related link.</span></span>
+2. <span data-ttu-id="2eb34-176">Otevřete deník, který chcete, a vyplňte první prázdný řádek deníku pomocí kódu měny.</span><span class="sxs-lookup"><span data-stu-id="2eb34-176">Open the journal you want, and fill in the first empty journal line using a currency code.</span></span>
+3. <span data-ttu-id="2eb34-177">Vyberte tlačítko **Vyrovnat položky**.</span><span class="sxs-lookup"><span data-stu-id="2eb34-177">Choose the **Apply Entries** action.</span></span>
+4. <span data-ttu-id="2eb34-178">Vyberte řádek s položkou, pro kterou chcete použít položku v deníku plateb, vyberte akci **Nastavení ID vyrovnání** a pak vyberte položku, kterou chcete použít.</span><span class="sxs-lookup"><span data-stu-id="2eb34-178">Select the line with the entry you want to apply to the entry in the payment journal, choose the **Set Applies-to ID** action, and then select the entry you want to apply to.</span></span>
+5. <span data-ttu-id="2eb34-179">Zvolte tlačítko **OK** pro návrat do deníku plateb.</span><span class="sxs-lookup"><span data-stu-id="2eb34-179">Choose the **OK** button to return to the payment journal.</span></span>
+6. <span data-ttu-id="2eb34-180">Zaúčtujte deník plateb.</span><span class="sxs-lookup"><span data-stu-id="2eb34-180">Post the payment journal.</span></span>
 
-**Důležité**: Při vyrovnání položek v různých měnách se položky přepočítají na USD. I když jsou směnné kurzy pro dvě příslušné měny pevně stanoveny, například mezi USD a EUR, mohou být tyto částky v cizí měně přepočteny na USD. Tyto malé zbytkové částky jsou účtovány jako zisky a ztráty na účtu uvedeném v poli **Účet realizovaných zisků** nebo **Účet realizovaných ztrát** v okně **Měny**. Pole **Částka (USD)** je také nastavena podle příslušných položek dodavatele.
+<span data-ttu-id="2eb34-181">**Důležité**: Při vyrovnání položek v různých měnách se položky přepočítají na USD.</span><span class="sxs-lookup"><span data-stu-id="2eb34-181">**Important**: When you apply entries in different currencies to one another, the entries are converted to USD.</span></span> <span data-ttu-id="2eb34-182">I když jsou směnné kurzy pro dvě příslušné měny pevně stanoveny, například mezi USD a EUR, mohou být tyto částky v cizí měně přepočteny na USD.</span><span class="sxs-lookup"><span data-stu-id="2eb34-182">Even though the exchange rates for the two relevant currencies are fixed, for example between USD and EUR, there may be a small residual amount when these foreign-currency amounts are converted to USD.</span></span> <span data-ttu-id="2eb34-183">Tyto malé zbytkové částky jsou účtovány jako zisky a ztráty na účtu uvedeném v poli **Účet realizovaných zisků** nebo **Účet realizovaných ztrát** v okně **Měny**.</span><span class="sxs-lookup"><span data-stu-id="2eb34-183">These small residual amounts are posted as gains and losses to the account specified in the **Realized Gains Account** or **Realized Losses Account** field in the **Currencies** window.</span></span> <span data-ttu-id="2eb34-184">Pole **Částka (USD)** je také nastavena podle příslušných položek dodavatele.</span><span class="sxs-lookup"><span data-stu-id="2eb34-184">The **Amount (USD)** field is also adjusted on the relevant vendor ledger entries.</span></span>
 
-## <a name="to-unapply-an-application-of-vendor-entries"></a>Zrušení vyrovnání položek dodavatele
-Pokud zrušíte chybné vyrovnání, oprava položek, které jsou totožné s původní položkou, ale s opačným znaménkem v poli částky, jsou vytvořeny a zaúčtovány pro všechny položky včetně veškerého účtování hlavní knihy odvozené z vyrovnání jako jsou slevy na platbě a měnové zisky/ztráty. Položky, které byly uzavřeny vyrovnáním, jsou znovu otevřeny.
+## <a name="to-unapply-an-application-of-vendor-entries"></a><span data-ttu-id="2eb34-185">Zrušení vyrovnání položek dodavatele</span><span class="sxs-lookup"><span data-stu-id="2eb34-185">To unapply an application of vendor entries</span></span>
+<span data-ttu-id="2eb34-186">Pokud zrušíte chybné vyrovnání, oprava položek, které jsou totožné s původní položkou, ale s opačným znaménkem v poli částky, jsou vytvořeny a zaúčtovány pro všechny položky včetně veškerého účtování hlavní knihy odvozené z vyrovnání jako jsou slevy na platbě a měnové zisky/ztráty.</span><span class="sxs-lookup"><span data-stu-id="2eb34-186">When you unapply an erroneous application, correcting entries that are identical to the original entry but with opposite sign in the amount field are created and posted for all entries, including all general ledger posting derived from the application, such as payment discount and currency gains/losses.</span></span> <span data-ttu-id="2eb34-187">Položky, které byly uzavřeny vyrovnáním, jsou znovu otevřeny.</span><span class="sxs-lookup"><span data-stu-id="2eb34-187">The entries that were closed by the application are reopened.</span></span>
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Dodavatelé** a zvolte související odkaz.
-2. Otevřete příslušnou kartu dodavatele.
-3. Zvolte akci **Položky**.
-4. Vyberte odpovídající položku a potom vyberte akci **Zrušit vyrovnání položek**.
-5. Alternativně zvolte akci **Detailní položka**.
-6. Vyberte položku vyrovnání a potom vyberte akci **Zrušit vyrovnání položek**.
-7. Vyplňte pole v hlavičce a poté klepněte na tlačítko **Zrušit vyrovnání**.
+1. <span data-ttu-id="2eb34-188">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Dodavatelé** a zvolte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="2eb34-188">In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.</span></span>
+2. <span data-ttu-id="2eb34-189">Otevřete příslušnou kartu dodavatele.</span><span class="sxs-lookup"><span data-stu-id="2eb34-189">Open the relevant vendor card.</span></span>
+3. <span data-ttu-id="2eb34-190">Zvolte akci **Položky**.</span><span class="sxs-lookup"><span data-stu-id="2eb34-190">Choose the **Ledger Entries** action.</span></span>
+4. <span data-ttu-id="2eb34-191">Vyberte odpovídající položku a potom vyberte akci **Zrušit vyrovnání položek**.</span><span class="sxs-lookup"><span data-stu-id="2eb34-191">Select the relevant ledger entry, and then choose the **Unapply Entries** action.</span></span>
+5. <span data-ttu-id="2eb34-192">Alternativně zvolte akci **Detailní položka**.</span><span class="sxs-lookup"><span data-stu-id="2eb34-192">Alternatively, choose the **Detailed Ledger Entry** action.</span></span>
+6. <span data-ttu-id="2eb34-193">Vyberte položku vyrovnání a potom vyberte akci **Zrušit vyrovnání položek**.</span><span class="sxs-lookup"><span data-stu-id="2eb34-193">Select the application entry, and then choose the **Unapply Entries** action.</span></span>
+7. <span data-ttu-id="2eb34-194">Vyplňte pole v hlavičce a poté klepněte na tlačítko **Zrušit vyrovnání**.</span><span class="sxs-lookup"><span data-stu-id="2eb34-194">Fill in the fields in the header, and then choose the **Unapply** action.</span></span>
 
-**Důležité**: Pokud byla položka použita více než jednou položkou vyrovnání, musíte nejprve použít nejnovější položku vyrovnání.
+<span data-ttu-id="2eb34-195">**Důležité**: Pokud byla položka použita více než jednou položkou vyrovnání, musíte nejprve použít nejnovější položku vyrovnání.</span><span class="sxs-lookup"><span data-stu-id="2eb34-195">**Important**: If an entry has been applied by more than one application entry, you must unapply the latest application entry first.</span></span>
 
-## <a name="see-also"></a>Viz také
-[Závazky](payables-manage-payables.md)  
-[Správa nákupu](purchasing-manage-purchasing.md)
+## <a name="see-also"></a><span data-ttu-id="2eb34-196">Viz také</span><span class="sxs-lookup"><span data-stu-id="2eb34-196">See Also</span></span>
+[<span data-ttu-id="2eb34-197">Závazky</span><span class="sxs-lookup"><span data-stu-id="2eb34-197">Payables</span></span>](payables-manage-payables.md)  
+[<span data-ttu-id="2eb34-198">Správa nákupu</span><span class="sxs-lookup"><span data-stu-id="2eb34-198">Manage Purchasing</span></span>](purchasing-manage-purchasing.md)
 

@@ -9,48 +9,48 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 59db38c159dd2810656edc668ee431c6414b9d90
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 6f582e844670b8dc67e458947392d29afb8f1d1a
 ms.contentlocale: cs-cz
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-adjust-item-costs"></a>Návod: Upravení nákladů položky   
-Náklady na položku (hodnotu zásob), kterou si koupíte a později prodáváte, se mohou během své životnosti měnit, například proto, že náklady na dopravu jsou po prodeji položky přidány k nákupním nákladům. Aby byla vždy známá správná hodnota skladu, je třeba pravidelně upravovat náklady na položky.
-To zajišťuje, že statistiky prodeje a zisku jsou aktuální a že finanční ukazatele KPI jsou správné.
+# <a name="how-to-adjust-item-costs"></a><span data-ttu-id="44f29-102">Návod: Upravení nákladů položky</span><span class="sxs-lookup"><span data-stu-id="44f29-102">How to: Adjust Item Costs</span></span>   
+<span data-ttu-id="44f29-103">Náklady na položku (hodnotu zásob), kterou si koupíte a později prodáváte, se mohou během své životnosti měnit, například proto, že náklady na dopravu jsou po prodeji položky přidány k nákupním nákladům.</span><span class="sxs-lookup"><span data-stu-id="44f29-103">The cost of an item (inventory value) that you purchase and later sell may change during its lifetime, for example because a freight cost is added to its purchase cost after you have sold the item.</span></span> <span data-ttu-id="44f29-104">Aby byla vždy známá správná hodnota skladu, je třeba pravidelně upravovat náklady na položky.</span><span class="sxs-lookup"><span data-stu-id="44f29-104">To always know the correct inventory value, item costs must therefore regularly be adjusted.</span></span>
+<span data-ttu-id="44f29-105">To zajišťuje, že statistiky prodeje a zisku jsou aktuální a že finanční ukazatele KPI jsou správné.</span><span class="sxs-lookup"><span data-stu-id="44f29-105">This ensures that sales and profit statistics are up to date and that financial KPIs are correct.</span></span>
 
-**Poznámka**: Náklady na položky jsou upraveny pouze metodou FIFO. To znamená, že jednotková cena položky je skutečná hodnota každého přijetí položky a skladové položky se oceňují za předpokladu, že první položky zařazené do zásob jsou prodány jako první.
+<span data-ttu-id="44f29-106">**Poznámka**: Náklady na položky jsou upraveny pouze metodou FIFO.</span><span class="sxs-lookup"><span data-stu-id="44f29-106">**Note**: Item costs are adjusted by the FIFO costing method only.</span></span> <span data-ttu-id="44f29-107">To znamená, že jednotková cena položky je skutečná hodnota každého přijetí položky a skladové položky se oceňují za předpokladu, že první položky zařazené do zásob jsou prodány jako první.</span><span class="sxs-lookup"><span data-stu-id="44f29-107">This means that an item’s unit cost is the actual value of any receipt of the item, and that inventory is valuated with the assumption that the first items placed in inventory are sold first.</span></span>
 
-Funkce úpravy nákladů zpracovává pouze hodnoty, které ještě nebyly upraveny. Pokud se funkce setká se situací, kdy je třeba přenést změněné příchozí náklady do přidružených odchozích položek, vytvoří se nové upravené položky, které jsou založeny na informacích v položkách původní hodnoty, ale obsahují upravenou částku. Funkce úpravy nákladů používá datum zaúčtování položky původní hodnoty do upravené položky, pokud se toto datum nenachází v uzavřeném období zásob. V takovém případě program používá datum zahájení dalšího otevřeného období zásob. Pokud se nepoužije doba zásob, pak bude definováno v poli **Povolit účto od** v okně **Nastavení Financí**, kdy bude zaúčtována upravená položka.
+<span data-ttu-id="44f29-108">Funkce úpravy nákladů zpracovává pouze hodnoty, které ještě nebyly upraveny.</span><span class="sxs-lookup"><span data-stu-id="44f29-108">The cost adjustment function processes only value entries that have not yet been adjusted.</span></span> <span data-ttu-id="44f29-109">Pokud se funkce setká se situací, kdy je třeba přenést změněné příchozí náklady do přidružených odchozích položek, vytvoří se nové upravené položky, které jsou založeny na informacích v položkách původní hodnoty, ale obsahují upravenou částku.</span><span class="sxs-lookup"><span data-stu-id="44f29-109">If the function encounters a situation where changed inbound costs need to be forwarded to associated outbound entries, then new adjustment value entries are created, which are based on the information in the original value entries but contain the adjustment amount.</span></span> <span data-ttu-id="44f29-110">Funkce úpravy nákladů používá datum zaúčtování položky původní hodnoty do upravené položky, pokud se toto datum nenachází v uzavřeném období zásob.</span><span class="sxs-lookup"><span data-stu-id="44f29-110">The cost adjustment function uses the posting date of the original value entry in the adjustment entry, unless that date is in a closed inventory period.</span></span> <span data-ttu-id="44f29-111">V takovém případě program používá datum zahájení dalšího otevřeného období zásob.</span><span class="sxs-lookup"><span data-stu-id="44f29-111">In that case, the program uses the starting date of the next open inventory period.</span></span> <span data-ttu-id="44f29-112">Pokud se nepoužije doba zásob, pak bude definováno v poli **Povolit účto od** v okně **Nastavení Financí**, kdy bude zaúčtována upravená položka.</span><span class="sxs-lookup"><span data-stu-id="44f29-112">If inventory periods are not used, then the date in the **Allow Posting From** field in the **General Ledger Setup** window will define when the adjustment entry is posted.</span></span>
 
-**Poznámka**: Po úpravě nákladů na položku musí být náklady na zásoby účtovány do hlavní knihy buď automaticky, nebo ručně. Další informace naleznete v tématu [Návod: Zaúčtování nákladů na zásoby do hlavní knihy](inventory-how-post-inventory-cost-gl.md).
+<span data-ttu-id="44f29-113">**Poznámka**: Po úpravě nákladů na položku musí být náklady na zásoby účtovány do hlavní knihy buď automaticky, nebo ručně.</span><span class="sxs-lookup"><span data-stu-id="44f29-113">**Note**: After item costs have been adjusted, the inventory cost must be posted to the general ledger, either automatically or manually.</span></span> <span data-ttu-id="44f29-114">Další informace naleznete v tématu [Návod: Zaúčtování nákladů na zásoby do hlavní knihy](inventory-how-post-inventory-cost-gl.md).</span><span class="sxs-lookup"><span data-stu-id="44f29-114">For more information, see [How to: Post Inventory Costs to the General Ledger](inventory-how-post-inventory-cost-gl.md).</span></span>
 
-Náklady na položky lze upravit dvěma způsoby:
- - Automaticky tím, že systém bude upravovat jakékoli změny nákladů pokaždé, když dojde k transakcím se zásobami.
- - Ručně spuštěním dávkové úlohy **Upravit náklady/ceny zboží** pro jednu nebo více položek, pokud víte, že se jejich náklady změnily.  
+<span data-ttu-id="44f29-115">Náklady na položky lze upravit dvěma způsoby:</span><span class="sxs-lookup"><span data-stu-id="44f29-115">You can adjust item costs in two ways:</span></span>
+ - <span data-ttu-id="44f29-116">Automaticky tím, že systém bude upravovat jakékoli změny nákladů pokaždé, když dojde k transakcím se zásobami.</span><span class="sxs-lookup"><span data-stu-id="44f29-116">Automatically, by having the system adjusted any cost changes every time that inventory transactions occur.</span></span>
+ - <span data-ttu-id="44f29-117">Ručně spuštěním dávkové úlohy **Upravit náklady/ceny zboží** pro jednu nebo více položek, pokud víte, že se jejich náklady změnily.</span><span class="sxs-lookup"><span data-stu-id="44f29-117">Manually, by running the **Adjust Cost - Item Entries** batch job for one or more items when you know that their costs have changed.</span></span>  
 
-## <a name="to-adjust-item-costs-automatically"></a>Automatické upravení nákladů položky
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Nastavení zásob** a zvolte související odkaz.
-2. V okně **Nastavení zásob** v poli **Automatická adjustace nákladů** vyberte jednu z následujících hodnot.
+## <a name="to-adjust-item-costs-automatically"></a><span data-ttu-id="44f29-118">Automatické upravení nákladů položky</span><span class="sxs-lookup"><span data-stu-id="44f29-118">To adjust item costs automatically</span></span>
+1. <span data-ttu-id="44f29-119">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Nastavení zásob** a zvolte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="44f29-119">In the top right corner, choose the **Search for Page or Report** icon, enter **Inventory Setup**, and then  choose the related link.</span></span>
+2. <span data-ttu-id="44f29-120">V okně **Nastavení zásob** v poli **Automatická adjustace nákladů** vyberte jednu z následujících hodnot.</span><span class="sxs-lookup"><span data-stu-id="44f29-120">In the **Inventory Setup** window, in the **Automatic Cost Adjustment** field, select one of the following values.</span></span>
 
-|Volba |Chování |
+|<span data-ttu-id="44f29-121">Volba</span><span class="sxs-lookup"><span data-stu-id="44f29-121">Option</span></span> |<span data-ttu-id="44f29-122">Chování</span><span class="sxs-lookup"><span data-stu-id="44f29-122">Behavior</span></span> |
 |-------|---------|
-|Nikdy|Při odesílání se náklady neupravují|
-|Den|Náklady jsou upraveny, pokud dojde k zaúčtování v rozmezí jednoho dne od pracovního data.|
-|Týden|Náklady jsou upraveny, pokud dojde k zaúčtování v rozmezí jednoho týdne od pracovního data.|
-|Měsíc|Náklady jsou upraveny, pokud dojde k zaúčtování v rozmezí jednoho měsíce od pracovního data.|
-|Čtvrtletí|Náklady jsou upraveny, pokud dojde k zaúčtování v rozmezí jednoho čtvrtletí od pracovního data.|
-|Rok|Náklady jsou upraveny, pokud dojde k zaúčtování v rozmezí jednoho roku od pracovního data.|
-|Vždy|Náklady jsou vždy přizpůsobeny při účtování bez ohledu na datum účtování|
+|<span data-ttu-id="44f29-123">Nikdy</span><span class="sxs-lookup"><span data-stu-id="44f29-123">Never</span></span>|<span data-ttu-id="44f29-124">Při odesílání se náklady neupravují</span><span class="sxs-lookup"><span data-stu-id="44f29-124">Costs are not adjusted when posting</span></span>|
+|<span data-ttu-id="44f29-125">Den</span><span class="sxs-lookup"><span data-stu-id="44f29-125">Day</span></span>|<span data-ttu-id="44f29-126">Náklady jsou upraveny, pokud dojde k zaúčtování v rozmezí jednoho dne od pracovního data.</span><span class="sxs-lookup"><span data-stu-id="44f29-126">Costs are adjusted if posting occurs within one day from the work date</span></span>|
+|<span data-ttu-id="44f29-127">Týden</span><span class="sxs-lookup"><span data-stu-id="44f29-127">Week</span></span>|<span data-ttu-id="44f29-128">Náklady jsou upraveny, pokud dojde k zaúčtování v rozmezí jednoho týdne od pracovního data.</span><span class="sxs-lookup"><span data-stu-id="44f29-128">Costs are adjusted if posting occurs within one week from the work date</span></span>|
+|<span data-ttu-id="44f29-129">Měsíc</span><span class="sxs-lookup"><span data-stu-id="44f29-129">Month</span></span>|<span data-ttu-id="44f29-130">Náklady jsou upraveny, pokud dojde k zaúčtování v rozmezí jednoho měsíce od pracovního data.</span><span class="sxs-lookup"><span data-stu-id="44f29-130">Costs are adjusted if posting occurs within one month from the work date</span></span>|
+|<span data-ttu-id="44f29-131">Čtvrtletí</span><span class="sxs-lookup"><span data-stu-id="44f29-131">Quarter</span></span>|<span data-ttu-id="44f29-132">Náklady jsou upraveny, pokud dojde k zaúčtování v rozmezí jednoho čtvrtletí od pracovního data.</span><span class="sxs-lookup"><span data-stu-id="44f29-132">Costs are adjusted if posting occurs within one quarter from the work date</span></span>|
+|<span data-ttu-id="44f29-133">Rok</span><span class="sxs-lookup"><span data-stu-id="44f29-133">Year</span></span>|<span data-ttu-id="44f29-134">Náklady jsou upraveny, pokud dojde k zaúčtování v rozmezí jednoho roku od pracovního data.</span><span class="sxs-lookup"><span data-stu-id="44f29-134">Costs are adjusted if posting occurs within one year from the work date</span></span>|
+|<span data-ttu-id="44f29-135">Vždy</span><span class="sxs-lookup"><span data-stu-id="44f29-135">Always</span></span>|<span data-ttu-id="44f29-136">Náklady jsou vždy přizpůsobeny při účtování bez ohledu na datum účtování</span><span class="sxs-lookup"><span data-stu-id="44f29-136">Costs are always adjusted when posting, irrespective of the posting date</span></span>|
 
-## <a name="to-adjust-item-costs-manually"></a>Ruční úpravy položek
-1. V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Upravit náklady/ceny zboží** a pak zvolte související odkaz.
-2. V okně **Upravit náklady/ceny zboží** zadejte, které položky upravují náklady a zda budou upravené náklady účtovány do hlavní knihy současně.
+## <a name="to-adjust-item-costs-manually"></a><span data-ttu-id="44f29-137">Ruční úpravy položek</span><span class="sxs-lookup"><span data-stu-id="44f29-137">To adjust item costs manually</span></span>
+1. <span data-ttu-id="44f29-138">V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Upravit náklady/ceny zboží** a pak zvolte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="44f29-138">In the top right corner, choose the **Search for Page or Report** icon, enter **Adjust Cost - Item Entries**, and then choose the related link.</span></span>
+2. <span data-ttu-id="44f29-139">V okně **Upravit náklady/ceny zboží** zadejte, které položky upravují náklady a zda budou upravené náklady účtovány do hlavní knihy současně.</span><span class="sxs-lookup"><span data-stu-id="44f29-139">In the **Adjust Cost - Item Entries** window, specify which items to adjust costs for and whether the adjusted costs will be posted to the general ledger at the same time.</span></span>
 
-## <a name="see-also"></a>Viz také
-[Správa skladů](inventory-manage-inventory.md)  
-[Návod: Zaúčtování nákladů na zásoby do hlavní knihy.](inventory-how-post-inventory-cost-gl.md)  
-[Správa prodeje](sales-manage-sales.md)  
-[Správa nákupu](purchasing-manage-purchasing.md)
+## <a name="see-also"></a><span data-ttu-id="44f29-140">Viz také</span><span class="sxs-lookup"><span data-stu-id="44f29-140">See Also</span></span>
+[<span data-ttu-id="44f29-141">Správa skladů</span><span class="sxs-lookup"><span data-stu-id="44f29-141">Manage Inventory</span></span>](inventory-manage-inventory.md)  
+[<span data-ttu-id="44f29-142">Návod: Zaúčtování nákladů na zásoby do hlavní knihy.</span><span class="sxs-lookup"><span data-stu-id="44f29-142">How to: Post Inventory Costs to the General Ledger</span></span>](inventory-how-post-inventory-cost-gl.md)  
+[<span data-ttu-id="44f29-143">Správa prodeje</span><span class="sxs-lookup"><span data-stu-id="44f29-143">Manage Sales</span></span>](sales-manage-sales.md)  
+[<span data-ttu-id="44f29-144">Správa nákupu</span><span class="sxs-lookup"><span data-stu-id="44f29-144">Manage Purchasing</span></span>](purchasing-manage-purchasing.md)
 

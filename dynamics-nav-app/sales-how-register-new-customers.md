@@ -9,50 +9,50 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 191a9d0b38425c2e36400050afa4fa89ccd2556a
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 73e0e3a0ad91e6834f69bde098be880903057ddb
 ms.contentlocale: cs-cz
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-register-new-customers"></a>Návod: Registrace nových zákazníků
-Zákazníci jsou zdrojem příjmů. Každý zákazník, kterému prodáváte, musí být zaznamenán jako karta zákazníka.
+# <a name="how-to-register-new-customers"></a><span data-ttu-id="30532-102">Návod: Registrace nových zákazníků</span><span class="sxs-lookup"><span data-stu-id="30532-102">How to: Register New Customers</span></span>
+<span data-ttu-id="30532-103">Zákazníci jsou zdrojem příjmů.</span><span class="sxs-lookup"><span data-stu-id="30532-103">Customers are the source of your income.</span></span> <span data-ttu-id="30532-104">Každý zákazník, kterému prodáváte, musí být zaznamenán jako karta zákazníka.</span><span class="sxs-lookup"><span data-stu-id="30532-104">Each customer who you sell to must be registered as a customer card.</span></span>
 
-Než budete moci registrovat nové zákazníky, musíte nastavit různé prodejní kódy, které si můžete vybrat od okamžiku, kdy vyplníte zákaznické karty. Další informace naleznete v tématu: [Nastavení prodeje](sales-setup-sales.md).
+<span data-ttu-id="30532-105">Než budete moci registrovat nové zákazníky, musíte nastavit různé prodejní kódy, které si můžete vybrat od okamžiku, kdy vyplníte zákaznické karty.</span><span class="sxs-lookup"><span data-stu-id="30532-105">Before you can register new customers, you must set up various sales codes that you can select from when you fill customer cards.</span></span> <span data-ttu-id="30532-106">Další informace naleznete v tématu: [Nastavení prodeje](sales-setup-sales.md).</span><span class="sxs-lookup"><span data-stu-id="30532-106">For more information, see [Set Up Sales](sales-setup-sales.md).</span></span>
 
-Karty zákazníků udržují informace, které jsou potřebné k prodeji produktů zákazníkům. Další informace naleznete v tématu [Návod: Fakturování prodeje](sales-how-invoice-sales.md) nebo [Návod: Zaznamenávání nových produktů](inventory-how-register-new-products.md).
+<span data-ttu-id="30532-107">Karty zákazníků udržují informace, které jsou potřebné k prodeji produktů zákazníkům.</span><span class="sxs-lookup"><span data-stu-id="30532-107">Customer cards hold the information that is required to sell products to the customer.</span></span> <span data-ttu-id="30532-108">Další informace naleznete v tématu [Návod: Fakturování prodeje](sales-how-invoice-sales.md) nebo [Návod: Zaznamenávání nových produktů](inventory-how-register-new-products.md).</span><span class="sxs-lookup"><span data-stu-id="30532-108">For more information, see [How to: Invoice Sales](sales-how-invoice-sales.md) and [How to: Register New Products](inventory-how-register-new-products.md).</span></span>
 
-**Poznámka**: Pokud existují šablony zákazníků pro různé typy zákazníků, objeví se okno při vytváření nové zákaznické karty, kde můžete vybrat vhodnou šablonu. Pokud existuje jediná šablona zákazníka, potom nová karta zákazníka vždy použije tuto šablonu.
+<span data-ttu-id="30532-109">**Poznámka**: Pokud existují šablony zákazníků pro různé typy zákazníků, objeví se okno při vytváření nové zákaznické karty, kde můžete vybrat vhodnou šablonu.</span><span class="sxs-lookup"><span data-stu-id="30532-109">**Note**: If customer templates exist for different customer types, then a window appears when you create a new customer card from where you can select an appropriate template.</span></span> <span data-ttu-id="30532-110">Pokud existuje jediná šablona zákazníka, potom nová karta zákazníka vždy použije tuto šablonu.</span><span class="sxs-lookup"><span data-stu-id="30532-110">If only one customer template exists, then new customer cards always use that template.</span></span>
 
-## <a name="to-create-a-new-customer-card"></a>Vytvoření nové karty zákazníka
-1. Na domovské stránce, vyberte tlačítko **Zákazníci** k otevření seznamu existujících zákazníků.  
-2. V okně **Zákazníci** zvolte **Nový**.
+## <a name="to-create-a-new-customer-card"></a><span data-ttu-id="30532-111">Vytvoření nové karty zákazníka</span><span class="sxs-lookup"><span data-stu-id="30532-111">To create a new customer card</span></span>
+1. <span data-ttu-id="30532-112">Na domovské stránce, vyberte tlačítko **Zákazníci** k otevření seznamu existujících zákazníků.</span><span class="sxs-lookup"><span data-stu-id="30532-112">On the Home page, choose the **Customers** action to open the list of existing customers.</span></span>  
+2. <span data-ttu-id="30532-113">V okně **Zákazníci** zvolte **Nový**.</span><span class="sxs-lookup"><span data-stu-id="30532-113">In the **Customers** window, choose the **New** action.</span></span>
 
-    Pokud existuje pouze jedna šablona zákazníka, otevře se nová zákaznická karta s několika předvyplněnými poli s informacemi ze šablony.
+    <span data-ttu-id="30532-114">Pokud existuje pouze jedna šablona zákazníka, otevře se nová zákaznická karta s několika předvyplněnými poli s informacemi ze šablony.</span><span class="sxs-lookup"><span data-stu-id="30532-114">If only one customer template exists, then a new customer card opens with some fields filled with information from the template.</span></span>
 
-    Pokud existuje více než jedna šablona zákazníka, otevře se okno, z něhož můžete vybrat šablonu zákazníka. V tomto případě následujte další 2 kroky.
-3. Ve okně **Výběr šablony pro nového zákazníka** vyberte šablonu, kterou chcete použít pro novou kartu zákazníka.
-4. Zvolte tlačítko **OK**. Otevře se nová zákaznická karta s několika předvyplněnými poli s informacemi ze šablony.  
-5. Pokračujte ve vyplňování nebo změně polí na kartě zákazníka podle potřeby. Vyberte pole a přečtěte si krátký popis pole nebo zvolte odkaz pro další informace.
+    <span data-ttu-id="30532-115">Pokud existuje více než jedna šablona zákazníka, otevře se okno, z něhož můžete vybrat šablonu zákazníka.</span><span class="sxs-lookup"><span data-stu-id="30532-115">If more than one customer template exists, then a window opens from which you can select a customer template.</span></span> <span data-ttu-id="30532-116">V tomto případě následujte další 2 kroky.</span><span class="sxs-lookup"><span data-stu-id="30532-116">In that case, follow the next two steps.</span></span>
+3. <span data-ttu-id="30532-117">Ve okně **Výběr šablony pro nového zákazníka** vyberte šablonu, kterou chcete použít pro novou kartu zákazníka.</span><span class="sxs-lookup"><span data-stu-id="30532-117">In the **Select a template for a new customer** window, choose the template that you want to use for the new customer card.</span></span>
+4. <span data-ttu-id="30532-118">Zvolte tlačítko **OK**.</span><span class="sxs-lookup"><span data-stu-id="30532-118">Choose the **OK** button.</span></span> <span data-ttu-id="30532-119">Otevře se nová zákaznická karta s několika předvyplněnými poli s informacemi ze šablony.</span><span class="sxs-lookup"><span data-stu-id="30532-119">A new customer card opens with some fields filled with information from the template.</span></span>  
+5. <span data-ttu-id="30532-120">Pokračujte ve vyplňování nebo změně polí na kartě zákazníka podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="30532-120">Proceed to fill or change fields on the customer card as necessary.</span></span> <span data-ttu-id="30532-121">Vyberte pole a přečtěte si krátký popis pole nebo zvolte odkaz pro další informace.</span><span class="sxs-lookup"><span data-stu-id="30532-121">Choose a field to read a short description of the field or link to more information.</span></span>
 
-V záložce **Prodejní ceny** můžete zobrazit zvláštní ceny nebo slevy, které udělujete zákazníkovi, pokud jsou splněna určitá kritéria, jako je položka, minimální objednané množství nebo datum ukončení. Každý řádek představuje speciální slevu nebo řádkovou slevu. Každý sloupec představuje kritérium, které musí platit, aby se zaručila speciální cena, kterou zadáte do pole **Jednotková cena**, nebo řádkovou slevu, kterou zadáte do pole **Řádková sleva**. Další informace naleznete v tématu: [Zaznamenání Prodejní ceny, slevy a platební podmínky](sales-how-record-sales-price-discount-payment-agreements.md).
+<span data-ttu-id="30532-122">V záložce **Prodejní ceny** můžete zobrazit zvláštní ceny nebo slevy, které udělujete zákazníkovi, pokud jsou splněna určitá kritéria, jako je položka, minimální objednané množství nebo datum ukončení.</span><span class="sxs-lookup"><span data-stu-id="30532-122">On the **Sales Prices** FastTab, you can view special prices or discounts that you grant for the customer if certain criteria are met, such as item, minimum order quantity, or ending date.</span></span> <span data-ttu-id="30532-123">Každý řádek představuje speciální slevu nebo řádkovou slevu.</span><span class="sxs-lookup"><span data-stu-id="30532-123">Each row represents a special price or line discount.</span></span> <span data-ttu-id="30532-124">Každý sloupec představuje kritérium, které musí platit, aby se zaručila speciální cena, kterou zadáte do pole **Jednotková cena**, nebo řádkovou slevu, kterou zadáte do pole **Řádková sleva**.</span><span class="sxs-lookup"><span data-stu-id="30532-124">Each column represents a criterion that must apply to warrant the special price that you enter in the **Unit Price** field, or the line discount that you enter in the **Line Discount %** field.</span></span> <span data-ttu-id="30532-125">Další informace naleznete v tématu: [Zaznamenání Prodejní ceny, slevy a platební podmínky](sales-how-record-sales-price-discount-payment-agreements.md).</span><span class="sxs-lookup"><span data-stu-id="30532-125">For more information, see [Record Sales Price, Discount, and Payment Agreements](sales-how-record-sales-price-discount-payment-agreements.md).</span></span>
 
-Zákazník je nyní zaregistrován a zákaznická karta je připravena k použití v prodejních dokumentech.
+<span data-ttu-id="30532-126">Zákazník je nyní zaregistrován a zákaznická karta je připravena k použití v prodejních dokumentech.</span><span class="sxs-lookup"><span data-stu-id="30532-126">The customer is now registered, and the customer card is ready to be used on sales documents.</span></span>
 
-Chcete-li tuto kartu použít jako šablonu pro vytváření nových zákaznických karet, můžete ji uložit jako šablonu. Pro více informací sledujte následující sekci
+<span data-ttu-id="30532-127">Chcete-li tuto kartu použít jako šablonu pro vytváření nových zákaznických karet, můžete ji uložit jako šablonu.</span><span class="sxs-lookup"><span data-stu-id="30532-127">If you want to use this customer card as a template when you create new customer cards, you can save it as a template.</span></span> <span data-ttu-id="30532-128">Pro více informací sledujte následující sekci</span><span class="sxs-lookup"><span data-stu-id="30532-128">For more information, see the following section.</span></span>
 
-## <a name="to-save-the-customer-card-as-a-template"></a>Uložení zákaznické karty pro vytvoření šablony.
-1. V okně **Karta zákazníka** zvolte **Uložit jako šablonu**. Otevře se okno **Šablona zákazníka**, která zobrazuje kartu zákazníka jako šablonu.
-2. Vyplňte pole dle potřeby. Vyberte pole a přečtěte si krátký popis pole nebo zvolte odkaz pro další informace.
-3. K opětovnému použití dimenzí v šablonách zvolte tlačítko **Dimenze**. Okno **Šablony dimenzí** zobrazí kódy dimenzí, které jsou nastaveny u daného zákazníka.
-4. Upravte nebo zadejte kódy dimenzí, které se budou vztahovat na nové zákaznické karty vytvořené pomocí šablony.  
-5. Po dokončení nové šablony zákazníka zvolte tlačítko **OK**.
+## <a name="to-save-the-customer-card-as-a-template"></a><span data-ttu-id="30532-129">Uložení zákaznické karty pro vytvoření šablony.</span><span class="sxs-lookup"><span data-stu-id="30532-129">To save the customer card as a template</span></span>
+1. <span data-ttu-id="30532-130">V okně **Karta zákazníka** zvolte **Uložit jako šablonu**.</span><span class="sxs-lookup"><span data-stu-id="30532-130">In the **Customer Card** window, choose the **Save as Template** action.</span></span> <span data-ttu-id="30532-131">Otevře se okno **Šablona zákazníka**, která zobrazuje kartu zákazníka jako šablonu.</span><span class="sxs-lookup"><span data-stu-id="30532-131">The **Customer Template** window opens showing the customer card as a template.</span></span>
+2. <span data-ttu-id="30532-132">Vyplňte pole dle potřeby.</span><span class="sxs-lookup"><span data-stu-id="30532-132">Fill in the fields as necessary.</span></span> <span data-ttu-id="30532-133">Vyberte pole a přečtěte si krátký popis pole nebo zvolte odkaz pro další informace.</span><span class="sxs-lookup"><span data-stu-id="30532-133">Choose a field to read a short description of the field or link to more information.</span></span>
+3. <span data-ttu-id="30532-134">K opětovnému použití dimenzí v šablonách zvolte tlačítko **Dimenze**.</span><span class="sxs-lookup"><span data-stu-id="30532-134">To reuse dimensions in templates, choose the **Dimensions** action.</span></span> <span data-ttu-id="30532-135">Okno **Šablony dimenzí** zobrazí kódy dimenzí, které jsou nastaveny u daného zákazníka.</span><span class="sxs-lookup"><span data-stu-id="30532-135">The **Dimension Templates** window opens showing any dimension codes that are set up for the customer.</span></span>
+4. <span data-ttu-id="30532-136">Upravte nebo zadejte kódy dimenzí, které se budou vztahovat na nové zákaznické karty vytvořené pomocí šablony.</span><span class="sxs-lookup"><span data-stu-id="30532-136">Edit or enter dimension codes that will apply to new customer cards created by using the template.</span></span>  
+5. <span data-ttu-id="30532-137">Po dokončení nové šablony zákazníka zvolte tlačítko **OK**.</span><span class="sxs-lookup"><span data-stu-id="30532-137">When you have completed the new customer template, choose the **OK** button.</span></span>
 
-Šablona zákazníka je přidána do seznamu šablon zákazníků, takže ji můžete použít k vytvoření nových zákaznických karet.
+<span data-ttu-id="30532-138">Šablona zákazníka je přidána do seznamu šablon zákazníků, takže ji můžete použít k vytvoření nových zákaznických karet.</span><span class="sxs-lookup"><span data-stu-id="30532-138">The customer template is added to the list of customer templates, so that you can use it to create new customer cards.</span></span>
 
-## <a name="see-also"></a>Viz také  
-[Správa prodeje](sales-manage-sales.md)    
-[Nastavení prodeje](sales-setup-sales.md)    
-[Práce s Dynamics NAV](ui-work-product.md)
+## <a name="see-also"></a><span data-ttu-id="30532-139">Viz také</span><span class="sxs-lookup"><span data-stu-id="30532-139">See Also</span></span>  
+<span data-ttu-id="30532-140">[Správa prodeje](sales-manage-sales.md)  </span><span class="sxs-lookup"><span data-stu-id="30532-140">[Manage Sales](sales-manage-sales.md)  </span></span>  
+<span data-ttu-id="30532-141">[Nastavení prodeje](sales-setup-sales.md)  </span><span class="sxs-lookup"><span data-stu-id="30532-141">[Set Up Sales](sales-setup-sales.md)  </span></span>  
+[<span data-ttu-id="30532-142">Práce s Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="30532-142">Work with Dynamics NAV</span></span>](ui-work-product.md)
 

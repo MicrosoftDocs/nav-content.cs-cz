@@ -9,23 +9,23 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 7a9415be6417758213575625c7af964cc0f9e9af
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 0b94b7a0186623d481dd86846e51080ee4d7f700
 ms.contentlocale: cs-cz
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
-# <a name="automatically-record-interactions-with-contacts"></a>Automatické zaznamenávání interakcí s kontakty
-Aplikaci můžete nastavit tak, aby se automaticky zaznamenávala interakce pro prodej, nákup, servisní doklady, průvodní stránky, e-maily a telefonní hovory, jako například:
+# <a name="automatically-record-interactions-with-contacts"></a><span data-ttu-id="f3cab-102">Automatické zaznamenávání interakcí s kontakty</span><span class="sxs-lookup"><span data-stu-id="f3cab-102">Automatically Record Interactions with Contacts</span></span>
+<span data-ttu-id="f3cab-103">Aplikaci můžete nastavit tak, aby se automaticky zaznamenávala interakce pro prodej, nákup, servisní doklady, průvodní stránky, e-maily a telefonní hovory, jako například:</span><span class="sxs-lookup"><span data-stu-id="f3cab-103">You can set up the application to automatically record interactions for sales, purchase and service documents, cover sheets, e-mails, phone calls, such as:</span></span>
 
-* Tisk prodejní nebo nákupní nabídky, objednávky, faktury, dobropisy, průvodní stránky.
-* Vytvoření prodejní servisní zakázky.
-* Zaúčtování prodejní servisní zakázky.
-* Poslání e-mailů Vašim kontaktům.
-* Volejte svým kontaktům, pokud máte telefon kompatibilní s protokolem TAPI a správnou instalaci.
+* <span data-ttu-id="f3cab-104">Tisk prodejní nebo nákupní nabídky, objednávky, faktury, dobropisy, průvodní stránky.</span><span class="sxs-lookup"><span data-stu-id="f3cab-104">Print sales or purchase quotes, orders, invoices, credit memos, cover sheets.</span></span>
+* <span data-ttu-id="f3cab-105">Vytvoření prodejní servisní zakázky.</span><span class="sxs-lookup"><span data-stu-id="f3cab-105">Create sales service orders.</span></span>
+* <span data-ttu-id="f3cab-106">Zaúčtování prodejní servisní zakázky.</span><span class="sxs-lookup"><span data-stu-id="f3cab-106">Post sales service orders.</span></span>
+* <span data-ttu-id="f3cab-107">Poslání e-mailů Vašim kontaktům.</span><span class="sxs-lookup"><span data-stu-id="f3cab-107">Send e-mails to your contacts.</span></span>
+* <span data-ttu-id="f3cab-108">Volejte svým kontaktům, pokud máte telefon kompatibilní s protokolem TAPI a správnou instalaci.</span><span class="sxs-lookup"><span data-stu-id="f3cab-108">Call your contacts, if you have a TAPI-compliant telephone and the correct installation.</span></span>
 
-Chcete-li nastavit automatické zaznamenávání těchto interakcí, specifikujte šablony interakcí pro tyto dokumenty a akce pomocí okna **Nastavení šablon interakce**. K otevření okna **Nastavení šablon interakce** v pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Nastavení šablon interakce** a zvolte související odkaz.
+<span data-ttu-id="f3cab-109">Chcete-li nastavit automatické zaznamenávání těchto interakcí, specifikujte šablony interakcí pro tyto dokumenty a akce pomocí okna **Nastavení šablon interakce**.</span><span class="sxs-lookup"><span data-stu-id="f3cab-109">To set up the automatic recording of these interactions, you specify interaction templates for these documents and actions by using the **Interaction Template Setup** window.</span></span> <span data-ttu-id="f3cab-110">K otevření okna **Nastavení šablon interakce** v pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Nastavení šablon interakce** a zvolte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="f3cab-110">To open the **Interaction Template Setup** window, in the top right corner, choose the **Search for Page or Report** icon, enter **Interaction Template Setup**, and then choose the related link.</span></span>
 
-## <a name="see-also"></a>Viz také
-[zaznamenávání interakcí s kontakty](marketing-interactions.md)  
+## <a name="see-also"></a><span data-ttu-id="f3cab-111">Viz také</span><span class="sxs-lookup"><span data-stu-id="f3cab-111">See Also</span></span>
+[<span data-ttu-id="f3cab-112">zaznamenávání interakcí s kontakty</span><span class="sxs-lookup"><span data-stu-id="f3cab-112">Recording Interactions With Contacts</span></span>](marketing-interactions.md)  
 

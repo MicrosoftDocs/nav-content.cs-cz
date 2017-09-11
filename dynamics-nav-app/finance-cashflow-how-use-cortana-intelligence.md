@@ -9,70 +9,70 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f657509fc2195674db81f47bc5ae31b7ba1aa40e
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 154fcaef89af0f6a131f4bcf0e9cf9a3f85f5903
 ms.contentlocale: cs-cz
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-make-predictive-cash-flow-forecasts"></a>Návod: Předvídání prognózy cashflow
-Předpovědi cashflow pomáhají zajistit, aby Vaše firma měla dostatek hotovosti na finanční povinnosti a užitečné identifikační úpravy. Například pokud máte přebytek hotovosti, můžete splatit nějaké dluhy a oceníte brzké varování, když bude zbývat málo času. 
+# <a name="how-to-make-predictive-cash-flow-forecasts"></a><span data-ttu-id="af62f-102">Návod: Předvídání prognózy cashflow</span><span class="sxs-lookup"><span data-stu-id="af62f-102">How to: Make predictive cash flow forecasts</span></span>
+<span data-ttu-id="af62f-103">Předpovědi cashflow pomáhají zajistit, aby Vaše firma měla dostatek hotovosti na finanční povinnosti a užitečné identifikační úpravy.</span><span class="sxs-lookup"><span data-stu-id="af62f-103">Cash flow forecasts help you ensure that your company has enough cash available to meet its financial obligations, and are useful for identifying adjustments.</span></span> <span data-ttu-id="af62f-104">Například pokud máte přebytek hotovosti, můžete splatit nějaké dluhy a oceníte brzké varování, když bude zbývat málo času.</span><span class="sxs-lookup"><span data-stu-id="af62f-104">For example, if you have a cash surplus you might pay off some debts, and you'll appreciate an early warning if times look tight.</span></span> 
 
-Cortana Intelligence používá službu Azure Machine Learning k zabezpečení spolehlivé předpovědi. Například předpověď z Cortana Intelligence může pomoci předpovědět a vyhnout se nedostatku hotovosti. Služba kombinuje historické informace s aktuálním zaúčtováním závazků a pohledávek včetně zaúčtování s nadcházejícími termíny splnění. Ty zahrnují:
-* Nákupní objednávky
-* Prodejní objednávky
-* Zaúčtovaní prodeje a nákupní faktury
-* Dobropisy
+<span data-ttu-id="af62f-105">Cortana Intelligence používá službu Azure Machine Learning k zabezpečení spolehlivé předpovědi.</span><span class="sxs-lookup"><span data-stu-id="af62f-105">Cortana Intelligence uses the Azure Machine Learning service to make reliable, predictive forecasts.</span></span> <span data-ttu-id="af62f-106">Například předpověď z Cortana Intelligence může pomoci předpovědět a vyhnout se nedostatku hotovosti.</span><span class="sxs-lookup"><span data-stu-id="af62f-106">For example, forecasts from Cortana Intelligence can help you predict, and avoid, cash deficits.</span></span> <span data-ttu-id="af62f-107">Služba kombinuje historické informace s aktuálním zaúčtováním závazků a pohledávek včetně zaúčtování s nadcházejícími termíny splnění.</span><span class="sxs-lookup"><span data-stu-id="af62f-107">The service combines historical information with current postings for payables and receivables, including postings with due dates that are in the future.</span></span> <span data-ttu-id="af62f-108">Ty zahrnují:</span><span class="sxs-lookup"><span data-stu-id="af62f-108">These include:</span></span>
+* <span data-ttu-id="af62f-109">Nákupní objednávky</span><span class="sxs-lookup"><span data-stu-id="af62f-109">Purchase orders</span></span>
+* <span data-ttu-id="af62f-110">Prodejní objednávky</span><span class="sxs-lookup"><span data-stu-id="af62f-110">Sales orders</span></span>
+* <span data-ttu-id="af62f-111">Zaúčtovaní prodeje a nákupní faktury</span><span class="sxs-lookup"><span data-stu-id="af62f-111">Posted sales and purchase invoices</span></span>
+* <span data-ttu-id="af62f-112">Dobropisy</span><span class="sxs-lookup"><span data-stu-id="af62f-112">Credit memos</span></span>
 
-## <a name="before-you-start"></a>Než začnete  
-Je pár věcí ke splnění než budete moci použít Cortana Intelligence pro prognózu cashflow. 
-* Pokud ještě nepoužíváte prognózu cashflow, budete muset nastavit:
-    * Jedno nastavení v **Nastavení cashflow**. 
-    * Účty pro závazky, pohledávky, prodejní objednávky a nákupní objednávky. Cortana Intelligence používá v těchto účtech zaúčtování.
-    * Jedna nebo více prognóz cashflow v **Prognóza cashflow**. Ujistěte se, že zahrnujete nákupní objednávky, prodejní objednávky, pohledávky a závazky jako zdroje.  
-    Pro další informace hledejte _Prognóza cashflow_ v systému Nápovědy. 
-* Je potřeba znát API URL a klíč rozhraní API pro webovou službu předpovědi pro použití.  
-    Můžete použít Azure Machine Learning nebo jinou službu. Alternantivně veřejný model pojmenovaný _Model prognózování pro Microsoft Dynamics NAV_ Pro použití modelu postupujte následově:
+## <a name="before-you-start"></a><span data-ttu-id="af62f-113">Než začnete</span><span class="sxs-lookup"><span data-stu-id="af62f-113">Before you start</span></span>  
+<span data-ttu-id="af62f-114">Je pár věcí ke splnění než budete moci použít Cortana Intelligence pro prognózu cashflow.</span><span class="sxs-lookup"><span data-stu-id="af62f-114">There are a few things to do before you can use Cortana Intelligence for cash flow forecasts:</span></span> 
+* <span data-ttu-id="af62f-115">Pokud ještě nepoužíváte prognózu cashflow, budete muset nastavit:</span><span class="sxs-lookup"><span data-stu-id="af62f-115">If you aren't already using cash flow forecasts, you will need to set up:</span></span>
+    * <span data-ttu-id="af62f-116">Jedno nastavení v **Nastavení cashflow**.</span><span class="sxs-lookup"><span data-stu-id="af62f-116">One or more setups in **Cash Flow Setups**.</span></span> 
+    * <span data-ttu-id="af62f-117">Účty pro závazky, pohledávky, prodejní objednávky a nákupní objednávky.</span><span class="sxs-lookup"><span data-stu-id="af62f-117">Accounts for payables, receivables, sales orders, and purchase orders.</span></span> <span data-ttu-id="af62f-118">Cortana Intelligence používá v těchto účtech zaúčtování.</span><span class="sxs-lookup"><span data-stu-id="af62f-118">Cortana Intelligence uses the postings in these accounts.</span></span>
+    * <span data-ttu-id="af62f-119">Jedna nebo více prognóz cashflow v **Prognóza cashflow**.</span><span class="sxs-lookup"><span data-stu-id="af62f-119">One or more cash flow forecasts in **Cash Flow Forecast**.</span></span> <span data-ttu-id="af62f-120">Ujistěte se, že zahrnujete nákupní objednávky, prodejní objednávky, pohledávky a závazky jako zdroje.</span><span class="sxs-lookup"><span data-stu-id="af62f-120">Be sure to include purchase orders, sales orders, receivables, and payables as sources.</span></span>  
+    <span data-ttu-id="af62f-121">Pro další informace hledejte _Prognóza cashflow_ v systému Nápovědy.</span><span class="sxs-lookup"><span data-stu-id="af62f-121">For more information, search for _cash flow forecasts_ in the Help system.</span></span> 
+* <span data-ttu-id="af62f-122">Je potřeba znát API URL a klíč rozhraní API pro webovou službu předpovědi pro použití.</span><span class="sxs-lookup"><span data-stu-id="af62f-122">Know the API URL and API key for the predictive web service to use.</span></span>  
+    <span data-ttu-id="af62f-123">Můžete použít Azure Machine Learning nebo jinou službu.</span><span class="sxs-lookup"><span data-stu-id="af62f-123">You can use Azure Machine Learning or another service, if you have one.</span></span> <span data-ttu-id="af62f-124">Alternantivně veřejný model pojmenovaný _Model prognózování pro Microsoft Dynamics NAV_</span><span class="sxs-lookup"><span data-stu-id="af62f-124">Alternatively, a public model named _Forecasting model for Microsoft Dynamics NAV_ is available online in the Cortana Intelligence Gallery.</span></span> <span data-ttu-id="af62f-125">Pro použití modelu postupujte následově:</span><span class="sxs-lookup"><span data-stu-id="af62f-125">To use the model, follow these steps:</span></span>
 
-    1. V prohlížeči jděte na [Cortana Intelligence Gallery](https://go.microsoft.com/fwlink/?linkid=828352)
-    2. Hledejte _Model prognózování pro Microsoft Dynamics NAV_ a pak otevřete model v Azure Machine Learning Studio.
-    3. Použijte svůj Microsoft účet k přihlášení do pracovní prostoru a pak model zkopírujte.
-    4. Spusťte model a publikujte.
-    5. Zapište poznámku o API URL a klíči rozhraní API. Použijete tyto přihlašovací údaje, když nastavíte Cortana Intelligence v Microsoft Dynamics NAV.  
+    1. <span data-ttu-id="af62f-126">V prohlížeči jděte na [Cortana Intelligence Gallery](https://go.microsoft.com/fwlink/?linkid=828352)</span><span class="sxs-lookup"><span data-stu-id="af62f-126">In a browser, go to the [Cortana Intelligence Gallery](https://go.microsoft.com/fwlink/?linkid=828352)</span></span>
+    2. <span data-ttu-id="af62f-127">Hledejte _Model prognózování pro Microsoft Dynamics NAV_ a pak otevřete model v Azure Machine Learning Studio.</span><span class="sxs-lookup"><span data-stu-id="af62f-127">Search for _Forecasting Model for Microsoft Dynamics NAV_, and then open the model in Azure Machine Learning Studio.</span></span>
+    3. <span data-ttu-id="af62f-128">Použijte svůj Microsoft účet k přihlášení do pracovní prostoru a pak model zkopírujte.</span><span class="sxs-lookup"><span data-stu-id="af62f-128">Use your Microsoft account to sign up for a workspace, and then copy the model.</span></span>
+    4. <span data-ttu-id="af62f-129">Spusťte model a publikujte.</span><span class="sxs-lookup"><span data-stu-id="af62f-129">Run the model, and publish it as a web service.</span></span>
+    5. <span data-ttu-id="af62f-130">Zapište poznámku o API URL a klíči rozhraní API.</span><span class="sxs-lookup"><span data-stu-id="af62f-130">Make a note of the API URL and API key.</span></span> <span data-ttu-id="af62f-131">Použijete tyto přihlašovací údaje, když nastavíte Cortana Intelligence v Microsoft Dynamics NAV.</span><span class="sxs-lookup"><span data-stu-id="af62f-131">You will use these credentials when you set up Cortana Intelligence in Microsoft Dynamics NAV.</span></span>  
 
-* Zvažte, jak často počítat prognózu. Služba Azure Machine Learning má limity dle použití. Například pokud máte hodně zboží, bude lepší počítat méně často. 
-* Přiřaďte si roli účetního v centru rolí. 
+* <span data-ttu-id="af62f-132">Zvažte, jak často počítat prognózu.</span><span class="sxs-lookup"><span data-stu-id="af62f-132">Consider how often to calculate the forecast.</span></span> <span data-ttu-id="af62f-133">Služba Azure Machine Learning má limity dle použití.</span><span class="sxs-lookup"><span data-stu-id="af62f-133">The Azure Machine Learning service has limitations regarding use.</span></span> <span data-ttu-id="af62f-134">Například pokud máte hodně zboží, bude lepší počítat méně často.</span><span class="sxs-lookup"><span data-stu-id="af62f-134">For example, if you have a lot of items, it might be better to calculate less frequently.</span></span> 
+* <span data-ttu-id="af62f-135">Přiřaďte si roli účetního v centru rolí.</span><span class="sxs-lookup"><span data-stu-id="af62f-135">Be assigned to the Accountant role center.</span></span> 
 
-## <a name="set-up-cortana-intelligence"></a>Nastavení Cortana Intelligence
-Můžete použít asistovaného průvodce instalace k nastavení prognózy cashflow. Průvodce pomáhá určit věci, např. jak často aktualizovat prognózu, účty, na kterých je to založeno, informace, kdy platit daně a zda požít Cortana Intelligence.  
+## <a name="set-up-cortana-intelligence"></a><span data-ttu-id="af62f-136">Nastavení Cortana Intelligence</span><span class="sxs-lookup"><span data-stu-id="af62f-136">Set up Cortana Intelligence</span></span>
+<span data-ttu-id="af62f-137">Můžete použít asistovaného průvodce instalace k nastavení prognózy cashflow.</span><span class="sxs-lookup"><span data-stu-id="af62f-137">You can use an assisted setup guide to set up cash flow forecasts.</span></span> <span data-ttu-id="af62f-138">Průvodce pomáhá určit věci, např. jak často aktualizovat prognózu, účty, na kterých je to založeno, informace, kdy platit daně a zda požít Cortana Intelligence.</span><span class="sxs-lookup"><span data-stu-id="af62f-138">The guide helps you specify things like how often to update the forecast, the accounts to base it on, information about when you pay taxes, and whether to use Cortana Intelligence.</span></span>  
 
-Pokud již prognózu cashflow využíváte a jen chcete zapnout Cortana Intelligence, můžete také využít manuální proces. Jakmile se přihlásíte, zobrazí se notifikace v modrém pruhu nahoře v pracovní ploše. K přímému nastavení Cortana Intelligence, vyberte **Ano, prosím**. Zpráva se zobrazí pouze jednou. Pokud to zavřete, použijte mauální proces k nastavení Cortana Intelligence.  
+<span data-ttu-id="af62f-139">Pokud již prognózu cashflow využíváte a jen chcete zapnout Cortana Intelligence, můžete také využít manuální proces.</span><span class="sxs-lookup"><span data-stu-id="af62f-139">If you are already using cash flow forecasts and just want to turn on Cortana Intelligence, you can also use a manual process.</span></span> <span data-ttu-id="af62f-140">Jakmile se přihlásíte, zobrazí se notifikace v modrém pruhu nahoře v pracovní ploše.</span><span class="sxs-lookup"><span data-stu-id="af62f-140">When you sign in, a notification displays in a blue bar at the top of the workspace.</span></span> <span data-ttu-id="af62f-141">K přímému nastavení Cortana Intelligence, vyberte **Ano, prosím**.</span><span class="sxs-lookup"><span data-stu-id="af62f-141">To set up Cortana Intelligence right away, choose **Yes please**.</span></span> <span data-ttu-id="af62f-142">Zpráva se zobrazí pouze jednou.</span><span class="sxs-lookup"><span data-stu-id="af62f-142">The message displays only once.</span></span> <span data-ttu-id="af62f-143">Pokud to zavřete, použijte mauální proces k nastavení Cortana Intelligence.</span><span class="sxs-lookup"><span data-stu-id="af62f-143">If you close it, use the manual process to set up Cortana Intelligence.</span></span>  
 
-**Tip:** Zvažte délku období, které bude služba využívat ve výpočtech. Čím více dat poskytnete, tím přesnější prognózy budou. Také dejte pozor na velké odchylky v období. Také ovlivní předpovědi. Pokud Cortana Intelligence nenajde dostatek dat, nebo se budou data hodně lišit, služba nevytvoří předpověď. 
+<span data-ttu-id="af62f-144">**Tip:** Zvažte délku období, které bude služba využívat ve výpočtech.</span><span class="sxs-lookup"><span data-stu-id="af62f-144">**Tip:** Consider the length of the periods that the service will use in its calculations.</span></span> <span data-ttu-id="af62f-145">Čím více dat poskytnete, tím přesnější prognózy budou.</span><span class="sxs-lookup"><span data-stu-id="af62f-145">The more data you provide, the more accurate the predictions will be.</span></span> <span data-ttu-id="af62f-146">Také dejte pozor na velké odchylky v období.</span><span class="sxs-lookup"><span data-stu-id="af62f-146">Also, watch out for large variances in periods.</span></span> <span data-ttu-id="af62f-147">Také ovlivní předpovědi.</span><span class="sxs-lookup"><span data-stu-id="af62f-147">They will also impact predictions.</span></span> <span data-ttu-id="af62f-148">Pokud Cortana Intelligence nenajde dostatek dat, nebo se budou data hodně lišit, služba nevytvoří předpověď.</span><span class="sxs-lookup"><span data-stu-id="af62f-148">If Cortana Intelligence does not find enough data, or the data varies a lot, the service will not make a prediction.</span></span> 
 
-Použít asistovaného průvodce nastavením.
-1. V centru rolí Účetní pod přehledem **Prognóza cashflow**, zvolte akci **Otevřít asistované nastavení**.
-2. Vyplňte pole podle potřeby v každém kroku průvodce.
+<span data-ttu-id="af62f-149">Použít asistovaného průvodce nastavením.</span><span class="sxs-lookup"><span data-stu-id="af62f-149">To use the assisted setup guide:</span></span>
+1. <span data-ttu-id="af62f-150">V centru rolí Účetní pod přehledem **Prognóza cashflow**, zvolte akci **Otevřít asistované nastavení**.</span><span class="sxs-lookup"><span data-stu-id="af62f-150">In the Accountant role center, under the **Cash Flow Forecast** chart, choose the **Open Assisted Setup** action.</span></span>
+2. <span data-ttu-id="af62f-151">Vyplňte pole podle potřeby v každém kroku průvodce.</span><span class="sxs-lookup"><span data-stu-id="af62f-151">Fill in the fields as necessary in each step of the guide.</span></span>
 
-Použít manuální proces:
-1. Hledejte **Nastavení cashflow** a zvolte související odkaz.
-2. Rozbalte záložku s náhledem **Cortana Intelligence** a pak vyplňte pole podle potřeby.
+<span data-ttu-id="af62f-152">Použít manuální proces:</span><span class="sxs-lookup"><span data-stu-id="af62f-152">To use a manual process:</span></span>
+1. <span data-ttu-id="af62f-153">Hledejte **Nastavení cashflow** a zvolte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="af62f-153">Search for **Cash Flow Setup**, and then choose the related link.</span></span>
+2. <span data-ttu-id="af62f-154">Rozbalte záložku s náhledem **Cortana Intelligence** a pak vyplňte pole podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="af62f-154">Expand the **Cortana Intelligence** FastTab, and then fill in the fields as necessary.</span></span>
 
-## <a name="turn-on-cortana-intelligence-for-cash-flow-forecasts"></a>Zapnutí Cortana Intelligence pro prognózu cashflow
-1. Hledejte **Prognóza cashflow**, pak zvolte související odkaz.
-2. Zvolte akci **List cashflow**.
-3. Na stránce **List cashflow** zvolte akci **Navrhnout řádky listu**.  
-4. Pod **Typy zdrojů k zahrnutí** zvolte zaškrtávací políčko **Předpověď Cortana Intelligence**.
+## <a name="turn-on-cortana-intelligence-for-cash-flow-forecasts"></a><span data-ttu-id="af62f-155">Zapnutí Cortana Intelligence pro prognózu cashflow</span><span class="sxs-lookup"><span data-stu-id="af62f-155">Turn on Cortana Intelligence for cash flow forecasts</span></span>
+1. <span data-ttu-id="af62f-156">Hledejte **Prognóza cashflow**, pak zvolte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="af62f-156">Search for **Cash Flow Forecasts**, and then choose the related link.</span></span>
+2. <span data-ttu-id="af62f-157">Zvolte akci **List cashflow**.</span><span class="sxs-lookup"><span data-stu-id="af62f-157">Choose the **Cash Flow Worksheet** action.</span></span>
+3. <span data-ttu-id="af62f-158">Na stránce **List cashflow** zvolte akci **Navrhnout řádky listu**.</span><span class="sxs-lookup"><span data-stu-id="af62f-158">On the **Cash Flow Worksheet** page, choose the **Suggest Worksheet Lines** action.</span></span>  
+4. <span data-ttu-id="af62f-159">Pod **Typy zdrojů k zahrnutí** zvolte zaškrtávací políčko **Předpověď Cortana Intelligence**.</span><span class="sxs-lookup"><span data-stu-id="af62f-159">Under **Source Types to Include**, choose the **Cortana Intelligence Forecast** check box.</span></span>
 
-## <a name="investigate-a-cash-flow-forecast"></a>Zjištění prognózy cashflow
-Chcete-li se dobře podívat na data za prognózou včetně odchylky, vyberte sloupec **Cortana Intelligence**. První řádek v tabulce zobrazuje odchylku. Ostatní řádky jsou uspořádány podle zdrojového dokumentu.  
+## <a name="investigate-a-cash-flow-forecast"></a><span data-ttu-id="af62f-160">Zjištění prognózy cashflow</span><span class="sxs-lookup"><span data-stu-id="af62f-160">Investigate a cash flow forecast</span></span>
+<span data-ttu-id="af62f-161">Chcete-li se dobře podívat na data za prognózou včetně odchylky, vyberte sloupec **Cortana Intelligence**.</span><span class="sxs-lookup"><span data-stu-id="af62f-161">To take a good look at the data behind the forecast, including the variance, choose the **Cortana Intelligence** column.</span></span> <span data-ttu-id="af62f-162">První řádek v tabulce zobrazuje odchylku.</span><span class="sxs-lookup"><span data-stu-id="af62f-162">The first row in the table displays the variance.</span></span> <span data-ttu-id="af62f-163">Ostatní řádky jsou uspořádány podle zdrojového dokumentu.</span><span class="sxs-lookup"><span data-stu-id="af62f-163">The other rows are arranged by source document.</span></span>  
 
-Například můžete vidět tuto předpověď:    
-* Manipulace s potvrzenými prodeji a nákupy. 
-* Odečítání závazek a přičítání pohledávek.
-* Přeskakování duplikovaných prodejních a nákupních objednávek.
+<span data-ttu-id="af62f-164">Například můžete vidět tuto předpověď:</span><span class="sxs-lookup"><span data-stu-id="af62f-164">For example, you can see how the forecast:</span></span>    
+* <span data-ttu-id="af62f-165">Manipulace s potvrzenými prodeji a nákupy.</span><span class="sxs-lookup"><span data-stu-id="af62f-165">Handles confirmed sales and purchases</span></span> 
+* <span data-ttu-id="af62f-166">Odečítání závazek a přičítání pohledávek.</span><span class="sxs-lookup"><span data-stu-id="af62f-166">Subtracts payables and adds receivables</span></span>
+* <span data-ttu-id="af62f-167">Přeskakování duplikovaných prodejních a nákupních objednávek.</span><span class="sxs-lookup"><span data-stu-id="af62f-167">Skips duplicate sales orders and purchase orders</span></span>
 
-## <a name="see-also"></a>Viz také  
-[Práce s Dynamics NAV](ui-work-product.md)
+## <a name="see-also"></a><span data-ttu-id="af62f-168">Viz také</span><span class="sxs-lookup"><span data-stu-id="af62f-168">See Also</span></span>  
+[<span data-ttu-id="af62f-169">Práce s Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="af62f-169">Work With Dynamics NAV</span></span>](ui-work-product.md)
 

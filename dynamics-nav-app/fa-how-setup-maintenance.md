@@ -16,30 +16,30 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-set-up-fixed-asset-maintenance"></a>Návod: Nastavení údržby dlouhodobého majetku
-Ke správě údržby dlouhodobého majetku musíte nejprve nastavit obecné informace o údržbě, účet pro zaúčtování a kódy údržby pro typ práce, např. služba rutiny nebo oprava.
+# <a name="how-to-set-up-fixed-asset-maintenance"></a><span data-ttu-id="79823-102">Návod: Nastavení údržby dlouhodobého majetku</span><span class="sxs-lookup"><span data-stu-id="79823-102">How to: Set Up Fixed Asset Maintenance</span></span>
+<span data-ttu-id="79823-103">Ke správě údržby dlouhodobého majetku musíte nejprve nastavit obecné informace o údržbě, účet pro zaúčtování a kódy údržby pro typ práce, např. služba rutiny nebo oprava.</span><span class="sxs-lookup"><span data-stu-id="79823-103">To manage fixed asset maintenance, you must first set up some general maintenance information, a posting account for maintenance costs, and maintenance codes for types of work, such as Routine Service or Repair.</span></span>
 
-## <a name="to-set-up-general-maintenance-information"></a>Nastavení obecných informací o údržbě
-Pokud nastavíte pole pro údržbu, můžete účtovat výdaje za údržbu z deníku dlouhodobého majetku.
-1. V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zvolte **Dlouhodobý majetek** a pak vyberte související odkaz.
-2. Vybrat dlouhodobý majetek, pro který chcete definovat pokrytí pojištění a pak vyberte akci **Úpravy**.
-3. Na záložce s náhledem **Údržba** vyplňte pole podle potřeby. Vyberte pole a přečtěte si krátký popis pole nebo odkaz pro více informací.
+## <a name="to-set-up-general-maintenance-information"></a><span data-ttu-id="79823-104">Nastavení obecných informací o údržbě</span><span class="sxs-lookup"><span data-stu-id="79823-104">To set up general maintenance information</span></span>
+<span data-ttu-id="79823-105">Pokud nastavíte pole pro údržbu, můžete účtovat výdaje za údržbu z deníku dlouhodobého majetku.</span><span class="sxs-lookup"><span data-stu-id="79823-105">If you set up the fields for maintenance, you can post maintenance expenses from the fixed asset journal.</span></span>
+1. <span data-ttu-id="79823-106">V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zvolte **Dlouhodobý majetek** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="79823-106">In the top right corner, choose the **Search for Page or Report** icon, enter **Fixed Assets**, and then choose the related link.</span></span>
+2. <span data-ttu-id="79823-107">Vybrat dlouhodobý majetek, pro který chcete definovat pokrytí pojištění a pak vyberte akci **Úpravy**.</span><span class="sxs-lookup"><span data-stu-id="79823-107">Select the fixed asset that you to define insurance coverage for, and then choose the **Edit** action.</span></span>
+3. <span data-ttu-id="79823-108">Na záložce s náhledem **Údržba** vyplňte pole podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="79823-108">On the **Maintenance** FastTab, fill in the fields as necessary.</span></span> <span data-ttu-id="79823-109">Vyberte pole a přečtěte si krátký popis pole nebo odkaz pro více informací.</span><span class="sxs-lookup"><span data-stu-id="79823-109">Choose a field to read a short description of the field or link to more information.</span></span>
 
-## <a name="to-set-up-maintenance-codes"></a>Nastavení kódů údržby  
-Když účtujete náklady na údržbu z finančního deníku, vyplníte pole **Kód údržby** k zaznamenání k jaké údržbě došlo, např. službě rutiny nebo opravě.
-1. V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zvolte **Údržba** a pak vyberte související odkaz.
-2. V okně **Údržba** nastavte kódy pro různé typy práce údržby.
+## <a name="to-set-up-maintenance-codes"></a><span data-ttu-id="79823-110">Nastavení kódů údržby</span><span class="sxs-lookup"><span data-stu-id="79823-110">To set up maintenance codes</span></span>  
+<span data-ttu-id="79823-111">Když účtujete náklady na údržbu z finančního deníku, vyplníte pole **Kód údržby** k zaznamenání k jaké údržbě došlo, např. službě rutiny nebo opravě.</span><span class="sxs-lookup"><span data-stu-id="79823-111">When you post maintenance costs from a general journal, you fill in the **Maintenance Code** field to record what kind of maintenance has been performed, such as routine service or repair.</span></span>
+1. <span data-ttu-id="79823-112">V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zvolte **Údržba** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="79823-112">In the top right corner, choose the **Search for Page or Report** icon, enter **Maintenance**, and then choose the related link.</span></span>
+2. <span data-ttu-id="79823-113">V okně **Údržba** nastavte kódy pro různé typy práce údržby.</span><span class="sxs-lookup"><span data-stu-id="79823-113">In the **Maintenance** window, set up codes for different types of maintenance work.</span></span>
 
-## <a name="to-set-up-maintenance-expense-accounts"></a>Nastavení účtů výdajů za údržbu  
-K účtování výdajů za údržbu musíte nejprve zvolit číslo účtu v okně **Účto skupiny DM**.
-1. V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zvolte **Účto skupiny DM** a pak vyberte související odkaz.
-2. Vyplňte pole **Účet nákladů údržby** pro každou účto skupinu.
+## <a name="to-set-up-maintenance-expense-accounts"></a><span data-ttu-id="79823-114">Nastavení účtů výdajů za údržbu</span><span class="sxs-lookup"><span data-stu-id="79823-114">To set up maintenance expense accounts</span></span>  
+<span data-ttu-id="79823-115">K účtování výdajů za údržbu musíte nejprve zvolit číslo účtu v okně **Účto skupiny DM**.</span><span class="sxs-lookup"><span data-stu-id="79823-115">To post maintenance costs, you must first enter an account number in the **FA Posting Groups** window.</span></span>
+1. <span data-ttu-id="79823-116">V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zvolte **Účto skupiny DM** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="79823-116">In the top right corner, choose the **Search for Page or Report** icon, enter **FA Posting Groups**, and then choose the related link.</span></span>
+2. <span data-ttu-id="79823-117">Vyplňte pole **Účet nákladů údržby** pro každou účto skupinu.</span><span class="sxs-lookup"><span data-stu-id="79823-117">Fill in the **Maintenance Expense Account** field for each posting group.</span></span>
 
-**POZNÁMKA**: K definování, že výdaje za údržbu jsou přiděleny k oddělení nebo projektům, nastavte alokační klíče. Pro další informace viz [Návod: Nastavení funkcí obecného dlouhodobého majetku](fa-how-setup-general.md).
+<span data-ttu-id="79823-118">**POZNÁMKA**: K definování, že výdaje za údržbu jsou přiděleny k oddělení nebo projektům, nastavte alokační klíče.</span><span class="sxs-lookup"><span data-stu-id="79823-118">**Note**: To define that maintenance costs are allocated to departments or projects, set up an allocation keys.</span></span> <span data-ttu-id="79823-119">Pro další informace viz [Návod: Nastavení funkcí obecného dlouhodobého majetku](fa-how-setup-general.md).</span><span class="sxs-lookup"><span data-stu-id="79823-119">For more information, see [How to: Set Up General Fixed Assets Features](fa-how-setup-general.md).</span></span>
 
-## <a name="see-also"></a>Viz také
-[Nastavení dlouhodobého majetku](fa-setup.md)  
-[Správa dlouhodobého majetku](fa-manage.md)  
-[Finance](finance-setup.md)  
-[Vítejte v Dynamics NAV](across-get-started.md)
+## <a name="see-also"></a><span data-ttu-id="79823-120">Viz také</span><span class="sxs-lookup"><span data-stu-id="79823-120">See Also</span></span>
+[<span data-ttu-id="79823-121">Nastavení dlouhodobého majetku</span><span class="sxs-lookup"><span data-stu-id="79823-121">Set Up Fixed Assets</span></span>](fa-setup.md)  
+[<span data-ttu-id="79823-122">Správa dlouhodobého majetku</span><span class="sxs-lookup"><span data-stu-id="79823-122">Manage Fixed Assets</span></span>](fa-manage.md)  
+[<span data-ttu-id="79823-123">Finance</span><span class="sxs-lookup"><span data-stu-id="79823-123">Finance</span></span>](finance-setup.md)  
+[<span data-ttu-id="79823-124">Vítejte v Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="79823-124">Welcome to Dynamics NAV</span></span>](across-get-started.md)
 

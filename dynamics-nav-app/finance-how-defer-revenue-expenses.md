@@ -16,73 +16,73 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-defer-revenues-and-expenses"></a>Návod: Pozdržení výnosů a výdajů
-Chcete-li rozpoznat výnos nebo výdaj v jiném období, než je období, ve kterém byla transakce zaúčtována, můžete použít funkci automatického odložení výnosů a výdajů přes stanovené specifikované schéma.
+# <a name="how-to-defer-revenues-and-expenses"></a><span data-ttu-id="9ef25-102">Návod: Pozdržení výnosů a výdajů</span><span class="sxs-lookup"><span data-stu-id="9ef25-102">How to: Defer Revenues and Expenses</span></span>
+<span data-ttu-id="9ef25-103">Chcete-li rozpoznat výnos nebo výdaj v jiném období, než je období, ve kterém byla transakce zaúčtována, můžete použít funkci automatického odložení výnosů a výdajů přes stanovené specifikované schéma.</span><span class="sxs-lookup"><span data-stu-id="9ef25-103">To recognize a revenue or an expense in a period other than the period in which the transaction was posted, you can use functionality to automatically defer revenues and expenses over a specified schedule.</span></span>
 
-K distribuci výdajů a výnosů na zahrnuté účtovací období nastavíte šablony odložení pro zdroj, zboží nebo finanční účet, na který bude výnos nebo výdaj zaúčtován. Když zaúčtujete související nákupní nebo prodejní doklad, výdaje nebo výnosy jsou odloženy k zahrnutí do účtovacích období podle šablony odložení, které se řídí nastavením v šabloně odložení a datem zaúčtování.
+<span data-ttu-id="9ef25-104">K distribuci výdajů a výnosů na zahrnuté účtovací období nastavíte šablony odložení pro zdroj, zboží nebo finanční účet, na který bude výnos nebo výdaj zaúčtován.</span><span class="sxs-lookup"><span data-stu-id="9ef25-104">To distribute revenues or expenses on the involved accounting periods, you set up a deferral template for the resource, item, or G/L account that the revenue or expense will be posted for.</span></span> <span data-ttu-id="9ef25-105">Když zaúčtujete související nákupní nebo prodejní doklad, výdaje nebo výnosy jsou odloženy k zahrnutí do účtovacích období podle šablony odložení, které se řídí nastavením v šabloně odložení a datem zaúčtování.</span><span class="sxs-lookup"><span data-stu-id="9ef25-105">When you post the related sales or purchase document, the revenue or expense are deferred to the involved accounting periods, according to a deferral schedule that is governed by settings in the deferral template and the posting date.</span></span>
 
-## <a name="to-set-up-a-gl-account-for-deferral"></a>Nastavení finančního účtu pro odložení
-1. V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Účetní osnova** a pak vyberte související odkaz.
-2. Vyberte akci **Nový**.
-3. Vyplňte pole podle potřeby k vytvoření finančního účtu pro odložené výnosy. Další informace naleznete v tématu [Hlavní kniha a účtová osnova](finance-setup-general-ledger.md).
-3. Opakujte kroky 2 a 3 k vytvoření nového finančního účtu pro odložené výdaje.
+## <a name="to-set-up-a-gl-account-for-deferral"></a><span data-ttu-id="9ef25-106">Nastavení finančního účtu pro odložení</span><span class="sxs-lookup"><span data-stu-id="9ef25-106">To set up a G/L account for deferral</span></span>
+1. <span data-ttu-id="9ef25-107">V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Účetní osnova** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="9ef25-107">In the top right corner, choose the **Search for Page or Report** icon, enter **Chart of Accounts**, and then choose the related link.</span></span>
+2. <span data-ttu-id="9ef25-108">Vyberte akci **Nový**.</span><span class="sxs-lookup"><span data-stu-id="9ef25-108">Choose the **New** action.</span></span>
+3. <span data-ttu-id="9ef25-109">Vyplňte pole podle potřeby k vytvoření finančního účtu pro odložené výnosy.</span><span class="sxs-lookup"><span data-stu-id="9ef25-109">Fill in the fields as necessary to create a G/L account for deferred revenues.</span></span> <span data-ttu-id="9ef25-110">Další informace naleznete v tématu [Hlavní kniha a účtová osnova](finance-setup-general-ledger.md).</span><span class="sxs-lookup"><span data-stu-id="9ef25-110">For more information, see [The General Ledger and the Chart of Accounts](finance-setup-general-ledger.md).</span></span>
+3. <span data-ttu-id="9ef25-111">Opakujte kroky 2 a 3 k vytvoření nového finančního účtu pro odložené výdaje.</span><span class="sxs-lookup"><span data-stu-id="9ef25-111">Repeat steps 2 and 3 to create a new G/L account for deferred expenses.</span></span>
 
-Pro oba typy odložených vyberte **Rozvaha** v poli **Typ** a pojmenujte účty vhodně jako "Nezaplacený příjem“ pro odložené výnosy a "Nezaplacený výdaj“ pro odložené výdaje.
+<span data-ttu-id="9ef25-112">Pro oba typy odložených vyberte **Rozvaha** v poli **Typ** a pojmenujte účty vhodně jako "Nezaplacený příjem“ pro odložené výnosy a "Nezaplacený výdaj“ pro odložené výdaje.</span><span class="sxs-lookup"><span data-stu-id="9ef25-112">For both types of deferral, select **Balance Sheet** in the **Type** field, and name the accounts appropriately, such as "Unearned Income" for deferred revenues and "Unpaid Expenses" for deferred expenses.</span></span>
 
-## <a name="to-set-up-a-deferral-template"></a>Nastavení šablony odložení
-1. V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Šablona časového rozlišení** a pak vyberte související odkaz.
-2. Vyberte akci **Nový**.
-3. Vyplňte pole dle potřeby.
-4. V poli **Způsob výpočtu** specifikujte jak bude pole **Částka** pro každé období v okně **Šablona odložení** počítáno. Můžete si vybrat mezi následujícími možnostmi:
-    - **Lineární**: Pravidelné odklady jsou počítány podle počtu období, distribuovány podle délky období.
-    - **Rovno za období**: Pravidelné odklady jsou počítány podle počtu období, distribuovány rovnoměrně na období.
-    - **Dny za období**: Pravidelné odklady jsou počítány podle počtu dní v období.
-    - **Definované uživatelem**: Pravidelné odklady nejsou počítány. Musíte manuálně vyplnit pole hodnoty pro každé období v okně Plán časového rozlišení. Další informace naleznete v tématu „Změna schématu odložení z prodejní faktury”.
+## <a name="to-set-up-a-deferral-template"></a><span data-ttu-id="9ef25-113">Nastavení šablony odložení</span><span class="sxs-lookup"><span data-stu-id="9ef25-113">To set up a deferral template</span></span>
+1. <span data-ttu-id="9ef25-114">V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Šablona časového rozlišení** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="9ef25-114">In the top right corner, choose the **Search for Page or Report** icon, enter **Deferral Templates**, and then choose the related link.</span></span>
+2. <span data-ttu-id="9ef25-115">Vyberte akci **Nový**.</span><span class="sxs-lookup"><span data-stu-id="9ef25-115">Choose the **New** action.</span></span>
+3. <span data-ttu-id="9ef25-116">Vyplňte pole dle potřeby.</span><span class="sxs-lookup"><span data-stu-id="9ef25-116">Fill in the fields as necessary.</span></span>
+4. <span data-ttu-id="9ef25-117">V poli **Způsob výpočtu** specifikujte jak bude pole **Částka** pro každé období v okně **Šablona odložení** počítáno.</span><span class="sxs-lookup"><span data-stu-id="9ef25-117">In the **Calc. Method** field, specify how the **Amount** field for each period in the **Deferral Schedule** window is calculated.</span></span> <span data-ttu-id="9ef25-118">Můžete si vybrat mezi následujícími možnostmi:</span><span class="sxs-lookup"><span data-stu-id="9ef25-118">You can choose between the following options:</span></span>
+    - <span data-ttu-id="9ef25-119">**Lineární**: Pravidelné odklady jsou počítány podle počtu období, distribuovány podle délky období.</span><span class="sxs-lookup"><span data-stu-id="9ef25-119">**Straight-Line**: The periodic deferral amounts are calculated according to the number of periods, distributed according to period length.</span></span>
+    - <span data-ttu-id="9ef25-120">**Rovno za období**: Pravidelné odklady jsou počítány podle počtu období, distribuovány rovnoměrně na období.</span><span class="sxs-lookup"><span data-stu-id="9ef25-120">**Equal Per Period**: The periodic deferral amounts are calculated according to the number of periods, distributed evenly on periods.</span></span>
+    - <span data-ttu-id="9ef25-121">**Dny za období**: Pravidelné odklady jsou počítány podle počtu dní v období.</span><span class="sxs-lookup"><span data-stu-id="9ef25-121">**Days Per Period**: The periodic deferral amounts are calculated according to the number of days in the period.</span></span>
+    - <span data-ttu-id="9ef25-122">**Definované uživatelem**: Pravidelné odklady nejsou počítány.</span><span class="sxs-lookup"><span data-stu-id="9ef25-122">**User-Defined**: The periodic deferral amounts are not calculated.</span></span> <span data-ttu-id="9ef25-123">Musíte manuálně vyplnit pole hodnoty pro každé období v okně Plán časového rozlišení.</span><span class="sxs-lookup"><span data-stu-id="9ef25-123">You must manually fill the Amount field for each period in the Deferral Schedule window.</span></span> <span data-ttu-id="9ef25-124">Další informace naleznete v tématu „Změna schématu odložení z prodejní faktury”.</span><span class="sxs-lookup"><span data-stu-id="9ef25-124">For more information, see the “To change a deferral schedule from a sales invoice” section.</span></span>
 
-5. V poli **Období sestupně** specifikuj popis, který se ukáže na položkách pro odložené zaúčtování. Můžete zadat následující zástupné symboly kódů pro typické hodnoty, které budou vyplněny automaticky, když je popis období zobrazen.
-    - %1 = Počet dní období data zaúčtování
-    - %2 = Počet týdnů období data zaúčtování
-    - %3 = Počet měsíců období data zaúčtování
-    - %4 = Název měsíce období data zaúčtování
-    - %5 = Název měsíce období data zaúčtování
-    - %6 = Fiskální rok období data zaúčtování
+5. <span data-ttu-id="9ef25-125">V poli **Období sestupně**</span><span class="sxs-lookup"><span data-stu-id="9ef25-125">In the **Period Desc.**</span></span> <span data-ttu-id="9ef25-126">specifikuj popis, který se ukáže na položkách pro odložené zaúčtování.</span><span class="sxs-lookup"><span data-stu-id="9ef25-126">field, specify a description that will be shown on entries for the deferral posting.</span></span> <span data-ttu-id="9ef25-127">Můžete zadat následující zástupné symboly kódů pro typické hodnoty, které budou vyplněny automaticky, když je popis období zobrazen.</span><span class="sxs-lookup"><span data-stu-id="9ef25-127">You can enter the following placeholder codes for typical values, which will be inserted automatically when the period description is displayed.</span></span>
+    - <span data-ttu-id="9ef25-128">%1 = Počet dní období data zaúčtování</span><span class="sxs-lookup"><span data-stu-id="9ef25-128">%1 = The day number of the period posting date</span></span>
+    - <span data-ttu-id="9ef25-129">%2 = Počet týdnů období data zaúčtování</span><span class="sxs-lookup"><span data-stu-id="9ef25-129">%2 = The week number of the period posting date</span></span>
+    - <span data-ttu-id="9ef25-130">%3 = Počet měsíců období data zaúčtování</span><span class="sxs-lookup"><span data-stu-id="9ef25-130">%3 = The month number of the period posting date</span></span>
+    - <span data-ttu-id="9ef25-131">%4 = Název měsíce období data zaúčtování</span><span class="sxs-lookup"><span data-stu-id="9ef25-131">%4 = The month name of the period posting date</span></span>
+    - <span data-ttu-id="9ef25-132">%5 = Název měsíce období data zaúčtování</span><span class="sxs-lookup"><span data-stu-id="9ef25-132">%5 = The accounting period name of the period posting date</span></span>
+    - <span data-ttu-id="9ef25-133">%6 = Fiskální rok období data zaúčtování</span><span class="sxs-lookup"><span data-stu-id="9ef25-133">%6 = The fiscal year of the period posting date</span></span>
 
-Příklad: Datum zaúčtování je 02/06/2016. Pokud zadáte “Výdaje odloženy na %4 %6”, pak zobrazený popis bude “Výdaje odloženy na Únor 2016”
+<span data-ttu-id="9ef25-134">Příklad: Datum zaúčtování je 02/06/2016.</span><span class="sxs-lookup"><span data-stu-id="9ef25-134">Example: The posting date is 02/06/2016.</span></span> <span data-ttu-id="9ef25-135">Pokud zadáte “Výdaje odloženy na %4 %6”, pak zobrazený popis bude “Výdaje odloženy na Únor 2016”</span><span class="sxs-lookup"><span data-stu-id="9ef25-135">If you enter “Expenses deferred for %4 %6”, then the description displayed will be "Expenses deferred for February 2016".</span></span>
 
-## <a name="to-assign-a-deferral-template-to-an-item"></a>Přiřadit šablonu odložení k položce
-1. V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Šablona časového rozlišení** a pak vyberte související odkaz.
-2. Otevřete kartu pro položku, pro kterou výnosy a výdaje musí být odloženy na období zaúčtování, kdy položka byla prodána nebo koupena.
-3. V poli **Výchozí šablony časového rozlišení** vyberte relevantní šablonu odložení.
+## <a name="to-assign-a-deferral-template-to-an-item"></a><span data-ttu-id="9ef25-136">Přiřadit šablonu odložení k položce</span><span class="sxs-lookup"><span data-stu-id="9ef25-136">To assign a deferral template to an item</span></span>
+1. <span data-ttu-id="9ef25-137">V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Šablona časového rozlišení** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="9ef25-137">In the top right corner, choose the **Search for Page or Report** icon, enter **Deferral Templates**, and then choose the related link.</span></span>
+2. <span data-ttu-id="9ef25-138">Otevřete kartu pro položku, pro kterou výnosy a výdaje musí být odloženy na období zaúčtování, kdy položka byla prodána nebo koupena.</span><span class="sxs-lookup"><span data-stu-id="9ef25-138">Open the card for the item for which revenues or expenses must be deferred to the accounting periods when the item was sold or purchased.</span></span>
+3. <span data-ttu-id="9ef25-139">V poli **Výchozí šablony časového rozlišení** vyberte relevantní šablonu odložení.</span><span class="sxs-lookup"><span data-stu-id="9ef25-139">In the **Default Deferral Template** field, select the relevant deferral template.</span></span>
 
-## <a name="to-change-a-deferral-schedule-from-a-sales-invoice"></a>Změna šablony odložení z prodejní smlouvy
-**Poznámka**: Kroky v téhle proceduře jsou stejné jako, když měníte schéma odložení, pro výdaje z nákupní faktury.
+## <a name="to-change-a-deferral-schedule-from-a-sales-invoice"></a><span data-ttu-id="9ef25-140">Změna šablony odložení z prodejní smlouvy</span><span class="sxs-lookup"><span data-stu-id="9ef25-140">To change a deferral schedule from a sales invoice</span></span>
+<span data-ttu-id="9ef25-141">**Poznámka**: Kroky v téhle proceduře jsou stejné jako, když měníte schéma odložení, pro výdaje z nákupní faktury.</span><span class="sxs-lookup"><span data-stu-id="9ef25-141">**Note**: The steps in this procedure are the same as when you change a deferral schedule, for expenses, from a purchase invoice.</span></span>
 
-1. V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Prodejní faktury**, a pak vyberte související odkaz.
-2. Vytvořte prodejní fakturu pro zboží, které má přiřazenou šablonu odložení. Další informace naleznete v tématu [Návod: Prodejní faktury](sales-how-invoice-sales.md).
+1. <span data-ttu-id="9ef25-142">V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Prodejní faktury**, a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="9ef25-142">In the top right corner, choose the **Search for Page or Report** icon, enter **Sales Invoices**, and then choose the related link.</span></span>
+2. <span data-ttu-id="9ef25-143">Vytvořte prodejní fakturu pro zboží, které má přiřazenou šablonu odložení.</span><span class="sxs-lookup"><span data-stu-id="9ef25-143">Create a sales invoice for an item that has a deferral template assigned.</span></span> <span data-ttu-id="9ef25-144">Další informace naleznete v tématu [Návod: Prodejní faktury](sales-how-invoice-sales.md).</span><span class="sxs-lookup"><span data-stu-id="9ef25-144">For more information, see [How to: Invoice Sales](sales-how-invoice-sales.md).</span></span>
 
-    Všimněte si, že jakmile zadáte zboží (zdroje nebo finanční účet) na řádek faktury, pole **Odkladový kód** je vyplněno kódem přiřazené šablony odložení.
-3. Vyberte akci **Plán časového rozlišení**.
-4. V okně **Schéma časového rozlišení**, změňte nastavení v hlavičce nebo hodnotách na řádcích, např. k pozdržení částky na přídavné období účtování.
-5. Vyberte akci **Plán časového rozlišení**.
-6. Zvolte tlačítko **OK**. Plán odložení je aktualizován pro prodejní fakturu. Související šablona odložení je nezměněna.
+    <span data-ttu-id="9ef25-145">Všimněte si, že jakmile zadáte zboží (zdroje nebo finanční účet) na řádek faktury, pole **Odkladový kód** je vyplněno kódem přiřazené šablony odložení.</span><span class="sxs-lookup"><span data-stu-id="9ef25-145">Notice that as soon as you enter the item (or resource or G/L account) on the invoice line, the **Deferral Code** field is filled with the code of the assigned deferral template.</span></span>
+3. <span data-ttu-id="9ef25-146">Vyberte akci **Plán časového rozlišení**.</span><span class="sxs-lookup"><span data-stu-id="9ef25-146">Choose the **Deferral Schedule** action.</span></span>
+4. <span data-ttu-id="9ef25-147">V okně **Schéma časového rozlišení**, změňte nastavení v hlavičce nebo hodnotách na řádcích, např. k pozdržení částky na přídavné období účtování.</span><span class="sxs-lookup"><span data-stu-id="9ef25-147">In the **Deferral Schedule** window, change settings on the header or values on the lines, for example to defer the amount to an additional accounting period.</span></span>
+5. <span data-ttu-id="9ef25-148">Vyberte akci **Plán časového rozlišení**.</span><span class="sxs-lookup"><span data-stu-id="9ef25-148">Choose the **Calculate Schedule** action.</span></span>
+6. <span data-ttu-id="9ef25-149">Zvolte tlačítko **OK**.</span><span class="sxs-lookup"><span data-stu-id="9ef25-149">Choose the **OK** button.</span></span> <span data-ttu-id="9ef25-150">Plán odložení je aktualizován pro prodejní fakturu.</span><span class="sxs-lookup"><span data-stu-id="9ef25-150">The deferral schedule is updated for the sales invoice.</span></span> <span data-ttu-id="9ef25-151">Související šablona odložení je nezměněna.</span><span class="sxs-lookup"><span data-stu-id="9ef25-151">The related deferral template is unchanged.</span></span>
 
-## <a name="to-preview-how-deferred-revenues-or-expenses-will-be-posted-to-the-general-ledger"></a>Náhled, jak budou odložené výnosy nebo výdaje účtovány do hlavní knihy
-**Poznámka**: Kroky v této proceduře jsou stejné jako náhled zaúčtování odložení výdajů.
+## <a name="to-preview-how-deferred-revenues-or-expenses-will-be-posted-to-the-general-ledger"></a><span data-ttu-id="9ef25-152">Náhled, jak budou odložené výnosy nebo výdaje účtovány do hlavní knihy</span><span class="sxs-lookup"><span data-stu-id="9ef25-152">To preview how deferred revenues or expenses will be posted to the general ledger</span></span>
+<span data-ttu-id="9ef25-153">**Poznámka**: Kroky v této proceduře jsou stejné jako náhled zaúčtování odložení výdajů.</span><span class="sxs-lookup"><span data-stu-id="9ef25-153">**Note**: The steps in this procedure are the same as when you preview how expense deferrals are posted.</span></span>
 
-1. V okně **Prodejní faktura** vyberte akci **Náhled zaúčtování**.
-2. V okně **Náhled zaúčtování** vyberte akci **Položka financí** a zvolte akci **Zobrazit související položky**.
+1. <span data-ttu-id="9ef25-154">V okně **Prodejní faktura** vyberte akci **Náhled zaúčtování**.</span><span class="sxs-lookup"><span data-stu-id="9ef25-154">In the **Sales Invoice** window, choose the **Preview Posting** action.</span></span>
+2. <span data-ttu-id="9ef25-155">V okně **Náhled zaúčtování** vyberte akci **Položka financí** a zvolte akci **Zobrazit související položky**.</span><span class="sxs-lookup"><span data-stu-id="9ef25-155">In the **Posting Preview** window, choose the **G/L Entry** action, and then choose the **Show Related Entries** action.</span></span>
 
-Položky financí k zaúčtování do specifikovaného účtu odložení, například  Nerozdělený příjem, jsou označeny popisem, který jste zadali v poli ** Období sestupně** v šabloně odložení, například "Výdaje odložené na Únor 2016".
+<span data-ttu-id="9ef25-156">Položky financí k zaúčtování do specifikovaného účtu odložení, například  Nerozdělený příjem, jsou označeny popisem, který jste zadali v poli ** Období sestupně**</span><span class="sxs-lookup"><span data-stu-id="9ef25-156">G/L entries to be posted to the specified deferral account, for example, Unearned Income, are denoted by the description that you entered in the **Period Desc.**</span></span> <span data-ttu-id="9ef25-157">v šabloně odložení, například "Výdaje odložené na Únor 2016".</span><span class="sxs-lookup"><span data-stu-id="9ef25-157">field in the deferral template, for example, "Expenses deferred for February 2016".</span></span>
 
-## <a name="to-review-posted-deferrals-in-the-sales-deferral-summary-report"></a>Revize zaúčtovaných odložení v sestavě prodeje souhrnu odložení
-**Poznámka**: Kroky v této proceduře jsou stejné jako revize sestavy nákupu souhrnu odložení.
+## <a name="to-review-posted-deferrals-in-the-sales-deferral-summary-report"></a><span data-ttu-id="9ef25-158">Revize zaúčtovaných odložení v sestavě prodeje souhrnu odložení</span><span class="sxs-lookup"><span data-stu-id="9ef25-158">To review posted deferrals in the Sales Deferral Summary report</span></span>
+<span data-ttu-id="9ef25-159">**Poznámka**: Kroky v této proceduře jsou stejné jako revize sestavy nákupu souhrnu odložení.</span><span class="sxs-lookup"><span data-stu-id="9ef25-159">**Note**: The steps in this procedure are the same as when you review the Purchasing Deferral Summary report.</span></span>
 
-1. V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Shrnutí časového rozlišení prodeje** a pak vyberte související odkaz.
-2. V okně **Shrnutí časového rozlišení prodeje**, v poli **Zůstatek k datu** zadejte datum, ke kterému chcete vidět odložené výnosy.
-3. Zvolte tlačítko **OK**.
+1. <span data-ttu-id="9ef25-160">V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Shrnutí časového rozlišení prodeje** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="9ef25-160">In the top right corner, choose the **Search for Page or Report** icon, enter **Sales Deferral Summary**, and then choose the related link.</span></span>
+2. <span data-ttu-id="9ef25-161">V okně **Shrnutí časového rozlišení prodeje**, v poli **Zůstatek k datu** zadejte datum, ke kterému chcete vidět odložené výnosy.</span><span class="sxs-lookup"><span data-stu-id="9ef25-161">In the **Sales Deferral Summary** window, in the **Balance as of** field, enter the date up to which you want to see deferred revenues.</span></span>
+3. <span data-ttu-id="9ef25-162">Zvolte tlačítko **OK**.</span><span class="sxs-lookup"><span data-stu-id="9ef25-162">Choose the **Preview** button.</span></span>
 
-## <a name="see-also"></a>Viz také
-[Finance](finance-setup.md)  
-[Nastavení hlavních finančních procesů](finance-setup-setup-finance-setup.md)  
-[Návod: Práce s hlavními deníky](ui-work-general-journals.md)
+## <a name="see-also"></a><span data-ttu-id="9ef25-163">Viz také</span><span class="sxs-lookup"><span data-stu-id="9ef25-163">See Also</span></span>
+[<span data-ttu-id="9ef25-164">Finance</span><span class="sxs-lookup"><span data-stu-id="9ef25-164">Finance</span></span>](finance-setup.md)  
+[<span data-ttu-id="9ef25-165">Nastavení hlavních finančních procesů</span><span class="sxs-lookup"><span data-stu-id="9ef25-165">Set Up Core Financial Processes</span></span>](finance-setup-setup-finance-setup.md)  
+[<span data-ttu-id="9ef25-166">Návod: Práce s hlavními deníky</span><span class="sxs-lookup"><span data-stu-id="9ef25-166">How to: Work With General Journals</span></span>](ui-work-general-journals.md)
 

@@ -1,1 +1,1 @@
-nástroje zřizování
+<span data-ttu-id="60fe1-101">nástroje zřizování</span><span class="sxs-lookup"><span data-stu-id="60fe1-101">provisioning tools</span></span>

@@ -1,1 +1,1 @@
-vývojářské prostředí
+<span data-ttu-id="bec8d-101">vývojářské prostředí</span><span class="sxs-lookup"><span data-stu-id="bec8d-101">development environment</span></span>

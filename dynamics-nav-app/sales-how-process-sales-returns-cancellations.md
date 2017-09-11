@@ -9,58 +9,58 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 92b65379f2ec633712a2b2c0f06615c6de61cc6e
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 84feace413c7fbda0a1ba9688d7168510c3612a5
 ms.contentlocale: cs-cz
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-process-sales-returns-or-cancellations"></a>Návod: Proces prodejní vratky nebo zrušení
-Pokud váš zákazník chce vrátit nebo získat náhradu za zboží a služby, které jste mu prodali a obdrželi jste platbu, musíte vytvořit a zaúčtovat prodejní dobropis, který specifikuje požadovanou změnu. Chcete-li zahrnou správné informace z prodejních faktur, můžete vytvořit prodejní dobropis z účtovaných prodejních faktur nebo použít funkci kopírování.
+# <a name="how-to-process-sales-returns-or-cancellations"></a><span data-ttu-id="72a7d-102">Návod: Proces prodejní vratky nebo zrušení</span><span class="sxs-lookup"><span data-stu-id="72a7d-102">How to: Process Sales Returns or Cancellations</span></span>
+<span data-ttu-id="72a7d-103">Pokud váš zákazník chce vrátit nebo získat náhradu za zboží a služby, které jste mu prodali a obdrželi jste platbu, musíte vytvořit a zaúčtovat prodejní dobropis, který specifikuje požadovanou změnu.</span><span class="sxs-lookup"><span data-stu-id="72a7d-103">If your customer wants to return or get reimbursement for items or services that you have sold and received payment for, you must create and post a sales credit memo that specifies the requested change.</span></span> <span data-ttu-id="72a7d-104">Chcete-li zahrnou správné informace z prodejních faktur, můžete vytvořit prodejní dobropis z účtovaných prodejních faktur nebo použít funkci kopírování.</span><span class="sxs-lookup"><span data-stu-id="72a7d-104">To include the correct sales invoice information, you can create the sales credit memo from the posted sales invoice or use a copy function.</span></span>
 
-Kromě původní účtované prodejní faktury, můžete použít prodejní dobropis na prodejní dokumenty, například na jinou účtovanou prodejní fakturu, protože zákazník také vrací položky dodané s touto fakturou.
+<span data-ttu-id="72a7d-105">Kromě původní účtované prodejní faktury, můžete použít prodejní dobropis na prodejní dokumenty, například na jinou účtovanou prodejní fakturu, protože zákazník také vrací položky dodané s touto fakturou.</span><span class="sxs-lookup"><span data-stu-id="72a7d-105">In addition to the original posted sales invoice, you can apply the sales credit memo to other sales documents, for example another posted sales invoice, because the customer is also returning items delivered with that invoice.</span></span>
 
-Vrácení nebo refundace se mohou týkat pouze některého zboží nebo služeb na původní prodejní faktuře. V takovém případě musíte upravit údaje na řádcích v prodejním dobropisu. Když zaúčtujete prodejní dobropis, prodejní doklady, které jsou touto změnou ovlivněny, jsou zrušeny a pro zákazníka může být vytvořena platba na vrácení peněz.
+<span data-ttu-id="72a7d-106">Vrácení nebo refundace se mohou týkat pouze některého zboží nebo služeb na původní prodejní faktuře.</span><span class="sxs-lookup"><span data-stu-id="72a7d-106">A return or reimbursement may relate to only some of the items or services on the original sales invoice.</span></span> <span data-ttu-id="72a7d-107">V takovém případě musíte upravit údaje na řádcích v prodejním dobropisu.</span><span class="sxs-lookup"><span data-stu-id="72a7d-107">In that case, you must edit information on the lines on the sales credit memo.</span></span> <span data-ttu-id="72a7d-108">Když zaúčtujete prodejní dobropis, prodejní doklady, které jsou touto změnou ovlivněny, jsou zrušeny a pro zákazníka může být vytvořena platba na vrácení peněz.</span><span class="sxs-lookup"><span data-stu-id="72a7d-108">When you post the sales credit memo, the sales documents that are affected by the change are reversed and a refund payment can be created for the customer.</span></span>
 
-Můžete zákazníkovi odeslat účtovaný prodejní dobropis za účelem potvrzení vrácení nebo zrušení a sdělit mu, že příslušná částka bude uhrazena. Například za zboží, které vrátil.
+<span data-ttu-id="72a7d-109">Můžete zákazníkovi odeslat účtovaný prodejní dobropis za účelem potvrzení vrácení nebo zrušení a sdělit mu, že příslušná částka bude uhrazena. Například za zboží, které vrátil.</span><span class="sxs-lookup"><span data-stu-id="72a7d-109">You can send the posted sales credit memo to the customer to confirm the return or cancellation and communicate that the related value will be reimbursed, for example when the items are returned.</span></span>
 
-## <a name="to-create-a-sales-credit-memo-from-a-posted-sales-invoice"></a>Vytvoření prodejního dobropisu z účtované prodejní faktury
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Účtované prodejní faktury** a poté vyberte příslušný odkaz.  
-2. V okně **Účtované prodejní faktury** vyberte účtovanou fakturu, kterou chcete vrátit, a vyberte tlačítko **Vytvořit opravný dobropis**.
+## <a name="to-create-a-sales-credit-memo-from-a-posted-sales-invoice"></a><span data-ttu-id="72a7d-110">Vytvoření prodejního dobropisu z účtované prodejní faktury</span><span class="sxs-lookup"><span data-stu-id="72a7d-110">To create a sales credit memo from a posted sales invoice</span></span>
+1. <span data-ttu-id="72a7d-111">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Účtované prodejní faktury** a poté vyberte příslušný odkaz.</span><span class="sxs-lookup"><span data-stu-id="72a7d-111">In the top right corner, choose the **Search for Page or Report** icon, enter **Posted Sales Invoices**, and the choose the related link.</span></span>  
+2. <span data-ttu-id="72a7d-112">V okně **Účtované prodejní faktury** vyberte účtovanou fakturu, kterou chcete vrátit, a vyberte tlačítko **Vytvořit opravný dobropis**.</span><span class="sxs-lookup"><span data-stu-id="72a7d-112">In the **Posted Sales Invoices** window, select the posted sales invoice that you want to reverse, and then choose the **Create Corrective Credit Memo** action.</span></span>
 
-    Většina políček v hlavičce prodejního dobropisu bude naplněna údaji z účetované prodejní faktury. Můžete editovat všechny políčka, například nové informace reflektující na vrácení.
-3. Upravte informace na řádcích vzhledem k dohodě, jako je počet položek vráceného zboží nebo částku, jaká má být vrácena.
-4. Vyberte tlačítko **Vyrovnat položky**.
-5. V okně **Vyrovnat položky zákazníka** vyberte řádky s účtovanými dokumenty, které chcete použít na prodejní dobropis a poté zvolte **ID vyrovnání**.
+    <span data-ttu-id="72a7d-113">Většina políček v hlavičce prodejního dobropisu bude naplněna údaji z účetované prodejní faktury.</span><span class="sxs-lookup"><span data-stu-id="72a7d-113">Most fields on the sales credit memo header are filled with the information from the posted sales invoice.</span></span> <span data-ttu-id="72a7d-114">Můžete editovat všechny políčka, například nové informace reflektující na vrácení.</span><span class="sxs-lookup"><span data-stu-id="72a7d-114">You can edit all the fields, for example with new information that reflects the return agreement.</span></span>
+3. <span data-ttu-id="72a7d-115">Upravte informace na řádcích vzhledem k dohodě, jako je počet položek vráceného zboží nebo částku, jaká má být vrácena.</span><span class="sxs-lookup"><span data-stu-id="72a7d-115">Edit information on the lines according to the agreement, such as the number of items returned or the amount to be reimbursed.</span></span>
+4. <span data-ttu-id="72a7d-116">Vyberte tlačítko **Vyrovnat položky**.</span><span class="sxs-lookup"><span data-stu-id="72a7d-116">Choose the **Apply Entries** action.</span></span>
+5. <span data-ttu-id="72a7d-117">V okně **Vyrovnat položky zákazníka** vyberte řádky s účtovanými dokumenty, které chcete použít na prodejní dobropis a poté zvolte **ID vyrovnání**.</span><span class="sxs-lookup"><span data-stu-id="72a7d-117">In the **Apply Customer Entries** window, select the line with the posted sales document that you want to apply the sales credit memo to, and then choose the **Applies-to ID** action.</span></span>
 
-    Číslo prodejního dobropisu je vloženo do políčka **ID vyrovnání**.  
-6. V poli **Částka k vyrovnání** vložte částku, kterou chce vyrovnat pokud je menší než původní částka.
+    <span data-ttu-id="72a7d-118">Číslo prodejního dobropisu je vloženo do políčka **ID vyrovnání**.</span><span class="sxs-lookup"><span data-stu-id="72a7d-118">The number of the sales credit memo is inserted in the **Applies-to ID** field.</span></span>  
+6. <span data-ttu-id="72a7d-119">V poli **Částka k vyrovnání** vložte částku, kterou chce vyrovnat pokud je menší než původní částka.</span><span class="sxs-lookup"><span data-stu-id="72a7d-119">In the **Amount to Apply** field, enter the amount that you want to apply if smaller than the original amount.</span></span>
 
-    V dolní části okna **Vyrovnat položky zákazníka** můžete vidět celkový součet k částky k vyrovnání všech položek, jmenovitě, pokud políčko **Zůstatek** je nulové.  
-7. Zvolte tlačítko **OK**. Pokud účtujete prodejní dobropis, bude se vztahovat na specifické účtované prodejní dokumenty.
+    <span data-ttu-id="72a7d-120">V dolní části okna **Vyrovnat položky zákazníka** můžete vidět celkový součet k částky k vyrovnání všech položek, jmenovitě, pokud políčko **Zůstatek** je nulové.</span><span class="sxs-lookup"><span data-stu-id="72a7d-120">At the bottom of the **Apply Customer Entries** window, you can see the total amount to apply to reverse all involved entries, namely when the value in the **Balance** field is zero.</span></span>  
+7. <span data-ttu-id="72a7d-121">Zvolte tlačítko **OK**.</span><span class="sxs-lookup"><span data-stu-id="72a7d-121">Choose the **OK** button.</span></span> <span data-ttu-id="72a7d-122">Pokud účtujete prodejní dobropis, bude se vztahovat na specifické účtované prodejní dokumenty.</span><span class="sxs-lookup"><span data-stu-id="72a7d-122">When you post the sales credit memo, it will be applied to the specified posted sales documents.</span></span>
 
-    Pokud jste vytvořili nebo upravili potřebné řádky prodejního dobropisu a jsou určena jednoduchá nebo násobná vyrovnání, můžete pokračovat v procesu účtování prodejního dobropisu.
-8. Vyberte tlačítko **Účtovat a Odeslat**.
+    <span data-ttu-id="72a7d-123">Pokud jste vytvořili nebo upravili potřebné řádky prodejního dobropisu a jsou určena jednoduchá nebo násobná vyrovnání, můžete pokračovat v procesu účtování prodejního dobropisu.</span><span class="sxs-lookup"><span data-stu-id="72a7d-123">When you have created or edited the needed sales credit memo lines and the single or multiple applications are specified, you can proceed to post the sales credit memo.</span></span>
+8. <span data-ttu-id="72a7d-124">Vyberte tlačítko **Účtovat a Odeslat**.</span><span class="sxs-lookup"><span data-stu-id="72a7d-124">Choose the **Post and Send** action.</span></span>
 
-Zobrazí se dialogové okno **Potvrzení účtování a odeslání** s uvedením preferovaného způsobu odeslání zákazníkovi. Způsob odesílání můžete změnit výběrem vyhledávacího tlačítka pro pole **Odeslat dokument do**. Další informace naleznete v tématu [Návod: Nastavení Profilů odesílání dokumentů](sales-how-setup-document-send-profiles.md).
+<span data-ttu-id="72a7d-125">Zobrazí se dialogové okno **Potvrzení účtování a odeslání** s uvedením preferovaného způsobu odeslání zákazníkovi.</span><span class="sxs-lookup"><span data-stu-id="72a7d-125">The **Post and Send Confirmation** dialog box opens showing the preferred sending method for the customer.</span></span> <span data-ttu-id="72a7d-126">Způsob odesílání můžete změnit výběrem vyhledávacího tlačítka pro pole **Odeslat dokument do**.</span><span class="sxs-lookup"><span data-stu-id="72a7d-126">You can change the sending method by choosing the lookup button for the **Send Document** to field.</span></span> <span data-ttu-id="72a7d-127">Další informace naleznete v tématu [Návod: Nastavení Profilů odesílání dokumentů](sales-how-setup-document-send-profiles.md).</span><span class="sxs-lookup"><span data-stu-id="72a7d-127">For more information, see [How to: Set Up Document Sending Profiles](sales-how-setup-document-send-profiles.md).</span></span>
 
-Účtované prodejní dokumenty, na které jste vytvořili prodejní dobropis, jsou nyní stornovány a platba vrácení peněz může být vytvořena. Prodejní dobropis je smazán a nahrazen novým dokumentem v seznamu účtovaných prodejních dobropisů.
+<span data-ttu-id="72a7d-128">Účtované prodejní dokumenty, na které jste vytvořili prodejní dobropis, jsou nyní stornovány a platba vrácení peněz může být vytvořena.</span><span class="sxs-lookup"><span data-stu-id="72a7d-128">The posted sales documents that you applied the credit memo to are now reversed, and a refund payment can be created for the customer.</span></span> <span data-ttu-id="72a7d-129">Prodejní dobropis je smazán a nahrazen novým dokumentem v seznamu účtovaných prodejních dobropisů.</span><span class="sxs-lookup"><span data-stu-id="72a7d-129">The sales credit memo is removed and replaced with a new document in the list of posted sales credit memos.</span></span>
 
-## <a name="to-create-a-sales-credit-memo-from-scratch"></a>Vytvoření prodejního dobropisu od začátku
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Prodejní dobropisy** a poté vyberte příslušný odkaz.
-2. Zvolte tlačíko **Nový** k otevření prázdného prodejního dobropisu.
-3. V políčku **Zákazník** napište jméno existujícího zákazníka.
-4. Vyberte tlačítko **Kopírovat doklad**.
-5. V okně **Kopie prodejního dokladu** v poli **Typ dokladu** vyberte **Účtované faktury**.
-6. Vyberte políčko **Číslo dokladu**  k otevření okna **Účtované prodejní faktury** a vyberte fakturu obsahující řádky, které chcete vrátit.
-7. Zaškrtněte políčko **Přepočítat řádky** pokud chcete, aby řádky účtované prodejní faktury byly aktualizovány s jakoukoli změnou ceny položky a jednotkovými náklady od účtování faktury.
-8. Zvolte tlačítko **OK**. Zkopírované řádky faktury jsou vloženy do prodejního dobropisu.
-9. Dokončete dobropis, tak jak je vysvětleno v „Vytvoření prodejního dobropisu z účtované prodejní faktury“.
+## <a name="to-create-a-sales-credit-memo-from-scratch"></a><span data-ttu-id="72a7d-130">Vytvoření prodejního dobropisu od začátku</span><span class="sxs-lookup"><span data-stu-id="72a7d-130">To create a sales credit memo from scratch</span></span>
+1. <span data-ttu-id="72a7d-131">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Prodejní dobropisy** a poté vyberte příslušný odkaz.</span><span class="sxs-lookup"><span data-stu-id="72a7d-131">In the top right corner, choose the **Search for Page or Report** icon, enter **Posted Sales Invoices**, and then choose the related link.</span></span>
+2. <span data-ttu-id="72a7d-132">Zvolte tlačíko **Nový** k otevření prázdného prodejního dobropisu.</span><span class="sxs-lookup"><span data-stu-id="72a7d-132">Choose the **New** action to open a new empty sales credit memo.</span></span>
+3. <span data-ttu-id="72a7d-133">V políčku **Zákazník** napište jméno existujícího zákazníka.</span><span class="sxs-lookup"><span data-stu-id="72a7d-133">In the **Customer** field, enter the name of an existing customer.</span></span>
+4. <span data-ttu-id="72a7d-134">Vyberte tlačítko **Kopírovat doklad**.</span><span class="sxs-lookup"><span data-stu-id="72a7d-134">Choose the **Copy Document** action.</span></span>
+5. <span data-ttu-id="72a7d-135">V okně **Kopie prodejního dokladu** v poli **Typ dokladu** vyberte **Účtované faktury**.</span><span class="sxs-lookup"><span data-stu-id="72a7d-135">In the **Copy Sales Document** window, in the **Document Type** field, select **Posted Invoice**.</span></span>
+6. <span data-ttu-id="72a7d-136">Vyberte políčko **Číslo dokladu** </span><span class="sxs-lookup"><span data-stu-id="72a7d-136">Choose the **Document No.**</span></span> <span data-ttu-id="72a7d-137">k otevření okna **Účtované prodejní faktury** a vyberte fakturu obsahující řádky, které chcete vrátit.</span><span class="sxs-lookup"><span data-stu-id="72a7d-137">field to open the **Posted Sales Invoices** window, and then select the posted sales invoice that contains lines that you want to reverse.</span></span>
+7. <span data-ttu-id="72a7d-138">Zaškrtněte políčko **Přepočítat řádky** pokud chcete, aby řádky účtované prodejní faktury byly aktualizovány s jakoukoli změnou ceny položky a jednotkovými náklady od účtování faktury.</span><span class="sxs-lookup"><span data-stu-id="72a7d-138">Select the **Recalculate Lines** check box if you want the copied posted sales invoice lines to be updated with any changes in item price and unit cost since the invoice was posted.</span></span>
+8. <span data-ttu-id="72a7d-139">Zvolte tlačítko **OK**.</span><span class="sxs-lookup"><span data-stu-id="72a7d-139">Choose the **OK** button.</span></span> <span data-ttu-id="72a7d-140">Zkopírované řádky faktury jsou vloženy do prodejního dobropisu.</span><span class="sxs-lookup"><span data-stu-id="72a7d-140">The copied invoice lines are inserted in the sales credit memo.</span></span>
+9. <span data-ttu-id="72a7d-141">Dokončete dobropis, tak jak je vysvětleno v „Vytvoření prodejního dobropisu z účtované prodejní faktury“.</span><span class="sxs-lookup"><span data-stu-id="72a7d-141">Complete the sales credit memo as explained in the "To create a sales credit memo from a posted sales invoice" section in this topic.</span></span>
 
-## <a name="see-also"></a>Viz také  
-[Správa prodeje](sales-manage-sales.md)  
-[Nastavení prodeje](sales-setup-sales.md)  
-[Návod: Posílání dokumentů pomocí Emailu](ui-how-send-documents-email.md)  
-[Práce s Dynamics NAV](ui-work-product.md)
+## <a name="see-also"></a><span data-ttu-id="72a7d-142">Viz také</span><span class="sxs-lookup"><span data-stu-id="72a7d-142">See Also</span></span>  
+[<span data-ttu-id="72a7d-143">Správa prodeje</span><span class="sxs-lookup"><span data-stu-id="72a7d-143">Manage Sales</span></span>](sales-manage-sales.md)  
+[<span data-ttu-id="72a7d-144">Nastavení prodeje</span><span class="sxs-lookup"><span data-stu-id="72a7d-144">Set Up Sales</span></span>](sales-setup-sales.md)  
+[<span data-ttu-id="72a7d-145">Návod: Posílání dokumentů pomocí Emailu</span><span class="sxs-lookup"><span data-stu-id="72a7d-145">How to: Send Documents by Email</span></span>](ui-how-send-documents-email.md)  
+[<span data-ttu-id="72a7d-146">Práce s Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="72a7d-146">Work with Dynamics NAV</span></span>](ui-work-product.md)
 

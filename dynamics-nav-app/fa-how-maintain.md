@@ -16,72 +16,72 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-maintain-fixed-assets"></a>Návod: Údržba DM
-Náklady na údržbu jsou rutinní pravidelné náklady na zachování hodnoty DM. Na rozdíl od kapitálu nezvyšují hodnotu.
+# <a name="how-to-maintain-fixed-assets"></a><span data-ttu-id="6d81f-102">Návod: Údržba DM</span><span class="sxs-lookup"><span data-stu-id="6d81f-102">How to: Maintain Fixed Assets</span></span>
+<span data-ttu-id="6d81f-103">Náklady na údržbu jsou rutinní pravidelné náklady na zachování hodnoty DM.</span><span class="sxs-lookup"><span data-stu-id="6d81f-103">Maintenance expenses are routine periodic costs undertaken to preserve the value of fixed assets.</span></span> <span data-ttu-id="6d81f-104">Na rozdíl od kapitálu nezvyšují hodnotu.</span><span class="sxs-lookup"><span data-stu-id="6d81f-104">Unlike capital improvements, they do not increase values.</span></span>
 
-Můžete si zaznamenat a udržovat aktualizovaný soubor o údržbě a servisu svého DM, abyste měli k dispozici kompletní záznamy o údržbě DM, které jsou snadno dostupné. Pokaždé, když je dlouhodobý majetek poslán do servisu, zaznamenáváte všechny relevantní informace, jako je datum servisu, číslo dodavatele a telefonní číslo servisního agenta. Registrace údržby se zaznamenává pro každý dlouhodobý majetek z příslušné karty DM.
+<span data-ttu-id="6d81f-105">Můžete si zaznamenat a udržovat aktualizovaný soubor o údržbě a servisu svého DM, abyste měli k dispozici kompletní záznamy o údržbě DM, které jsou snadno dostupné.</span><span class="sxs-lookup"><span data-stu-id="6d81f-105">You can record and maintain an up-to-date file on maintenance and service of your fixed assets to have complete maintenance records on a fixed asset easily accessible.</span></span> <span data-ttu-id="6d81f-106">Pokaždé, když je dlouhodobý majetek poslán do servisu, zaznamenáváte všechny relevantní informace, jako je datum servisu, číslo dodavatele a telefonní číslo servisního agenta.</span><span class="sxs-lookup"><span data-stu-id="6d81f-106">Each time a fixed asset is sent to service, you record all relevant information such as date of service, vendor number and service agent's phone number.</span></span> <span data-ttu-id="6d81f-107">Registrace údržby se zaznamenává pro každý dlouhodobý majetek z příslušné karty DM.</span><span class="sxs-lookup"><span data-stu-id="6d81f-107">Maintenance registration is recorded for each fixed asset from the relevant fixed asset card.</span></span>
 
-Odsazení slouží k úpravě hodnot pro obecné změny cenové hladiny. Dávková úloha **Indexovat DM** může být použita k vypočítání nákladů na údržbu.
+<span data-ttu-id="6d81f-108">Odsazení slouží k úpravě hodnot pro obecné změny cenové hladiny.</span><span class="sxs-lookup"><span data-stu-id="6d81f-108">Indexation is used to adjust values for general price-level changes.</span></span> <span data-ttu-id="6d81f-109">Dávková úloha **Indexovat DM** může být použita k vypočítání nákladů na údržbu.</span><span class="sxs-lookup"><span data-stu-id="6d81f-109">The **Index Fixed Assets** batch job can be used to recalculate the maintenance costs.</span></span>
 
-## <a name="to-record-maintenance-work-on-a-fixed-asset"></a>Záznam prací k údržbě DM  
-Pokaždé, když byla provedena údržba, například návštěva servisu, můžete ji zaznamenat pro příslušný dlouhodobý majetek v okně **Registrace údržby**.  
+## <a name="to-record-maintenance-work-on-a-fixed-asset"></a><span data-ttu-id="6d81f-110">Záznam prací k údržbě DM</span><span class="sxs-lookup"><span data-stu-id="6d81f-110">To record maintenance work on a fixed asset</span></span>  
+<span data-ttu-id="6d81f-111">Pokaždé, když byla provedena údržba, například návštěva servisu, můžete ji zaznamenat pro příslušný dlouhodobý majetek v okně **Registrace údržby**.</span><span class="sxs-lookup"><span data-stu-id="6d81f-111">Every time maintenance has been performed, such as a service visit, you can record it for the relevant fixed asset in the **Maintenance Registrations** window.</span></span>  
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Dlouhodobý majetek** a pak vyberte související odkaz.  
-2. Vyberte dlouhodobý majetek, u kterého chcete zobrazit údržbu a pak vyberte akci **Registrace údržby**.
-3. V okně **Registrace údržby** vyplňte pole podle potřeby. Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.  
+1. <span data-ttu-id="6d81f-112">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Dlouhodobý majetek** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="6d81f-112">In the top right corner, choose the **Search for Page or Report** icon, enter **Fixed Assets**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="6d81f-113">Vyberte dlouhodobý majetek, u kterého chcete zobrazit údržbu a pak vyberte akci **Registrace údržby**.</span><span class="sxs-lookup"><span data-stu-id="6d81f-113">Select the fixed asset that you want to record maintenance for, and then choose the **Maintenance Registration** action.</span></span>
+3. <span data-ttu-id="6d81f-114">V okně **Registrace údržby** vyplňte pole podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="6d81f-114">In the **Maintenance Registration** window, fill in the fields as necessary.</span></span> <span data-ttu-id="6d81f-115">Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.</span><span class="sxs-lookup"><span data-stu-id="6d81f-115">Choose a field to read a short description of the field or link to more information.</span></span>  
 
-## <a name="to-post-maintenance-costs-from-a-fixed-asset-gl-journal"></a>Zaúčtování nákladů na údržbu z finančního deníku DM
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Seznam odpisových knih** a pak vyberte související odkaz.  
-2. Vyberte odpisovou knihu, kde chcete zobrazit dlouhodobý majetek a poté vyberte akci **Upravit**.
-3. V okně **Karta odpisové knihy** zkontrolujte, zda není zaškrtnuto políčko **Údržba**. Tím je zajištěno, že náklady na údržbu nejsou zaúčtovány do hlavní knihy.
-4. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Finanční deník** a pak vyberte související odkaz.  
-5. Vytvořte počáteční řádek deníku a vyplňte pole podle potřeby.
-6. Do pole **Typ zaúčtování DM** vyberte **Údržba**.
-7. Zvolte možnost **Vložit protiúčet DM**. Druhý řádek deníku je vytvořen pro vyrovnávací účet, který je nastaven pro zaúčtování údržby.
+## <a name="to-post-maintenance-costs-from-a-fixed-asset-gl-journal"></a><span data-ttu-id="6d81f-116">Zaúčtování nákladů na údržbu z finančního deníku DM</span><span class="sxs-lookup"><span data-stu-id="6d81f-116">To post maintenance costs from a fixed asset G/L journal</span></span>
+1. <span data-ttu-id="6d81f-117">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Seznam odpisových knih** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="6d81f-117">In the top right corner, choose the **Search for Page or Report** icon, enter **Depreciation Book List**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="6d81f-118">Vyberte odpisovou knihu, kde chcete zobrazit dlouhodobý majetek a poté vyberte akci **Upravit**.</span><span class="sxs-lookup"><span data-stu-id="6d81f-118">Select the depreciation book that is assigned to the fixed asset, and then choose the **Edit** action.</span></span>
+3. <span data-ttu-id="6d81f-119">V okně **Karta odpisové knihy** zkontrolujte, zda není zaškrtnuto políčko **Údržba**.</span><span class="sxs-lookup"><span data-stu-id="6d81f-119">In the **Depreciation Book Card** window, make sure the **Maintenance** check box is not selected.</span></span> <span data-ttu-id="6d81f-120">Tím je zajištěno, že náklady na údržbu nejsou zaúčtovány do hlavní knihy.</span><span class="sxs-lookup"><span data-stu-id="6d81f-120">This ensures that maintenance costs are not posted to the general ledger.</span></span>
+4. <span data-ttu-id="6d81f-121">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Finanční deník** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="6d81f-121">In the top right corner, choose the **Search for Page or Report** icon, enter **FA G/L Journals**, and then choose the related link.</span></span>  
+5. <span data-ttu-id="6d81f-122">Vytvořte počáteční řádek deníku a vyplňte pole podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="6d81f-122">Create an initial journal line and fill in the fields as necessary.</span></span>
+6. <span data-ttu-id="6d81f-123">Do pole **Typ zaúčtování DM** vyberte **Údržba**.</span><span class="sxs-lookup"><span data-stu-id="6d81f-123">In the **FA Posting Type** field, select **Maintenance**.</span></span>
+7. <span data-ttu-id="6d81f-124">Zvolte možnost **Vložit protiúčet DM**.</span><span class="sxs-lookup"><span data-stu-id="6d81f-124">Choose the **Insert FA Bal. Account** action.</span></span> <span data-ttu-id="6d81f-125">Druhý řádek deníku je vytvořen pro vyrovnávací účet, který je nastaven pro zaúčtování údržby.</span><span class="sxs-lookup"><span data-stu-id="6d81f-125">A second journal line is created for the balancing account that is set up for maintenance posting.</span></span>
 
-    **Poznámka**: Krok 7 funguje pouze v případě, že jste nastavili následující: V okně **Karta účto skupiny DM** pro účtovací skupinu DM pole **Účet údržby** obsahuje účet MD v hlavní knize a pole **Údržba protiúčet** obsahuje účet hlavní knihy, na který chcete zaúčtovat zůstatkové položky za účelem zhodnocení. Další informace naleznete v tématu "Nastavení skupin zaúčtování DM“ [Návod: Nastavení informací o obecném dlouhodobém majetku](fa-how-setup-general.md).
-8. Zvolte akci **Účtovat**.
+    <span data-ttu-id="6d81f-126">**Poznámka**: Krok 7 funguje pouze v případě, že jste nastavili následující: V okně **Karta účto skupiny DM** pro účtovací skupinu DM pole **Účet údržby** obsahuje účet MD v hlavní knize a pole **Údržba protiúčet** obsahuje účet hlavní knihy, na který chcete zaúčtovat zůstatkové položky za účelem zhodnocení.</span><span class="sxs-lookup"><span data-stu-id="6d81f-126">**Note**: Step 7 only works if you have set up the following: In the **FA Posting Group Card** window for the posting group of the fixed asset, the **Maintenance Account** field contains the general ledger debit account and the **Maintenance Bal. Account** field contains the general ledger account to which you want to post balancing entries for appreciation.</span></span> <span data-ttu-id="6d81f-127">Další informace naleznete v tématu "Nastavení skupin zaúčtování DM“ [Návod: Nastavení informací o obecném dlouhodobém majetku](fa-how-setup-general.md).</span><span class="sxs-lookup"><span data-stu-id="6d81f-127">For more information, see the "To set up fixed asset posting groups" section in [How to: Set Up General Fixed Asset Information](fa-how-setup-general.md).</span></span>
+8. <span data-ttu-id="6d81f-128">Zvolte akci **Účtovat**.</span><span class="sxs-lookup"><span data-stu-id="6d81f-128">Choose the **Post** action.</span></span>
 
-## <a name="to-follow-up-on-fixed-assets-service-visits"></a>Pokračování servisu na dlouhodobém majetku
-Můžete vytisknout sestavu **Údržba - příští servis**, abyste zjistili, který majetek jste pro službu použili. Tuto sestavu můžete také použít při aktualizaci pole **Datum další údržby** na kartách DM.  
+## <a name="to-follow-up-on-fixed-assets-service-visits"></a><span data-ttu-id="6d81f-129">Pokračování servisu na dlouhodobém majetku</span><span class="sxs-lookup"><span data-stu-id="6d81f-129">To follow up on fixed assets service visits</span></span>
+<span data-ttu-id="6d81f-130">Můžete vytisknout sestavu **Údržba - příští servis**, abyste zjistili, který majetek jste pro službu použili.</span><span class="sxs-lookup"><span data-stu-id="6d81f-130">You can print the **Maintenance - Next Service** report to see which assets you have scheduled a service visit for.</span></span> <span data-ttu-id="6d81f-131">Tuto sestavu můžete také použít při aktualizaci pole **Datum další údržby** na kartách DM.</span><span class="sxs-lookup"><span data-stu-id="6d81f-131">You can also use this report when you are updating the **Next Service Date** field on fixed asset cards.</span></span>  
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Údržba - příští servis** a pak vyberte související odkaz.  
-2. Vyplňte pole **Počáteční datum** a **Koncové datum**.  
-3. Zvolte tlačítko **Tisk** nebo **Náhled**.
+1. <span data-ttu-id="6d81f-132">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Údržba - příští servis** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="6d81f-132">In the top right corner, choose the **Search for Page or Report** icon, enter **Maintenance Next Service**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="6d81f-133">Vyplňte pole **Počáteční datum** a **Koncové datum**.</span><span class="sxs-lookup"><span data-stu-id="6d81f-133">Fill in the **Starting Date** and **Ending Date** fields.</span></span>  
+3. <span data-ttu-id="6d81f-134">Zvolte tlačítko **Tisk** nebo **Náhled**.</span><span class="sxs-lookup"><span data-stu-id="6d81f-134">Choose the **Print** or **Preview** button.</span></span>
 
-## <a name="to-monitor-maintenance-costs"></a>Monitorování nákladů na údržbu  
-Náklady na údržbu můžete zobrazit, když se podíváte na statistiky DM.  
+## <a name="to-monitor-maintenance-costs"></a><span data-ttu-id="6d81f-135">Monitorování nákladů na údržbu</span><span class="sxs-lookup"><span data-stu-id="6d81f-135">To monitor maintenance costs</span></span>  
+<span data-ttu-id="6d81f-136">Náklady na údržbu můžete zobrazit, když se podíváte na statistiky DM.</span><span class="sxs-lookup"><span data-stu-id="6d81f-136">You can view the maintenance costs when you look at the statistics of a fixed asset.</span></span>  
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Dlouhodobý majetek** a pak vyberte související odkaz.
-2. Vyberte dlouhodobý majetek, u kterého chcete zobrazit náklady na údržbu a pak vyberte akci **Knihy odpisů**.
-3. V okně **Knihy odpisů DM** vyberte příslušnou odpisovou knihu DM a poté zvolte akci **Statistiky** .
-4. V okně **Statistiky DM** vyberte pole **Údržba** .
+1. <span data-ttu-id="6d81f-137">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Dlouhodobý majetek** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="6d81f-137">In the top right corner, choose the **Search for Page or Report** icon, enter **Fixed Assets**, and then choose the related link.</span></span>
+2. <span data-ttu-id="6d81f-138">Vyberte dlouhodobý majetek, u kterého chcete zobrazit náklady na údržbu a pak vyberte akci **Knihy odpisů**.</span><span class="sxs-lookup"><span data-stu-id="6d81f-138">Select the fixed asset you want to view maintenance costs for, and then choose the **Depreciation Books** action.</span></span>
+3. <span data-ttu-id="6d81f-139">V okně **Knihy odpisů DM** vyberte příslušnou odpisovou knihu DM a poté zvolte akci **Statistiky** .</span><span class="sxs-lookup"><span data-stu-id="6d81f-139">In the **FA Depreciation Books** window, select the relevant fixed asset depreciation book, and then choose the **Statistics** action.</span></span>
+4. <span data-ttu-id="6d81f-140">V okně **Statistiky DM** vyberte pole **Údržba** .</span><span class="sxs-lookup"><span data-stu-id="6d81f-140">In the **Fixed Asset Statistics** window, choose the **Maintenance** field.</span></span>
 
-Okno **Položky údržby** zobrazuje položky, které tvoří částku v poli **Údržba**.
+<span data-ttu-id="6d81f-141">Okno **Položky údržby** zobrazuje položky, které tvoří částku v poli **Údržba**.</span><span class="sxs-lookup"><span data-stu-id="6d81f-141">The **Maintenance Ledger Entries** window opens showing the entries that make up the amount in the **Maintenance** field.</span></span>
 
-## <a name="to-view-or-print-maintenance-costs-for-multiple-fixed-assets"></a>Zobrazení nebo tisk nákladů na údržbu více DM  
-Ve zprávě **Údržba - analýza** můžete zvolit, zda chcete zobrazit údržbu na základě jednoho, dvou nebo tří kódů údržby pro zadané datum nebo období. Můžete vidět součet všech vybraných majetků nebo celkový součet každého majetku.
+## <a name="to-view-or-print-maintenance-costs-for-multiple-fixed-assets"></a><span data-ttu-id="6d81f-142">Zobrazení nebo tisk nákladů na údržbu více DM</span><span class="sxs-lookup"><span data-stu-id="6d81f-142">To view or print maintenance costs for multiple fixed assets</span></span>  
+<span data-ttu-id="6d81f-143">Ve zprávě **Údržba - analýza** můžete zvolit, zda chcete zobrazit údržbu na základě jednoho, dvou nebo tří kódů údržby pro zadané datum nebo období.</span><span class="sxs-lookup"><span data-stu-id="6d81f-143">In the **Maintenance - Analysis** report, you can select to see maintenance based on one, two, or three maintenance codes for a specified date or period.</span></span> <span data-ttu-id="6d81f-144">Můžete vidět součet všech vybraných majetků nebo celkový součet každého majetku.</span><span class="sxs-lookup"><span data-stu-id="6d81f-144">You can see the total of all selected assets or a total for each asset.</span></span>
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Analýza údržby** a pak vyberte související odkaz.
-2. Vyplňte pole podle potřeby.
-3. Zvolte tlačítko **Tisk** nebo **Náhled**.
+1. <span data-ttu-id="6d81f-145">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Analýza údržby** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="6d81f-145">In the top right corner, choose the **Search for Page or Report** icon, enter **Maintenance Analysis**, and then choose the related link.</span></span>
+2. <span data-ttu-id="6d81f-146">Vyplňte pole podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="6d81f-146">Fill in the fields as necessary.</span></span>
+3. <span data-ttu-id="6d81f-147">Zvolte tlačítko **Tisk** nebo **Náhled**.</span><span class="sxs-lookup"><span data-stu-id="6d81f-147">Choose the **Print** or **Preview** button.</span></span>
 
-## <a name="to-view-maintenance-ledger-entries"></a>Zobrazení položek údržby
-Náklady na údržbu si můžete prohlédnout také prostřednictvím prohlížení položek údržby.  
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Dlouhodobý majetek** a pak vyberte související odkaz.
-2. Vyberte dlouhodobý majetek, u kterého chcete zobrazit položky a pak vyberte akci **Knihy odpisů**.
-3. V okně **Knihy odpisů DM** vyberte příslušnou odpisovou knihu DM a poté zvolte akci **Položky údržby**.
+## <a name="to-view-maintenance-ledger-entries"></a><span data-ttu-id="6d81f-148">Zobrazení položek údržby</span><span class="sxs-lookup"><span data-stu-id="6d81f-148">To view maintenance ledger entries</span></span>
+<span data-ttu-id="6d81f-149">Náklady na údržbu si můžete prohlédnout také prostřednictvím prohlížení položek údržby.</span><span class="sxs-lookup"><span data-stu-id="6d81f-149">You can also study maintenance costs by viewing the maintenance ledger entries.</span></span>  
+1. <span data-ttu-id="6d81f-150">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Dlouhodobý majetek** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="6d81f-150">In the top right corner, choose the **Search for Page or Report** icon, enter **Fixed Assets**, and then choose the related link.</span></span>
+2. <span data-ttu-id="6d81f-151">Vyberte dlouhodobý majetek, u kterého chcete zobrazit položky a pak vyberte akci **Knihy odpisů**.</span><span class="sxs-lookup"><span data-stu-id="6d81f-151">Select the fixed asset that you want to view ledger entries for, and then choose the **Depreciation Books** action.</span></span>
+3. <span data-ttu-id="6d81f-152">V okně **Knihy odpisů DM** vyberte příslušnou odpisovou knihu DM a poté zvolte akci **Položky údržby**.</span><span class="sxs-lookup"><span data-stu-id="6d81f-152">In the **FA Depreciation Books** window, select the relevant fixed asset depreciation book, and then choose the **Maintenance Ledger Entries** action.</span></span>
 
-## <a name="to-view-or-print-maintenance-ledger-entries-for-multiple-fixed-assets"></a>Zobrazení nebo tisk položek údržby pro více DM  
-V přehledu **Údržba - detaily** můžete zobrazit nebo vytisknout položky o údržbě jednoho nebo více DM.  
+## <a name="to-view-or-print-maintenance-ledger-entries-for-multiple-fixed-assets"></a><span data-ttu-id="6d81f-153">Zobrazení nebo tisk položek údržby pro více DM</span><span class="sxs-lookup"><span data-stu-id="6d81f-153">To view or print maintenance ledger entries for multiple fixed assets</span></span>  
+<span data-ttu-id="6d81f-154">V přehledu **Údržba - detaily** můžete zobrazit nebo vytisknout položky o údržbě jednoho nebo více DM.</span><span class="sxs-lookup"><span data-stu-id="6d81f-154">In the **Maintenance - Details** report, you can view or print maintenance ledger entries for one or many fixed assets.</span></span>  
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Detaily údržby** a pak vyberte související odkaz.
-2. Vyplňte pole podle potřeby.
-3. Zvolte tlačítko **Tisk** nebo **Náhled**.
+1. <span data-ttu-id="6d81f-155">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Detaily údržby** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="6d81f-155">In the top right corner, choose the **Search for Page or Report** icon, enter **Maintenance Details**, and then choose the related link.</span></span>
+2. <span data-ttu-id="6d81f-156">Vyplňte pole podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="6d81f-156">Fill in the fields as necessary.</span></span>
+3. <span data-ttu-id="6d81f-157">Zvolte tlačítko **Tisk** nebo **Náhled**.</span><span class="sxs-lookup"><span data-stu-id="6d81f-157">Choose the **Print** or **Preview** button.</span></span>
 
-## <a name="see-also"></a>Viz také
-[Správa DM](fa-manage.md)  
-[Nastavení DM](fa-setup.md)  
-[Finance](finance-setup.md)  
-[Vítejte v Dynamics NAV](across-get-started.md)
+## <a name="see-also"></a><span data-ttu-id="6d81f-158">Viz také</span><span class="sxs-lookup"><span data-stu-id="6d81f-158">See Also</span></span>
+[<span data-ttu-id="6d81f-159">Správa DM</span><span class="sxs-lookup"><span data-stu-id="6d81f-159">Manage Fixed Assets</span></span>](fa-manage.md)  
+[<span data-ttu-id="6d81f-160">Nastavení DM</span><span class="sxs-lookup"><span data-stu-id="6d81f-160">Set Up Fixed Assets</span></span>](fa-setup.md)  
+[<span data-ttu-id="6d81f-161">Finance</span><span class="sxs-lookup"><span data-stu-id="6d81f-161">Finance</span></span>](finance-setup.md)  
+[<span data-ttu-id="6d81f-162">Vítejte v Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="6d81f-162">Welcome to Dynamics NAV</span></span>](across-get-started.md)
 

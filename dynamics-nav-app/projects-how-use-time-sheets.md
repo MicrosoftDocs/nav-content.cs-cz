@@ -16,136 +16,136 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-use-time-sheets-for-jobs"></a>Návod: Použít časové rozvrhy pro projekty
-Používáte dávkovou úlohu **Vytvořit časové rozvrhy** pro nastavení časových rozvrhů pro určitý počet časových období nebo týdnů. Abyste mohli vytvářet časové rozvrhy, musíte mít oprávnění.
+# <a name="how-to-use-time-sheets-for-jobs"></a><span data-ttu-id="4ee12-102">Návod: Použít časové rozvrhy pro projekty</span><span class="sxs-lookup"><span data-stu-id="4ee12-102">How to: Use Time Sheets for Jobs</span></span>
+<span data-ttu-id="4ee12-103">Používáte dávkovou úlohu **Vytvořit časové rozvrhy** pro nastavení časových rozvrhů pro určitý počet časových období nebo týdnů.</span><span class="sxs-lookup"><span data-stu-id="4ee12-103">You use the **Create Time Sheets** batch job to set up time sheets for a specified number of time periods or weeks.</span></span> <span data-ttu-id="4ee12-104">Abyste mohli vytvářet časové rozvrhy, musíte mít oprávnění.</span><span class="sxs-lookup"><span data-stu-id="4ee12-104">You must have permissions to be able to create time sheets.</span></span>
 
-Můžete kopírovat a používat své řádky plánování projektu v časovém rozvrhu. Tímto způsobem musíte zadat informace pouze na jednom místě a informace o řádcích jsou vždy správné.
+<span data-ttu-id="4ee12-105">Můžete kopírovat a používat své řádky plánování projektu v časovém rozvrhu.</span><span class="sxs-lookup"><span data-stu-id="4ee12-105">You can copy and use your job planning lines in a time sheet.</span></span> <span data-ttu-id="4ee12-106">Tímto způsobem musíte zadat informace pouze na jednom místě a informace o řádcích jsou vždy správné.</span><span class="sxs-lookup"><span data-stu-id="4ee12-106">In that way, you must only enter the information in one place and the line information is always correct.</span></span>
 
-Poté, co jste pro danou úlohu schválili záznamy časových rozvrhů, můžete je zaúčtovat do příslušného deníku projektu nebo deníku zdrojů.
+<span data-ttu-id="4ee12-107">Poté, co jste pro danou úlohu schválili záznamy časových rozvrhů, můžete je zaúčtovat do příslušného deníku projektu nebo deníku zdrojů.</span><span class="sxs-lookup"><span data-stu-id="4ee12-107">After you have approved time sheet entries for a job, you can post them to the relevant job journal or resource journal.</span></span>
 
-Než budete moci používat časové rozvrhy, musíte nastavit obecné informace, určit správce a jednoho nebo více schvalovatelů časových rozvrhů. Další informace naleznete v tématu [Návod: Nastavení časových rozvrhů](projects-how-setup-time-sheets.md) .
+<span data-ttu-id="4ee12-108">Než budete moci používat časové rozvrhy, musíte nastavit obecné informace, určit správce a jednoho nebo více schvalovatelů časových rozvrhů.</span><span class="sxs-lookup"><span data-stu-id="4ee12-108">Before you can use time sheets, you must set up general information and specify an administrator and one or more approvers of time sheets.</span></span> <span data-ttu-id="4ee12-109">Další informace naleznete v tématu [Návod: Nastavení časových rozvrhů](projects-how-setup-time-sheets.md) .</span><span class="sxs-lookup"><span data-stu-id="4ee12-109">For more information, see [How to: Set Up Time Sheets](projects-how-setup-time-sheets.md).</span></span>
 
-## <a name="to-create-a-time-sheet"></a>Vytvořit nový pracovní rozvrh  
-Můžete použít dávkovou úlohu **Vytvořit časové rozvrhy** k nastavení časových rozvrhů pro určitý počet časových období nebo týdnů. Poté může vlastník rozvrhu otevřít a zaznamenat čas, který byl na činnost vynaložen.
+## <a name="to-create-a-time-sheet"></a><span data-ttu-id="4ee12-110">Vytvořit nový pracovní rozvrh</span><span class="sxs-lookup"><span data-stu-id="4ee12-110">To create a time sheet</span></span>  
+<span data-ttu-id="4ee12-111">Můžete použít dávkovou úlohu **Vytvořit časové rozvrhy** k nastavení časových rozvrhů pro určitý počet časových období nebo týdnů.</span><span class="sxs-lookup"><span data-stu-id="4ee12-111">You can use the **Create Time Sheets** batch job to set up time sheets for a specified number of time periods or weeks.</span></span> <span data-ttu-id="4ee12-112">Poté může vlastník rozvrhu otevřít a zaznamenat čas, který byl na činnost vynaložen.</span><span class="sxs-lookup"><span data-stu-id="4ee12-112">Then, the time sheet owner can open it and record time that has been spent on a task.</span></span>
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Časové rozvrhy** a zvolte související odkaz.
-2. V okně **Seznam časových rozvrhů** vyberte akci **Vytvořit časové rozvrhy**.
-3. Vyplňte pole podle potřeby. Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.
+1. <span data-ttu-id="4ee12-113">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Časové rozvrhy** a zvolte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="4ee12-113">In the top right corner, choose the **Search for Page or Report** icon, enter **Time Sheets**, and then choose the related link.</span></span>
+2. <span data-ttu-id="4ee12-114">V okně **Seznam časových rozvrhů** vyberte akci **Vytvořit časové rozvrhy**.</span><span class="sxs-lookup"><span data-stu-id="4ee12-114">In the **Time Sheet List** window, choose the **Create Time Sheets** action.</span></span>
+3. <span data-ttu-id="4ee12-115">Vyplňte pole podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="4ee12-115">Fill in the fields as necessary.</span></span> <span data-ttu-id="4ee12-116">Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.</span><span class="sxs-lookup"><span data-stu-id="4ee12-116">Choose a field to read a short description of the field or link to more information.</span></span>
 
-**Poznámka**: Pole **Použít časový rozvrh** a **ID vlastníka časového rozvrhu** musí být vyplněna na kartě pro zdroj časového listu.  
+<span data-ttu-id="4ee12-117">**Poznámka**: Pole **Použít časový rozvrh** a **ID vlastníka časového rozvrhu** musí být vyplněna na kartě pro zdroj časového listu.</span><span class="sxs-lookup"><span data-stu-id="4ee12-117">**Note**: The **Use Time Sheet** and **Time Sheet Owner User ID** fields must be filled in on the card for the resource of the time sheet.</span></span>  
 
-4. Zvolte tlačítko **OK**.
-Můžete zobrazit časové rozvrhy, které jste vytvořili v okně **Seznamu časových rozvrhů** .
+4. <span data-ttu-id="4ee12-118">Zvolte tlačítko **OK**.</span><span class="sxs-lookup"><span data-stu-id="4ee12-118">Choose the **OK** button.</span></span>
+<span data-ttu-id="4ee12-119">Můžete zobrazit časové rozvrhy, které jste vytvořili v okně **Seznamu časových rozvrhů** .</span><span class="sxs-lookup"><span data-stu-id="4ee12-119">You can view the time sheets that you have created in the **Time Sheet list** window.</span></span>
 
-## <a name="to-copy-job-planning-lines-to-a-time-sheet"></a>Kopírování řádků plánování projektu do časového rozvrhu  
-Následující postup popisuje, jak rychle přidat řádky plánování projektu do časového rozvrhu.
+## <a name="to-copy-job-planning-lines-to-a-time-sheet"></a><span data-ttu-id="4ee12-120">Kopírování řádků plánování projektu do časového rozvrhu</span><span class="sxs-lookup"><span data-stu-id="4ee12-120">To copy job planning lines to a time sheet</span></span>  
+<span data-ttu-id="4ee12-121">Následující postup popisuje, jak rychle přidat řádky plánování projektu do časového rozvrhu.</span><span class="sxs-lookup"><span data-stu-id="4ee12-121">The following procedure describes how to quickly add job planning lines to a time sheet.</span></span>
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Časové rozvrhy** a zvolte související odkaz.  
-2. V okně **Seznam časového rozvrhu** vyberte časový list příslušného časového období a potom vyberte akci **Upravit časový rozvrh** .  
-3. Zvolte akci **Vytvořit řádek z plánování projektu** Všechny řádky plánování projektu v časovém období časového rozvrhu jsou zkopírovány do časového rozvrhu pro osobu nebo stroj v položce **Číslo zdroje** Pole na časovém rozvrhu.
+1. <span data-ttu-id="4ee12-122">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Časové rozvrhy** a zvolte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="4ee12-122">In the top right corner, choose the **Search for Page or Report** icon, enter **Time Sheets**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="4ee12-123">V okně **Seznam časového rozvrhu** vyberte časový list příslušného časového období a potom vyberte akci **Upravit časový rozvrh** .</span><span class="sxs-lookup"><span data-stu-id="4ee12-123">In the **Time Sheet List** window, select a time sheet for the relevant time period, and then choose the **Edit Time Sheet** action.</span></span>  
+3. <span data-ttu-id="4ee12-124">Zvolte akci **Vytvořit řádek z plánování projektu**</span><span class="sxs-lookup"><span data-stu-id="4ee12-124">Choose the **Create lines from job planning** action.</span></span> <span data-ttu-id="4ee12-125">Všechny řádky plánování projektu v časovém období časového rozvrhu jsou zkopírovány do časového rozvrhu pro osobu nebo stroj v položce **Číslo zdroje**</span><span class="sxs-lookup"><span data-stu-id="4ee12-125">Any job planning lines in the time sheet time period are copied to the time sheet for the person or machine in the **Resource No.**</span></span> <span data-ttu-id="4ee12-126">Pole na časovém rozvrhu.</span><span class="sxs-lookup"><span data-stu-id="4ee12-126">field on the time sheet.</span></span>
 
-## <a name="to-define-work-types-and-add-one-to-a-time-sheet"></a>Definování typu práce a přidání do časového rozvrhu  
-Můžete definovat typ práce pro všechny řádky časového rozvrhu pro projekty. Tímto způsobem můžete přidat informace, které je třeba účtovat zákazníkovi za různé druhy práce.
+## <a name="to-define-work-types-and-add-one-to-a-time-sheet"></a><span data-ttu-id="4ee12-127">Definování typu práce a přidání do časového rozvrhu</span><span class="sxs-lookup"><span data-stu-id="4ee12-127">To define work types and add one to a time sheet</span></span>  
+<span data-ttu-id="4ee12-128">Můžete definovat typ práce pro všechny řádky časového rozvrhu pro projekty.</span><span class="sxs-lookup"><span data-stu-id="4ee12-128">You can define the work type for all time sheet lines for jobs.</span></span> <span data-ttu-id="4ee12-129">Tímto způsobem můžete přidat informace, které je třeba účtovat zákazníkovi za různé druhy práce.</span><span class="sxs-lookup"><span data-stu-id="4ee12-129">In this way, you can add information that you need to bill the customer for different types of work.</span></span>
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Časové rozvrhy** a zvolte související odkaz.   
-2. Otevřít příslušný časový rozvrh.
-3. Zvolte pole **Popis** .  
-4. V okně **Podrobnosti o řádku časového rozvrhu projektu** vyberte pole **Kód typu práce** a vyberte typ práce ze seznamu.  
-5. Pokud neexistují žádné typy práce, vyberte akci **Nový** .
-6. V okně **Typy práce** vyplňte pole podle potřeby.
-7. Opakujte krok 4, abyste přiřadili nový typ práce do časového rozvrhu.
+1. <span data-ttu-id="4ee12-130">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Časové rozvrhy** a zvolte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="4ee12-130">In the top right corner, choose the **Search for Page or Report** icon, enter **Time Sheets**, and then choose the related link.</span></span>   
+2. <span data-ttu-id="4ee12-131">Otevřít příslušný časový rozvrh.</span><span class="sxs-lookup"><span data-stu-id="4ee12-131">Open the relevant time sheet.</span></span>
+3. <span data-ttu-id="4ee12-132">Zvolte pole **Popis** .</span><span class="sxs-lookup"><span data-stu-id="4ee12-132">Choose the **Description** field.</span></span>  
+4. <span data-ttu-id="4ee12-133">V okně **Podrobnosti o řádku časového rozvrhu projektu** vyberte pole **Kód typu práce** a vyberte typ práce ze seznamu.</span><span class="sxs-lookup"><span data-stu-id="4ee12-133">In the **Time Sheet Line Job Detail** window, choose the **Work Type Code** field, and select a work type from the list, such as **Miles**.</span></span>  
+5. <span data-ttu-id="4ee12-134">Pokud neexistují žádné typy práce, vyberte akci **Nový** .</span><span class="sxs-lookup"><span data-stu-id="4ee12-134">If no work types exist, chose the **New** action.</span></span>
+6. <span data-ttu-id="4ee12-135">V okně **Typy práce** vyplňte pole podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="4ee12-135">In the **Work Types** window, fill in the fields as necessary.</span></span>
+7. <span data-ttu-id="4ee12-136">Opakujte krok 4, abyste přiřadili nový typ práce do časového rozvrhu.</span><span class="sxs-lookup"><span data-stu-id="4ee12-136">Repeat step 4 to assign the new work type to the time sheet.</span></span>
 
-## <a name="to-reuse-time-sheet-lines-in-other-time-sheets"></a>Opakované použití řádků časového rozvrhu v jiných časových rozvrzích  
-Pokud informace o časovém rozvrhu zůstanou stejné z časového hlediska na časové období, můžete ušetřit čas kopírováním řádků z předchozího časového období. Poté zadáte vaši spotřebu času pro nové období.
+## <a name="to-reuse-time-sheet-lines-in-other-time-sheets"></a><span data-ttu-id="4ee12-137">Opakované použití řádků časového rozvrhu v jiných časových rozvrzích</span><span class="sxs-lookup"><span data-stu-id="4ee12-137">To reuse time sheet lines in other time sheets</span></span>  
+<span data-ttu-id="4ee12-138">Pokud informace o časovém rozvrhu zůstanou stejné z časového hlediska na časové období, můžete ušetřit čas kopírováním řádků z předchozího časového období.</span><span class="sxs-lookup"><span data-stu-id="4ee12-138">If your time sheet information remains the same from time period to time period, you can save time by copying the lines from the previous time period.</span></span> <span data-ttu-id="4ee12-139">Poté zadáte vaši spotřebu času pro nové období.</span><span class="sxs-lookup"><span data-stu-id="4ee12-139">Then, you just enter your time usage for the new period.</span></span>
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Časové rozvrhy** a zvolte související odkaz.  
-2. Otevřít časový list pro dobu delší než je doba pro existující časový list s řádky.  
-3. Zvolte akci **Kopírovat řádky z předchozího časového rozvrhu** .
+1. <span data-ttu-id="4ee12-140">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Časové rozvrhy** a zvolte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="4ee12-140">In the top right corner, choose the **Search for Page or Report** icon, enter **Time Sheets**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="4ee12-141">Otevřít časový list pro dobu delší než je doba pro existující časový list s řádky.</span><span class="sxs-lookup"><span data-stu-id="4ee12-141">Open the time sheet for a period later than the period for an existing time sheet with lines.</span></span>  
+3. <span data-ttu-id="4ee12-142">Zvolte akci **Kopírovat řádky z předchozího časového rozvrhu** .</span><span class="sxs-lookup"><span data-stu-id="4ee12-142">Choose the **Copy Lines from Previous Time Sheet** action.</span></span>
 
-Řádky jsou kopírovány, včetně podrobností, jako je typ a popis. Například pokud řádek souvisí s projektem, **Č. projektu**  Je zkopírován. Všechny kopírované řádky mají stav **Otevřít** . Nyní můžete upravovat řádky podle potřeby.
+<span data-ttu-id="4ee12-143">Řádky jsou kopírovány, včetně podrobností, jako je typ a popis.</span><span class="sxs-lookup"><span data-stu-id="4ee12-143">The lines are copied, including details such as type and description.</span></span> <span data-ttu-id="4ee12-144">Například pokud řádek souvisí s projektem, **Č. projektu** </span><span class="sxs-lookup"><span data-stu-id="4ee12-144">For example, if the line is related to a job, the **Job No.**</span></span> <span data-ttu-id="4ee12-145">Je zkopírován.</span><span class="sxs-lookup"><span data-stu-id="4ee12-145">is copied.</span></span> <span data-ttu-id="4ee12-146">Všechny kopírované řádky mají stav **Otevřít** .</span><span class="sxs-lookup"><span data-stu-id="4ee12-146">All copied lines have the status **Open**.</span></span> <span data-ttu-id="4ee12-147">Nyní můžete upravovat řádky podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="4ee12-147">You can now modify the lines as needed.</span></span>
 
-## <a name="to-fill-in-a-time-sheet-lines-and-submit-for-approval"></a>Vyplňte řádky časového listu a odešlete je ke schválení  
-Registrace časového rozvrhu je sledována v hodinách, což je standardní základní měrná jednotka pro zdroje. Ve výchozím nastavení se v časovém rozvrhu zobrazují běžné pracovní dny od pondělí do pátku.
+## <a name="to-fill-in-a-time-sheet-lines-and-submit-for-approval"></a><span data-ttu-id="4ee12-148">Vyplňte řádky časového listu a odešlete je ke schválení</span><span class="sxs-lookup"><span data-stu-id="4ee12-148">To fill in a time sheet lines and submit for approval</span></span>  
+<span data-ttu-id="4ee12-149">Registrace časového rozvrhu je sledována v hodinách, což je standardní základní měrná jednotka pro zdroje.</span><span class="sxs-lookup"><span data-stu-id="4ee12-149">Time sheet registration is tracked in hours, the standard base unit of measure for resources.</span></span> <span data-ttu-id="4ee12-150">Ve výchozím nastavení se v časovém rozvrhu zobrazují běžné pracovní dny od pondělí do pátku.</span><span class="sxs-lookup"><span data-stu-id="4ee12-150">By default, a time sheet shows the common work days of Monday through Friday.</span></span>
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Časové rozvrhy** a zvolte související odkaz.  
-2. Vyberte časový rozvrh pro příslušné časové období a potom zvolte akci **Upravit časový rozvrh** .  
-3. Vyplňte pole na řádku podle potřeby. Zadejte počet hodin používaných zdrojem pro každý den v týdnu.
+1. <span data-ttu-id="4ee12-151">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Časové rozvrhy** a zvolte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="4ee12-151">In the top right corner, choose the **Search for Page or Report** icon, enter **Time Sheets**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="4ee12-152">Vyberte časový rozvrh pro příslušné časové období a potom zvolte akci **Upravit časový rozvrh** .</span><span class="sxs-lookup"><span data-stu-id="4ee12-152">Select a time sheet for the relevant time period, and then choose the **Edit Time Sheet** action.</span></span>  
+3. <span data-ttu-id="4ee12-153">Vyplňte pole na řádku podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="4ee12-153">Fill in the fields on a line as necessary.</span></span> <span data-ttu-id="4ee12-154">Zadejte počet hodin používaných zdrojem pro každý den v týdnu.</span><span class="sxs-lookup"><span data-stu-id="4ee12-154">Enter the number of hours used by the resource on each day of the week.</span></span>
 
-    **Tip**: Můžete si prohlédnout součet hodin časového rozvrhu, které jste zadali do **Aktuální/Rozpočtový souhrn** rozpočet.  
+    <span data-ttu-id="4ee12-155">**Tip**: Můžete si prohlédnout součet hodin časového rozvrhu, které jste zadali do **Aktuální/Rozpočtový souhrn** rozpočet.</span><span class="sxs-lookup"><span data-stu-id="4ee12-155">**Tip**: You can review the sum of time sheet hours that you have entered in the **Actual/Budgeted Summary** FactBox.</span></span>  
 
-4. Opakujte krok 3 pro ostatní typy práce, které zdroj provádí.
-5. Zvolte akci **Odeslat** a potom vyberte akci **Všechny otevřené řádky** chcete-li odeslat všechny řádky nebo akci **Pouze vybrané řádky** abyste odeslali pouze řádky, které jsou vybrány v okně **Časový rozvrh** .  
+4. <span data-ttu-id="4ee12-156">Opakujte krok 3 pro ostatní typy práce, které zdroj provádí.</span><span class="sxs-lookup"><span data-stu-id="4ee12-156">Repeat step 3 for other work types that the resource performs.</span></span>
+5. <span data-ttu-id="4ee12-157">Zvolte akci **Odeslat** a potom vyberte akci **Všechny otevřené řádky** chcete-li odeslat všechny řádky nebo akci **Pouze vybrané řádky** abyste odeslali pouze řádky, které jsou vybrány v okně **Časový rozvrh** .</span><span class="sxs-lookup"><span data-stu-id="4ee12-157">Choose the **Submit** action, and then choose the **All open lines** action to submit all lines or the **Selected lines only** action to submit only the lines that are selected in the **Time Sheet** window.</span></span>  
 
-    **Poznámka**: Můžete odesílat pouze řádky časových rozvrhů, pro které jste zadali čas.  
+    <span data-ttu-id="4ee12-158">**Poznámka**: Můžete odesílat pouze řádky časových rozvrhů, pro které jste zadali čas.</span><span class="sxs-lookup"><span data-stu-id="4ee12-158">**Note**: You can only submit time sheet lines for which you have entered time.</span></span>  
 
-6. Chcete-li upravit informace na řádku, který byl nastaven na **Odesláno** , vyberte řádek a poté zvolte akci **Otevřít znovu** .
+6. <span data-ttu-id="4ee12-159">Chcete-li upravit informace na řádku, který byl nastaven na **Odesláno** , vyberte řádek a poté zvolte akci **Otevřít znovu** .</span><span class="sxs-lookup"><span data-stu-id="4ee12-159">To modify information on a line that has been set to **Submitted**, select the line, and then choose the **Reopen** action.</span></span>
 
-    **Poznámka**: Správce může odmítnout řádek časového rozvrhu, který je předložen ke schválení. Pokud má řádek stav **Odmítnuto** , můžete provést změny řádku a poté znovu vybrat možnost **Odeslat** .  
+    <span data-ttu-id="4ee12-160">**Poznámka**: Správce může odmítnout řádek časového rozvrhu, který je předložen ke schválení.</span><span class="sxs-lookup"><span data-stu-id="4ee12-160">**Note**: A manager may reject a time sheet line that is submitted for approval.</span></span> <span data-ttu-id="4ee12-161">Pokud má řádek stav **Odmítnuto** , můžete provést změny řádku a poté znovu vybrat možnost **Odeslat** .</span><span class="sxs-lookup"><span data-stu-id="4ee12-161">If a line has a status of **Rejected**, you can make changes to the line, and then choose **Submit** again.</span></span>  
 
-7. Zvolte tlačítko **OK**.
+7. <span data-ttu-id="4ee12-162">Zvolte tlačítko **OK**.</span><span class="sxs-lookup"><span data-stu-id="4ee12-162">Choose the **OK** button.</span></span>
 
-## <a name="to-approve-or-reject-a-time-sheet"></a>Schválení nebo odmítnutí časového rozvrhu  
-Časový rozvrh musí být před použitím předložen ke schválení. Jednotlivé řádky můžete schválit a odmítnout na časovém rozvrhu nebo je poslat zpět zadavateli pro další akce. Časový rozvrh lze schválit dvěma způsoby:
-- Správce časového rozvrhu může schvalovat libovolný časový rozvrh.
-- Osoba, která je uvedena v poli **ID schavalovatele časového rozvrhu** na kartě zdroje, může schválit časové rozvrhy tohoto zdroje. Další informace naleznete v tématu [Návod: Nastavení časových rozvrhů](projects-how-setup-time-sheets.md) .
+## <a name="to-approve-or-reject-a-time-sheet"></a><span data-ttu-id="4ee12-163">Schválení nebo odmítnutí časového rozvrhu</span><span class="sxs-lookup"><span data-stu-id="4ee12-163">To approve or reject a time sheet</span></span>  
+<span data-ttu-id="4ee12-164">Časový rozvrh musí být před použitím předložen ke schválení.</span><span class="sxs-lookup"><span data-stu-id="4ee12-164">A time sheet must be submitted for approval before it can be used.</span></span> <span data-ttu-id="4ee12-165">Jednotlivé řádky můžete schválit a odmítnout na časovém rozvrhu nebo je poslat zpět zadavateli pro další akce.</span><span class="sxs-lookup"><span data-stu-id="4ee12-165">You can approve and reject individual lines on a time sheet or send them back to the submitter for additional action.</span></span> <span data-ttu-id="4ee12-166">Časový rozvrh lze schválit dvěma způsoby:</span><span class="sxs-lookup"><span data-stu-id="4ee12-166">A time sheet can be approved in two ways:</span></span>
+- <span data-ttu-id="4ee12-167">Správce časového rozvrhu může schvalovat libovolný časový rozvrh.</span><span class="sxs-lookup"><span data-stu-id="4ee12-167">A time sheet administrator can approve any time sheet.</span></span>
+- <span data-ttu-id="4ee12-168">Osoba, která je uvedena v poli **ID schavalovatele časového rozvrhu** na kartě zdroje, může schválit časové rozvrhy tohoto zdroje.</span><span class="sxs-lookup"><span data-stu-id="4ee12-168">The person who is specified in the **Time Sheet Approver User ID** field on a resource card can approve that resource's time sheets.</span></span> <span data-ttu-id="4ee12-169">Další informace naleznete v tématu [Návod: Nastavení časových rozvrhů](projects-how-setup-time-sheets.md) .</span><span class="sxs-lookup"><span data-stu-id="4ee12-169">For more information, see [How to: Set Up Time Sheets](projects-how-setup-time-sheets.md).</span></span>
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Správce Časových rozvrhů** a zvolte související odkaz.
-2. Vyberte časový rozvrh ze seznamu.  
-3. V okně **Časový rozvrh** vyberte akci **Schválení** a poté vyberte akci **Všechny odeslané řádky** , pro schválení všech řádků nebo akci **Pouze vybrané řádky** pro schválení pouze řádků, které jste vybrali v okně **Časový rozvrh** .
-4. Zvolte tlačítko **OK**.  
-5. Nebo zvolte akci **Odmítnout** a postupujte podle kroků 4 až 5.  
+1. <span data-ttu-id="4ee12-170">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Správce Časových rozvrhů** a zvolte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="4ee12-170">In the top right corner, choose the **Search for Page or Report** icon, enter **Manager Time Sheets**, and then choose the related link.</span></span>
+2. <span data-ttu-id="4ee12-171">Vyberte časový rozvrh ze seznamu.</span><span class="sxs-lookup"><span data-stu-id="4ee12-171">Select a time sheet from the list.</span></span>  
+3. <span data-ttu-id="4ee12-172">V okně **Časový rozvrh** vyberte akci **Schválení** a poté vyberte akci **Všechny odeslané řádky** , pro schválení všech řádků nebo akci **Pouze vybrané řádky** pro schválení pouze řádků, které jste vybrali v okně **Časový rozvrh** .</span><span class="sxs-lookup"><span data-stu-id="4ee12-172">In the **Time Sheet** window, choose the **Approve** action, and then choose the **All submitted lines** action to approve all lines or the **Selected lines only** action to approve only the lines that are selected in the **Time Sheet** window.</span></span>
+4. <span data-ttu-id="4ee12-173">Zvolte tlačítko **OK**.</span><span class="sxs-lookup"><span data-stu-id="4ee12-173">Choose the **OK** button.</span></span>  
+5. <span data-ttu-id="4ee12-174">Nebo zvolte akci **Odmítnout** a postupujte podle kroků 4 až 5.</span><span class="sxs-lookup"><span data-stu-id="4ee12-174">Alternatively, choose the **Reject** action and follow steps 4 through 5.</span></span>  
 
-**Tip**: Použijte Factboxy **Stav časového rozvrhu** a **Aktuální/Rozpočtový Souhrn** pro získání přehledu o časových rozvrzích.
+<span data-ttu-id="4ee12-175">**Tip**: Použijte Factboxy **Stav časového rozvrhu** a **Aktuální/Rozpočtový Souhrn** pro získání přehledu o časových rozvrzích.</span><span class="sxs-lookup"><span data-stu-id="4ee12-175">**Tip**: Use the **Time Sheet Status** and **Actual/Budgeted Summary** FactBoxes to get an overview of time sheet information.</span></span>
 
-Poté, co schválíte nebo odmítnete časový rozvrh, nelze jej změnit, dokud nebude znovu otevřen. Následující postup vysvětluje, jak znovu otevřít schválený nebo zamítnutý časový rozvrh.
+<span data-ttu-id="4ee12-176">Poté, co schválíte nebo odmítnete časový rozvrh, nelze jej změnit, dokud nebude znovu otevřen.</span><span class="sxs-lookup"><span data-stu-id="4ee12-176">After you have approved or rejected a time sheet, it cannot be modified unless it is first reopened.</span></span> <span data-ttu-id="4ee12-177">Následující postup vysvětluje, jak znovu otevřít schválený nebo zamítnutý časový rozvrh.</span><span class="sxs-lookup"><span data-stu-id="4ee12-177">The following procedure explains how to reopen an approved or rejected time sheet.</span></span>
 
-## <a name="to-reopen-a-time-sheet"></a>Opětovné otevření časového rozvrhu  
+## <a name="to-reopen-a-time-sheet"></a><span data-ttu-id="4ee12-178">Opětovné otevření časového rozvrhu</span><span class="sxs-lookup"><span data-stu-id="4ee12-178">To reopen a time sheet</span></span>  
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Správce Časových rozvrhů** a zvolte související odkaz.
-2. Otevřete časový rozvrh ze seznamu.  
+1. <span data-ttu-id="4ee12-179">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Správce Časových rozvrhů** a zvolte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="4ee12-179">In the top right corner, choose the **Search for Page or Report** icon, enter **Manager Time Sheets** or **Time Sheets**, and then choose the related link.</span></span>
+2. <span data-ttu-id="4ee12-180">Otevřete časový rozvrh ze seznamu.</span><span class="sxs-lookup"><span data-stu-id="4ee12-180">Open a time sheet from the list.</span></span>  
 
-    **Poznámka**: Můžete pouze znovu otevřít řádky, které mají stav **Schváleno** . Nemůžete znovu otevřít řádky, které mají stav **Odmítnuto** . Pokud jste již zaúčtovali časový rozvrh, nelze jej znovu otevřít.  
+    <span data-ttu-id="4ee12-181">**Poznámka**: Můžete pouze znovu otevřít řádky, které mají stav **Schváleno** .</span><span class="sxs-lookup"><span data-stu-id="4ee12-181">**Note**: You can only reopen lines that have the status **Approved**.</span></span> <span data-ttu-id="4ee12-182">Nemůžete znovu otevřít řádky, které mají stav **Odmítnuto** .</span><span class="sxs-lookup"><span data-stu-id="4ee12-182">You cannot reopen lines that have the status **Rejected**.</span></span> <span data-ttu-id="4ee12-183">Pokud jste již zaúčtovali časový rozvrh, nelze jej znovu otevřít.</span><span class="sxs-lookup"><span data-stu-id="4ee12-183">You cannot reopen a time sheet if it has been posted.</span></span>  
 
-3. V okně **Časový rozvrh** vyberte akci **Opětovné otevření** a poté vyberte akci **Všechny odeslané řádky** chcete-li znovu otevřít všechny řádky nebo akci **Pouze vybrané řádky** abyste znovu otevřeli pouze řádky, které jsou vybrány v okně **Časový rozvrh** .
-4. Zvolte tlačítko **OK**. Stav řádku nebo řádků časových rozvrhů je změněn na **Odesláno** .  
+3. <span data-ttu-id="4ee12-184">V okně **Časový rozvrh** vyberte akci **Opětovné otevření** a poté vyberte akci **Všechny odeslané řádky** chcete-li znovu otevřít všechny řádky nebo akci **Pouze vybrané řádky** abyste znovu otevřeli pouze řádky, které jsou vybrány v okně **Časový rozvrh** .</span><span class="sxs-lookup"><span data-stu-id="4ee12-184">In the **Time Sheet** window, choose the **Reopen** action, and then choose the **All submitted lines** action to reopen all lines or the **Selected lines only** action to reopen only the lines that are selected in the **Time Sheet** window.</span></span>
+4. <span data-ttu-id="4ee12-185">Zvolte tlačítko **OK**.</span><span class="sxs-lookup"><span data-stu-id="4ee12-185">Choose the **OK** button.</span></span> <span data-ttu-id="4ee12-186">Stav řádku nebo řádků časových rozvrhů je změněn na **Odesláno** .</span><span class="sxs-lookup"><span data-stu-id="4ee12-186">The status of the time sheets line or lines is changes to **Submitted**.</span></span>  
 
-## <a name="to-post-time-sheet-lines-in-a-resource-journal"></a>Zaúčtování řádků časového rozvrhu v deníku zdrojů  
-Po schválení položek časového rozvrhu pro zdroj je můžete zaúčtovat do příslušného deníku zdrojů.
+## <a name="to-post-time-sheet-lines-in-a-resource-journal"></a><span data-ttu-id="4ee12-187">Zaúčtování řádků časového rozvrhu v deníku zdrojů</span><span class="sxs-lookup"><span data-stu-id="4ee12-187">To post time sheet lines in a resource journal</span></span>  
+<span data-ttu-id="4ee12-188">Po schválení položek časového rozvrhu pro zdroj je můžete zaúčtovat do příslušného deníku zdrojů.</span><span class="sxs-lookup"><span data-stu-id="4ee12-188">After you have approved time sheet entries for a resource, you can post them to the relevant resource journal.</span></span>
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Deník zdrojů** a zvolte související odkaz.  
-2. Zvolte akci **Navrhnout řádky z časových rozvrhů** .  
-3. Vyplňte pole podle potřeby.  
-4. Zvolte tlačítko **OK**. Položky pro spotřebu jsou vytvořeny v deníku zdrojů, kde je možné upravit informace podle potřeby.  
-5. Zvolte akci **Zaúčtovat**.  
-6. Chcete-li ověřit účtování, zvolte akci **Věcné položky** . Okno **Položky zdrojů** zobrazuje výsledek účtování deníku zdrojů.
+1. <span data-ttu-id="4ee12-189">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Deník zdrojů** a zvolte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="4ee12-189">In the top right corner, choose the **Search for Page or Report** icon, enter **Resource Journal**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="4ee12-190">Zvolte akci **Navrhnout řádky z časových rozvrhů** .</span><span class="sxs-lookup"><span data-stu-id="4ee12-190">Choose the **Suggest Lines from Time Sheets** action.</span></span>  
+3. <span data-ttu-id="4ee12-191">Vyplňte pole podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="4ee12-191">Fill in the fields as necessary.</span></span>  
+4. <span data-ttu-id="4ee12-192">Zvolte tlačítko **OK**.</span><span class="sxs-lookup"><span data-stu-id="4ee12-192">Choose the **OK** button.</span></span> <span data-ttu-id="4ee12-193">Položky pro spotřebu jsou vytvořeny v deníku zdrojů, kde je možné upravit informace podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="4ee12-193">Entries for usage are created in the resource journal, where you can modify the information as needed.</span></span>  
+5. <span data-ttu-id="4ee12-194">Zvolte akci **Zaúčtovat**.</span><span class="sxs-lookup"><span data-stu-id="4ee12-194">Choose the **Post** action.</span></span>  
+6. <span data-ttu-id="4ee12-195">Chcete-li ověřit účtování, zvolte akci **Věcné položky** .</span><span class="sxs-lookup"><span data-stu-id="4ee12-195">To verify the posting, choose the **Ledger Entries** action.</span></span> <span data-ttu-id="4ee12-196">Okno **Položky zdrojů** zobrazuje výsledek účtování deníku zdrojů.</span><span class="sxs-lookup"><span data-stu-id="4ee12-196">The **Resource Ledger Entries** window opens showing the result of posting the resource journal.</span></span>
 
-## <a name="to-post-time-sheet-lines-in-a-job-journal"></a>Zaúčtování řádků časového rozvrhu v deníku projektu  
-Poté, co schválíte položky časových rozvrhů pro projekt, můžete je zaúčtovat do příslušného deníku projektu.
+## <a name="to-post-time-sheet-lines-in-a-job-journal"></a><span data-ttu-id="4ee12-197">Zaúčtování řádků časového rozvrhu v deníku projektu</span><span class="sxs-lookup"><span data-stu-id="4ee12-197">To post time sheet lines in a job journal</span></span>  
+<span data-ttu-id="4ee12-198">Poté, co schválíte položky časových rozvrhů pro projekt, můžete je zaúčtovat do příslušného deníku projektu.</span><span class="sxs-lookup"><span data-stu-id="4ee12-198">After you have approved time sheet entries for a job, you can post them to the relevant job journal.</span></span>
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Deníky projektu** a poté vyberte související odkaz.  
-2. Zvolte akci **Navrhnout řádky z časových rozvrhů** .  
-3. Vyplňte pole podle potřeby.  
-4. Zvolte tlačítko **OK**. Položky spotřeby jsou vytvořeny v deníku projektu, kde je možné podle potřeby upravit informace.  
+1. <span data-ttu-id="4ee12-199">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Deníky projektu** a poté vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="4ee12-199">In the top right corner, choose the **Search for Page or Report** icon, enter **Job Journal**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="4ee12-200">Zvolte akci **Navrhnout řádky z časových rozvrhů** .</span><span class="sxs-lookup"><span data-stu-id="4ee12-200">Choose the **Suggest Lines from Time Sheets** action.</span></span>  
+3. <span data-ttu-id="4ee12-201">Vyplňte pole podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="4ee12-201">Fill in the fields as necessary.</span></span>  
+4. <span data-ttu-id="4ee12-202">Zvolte tlačítko **OK**.</span><span class="sxs-lookup"><span data-stu-id="4ee12-202">Choose the **OK** button.</span></span> <span data-ttu-id="4ee12-203">Položky spotřeby jsou vytvořeny v deníku projektu, kde je možné podle potřeby upravit informace.</span><span class="sxs-lookup"><span data-stu-id="4ee12-203">Entries for usage are created in the job journal, where you can modify the information as needed.</span></span>  
 
-    **Poznámka**: Informace o typu práce a o tom, zda je práce fakturovatelná, je zkopírována z řádku časového rozvrhu. V případě potřeby můžete počet hodin snížit a částečně zaúčtovat. Pokud snížíte množství, potom při vybrání akce **Navrhnout řádky z časového rozvrhu**,  bude vytvořený řádek obsahovat zbývající množství hodin.  
+    <span data-ttu-id="4ee12-204">**Poznámka**: Informace o typu práce a o tom, zda je práce fakturovatelná, je zkopírována z řádku časového rozvrhu.</span><span class="sxs-lookup"><span data-stu-id="4ee12-204">**Note**: Information about work type and whether the work is chargeable is copied from the time sheet line.</span></span> <span data-ttu-id="4ee12-205">V případě potřeby můžete počet hodin snížit a částečně zaúčtovat.</span><span class="sxs-lookup"><span data-stu-id="4ee12-205">If needed, you can reduce the quantity of hours and do a partial posting.</span></span> <span data-ttu-id="4ee12-206">Pokud snížíte množství, potom při vybrání akce **Navrhnout řádky z časového rozvrhu**,  bude vytvořený řádek obsahovat zbývající množství hodin.</span><span class="sxs-lookup"><span data-stu-id="4ee12-206">If you reduce the quantity, then the next time that you choose the **Suggest Lines From Time Sheets** action, the line that is created will contain the remaining quantity of hours.</span></span>  
 
-5. Zvolte akci **Zaúčtovat**.  
-6. Chcete-li ověřit účtování, zvolte akci **Věcné položky** . Otevře se okno **Položky projektu** , které zobrazuje výsledek účtování deníku zdrojů.
+5. <span data-ttu-id="4ee12-207">Zvolte akci **Zaúčtovat**.</span><span class="sxs-lookup"><span data-stu-id="4ee12-207">Choose the **Post** action.</span></span>  
+6. <span data-ttu-id="4ee12-208">Chcete-li ověřit účtování, zvolte akci **Věcné položky** .</span><span class="sxs-lookup"><span data-stu-id="4ee12-208">To verify the posting, choose the **Ledger Entries** action.</span></span> <span data-ttu-id="4ee12-209">Otevře se okno **Položky projektu** , které zobrazuje výsledek účtování deníku zdrojů.</span><span class="sxs-lookup"><span data-stu-id="4ee12-209">The **Job Ledger Entries** window opens showing the result of posting the resource journal.</span></span>
 
-## <a name="to-archive-time-sheets"></a>Archiv časových rozvrhů  
-Po zaúčtování časových rozvrhů je můžete archivovat pro budoucí použití. Všechny řádky časových rozvrhů musí být zaúčtovány před archivací časového rozvrhu.
+## <a name="to-archive-time-sheets"></a><span data-ttu-id="4ee12-210">Archiv časových rozvrhů</span><span class="sxs-lookup"><span data-stu-id="4ee12-210">To archive time sheets</span></span>  
+<span data-ttu-id="4ee12-211">Po zaúčtování časových rozvrhů je můžete archivovat pro budoucí použití.</span><span class="sxs-lookup"><span data-stu-id="4ee12-211">After you have posted time sheets, you can archive them for future reference.</span></span> <span data-ttu-id="4ee12-212">Všechny řádky časových rozvrhů musí být zaúčtovány před archivací časového rozvrhu.</span><span class="sxs-lookup"><span data-stu-id="4ee12-212">All time sheets lines must be posted before a time sheet can be archived.</span></span>
 
-**Poznámka**: Při archivaci časového rozvrhu je ze seznamů odstraněn v těchto dvou oknech **Časový rozvrh** a **Správce časových rozvrhů** .
+<span data-ttu-id="4ee12-213">**Poznámka**: Při archivaci časového rozvrhu je ze seznamů odstraněn v těchto dvou oknech **Časový rozvrh** a **Správce časových rozvrhů** .</span><span class="sxs-lookup"><span data-stu-id="4ee12-213">**Note**: When you archive a time sheet, it is removed from the lists in both the **Time Sheets** window and the **Manager Time Sheets** window.</span></span>
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Přesunout časové rozvrhy do archivu** a zvolte související odkaz.  
-2. Vyplňte pole podle potřeby a zavřete okno.  
-3. Chcete-li si prohlédnout archivované časové rozvrhy, v pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Archiv časových rozvrhů** nebo **Archivy  časového listu správce** a vyberte příslušný odkaz.
+1. <span data-ttu-id="4ee12-214">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Přesunout časové rozvrhy do archivu** a zvolte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="4ee12-214">In the top right corner, choose the **Search for Page or Report** icon, enter **Move Time Sheets to Archive**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="4ee12-215">Vyplňte pole podle potřeby a zavřete okno.</span><span class="sxs-lookup"><span data-stu-id="4ee12-215">Fill in the fields as necessary, and then close the window.</span></span>  
+3. <span data-ttu-id="4ee12-216">Chcete-li si prohlédnout archivované časové rozvrhy, v pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Archiv časových rozvrhů** nebo **Archivy  časového listu správce** a vyberte příslušný odkaz.</span><span class="sxs-lookup"><span data-stu-id="4ee12-216">To review archived time sheets, in the top right corner, choose the **Search for Page or Report** icon, enter **Time Sheet Archives** or **Manager Time Sheet Archives**, and then choose the related link.</span></span>
 
-## <a name="see-also"></a>Viz také
-[Správa projektů](projects-manage-projects.md)  
-[Nastavit řízení projektu](projects-setup-projects.md)    
-[Finance](finance-setup.md)  
-[Správa nákupu](purchasing-manage-purchasing.md)         
-[Spravovat prodej](sales-manage-sales.md)     
-[Pracujte s Dynamics NAV](ui-work-product.md)  
+## <a name="see-also"></a><span data-ttu-id="4ee12-217">Viz také</span><span class="sxs-lookup"><span data-stu-id="4ee12-217">See Also</span></span>
+[<span data-ttu-id="4ee12-218">Správa projektů</span><span class="sxs-lookup"><span data-stu-id="4ee12-218">Manage Projects</span></span>](projects-manage-projects.md)  
+<span data-ttu-id="4ee12-219">[Nastavit řízení projektu](projects-setup-projects.md)  </span><span class="sxs-lookup"><span data-stu-id="4ee12-219">[Set Up Project Management](projects-setup-projects.md)  </span></span>  
+[<span data-ttu-id="4ee12-220">Finance</span><span class="sxs-lookup"><span data-stu-id="4ee12-220">Finance</span></span>](finance-setup.md)  
+<span data-ttu-id="4ee12-221">[Správa nákupu](purchasing-manage-purchasing.md)       </span><span class="sxs-lookup"><span data-stu-id="4ee12-221">[Manage Purchasing](purchasing-manage-purchasing.md)       </span></span>  
+<span data-ttu-id="4ee12-222">[Spravovat prodej](sales-manage-sales.md)   </span><span class="sxs-lookup"><span data-stu-id="4ee12-222">[Manage Sales](sales-manage-sales.md)   </span></span>  
+[<span data-ttu-id="4ee12-223">Pracujte s Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="4ee12-223">Work With Dynamics NAV</span></span>](ui-work-product.md)  
 

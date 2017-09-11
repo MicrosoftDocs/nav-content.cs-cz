@@ -1,1 +1,1 @@
-Rozšíření NAV
+<span data-ttu-id="c376d-101">Rozšíření NAV</span><span class="sxs-lookup"><span data-stu-id="c376d-101">NAV extension</span></span>

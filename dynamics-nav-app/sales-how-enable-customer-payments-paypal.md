@@ -9,45 +9,45 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: a2268d8454af761c40b11d89b01778a3f92090fb
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 15f30a03c3e7ccc865ef527a707794c2c6428b2f
 ms.contentlocale: cs-cz
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-enable-customer-payments-through-paypal"></a>Návod: Povolení zákaznických plateb pomocí PayPalu
-Jako alternativu k výběru plateb bankovním převodem nebo kreditními kartami můžete svým zákazníkům nabídnout, že Vám budou platit prostřednictvím účtu PayPal.
+# <a name="how-to-enable-customer-payments-through-paypal"></a><span data-ttu-id="04869-102">Návod: Povolení zákaznických plateb pomocí PayPalu</span><span class="sxs-lookup"><span data-stu-id="04869-102">How to: Enable Customer Payments Through PayPal#</span></span>
+<span data-ttu-id="04869-103">Jako alternativu k výběru plateb bankovním převodem nebo kreditními kartami můžete svým zákazníkům nabídnout, že Vám budou platit prostřednictvím účtu PayPal.</span><span class="sxs-lookup"><span data-stu-id="04869-103">As an alternative to collecting payments through bank transfer or credit cards, you can offer your customers to pay you through their PayPal account.</span></span>
 
-Pokud zákazník zvolí odkaz PayPal na prodejní faktuře nebo v prodejní objednávce, objeví se stránka pro služby PayPal s platebními údaji. Zákazník může zaplatit fakturu jako jakoukoli jinou PayPal platbu.
+<span data-ttu-id="04869-104">Pokud zákazník zvolí odkaz PayPal na prodejní faktuře nebo v prodejní objednávce, objeví se stránka pro služby PayPal s platebními údaji.</span><span class="sxs-lookup"><span data-stu-id="04869-104">When a customer chooses the PayPal link on a sales invoice or sales order document, the service page for their PayPal account appears showing the payment details for the sale.</span></span> <span data-ttu-id="04869-105">Zákazník může zaplatit fakturu jako jakoukoli jinou PayPal platbu.</span><span class="sxs-lookup"><span data-stu-id="04869-105">The customer can then pay the invoice as any other PayPal payment.</span></span>
 
-Chcete-li povolit platby zákazníkům prostřednictvím služby PayPal, musíte provést následující kroky:
+<span data-ttu-id="04869-106">Chcete-li povolit platby zákazníkům prostřednictvím služby PayPal, musíte provést následující kroky:</span><span class="sxs-lookup"><span data-stu-id="04869-106">To enable customer payments through PayPal, you must do the following:</span></span>
 
-1. Nastavte službu PayPal Payments Standard jako platební službu v okně **Služby pro platby**.
-2. Zvolte v **Služby pro platby** PayPal Payments Standard na daném prodejním dokladu.
+1. <span data-ttu-id="04869-107">Nastavte službu PayPal Payments Standard jako platební službu v okně **Služby pro platby**.</span><span class="sxs-lookup"><span data-stu-id="04869-107">Set up PayPal Payments Standard as a payment service in the **Payments Services** window.</span></span>
+2. <span data-ttu-id="04869-108">Zvolte v **Služby pro platby** PayPal Payments Standard na daném prodejním dokladu.</span><span class="sxs-lookup"><span data-stu-id="04869-108">Select PayPal Payments Standard in the **Payment Service** field on the sales document in question.</span></span>
 
-Služba PayPal Payments Standard bude nainstalována jako rozšíření Dynamics NAV a bude připravena k zapnutí. Další informace naleznete v tématu: [Přizpůsobení Dynamics NAV pomocí rozšíření](ui-extensions.md).
+<span data-ttu-id="04869-109">Služba PayPal Payments Standard bude nainstalována jako rozšíření Dynamics NAV a bude připravena k zapnutí.</span><span class="sxs-lookup"><span data-stu-id="04869-109">The PayPal Payments Standard service is installed as an extension to Dynamics NAV and ready to enabled.</span></span> <span data-ttu-id="04869-110">Další informace naleznete v tématu: [Přizpůsobení Dynamics NAV pomocí rozšíření](ui-extensions.md).</span><span class="sxs-lookup"><span data-stu-id="04869-110">For more information, see [Customizing Dynamics NAV Using Extensions ](ui-extensions.md).</span></span>
 
-## <a name="to-enable-the-paypal-payments-standard-service"></a>Povolení služby PayPal Payments Standard
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Služby pro platby** a poté vyberte příslušný odkaz.  
-2. V okně **Služby pro platby** zvolte **Nový**.
-3. Vyberte **PayPal Standard** a zavřete okno.
-4. V okně **Služby pro platby** zvolte **Nastavení**.
-5. Vyplňte pole dle potřeby. Vyberte pole a přečtěte si krátký popis pole nebo odkaz pro další informace.
+## <a name="to-enable-the-paypal-payments-standard-service"></a><span data-ttu-id="04869-111">Povolení služby PayPal Payments Standard</span><span class="sxs-lookup"><span data-stu-id="04869-111">To enable the PayPal Payments Standard service</span></span>
+1. <span data-ttu-id="04869-112">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Služby pro platby** a poté vyberte příslušný odkaz.</span><span class="sxs-lookup"><span data-stu-id="04869-112">In the top right corner, choose the **Search for Page or Report** icon, **Payment Services**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="04869-113">V okně **Služby pro platby** zvolte **Nový**.</span><span class="sxs-lookup"><span data-stu-id="04869-113">In the **Payment Services** window, choose the **New** action.</span></span>
+3. <span data-ttu-id="04869-114">Vyberte **PayPal Standard** a zavřete okno.</span><span class="sxs-lookup"><span data-stu-id="04869-114">Select **PayPal Standard**, and then close the window.</span></span>
+4. <span data-ttu-id="04869-115">V okně **Služby pro platby** zvolte **Nastavení**.</span><span class="sxs-lookup"><span data-stu-id="04869-115">In the **Payment Services** window, choose the **Setup** action.</span></span>
+5. <span data-ttu-id="04869-116">Vyplňte pole dle potřeby.</span><span class="sxs-lookup"><span data-stu-id="04869-116">Fill in the fields as necessary.</span></span> <span data-ttu-id="04869-117">Vyberte pole a přečtěte si krátký popis pole nebo odkaz pro další informace.</span><span class="sxs-lookup"><span data-stu-id="04869-117">Choose a field to read a short description of the field or link to more information.</span></span>
 
-    **Poznámka**: Zaškrtněte políčko **Vždy zahrnuto v dokumentech**, pokud má být hypertextový odkaz pro platební službu PayPal vždy viditelný v prodejních dokladech, kde je povolena platba prostřednictvím služby PayPal.
+    <span data-ttu-id="04869-118">**Poznámka**: Zaškrtněte políčko **Vždy zahrnuto v dokumentech**, pokud má být hypertextový odkaz pro platební službu PayPal vždy viditelný v prodejních dokladech, kde je povolena platba prostřednictvím služby PayPal.</span><span class="sxs-lookup"><span data-stu-id="04869-118">**Note**: Select the **Always Include on Documents** check box if the hyperlink for the PayPal payment service should always be visible on sales documents where payment through PayPal is enabled.</span></span>
 
-6. Zavřete okno.
+6. <span data-ttu-id="04869-119">Zavřete okno.</span><span class="sxs-lookup"><span data-stu-id="04869-119">Close the window.</span></span>
 
-## <a name="to-select-paypal-payments-standard-on-a-sales-invoice"></a>Vybrání PayPal Payments Standard na prodejní faktuře
-1. Na domovské stránce vyberte položku **Prodejní faktury**.
-2. Otevřete prodejní fakturu, na kterou chcete povolit platby PayPal.
-3. V poli **Služby pro platby** vyberte PayPal Payments Standard.
+## <a name="to-select-paypal-payments-standard-on-a-sales-invoice"></a><span data-ttu-id="04869-120">Vybrání PayPal Payments Standard na prodejní faktuře</span><span class="sxs-lookup"><span data-stu-id="04869-120">To select PayPal Payments Standard on a sales invoice</span></span>
+1. <span data-ttu-id="04869-121">Na domovské stránce vyberte položku **Prodejní faktury**.</span><span class="sxs-lookup"><span data-stu-id="04869-121">On the Home page, choose **Sales Invoices**.</span></span>
+2. <span data-ttu-id="04869-122">Otevřete prodejní fakturu, na kterou chcete povolit platby PayPal.</span><span class="sxs-lookup"><span data-stu-id="04869-122">Open the sales invoice that you want to enable PayPal payments for.</span></span>
+3. <span data-ttu-id="04869-123">V poli **Služby pro platby** vyberte PayPal Payments Standard.</span><span class="sxs-lookup"><span data-stu-id="04869-123">In the **Payment Service** field, choose PayPal Payments Standard.</span></span>
 
-**Poznámka**: Pole **Služby pro platby** je pouze viditelné pokud je služba PayPal Payments Standard zapnutá.   
+<span data-ttu-id="04869-124">**Poznámka**: Pole **Služby pro platby** je pouze viditelné pokud je služba PayPal Payments Standard zapnutá.</span><span class="sxs-lookup"><span data-stu-id="04869-124">**Note**: The **Payment Service** field is only visible if the PayPal Payments Standard service is enabled.</span></span>   
 
-## <a name="see-also"></a>Viz také  
-[Nastavení prodeje](sales-setup-sales.md)  
-[Správa prodeje](sales-manage-sales.md)  
-[Přizpůsobení Dynamics NAV pomocí Extensions](ui-extensions.md)
+## <a name="see-also"></a><span data-ttu-id="04869-125">Viz také</span><span class="sxs-lookup"><span data-stu-id="04869-125">See Also</span></span>  
+[<span data-ttu-id="04869-126">Nastavení prodeje</span><span class="sxs-lookup"><span data-stu-id="04869-126">Set Up Sales</span></span>](sales-setup-sales.md)  
+[<span data-ttu-id="04869-127">Správa prodeje</span><span class="sxs-lookup"><span data-stu-id="04869-127">Manage Sales</span></span>](sales-manage-sales.md)  
+[<span data-ttu-id="04869-128">Přizpůsobení Dynamics NAV pomocí Extensions</span><span class="sxs-lookup"><span data-stu-id="04869-128">Customizing Dynamics NAV Using Extensions</span></span>](ui-extensions.md)
 

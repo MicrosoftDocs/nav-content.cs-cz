@@ -1,1 +1,1 @@
-Instalace aplikace Microsoft Dynamics NAV 2017
+<span data-ttu-id="e7bcb-101">Instalace aplikace Microsoft Dynamics NAV 2017</span><span class="sxs-lookup"><span data-stu-id="e7bcb-101">Microsoft Dynamics NAV 2017 Setup</span></span>

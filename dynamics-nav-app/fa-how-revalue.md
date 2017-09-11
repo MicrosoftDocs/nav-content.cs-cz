@@ -16,105 +16,105 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-revalue-fixed-assets"></a>Návod: Přecenění DM
-Přecenění DM může zahrnovat zhodnocení, snížení hodnoty nebo úpravy obecné hodnoty.
+# <a name="how-to-revalue-fixed-assets"></a><span data-ttu-id="68ffe-102">Návod: Přecenění DM</span><span class="sxs-lookup"><span data-stu-id="68ffe-102">How to: Revalue Fixed Assets</span></span>
+<span data-ttu-id="68ffe-103">Přecenění DM může zahrnovat zhodnocení, snížení hodnoty nebo úpravy obecné hodnoty.</span><span class="sxs-lookup"><span data-stu-id="68ffe-103">Revaluation of fixed assets can consist of appreciations, write-downs, or general value adjustments.</span></span>
 
-Když se hodnota DM zvýšila, zaúčtujete řádky deníku s vyšší hodnotou (zhodnocení) do odpisové knihy. Nová částka je zaznamenána jako zhodnocení podle nastavení zaúčtování DM.
+<span data-ttu-id="68ffe-104">Když se hodnota DM zvýšila, zaúčtujete řádky deníku s vyšší hodnotou (zhodnocení) do odpisové knihy.</span><span class="sxs-lookup"><span data-stu-id="68ffe-104">When the value of a fixed asset has increased, you post a journal line with a higher amount, an appreciation, to the depreciation book.</span></span> <span data-ttu-id="68ffe-105">Nová částka je zaznamenána jako zhodnocení podle nastavení zaúčtování DM.</span><span class="sxs-lookup"><span data-stu-id="68ffe-105">The new amount is recorded as an appreciation according to the fixed asset posting setup.</span></span>
 
-Pokud se hodnota DM sníží, zaúčtujete řádky deníku s nižší hodnotou  (snížení hodnoty) do odpisové knihy. Nová částka se zaznamená jako snížení hodnoty podle nastavení zaúčtování DM.
+<span data-ttu-id="68ffe-106">Pokud se hodnota DM sníží, zaúčtujete řádky deníku s nižší hodnotou  (snížení hodnoty) do odpisové knihy.</span><span class="sxs-lookup"><span data-stu-id="68ffe-106">When the value of a fixed asset has decreased, you post a journal line with a lower amount, a write-down, to the depreciation book.</span></span> <span data-ttu-id="68ffe-107">Nová částka se zaznamená jako snížení hodnoty podle nastavení zaúčtování DM.</span><span class="sxs-lookup"><span data-stu-id="68ffe-107">The new amount is recorded as a write-down according to the fixed asset posting setup.</span></span>
 
-Indexace se používá k úpravě více hodnot DM například na základě změn obecné ceny. Dávková úloha **Indexovat DM** může být použita ke změně různých částek například snížení hodnoty a zhodnocení.
+<span data-ttu-id="68ffe-108">Indexace se používá k úpravě více hodnot DM například na základě změn obecné ceny.</span><span class="sxs-lookup"><span data-stu-id="68ffe-108">Indexation is used to adjust multiple fixed asset values, for example per general price changes.</span></span> <span data-ttu-id="68ffe-109">Dávková úloha **Indexovat DM** může být použita ke změně různých částek například snížení hodnoty a zhodnocení.</span><span class="sxs-lookup"><span data-stu-id="68ffe-109">The **Index Fixed Assets** batch job can be used to change various amounts, such as write-down and appreciation amounts.</span></span>
 
-## <a name="to-post-an-appreciation-from-the-fixed-asset-gl-journal"></a>Zaúčtování zhodnocení z finančního deníku DM  
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Finanční deník DM** a pak vyberte související odkaz.  
-2. Vytvořte počáteční řádek deníku a vyplňte pole podle potřeby.
-3. Do pole **Typ zaúčtování DM** vyberte **Zhodnocení**.
-4. Zvolte možnost **Vložit protiúčet DM**. Druhý řádek deníku je vytvořen pro vyrovnávací účet, který je nastaven pro zhodnocení zaúčtování.
+## <a name="to-post-an-appreciation-from-the-fixed-asset-gl-journal"></a><span data-ttu-id="68ffe-110">Zaúčtování zhodnocení z finančního deníku DM</span><span class="sxs-lookup"><span data-stu-id="68ffe-110">To post an appreciation from the fixed asset G/L journal</span></span>  
+1. <span data-ttu-id="68ffe-111">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Finanční deník DM** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="68ffe-111">In the top right corner, choose the **Search for Page or Report** icon, enter **FA G/L Journals**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="68ffe-112">Vytvořte počáteční řádek deníku a vyplňte pole podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="68ffe-112">Create an initial journal line and fill in the fields as necessary.</span></span>
+3. <span data-ttu-id="68ffe-113">Do pole **Typ zaúčtování DM** vyberte **Zhodnocení**.</span><span class="sxs-lookup"><span data-stu-id="68ffe-113">In the **FA Posting Type** field, select **Appreciation**.</span></span>
+4. <span data-ttu-id="68ffe-114">Zvolte možnost **Vložit protiúčet DM**.</span><span class="sxs-lookup"><span data-stu-id="68ffe-114">Choose the **Insert FA Bal. Account** action.</span></span> <span data-ttu-id="68ffe-115">Druhý řádek deníku je vytvořen pro vyrovnávací účet, který je nastaven pro zhodnocení zaúčtování.</span><span class="sxs-lookup"><span data-stu-id="68ffe-115">A second journal line is created for the balancing account that is set up for appreciation posting.</span></span>
 
-    **Poznámka**: Krok 4 funguje pouze v případě, že jste nastavili následující: V okně **Karta účto skupiny DM** pro zaúčtování skupin DM, pole **Účet zhodnocení** obsahuje hlavní knihu účtu MD a pole **Protiúčet**** ****zhodnocení** obsahuje účet hlavní knihy, na který chcete zaúčtovat zůstatkové položky pro zhodnocení. Další informace naleznete v tématu "Nastavení skupin zaúčtování DM“ [Návod: Nastavení informací o obecném dlouhodobém majetku](fa-how-setup-general.md).
-5. Zvolte akci **Účtovat**.
+    <span data-ttu-id="68ffe-116">**Poznámka**: Krok 4 funguje pouze v případě, že jste nastavili následující: V okně **Karta účto skupiny DM** pro zaúčtování skupin DM, pole **Účet zhodnocení** obsahuje hlavní knihu účtu MD a pole **Protiúčet**** ****zhodnocení** obsahuje účet hlavní knihy, na který chcete zaúčtovat zůstatkové položky pro zhodnocení.</span><span class="sxs-lookup"><span data-stu-id="68ffe-116">**Note**: Step 4 only works if you have set up the following: In the **FA Posting Group Card** window for the posting group of the fixed asset, the **Appreciation Account** field contains the general ledger debit account and the **Appreciation Bal. Account** field contains the general ledger account to which you want to post balancing entries for appreciation.</span></span> <span data-ttu-id="68ffe-117">Další informace naleznete v tématu "Nastavení skupin zaúčtování DM“ [Návod: Nastavení informací o obecném dlouhodobém majetku](fa-how-setup-general.md).</span><span class="sxs-lookup"><span data-stu-id="68ffe-117">For more information, see the "To set up fixed asset posting groups" section in [How to: Set Up General Fixed Asset Information](fa-how-setup-general.md).</span></span>
+5. <span data-ttu-id="68ffe-118">Zvolte akci **Účtovat**.</span><span class="sxs-lookup"><span data-stu-id="68ffe-118">Choose the **Post** action.</span></span>
 
-## <a name="to-post-a-write-down-from-the-fixed-asset-gl-journal"></a>Zaúčtování snížení hodnoty z finančního deníku DM  
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Finanční deník DM** a pak vyberte související odkaz.  
-2. Vytvořte počáteční řádek deníku a vyplňte pole podle potřeby.
-3. Do pole **Typ zaúčtování DM** vyberte **Snížení hodnoty**.
-4. Zvolte možnost **Vložit protiúčet DM**. Druhý řádek deníku je vytvořen pro vyrovnávací účet, který je nastaven pro zaúčtování snížení hodnoty.
+## <a name="to-post-a-write-down-from-the-fixed-asset-gl-journal"></a><span data-ttu-id="68ffe-119">Zaúčtování snížení hodnoty z finančního deníku DM</span><span class="sxs-lookup"><span data-stu-id="68ffe-119">To post a write-down from the fixed asset G/L journal</span></span>  
+1. <span data-ttu-id="68ffe-120">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Finanční deník DM** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="68ffe-120">In the top right corner, choose the **Search for Page or Report** icon, enter **FA G/L Journals**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="68ffe-121">Vytvořte počáteční řádek deníku a vyplňte pole podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="68ffe-121">Create an initial journal line, and fill in the fields as necessary.</span></span>
+3. <span data-ttu-id="68ffe-122">Do pole **Typ zaúčtování DM** vyberte **Snížení hodnoty**.</span><span class="sxs-lookup"><span data-stu-id="68ffe-122">In the **FA Posting Type** field, select **Write-Down**.</span></span>
+4. <span data-ttu-id="68ffe-123">Zvolte možnost **Vložit protiúčet DM**.</span><span class="sxs-lookup"><span data-stu-id="68ffe-123">Choose the **Insert FA Bal. Account** action.</span></span> <span data-ttu-id="68ffe-124">Druhý řádek deníku je vytvořen pro vyrovnávací účet, který je nastaven pro zaúčtování snížení hodnoty.</span><span class="sxs-lookup"><span data-stu-id="68ffe-124">A second journal line is created for the balancing account that is set up for write-down posting.</span></span>
 
-    **Poznámka**: Krok 4 funguje pouze v případě, že jste nastavili následující: V okně **Karta účto skupiny DM** pro zaúčtování skupin DM, pole **Účet znehodnocení** obsahuje hlavní knihu účtu Dal a pole **Výdajový účet znehodnocení** obsahuje hlavní knihu účtu MD, na který chcete zaúčtovat zůstatkové položky pro snížení hodnoty. Další informace naleznete v tématu "Nastavení skupin zaúčtování DM“ [Návod: Nastavení informací o obecném dlouhodobém majetku](fa-how-setup-general.md).
-5. Zvolte akci **Účtovat**.
+    <span data-ttu-id="68ffe-125">**Poznámka**: Krok 4 funguje pouze v případě, že jste nastavili následující: V okně **Karta účto skupiny DM** pro zaúčtování skupin DM, pole **Účet znehodnocení** obsahuje hlavní knihu účtu Dal a pole **Výdajový účet znehodnocení** obsahuje hlavní knihu účtu MD, na který chcete zaúčtovat zůstatkové položky pro snížení hodnoty.</span><span class="sxs-lookup"><span data-stu-id="68ffe-125">**Note**: Step 4 only works if you have set up the following: In the **FA Posting Group Card** window for the posting group of the fixed asset, the **Write-Down Account** field contains the general ledger credit account and the **Write-Down Expense Account** field contains the general ledger debit account to which you want to post balancing entries for write-downs.</span></span> <span data-ttu-id="68ffe-126">Další informace naleznete v tématu "Nastavení skupin zaúčtování DM“ [Návod: Nastavení informací o obecném dlouhodobém majetku](fa-how-setup-general.md).</span><span class="sxs-lookup"><span data-stu-id="68ffe-126">For more information, see the "To set up fixed asset posting groups" section in [How to: Set Up General Fixed Asset Information](fa-how-setup-general.md).</span></span>
+5. <span data-ttu-id="68ffe-127">Zvolte akci **Účtovat**.</span><span class="sxs-lookup"><span data-stu-id="68ffe-127">Choose the **Post** action.</span></span>
 
-## <a name="to-perform-general-revaluation-of-fixed-assets"></a>Provádění obecného přecenění DM  
-Indexace se používá k úpravě více hodnot DM, například na základě změn obecné ceny. Dávková úloha **Indexovat DM** může být použita ke změně různých částek, například snížení hodnoty a zhodnocení. Musí být vybráno zaškrtávací políčko **Povolit indexaci** v okně **Knihy odpisů**.
+## <a name="to-perform-general-revaluation-of-fixed-assets"></a><span data-ttu-id="68ffe-128">Provádění obecného přecenění DM</span><span class="sxs-lookup"><span data-stu-id="68ffe-128">To perform general revaluation of fixed assets</span></span>  
+<span data-ttu-id="68ffe-129">Indexace se používá k úpravě více hodnot DM, například na základě změn obecné ceny.</span><span class="sxs-lookup"><span data-stu-id="68ffe-129">Indexation is used to adjust multiple fixed asset values, for example per general price changes.</span></span> <span data-ttu-id="68ffe-130">Dávková úloha **Indexovat DM** může být použita ke změně různých částek, například snížení hodnoty a zhodnocení.</span><span class="sxs-lookup"><span data-stu-id="68ffe-130">The **Index Fixed Assets** batch job can be used to change various amounts, such as write-down and appreciation amounts.</span></span> <span data-ttu-id="68ffe-131">Musí být vybráno zaškrtávací políčko **Povolit indexaci** v okně **Knihy odpisů**.</span><span class="sxs-lookup"><span data-stu-id="68ffe-131">The **Allow Indexation** check box in the **Depreciation Book** window must be selected.</span></span>
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Indexovat DM** a pak vyberte související odkaz.  
-2. Vyplňte pole podle potřeby.
-3. Zvolte tlačítko **OK**.  
+1. <span data-ttu-id="68ffe-132">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Indexovat DM** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="68ffe-132">In the top right corner, choose the **Search for Page or Report** icon, enter **Index Fixed Assets**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="68ffe-133">Vyplňte pole podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="68ffe-133">Fill in the fields as necessary.</span></span>
+3. <span data-ttu-id="68ffe-134">Zvolte tlačítko **OK**.</span><span class="sxs-lookup"><span data-stu-id="68ffe-134">Choose the **OK** button.</span></span>  
 
-    Řádky přecenění jsou vytvořeny podle nastavení v kroku 2. Řádky jsou vytvářeny buď v deníku DM nebo ve finančním deníku DM v závislosti na vaší šabloně a nastavení dávky v okně **Nastavení deníku DM**. Další informace naleznete v tématu [Návod: Nastavení informací o obecném dlouhodobém majetku](fa-how-setup-general.md).
+    <span data-ttu-id="68ffe-135">Řádky přecenění jsou vytvořeny podle nastavení v kroku 2.</span><span class="sxs-lookup"><span data-stu-id="68ffe-135">Revaluation lines are created per your settings in step 2.</span></span> <span data-ttu-id="68ffe-136">Řádky jsou vytvářeny buď v deníku DM nebo ve finančním deníku DM v závislosti na vaší šabloně a nastavení dávky v okně **Nastavení deníku DM**.</span><span class="sxs-lookup"><span data-stu-id="68ffe-136">The lines are created in either the fixed asset journal or the fixed asset G/L journal, depending on your template and batch setup in the **FA Journal Setup** window.</span></span> <span data-ttu-id="68ffe-137">Další informace naleznete v tématu [Návod: Nastavení informací o obecném dlouhodobém majetku](fa-how-setup-general.md).</span><span class="sxs-lookup"><span data-stu-id="68ffe-137">For more information, see [How to: Set Up General Fixed Asset Information](fa-how-setup-general.md).</span></span>
 
-4. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Finanční deník DM** a pak vyberte související odkaz.  
-5. Vyberte deník s dlouhodobým majetkem, který chcete přehodnotit a poté vyberte akci **Položky**.  
-6. Zkontrolujte vytvořené položky a potom vyberte akci **Účtovat** k zaúčtování deníku.
+4. <span data-ttu-id="68ffe-138">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Finanční deník DM** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="68ffe-138">In the top right corner, choose the **Search for Page or Report** icon, enter **FA G/L Journals**, and then choose the related link.</span></span>  
+5. <span data-ttu-id="68ffe-139">Vyberte deník s dlouhodobým majetkem, který chcete přehodnotit a poté vyberte akci **Položky**.</span><span class="sxs-lookup"><span data-stu-id="68ffe-139">Select the journal with the fixed assets that you want to revalue, and then choose the **Ledger Entries** action.</span></span>  
+6. <span data-ttu-id="68ffe-140">Zkontrolujte vytvořené položky a potom vyberte akci **Účtovat** k zaúčtování deníku.</span><span class="sxs-lookup"><span data-stu-id="68ffe-140">Check the created entries, and then choose the **Post** action to post the journal.</span></span>
 
-**Tip**: Pokud jsou indexy pouze pro simulační účely, můžete vytvořit speciální odpisovou knihu, která je uloží. Pak tyto položky neovlivní žádné z ostatních odpisových knih.
+<span data-ttu-id="68ffe-141">**Tip**: Pokud jsou indexy pouze pro simulační účely, můžete vytvořit speciální odpisovou knihu, která je uloží.</span><span class="sxs-lookup"><span data-stu-id="68ffe-141">**Tip**: If the index figures are for simulation purposes only, you can create a special depreciation book to store them in.</span></span> <span data-ttu-id="68ffe-142">Pak tyto položky neovlivní žádné z ostatních odpisových knih.</span><span class="sxs-lookup"><span data-stu-id="68ffe-142">Then these entries will not affect any of the other depreciation books.</span></span>
 
-## <a name="to-post-additional-acquisition-costs"></a>Zaúčtování doplňující pořizovací ceny
-Zaúčtování doplňující pořizovací ceny pro dlouhodobý majetek je stejné jako zaúčtování původní pořizovací ceny z nákupní faktury nebo z deníku DM. Další informace naleznete v tématu [Návod: Pořízení DM](fa-how-acquire.md).  
+## <a name="to-post-additional-acquisition-costs"></a><span data-ttu-id="68ffe-143">Zaúčtování doplňující pořizovací ceny</span><span class="sxs-lookup"><span data-stu-id="68ffe-143">To post additional acquisition costs</span></span>
+<span data-ttu-id="68ffe-144">Zaúčtování doplňující pořizovací ceny pro dlouhodobý majetek je stejné jako zaúčtování původní pořizovací ceny z nákupní faktury nebo z deníku DM.</span><span class="sxs-lookup"><span data-stu-id="68ffe-144">You post additional acquisition cost for a fixed asset in the same way as you post the original acquisition cost: from a purchase invoice or from a fixed asset journal.</span></span> <span data-ttu-id="68ffe-145">Další informace naleznete v tématu [Návod: Pořízení DM](fa-how-acquire.md).</span><span class="sxs-lookup"><span data-stu-id="68ffe-145">For more information, see [How to: Acquire Fixed Assets](fa-how-acquire.md).</span></span>  
 
-Pokud již byl odpis vypočítán pro dlouhodobý majetek, vyberte zaškrtávací políčko **Odpis  nákladů pořízení** k tomu, aby byla doplňující pořizovací cena snížena o odpis hodnoty při vyřazení v poměru k částce, o kterou již dříve získané dlouhodobé aktivum bylo odpisováno. To zajišťuje, že doba odpisování se nezmění.  
+<span data-ttu-id="68ffe-146">Pokud již byl odpis vypočítán pro dlouhodobý majetek, vyberte zaškrtávací políčko **Odpis  nákladů pořízení** k tomu, aby byla doplňující pořizovací cena snížena o odpis hodnoty při vyřazení v poměru k částce, o kterou již dříve získané dlouhodobé aktivum bylo odpisováno.</span><span class="sxs-lookup"><span data-stu-id="68ffe-146">If depreciation has already been calculated for the fixed asset, select the **Depr. Acquisition Cost** check box to have the additional acquisition cost less the salvage value depreciated in proportion to the amount by which the previously acquired fixed asset has already been depreciated.</span></span> <span data-ttu-id="68ffe-147">To zajišťuje, že doba odpisování se nezmění.</span><span class="sxs-lookup"><span data-stu-id="68ffe-147">This ensures that the depreciation period is not changed.</span></span>  
 
-Procentní odpis je vypočten jako:  
+<span data-ttu-id="68ffe-148">Procentní odpis je vypočten jako:</span><span class="sxs-lookup"><span data-stu-id="68ffe-148">The depreciation percentage is calculated as:</span></span>  
 
-*P = (celkové odpisy x 100) / odpisovatelný základ*
+<span data-ttu-id="68ffe-149">*P = (celkové odpisy x 100) / odpisovatelný základ*</span><span class="sxs-lookup"><span data-stu-id="68ffe-149">*P = (total depreciation x 100) / depreciable basis*</span></span>
 
-*Odpisová částka = (P/100) x (zvláštní pořizovací cena - hodnota při vyřazení)*  
+<span data-ttu-id="68ffe-150">*Odpisová částka = (P/100) x (zvláštní pořizovací cena - hodnota při vyřazení)*</span><span class="sxs-lookup"><span data-stu-id="68ffe-150">*Depreciation amount = (P/100) x (extra acquisition cost - salvage value)*</span></span>  
 
-Nezapomeňte vybrat zaškrtávací políčko **Odpisy od zúčt.data DM** na faktuře, finančního deníku DM nebo řádku deníku DM, aby se zajistilo, že odpisy budou vypočítány od posledního data zaúčtování DM do data zaúčtování doplňující pořizovací ceny.
+<span data-ttu-id="68ffe-151">Nezapomeňte vybrat zaškrtávací políčko **Odpisy od zúčt.data DM** na faktuře, finančního deníku DM nebo řádku deníku DM, aby se zajistilo, že odpisy budou vypočítány od posledního data zaúčtování DM do data zaúčtování doplňující pořizovací ceny.</span><span class="sxs-lookup"><span data-stu-id="68ffe-151">Remember to select the **Depr. until FA Posting Date** check box on the invoice, the fixed asset G/L journal, or the fixed asset journal lines to ensure that depreciation is calculated from the last fixed asset posting date to the posting date of the additional acquisition cost.</span></span>
 
-### <a name="example---posting-additional-acquisition-costs"></a>Příklad - Zaúčtování doplňující pořizovací ceny
-Stroj je zakoupen 1. srpna 2000. Pořizovací cena je 4.800. Metoda odpisování je lineární po dobu čtyř let.
+### <a name="example---posting-additional-acquisition-costs"></a><span data-ttu-id="68ffe-152">Příklad - Zaúčtování doplňující pořizovací ceny</span><span class="sxs-lookup"><span data-stu-id="68ffe-152">Example - Posting Additional Acquisition Costs</span></span>
+<span data-ttu-id="68ffe-153">Stroj je zakoupen 1. srpna 2000.</span><span class="sxs-lookup"><span data-stu-id="68ffe-153">A machine is purchased on August 1, 2000.</span></span> <span data-ttu-id="68ffe-154">Pořizovací cena je 4.800.</span><span class="sxs-lookup"><span data-stu-id="68ffe-154">The acquisition cost is 4,800.</span></span> <span data-ttu-id="68ffe-155">Metoda odpisování je lineární po dobu čtyř let.</span><span class="sxs-lookup"><span data-stu-id="68ffe-155">The depreciation method is straight-line over four years.</span></span>
 
-Dávková úloha **Výpočet odpisů** je spuštěna 31. srpna 2000. Odpisy se vypočítají jako:
+<span data-ttu-id="68ffe-156">Dávková úloha **Výpočet odpisů** je spuštěna 31. srpna 2000.</span><span class="sxs-lookup"><span data-stu-id="68ffe-156">On August 31, 2000, the **Calculate Depreciation** batch job is run.</span></span> <span data-ttu-id="68ffe-157">Odpisy se vypočítají jako:</span><span class="sxs-lookup"><span data-stu-id="68ffe-157">Depreciation is calculated as:</span></span>
 
-*účetní hodnota x počet dnů odpisování / celkový počet dnů odpisování = 4800 x 30/1440 = 100*  
+<span data-ttu-id="68ffe-158">*účetní hodnota x počet dnů odpisování / celkový počet dnů odpisování = 4800 x 30/1440 = 100*</span><span class="sxs-lookup"><span data-stu-id="68ffe-158">*book value x number of depreciation days / total number of depreciation days = 4800 x 30 / 1440 = 100*</span></span>  
 
-Dne 15. září 2000 byla zaúčtována faktura pro malování stroje. Částka faktury je 480.
+<span data-ttu-id="68ffe-159">Dne 15. září 2000 byla zaúčtována faktura pro malování stroje.</span><span class="sxs-lookup"><span data-stu-id="68ffe-159">On September 15, 2000, an invoice is posted for painting the machine.</span></span> <span data-ttu-id="68ffe-160">Částka faktury je 480.</span><span class="sxs-lookup"><span data-stu-id="68ffe-160">The invoice amount is 480.</span></span>
 
-Pokud jste vybrali zaškrtávací políčko **Odpisy od zúčt.data DM** na faktuře před zaúčtováním, provede se následující výpočet:  
+<span data-ttu-id="68ffe-161">Pokud jste vybrali zaškrtávací políčko **Odpisy od zúčt.data DM** na faktuře před zaúčtováním, provede se následující výpočet:</span><span class="sxs-lookup"><span data-stu-id="68ffe-161">If you selected the **Depr. until FA Posting Date** check box on the invoice before posting, the following calculation is made:</span></span>  
 
-15 dní odpisování (od 09/01/00 do 09/15/00) se vypočte jako:
+<span data-ttu-id="68ffe-162">15 dní odpisování (od 09/01/00 do 09/15/00) se vypočte jako:</span><span class="sxs-lookup"><span data-stu-id="68ffe-162">15 days of depreciation (from 09/01/00 to 09/15/00) is calculated as:</span></span>
 
-*účetní hodnota x počet dnů odepisování / zbývající počet dnů odpisování = (4800 - 100) x 15/1410 = 50*
+<span data-ttu-id="68ffe-163">*účetní hodnota x počet dnů odepisování / zbývající počet dnů odpisování = (4800 - 100) x 15/1410 = 50*</span><span class="sxs-lookup"><span data-stu-id="68ffe-163">*book value x number of depreciation days / remaining number of depreciation days = (4800 - 100) x 15 / 1410 = 50*</span></span>
 
-Pokud jste vybrali zaškrtávací políčko **Odpis nákladů pořízení** na faktuře před zaúčtováním, tak se provede následující výpočet:  
+<span data-ttu-id="68ffe-164">Pokud jste vybrali zaškrtávací políčko **Odpis nákladů pořízení** na faktuře před zaúčtováním, tak se provede následující výpočet:</span><span class="sxs-lookup"><span data-stu-id="68ffe-164">If you selected the **Depr. Acquisition Cost** check box on the invoice before posting, the following calculation is made:</span></span>  
 
-*Doplňující pořizovací náklady jsou odepisovány ((150 x 100) / 4800) / 100 x 480 = 15*
+<span data-ttu-id="68ffe-165">*Doplňující pořizovací náklady jsou odepisovány ((150 x 100) / 4800) / 100 x 480 = 15*</span><span class="sxs-lookup"><span data-stu-id="68ffe-165">*The additional acquisition cost is depreciated by ((150 x 100) / 4800) / 100 x 480 = 15*</span></span>
 
-Odpisovatelný základ je nyní *5280 = (4800 + 480)* a akumulované odpisy jsou *165 = (100 + 50 + 15)*, což odpovídá 45 dnům odpisů z celkové pořizovací ceny. To znamená, že majetek bude zcela odepsán během předpokládané životnosti čtyř let.  
+<span data-ttu-id="68ffe-166">Odpisovatelný základ je nyní *5280 = (4800 + 480)* a akumulované odpisy jsou *165 = (100 + 50 + 15)*, což odpovídá 45 dnům odpisů z celkové pořizovací ceny.</span><span class="sxs-lookup"><span data-stu-id="68ffe-166">The depreciable basis is now *5280 = (4800 + 480)*, and the accumulated depreciation is *165 = (100 + 50 + 15)*, corresponding to 45 days of depreciation of the total acquisition cost.</span></span> <span data-ttu-id="68ffe-167">To znamená, že majetek bude zcela odepsán během předpokládané životnosti čtyř let.</span><span class="sxs-lookup"><span data-stu-id="68ffe-167">This means that the asset will be totally depreciated within the estimated lifetime of four years.</span></span>  
 
-Když je dávková úloha **Výpočet odpisů** spuštěna dne 09/30/00, provede se následující výpočet:  
+<span data-ttu-id="68ffe-168">Když je dávková úloha **Výpočet odpisů** spuštěna dne 09/30/00, provede se následující výpočet:</span><span class="sxs-lookup"><span data-stu-id="68ffe-168">When the **Calculate Depreciation** batch job is run on 09/30/00, the following calculation is made:</span></span>  
 
-*Zbývající doba odpisování je 3 roky, 10 měsíců a 15 dní = 1395 dní*  
+<span data-ttu-id="68ffe-169">*Zbývající doba odpisování je 3 roky, 10 měsíců a 15 dní = 1395 dní*</span><span class="sxs-lookup"><span data-stu-id="68ffe-169">*Remaining depreciable life is 3 years, 10 months and 15 days = 1395 days*</span></span>  
 
-*Účetní hodnota je (5280 - 165) = 5115*  
+<span data-ttu-id="68ffe-170">*Účetní hodnota je (5280 - 165) = 5115*</span><span class="sxs-lookup"><span data-stu-id="68ffe-170">*Book value is (5280 - 165) = 5115*</span></span>  
 
-*Částka odpisů za září 2000: 5115 x 15 / 1395 = 55,00*  
+<span data-ttu-id="68ffe-171">*Částka odpisů za září 2000: 5115 x 15 / 1395 = 55,00*</span><span class="sxs-lookup"><span data-stu-id="68ffe-171">*Depreciation amount for September 2000: 5115 x 15 / 1395 = 55.00*</span></span>  
 
-*Celkové odpisy = 165 + 55 = 220*  
+<span data-ttu-id="68ffe-172">*Celkové odpisy = 165 + 55 = 220*</span><span class="sxs-lookup"><span data-stu-id="68ffe-172">*Total of depreciation = 165 + 55 = 220*</span></span>  
 
-Pokud jste nevybrali zaškrtávací políčko **Odpisy od zúčt.data DM**, majetek by ztratil 15 dní odpisování, protože dávková úloha **Výpočet odpisů** je spuštěna dne 09/30/00 a vypočítá odpis od 09/15/00 do 09/30/00. To znamená, že když je spuštěna dávková úloha **Výpočet odpisů** dne 09/30/00, výpočet je následující:  
+<span data-ttu-id="68ffe-173">Pokud jste nevybrali zaškrtávací políčko **Odpisy od zúčt.data DM**, majetek by ztratil 15 dní odpisování, protože dávková úloha **Výpočet odpisů** je spuštěna dne 09/30/00 a vypočítá odpis od 09/15/00 do 09/30/00.</span><span class="sxs-lookup"><span data-stu-id="68ffe-173">If you did not select the **Depr. until FA Posting Date** check box, the asset would loose 15 days of depreciation because the **Calculate Depreciation** batch job run on 09/30/00 would calculate depreciation from 09/15/00 to 09/30/00.</span></span> <span data-ttu-id="68ffe-174">To znamená, že když je spuštěna dávková úloha **Výpočet odpisů** dne 09/30/00, výpočet je následující:</span><span class="sxs-lookup"><span data-stu-id="68ffe-174">This means that when the **Calculate Depreciation** batch job is run on 09/30/00, the calculation is as follows:</span></span>  
 
-*Zbývající doba života je 3 roky, 10 měsíců a 15 dní = 1395 dní*  
+<span data-ttu-id="68ffe-175">*Zbývající doba života je 3 roky, 10 měsíců a 15 dní = 1395 dní*</span><span class="sxs-lookup"><span data-stu-id="68ffe-175">*Remaining life time is 3 years, 10 months and 15 days = 1395 days*</span></span>  
 
-*Účetní hodnota je (4800 + 480 - 100 - 15) = 5165*
+<span data-ttu-id="68ffe-176">*Účetní hodnota je (4800 + 480 - 100 - 15) = 5165*</span><span class="sxs-lookup"><span data-stu-id="68ffe-176">*Book value is (4800 + 480 - 100 - 15) = 5165*</span></span>
 
-*Částka odpisů za září 2000: 5165 x 15 / 1395 = 55,54*  
+<span data-ttu-id="68ffe-177">*Částka odpisů za září 2000: 5165 x 15 / 1395 = 55,54*</span><span class="sxs-lookup"><span data-stu-id="68ffe-177">*Depreciation amount for September 2000: 5165 x 15 / 1395 = 55.54*</span></span>  
 
-*Celkové odpisy = 100 + 15 + 55,54 = 170,54*
+<span data-ttu-id="68ffe-178">*Celkové odpisy = 100 + 15 + 55,54 = 170,54*</span><span class="sxs-lookup"><span data-stu-id="68ffe-178">*Total of depreciation = 100 + 15 + 55.54 = 170.54*</span></span>
 
-## <a name="see-also"></a>Viz také
-[Správa DM](fa-manage.md)  
-[Nastavení DM](fa-setup.md)  
-[Finance](finance-setup.md)  
-[Vítejte v Dynamics NAV](across-get-started.md)
+## <a name="see-also"></a><span data-ttu-id="68ffe-179">Viz také</span><span class="sxs-lookup"><span data-stu-id="68ffe-179">See Also</span></span>
+[<span data-ttu-id="68ffe-180">Správa DM</span><span class="sxs-lookup"><span data-stu-id="68ffe-180">Manage Fixed Assets</span></span>](fa-manage.md)  
+[<span data-ttu-id="68ffe-181">Nastavení DM</span><span class="sxs-lookup"><span data-stu-id="68ffe-181">Set Up Fixed Assets</span></span>](fa-setup.md)  
+[<span data-ttu-id="68ffe-182">Finance</span><span class="sxs-lookup"><span data-stu-id="68ffe-182">Finance</span></span>](finance-setup.md)  
+[<span data-ttu-id="68ffe-183">Vítejte v Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="68ffe-183">Welcome to Dynamics NAV</span></span>](across-get-started.md)
 

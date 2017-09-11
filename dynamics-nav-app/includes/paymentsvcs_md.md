@@ -1,1 +1,1 @@
-Platební služby pro Microsoft Dynamics ERP
+<span data-ttu-id="dddb7-101">Platební služby pro Microsoft Dynamics ERP</span><span class="sxs-lookup"><span data-stu-id="dddb7-101">Payment Services for Microsoft Dynamics ERP</span></span>

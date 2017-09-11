@@ -16,81 +16,81 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-monitor-job-progress-and-performance"></a>Návod: Monitorování pokroku a výkonu projektu
-Jak postupuje projekt, materiály, zdroje a další výdaje jsou spotřebovány a musí být zaúčtovány k projektu. Nedokončená výroba (NV) je funkce, která umožňuje odhadnout finanční hodnotu projektů v hlavní knize, zatímco projekty probíhají. V mnoha případech můžete zaúčtovat výdaje za práci před fakturací projektu. Pokud byly zaúčtovány pouze výdaje, vaše finanční výkazy budou nepřesné. Další informace naleznete v tématu [Porozumnění Metod NV](projects-understanding-wip.md).
+# <a name="how-to-monitor-job-progress-and-performance"></a><span data-ttu-id="2492a-102">Návod: Monitorování pokroku a výkonu projektu</span><span class="sxs-lookup"><span data-stu-id="2492a-102">How to: Monitor Job Progress and Performance</span></span>
+<span data-ttu-id="2492a-103">Jak postupuje projekt, materiály, zdroje a další výdaje jsou spotřebovány a musí být zaúčtovány k projektu.</span><span class="sxs-lookup"><span data-stu-id="2492a-103">As a job progresses, materials, resources, and other expenses are consumed and must be posted to the job.</span></span> <span data-ttu-id="2492a-104">Nedokončená výroba (NV) je funkce, která umožňuje odhadnout finanční hodnotu projektů v hlavní knize, zatímco projekty probíhají.</span><span class="sxs-lookup"><span data-stu-id="2492a-104">Work in Process (WIP) is a feature that enables you to estimate the financial value of jobs in the general ledger while the jobs are ongoing.</span></span> <span data-ttu-id="2492a-105">V mnoha případech můžete zaúčtovat výdaje za práci před fakturací projektu.</span><span class="sxs-lookup"><span data-stu-id="2492a-105">In many cases, you might post expenses for a job before invoicing a job.</span></span> <span data-ttu-id="2492a-106">Pokud byly zaúčtovány pouze výdaje, vaše finanční výkazy budou nepřesné.</span><span class="sxs-lookup"><span data-stu-id="2492a-106">When only expenses have been posted, your financial statement will be inaccurate.</span></span> <span data-ttu-id="2492a-107">Další informace naleznete v tématu [Porozumnění Metod NV](projects-understanding-wip.md).</span><span class="sxs-lookup"><span data-stu-id="2492a-107">For more information, see [Understanding WIP Methods](projects-understanding-wip.md).</span></span>
 
-Chcete-li sledovat hodnotu v hlavní knize, můžete vypočítat NV a zaúčtovat hodnotu do hlavní knihy.
+<span data-ttu-id="2492a-108">Chcete-li sledovat hodnotu v hlavní knize, můžete vypočítat NV a zaúčtovat hodnotu do hlavní knihy.</span><span class="sxs-lookup"><span data-stu-id="2492a-108">To track the value in the general ledger, you can calculate WIP and post the value to the general ledger.</span></span>
 
-NV můžete vypočítat na základě následujících údajů:
+<span data-ttu-id="2492a-109">NV můžete vypočítat na základě následujících údajů:</span><span class="sxs-lookup"><span data-stu-id="2492a-109">You can calculate WIP based on the following:</span></span>
 
-- Hodnota nákladů
-- Prodejní hodnota
-- Rozpoznatelné náklady
-- Procento dokončení
-- Dokončená smlouva
+- <span data-ttu-id="2492a-110">Hodnota nákladů</span><span class="sxs-lookup"><span data-stu-id="2492a-110">Cost Value</span></span>
+- <span data-ttu-id="2492a-111">Prodejní hodnota</span><span class="sxs-lookup"><span data-stu-id="2492a-111">Sales Value</span></span>
+- <span data-ttu-id="2492a-112">Rozpoznatelné náklady</span><span class="sxs-lookup"><span data-stu-id="2492a-112">Recognizable Cost</span></span>
+- <span data-ttu-id="2492a-113">Procento dokončení</span><span class="sxs-lookup"><span data-stu-id="2492a-113">Percentage of Completion</span></span>
+- <span data-ttu-id="2492a-114">Dokončená smlouva</span><span class="sxs-lookup"><span data-stu-id="2492a-114">Completed Contract</span></span>
 
-Chcete-li výsledek zobrazit jiným způsobem, můžete změnit metodu a vypočítat znovu NV. Neexistuje žádný limit počtu výpočtů NV. NV se pouze vypočítává, neúčtuje se do hlavní knihy. Poté, co jste vypočítali NV, můžete ji zaúčtovat do hlavní knihy.
+<span data-ttu-id="2492a-115">Chcete-li výsledek zobrazit jiným způsobem, můžete změnit metodu a vypočítat znovu NV.</span><span class="sxs-lookup"><span data-stu-id="2492a-115">If you want to view the result using a different method, you can change the method and calculate WIP again.</span></span> <span data-ttu-id="2492a-116">Neexistuje žádný limit počtu výpočtů NV.</span><span class="sxs-lookup"><span data-stu-id="2492a-116">There is no limit to the number of times that you calculate WIP.</span></span> <span data-ttu-id="2492a-117">NV se pouze vypočítává, neúčtuje se do hlavní knihy.</span><span class="sxs-lookup"><span data-stu-id="2492a-117">WIP is only calculated, it does not get posted to the general ledger.</span></span> <span data-ttu-id="2492a-118">Poté, co jste vypočítali NV, můžete ji zaúčtovat do hlavní knihy.</span><span class="sxs-lookup"><span data-stu-id="2492a-118">After you have calculated WIP, you can post to the general ledger.</span></span>
 
-## <a name="to-create-a-job-wip-method"></a>Vytvořit metodu NV projektu  
-Můžete vytvořit metodu NV projektu, která odráží potřeby vaší organizace. Poté, co jste je vytvořili, můžete ji nastavit jako výchozí metodu výpočtu NV, která bude použita ve vaší organizaci.  
+## <a name="to-create-a-job-wip-method"></a><span data-ttu-id="2492a-119">Vytvořit metodu NV projektu</span><span class="sxs-lookup"><span data-stu-id="2492a-119">To create a job WIP method</span></span>  
+<span data-ttu-id="2492a-120">Můžete vytvořit metodu NV projektu, která odráží potřeby vaší organizace.</span><span class="sxs-lookup"><span data-stu-id="2492a-120">You can create a job WIP method that reflects the needs of your organization.</span></span> <span data-ttu-id="2492a-121">Poté, co jste je vytvořili, můžete ji nastavit jako výchozí metodu výpočtu NV, která bude použita ve vaší organizaci.</span><span class="sxs-lookup"><span data-stu-id="2492a-121">After you have created it, you can set it as the default job WIP calculation method that will be used in your organization.</span></span>  
 
-**Poznámka**. Po použití nové metody k vytvoření položek NV nelze metodu odstranit nebo upravit.  
+<span data-ttu-id="2492a-122">**Poznámka**.</span><span class="sxs-lookup"><span data-stu-id="2492a-122">**Note**.</span></span> <span data-ttu-id="2492a-123">Po použití nové metody k vytvoření položek NV nelze metodu odstranit nebo upravit.</span><span class="sxs-lookup"><span data-stu-id="2492a-123">After you have used your new method to create WIP entries, you cannot delete the method or modify it.</span></span>  
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Metody projektu NV** a zvolte související odkaz.  
-2. Vyberte akci **Nový** a poté vyplňte pole. Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.  
-3. Zavřete okno.   
-4. Pro nastavení této metody jako výchozí, v pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Nastavení projektů** a zvolte související odkaz.  
-5. V poli **Výchozí metoda NV** vyberte metodu ze seznamu.
+1. <span data-ttu-id="2492a-124">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Metody projektu NV** a zvolte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="2492a-124">In the top right corner, choose the **Search for Page or Report** icon, enter **Job WIP Methods**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="2492a-125">Vyberte akci **Nový** a poté vyplňte pole.</span><span class="sxs-lookup"><span data-stu-id="2492a-125">Choose the **New** action, and then fill in the fields as necessary.</span></span> <span data-ttu-id="2492a-126">Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.</span><span class="sxs-lookup"><span data-stu-id="2492a-126">Choose a field to read a short description of the field or link to more information.</span></span>  
+3. <span data-ttu-id="2492a-127">Zavřete okno.</span><span class="sxs-lookup"><span data-stu-id="2492a-127">Close the window.</span></span>   
+4. <span data-ttu-id="2492a-128">Pro nastavení této metody jako výchozí, v pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Nastavení projektů** a zvolte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="2492a-128">To make this new method the default, in the top right corner, choose the **Search for Page or Report** icon, enter **Jobs Setup**, and then choose the related link.</span></span>  
+5. <span data-ttu-id="2492a-129">V poli **Výchozí metoda NV** vyberte metodu ze seznamu.</span><span class="sxs-lookup"><span data-stu-id="2492a-129">In the **Default WIP Method** field, choose the method from the list.</span></span>
 
-## <a name="to-define-a-wip-method-for-a-job"></a>Definice metody NV pro projekt  
-Při vytváření nového projektu musíte zadat, kterou metodu NV použijete. V některých případech je metoda NV projektu, kterou můžete použít, nastavena jako výchozí.
+## <a name="to-define-a-wip-method-for-a-job"></a><span data-ttu-id="2492a-130">Definice metody NV pro projekt</span><span class="sxs-lookup"><span data-stu-id="2492a-130">To define a WIP method for a job</span></span>  
+<span data-ttu-id="2492a-131">Při vytváření nového projektu musíte zadat, kterou metodu NV použijete.</span><span class="sxs-lookup"><span data-stu-id="2492a-131">When you create a new job, you must specify which job WIP method that applies.</span></span> <span data-ttu-id="2492a-132">V některých případech je metoda NV projektu, kterou můžete použít, nastavena jako výchozí.</span><span class="sxs-lookup"><span data-stu-id="2492a-132">In some cases, which Job WIP method that you can use has been set up for you as a default.</span></span>
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Projekty** a zvolte související odkaz.
-2. Zvolte akci **Nový**. Další informace naleznete v tématu [Návod: Vytvořit projekty](projects-how-create-jobs.md).  
-3. V okně **Karta projektu** v poli **Metoda NV** vyberte metodu NV ze seznamu. Pokud byla definována výchozí metoda, můžete v případě potřeby vybrat jinou možnost.  
+1. <span data-ttu-id="2492a-133">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Projekty** a zvolte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="2492a-133">In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.</span></span>
+2. <span data-ttu-id="2492a-134">Zvolte akci **Nový**.</span><span class="sxs-lookup"><span data-stu-id="2492a-134">Choose the **New** action.</span></span> <span data-ttu-id="2492a-135">Další informace naleznete v tématu [Návod: Vytvořit projekty](projects-how-create-jobs.md).</span><span class="sxs-lookup"><span data-stu-id="2492a-135">For more information, see [How to: Create Jobs](projects-how-create-jobs.md).</span></span>  
+3. <span data-ttu-id="2492a-136">V okně **Karta projektu** v poli **Metoda NV** vyberte metodu NV ze seznamu.</span><span class="sxs-lookup"><span data-stu-id="2492a-136">In the **Job Card** window, in the **WIP Method** field, select a WIP method from the list.</span></span> <span data-ttu-id="2492a-137">Pokud byla definována výchozí metoda, můžete v případě potřeby vybrat jinou možnost.</span><span class="sxs-lookup"><span data-stu-id="2492a-137">If a default method has been defined, you can select another option if needed.</span></span>  
 
-## <a name="to-calculate-wip"></a>Vypočítat NV  
-Můžete stanovit částku NV, která má být zaúčtována na rozvahové účty pro vykazování konce období. Použijete dávkovou úlohu **Vypočítat NV projektu** .  
+## <a name="to-calculate-wip"></a><span data-ttu-id="2492a-138">Vypočítat NV</span><span class="sxs-lookup"><span data-stu-id="2492a-138">To calculate WIP</span></span>  
+<span data-ttu-id="2492a-139">Můžete stanovit částku NV, která má být zaúčtována na rozvahové účty pro vykazování konce období.</span><span class="sxs-lookup"><span data-stu-id="2492a-139">You can determine the WIP amount that is to be posted to balance sheet accounts for the period end reporting.</span></span> <span data-ttu-id="2492a-140">Použijete dávkovou úlohu **Vypočítat NV projektu** .</span><span class="sxs-lookup"><span data-stu-id="2492a-140">You use the **Job Calculate WIP** batch job to do this.</span></span>  
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Výpočet NV projektu** a zvolte související odkaz.  
-2. Vyberte akci **Vypočítat NV**.
-3. V okně **Vypočítat NV projektu** vyplňte pole podle potřeby.
-4. Zvolte tlačítko **OK**.  
+1. <span data-ttu-id="2492a-141">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Výpočet NV projektu** a zvolte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="2492a-141">In the top right corner, choose the **Search for Page or Report** icon, enter **Job Calculate WIP**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="2492a-142">Vyberte akci **Vypočítat NV**.</span><span class="sxs-lookup"><span data-stu-id="2492a-142">Choose the **Calculate WIP** action.</span></span>
+3. <span data-ttu-id="2492a-143">V okně **Vypočítat NV projektu** vyplňte pole podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="2492a-143">In the **Job Calculate WIP** window, fill in the fields as necessary.</span></span>
+4. <span data-ttu-id="2492a-144">Zvolte tlačítko **OK**.</span><span class="sxs-lookup"><span data-stu-id="2492a-144">Choose the **OK** button.</span></span>  
 
-**Poznámka**: Dávková úloha vypočítá pouze NV. Neúčtuje se do hlavní knihy. Chcete-li tak učinit, musíte po výpočtu NV spustit dávkovou úlohu **Zaúčtovat NV do hl. knihy**. Další informace naleznete v následujícím postupu.
+<span data-ttu-id="2492a-145">**Poznámka**: Dávková úloha vypočítá pouze NV.</span><span class="sxs-lookup"><span data-stu-id="2492a-145">**Note**: The batch job only calculates the WIP.</span></span> <span data-ttu-id="2492a-146">Neúčtuje se do hlavní knihy.</span><span class="sxs-lookup"><span data-stu-id="2492a-146">It is not posted to the general ledger.</span></span> <span data-ttu-id="2492a-147">Chcete-li tak učinit, musíte po výpočtu NV spustit dávkovou úlohu **Zaúčtovat NV do hl. knihy**.</span><span class="sxs-lookup"><span data-stu-id="2492a-147">To do so, you must run the **Post WIP to G/L** batch job when you have calculated the WIP.</span></span> <span data-ttu-id="2492a-148">Další informace naleznete v následujícím postupu.</span><span class="sxs-lookup"><span data-stu-id="2492a-148">For more information, see the following procedure.</span></span>
 
-## <a name="to-post-wip"></a>Zaúčtovat NV  
-Když jste vypočítali NV, můžete ji zaúčtovat do rozvahových účtů pro vykazování konce období. Použijete dávkovou úlohu **Zaúčtovat NV projektu do hl. knihy** .
+## <a name="to-post-wip"></a><span data-ttu-id="2492a-149">Zaúčtovat NV</span><span class="sxs-lookup"><span data-stu-id="2492a-149">To post WIP</span></span>  
+<span data-ttu-id="2492a-150">Když jste vypočítali NV, můžete ji zaúčtovat do rozvahových účtů pro vykazování konce období.</span><span class="sxs-lookup"><span data-stu-id="2492a-150">When you have calculated WIP, you can post it to balance sheet accounts for the period end reporting.</span></span> <span data-ttu-id="2492a-151">Použijete dávkovou úlohu **Zaúčtovat NV projektu do hl. knihy** .</span><span class="sxs-lookup"><span data-stu-id="2492a-151">You use the **Job Post WIP to G/L** batch job to do this.</span></span>
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Zaúčtovat NV projektu do hl. knihy** a zvolte související odkaz.  
-2. V okně **Zaúčtovat NV projektu do fin. den.** vyplňte pole podle potřeby.  
-3. Zvolte tlačítko **OK**.
+1. <span data-ttu-id="2492a-152">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Zaúčtovat NV projektu do hl. knihy** a zvolte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="2492a-152">In the top right corner, choose the **Search for Page or Report** icon, enter **Job Post WIP to G/L**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="2492a-153">V okně **Zaúčtovat NV projektu do fin. den.** vyplňte pole podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="2492a-153">In the **Job Post WIP to G/L** window, fill in the fields as necessary.</span></span>  
+3. <span data-ttu-id="2492a-154">Zvolte tlačítko **OK**.</span><span class="sxs-lookup"><span data-stu-id="2492a-154">Choose the **OK** button.</span></span>
 
-## <a name="to-view-job-usage-estimates-and-post-updates"></a>Zobrazení odhadu spotřeby projektu a zaúčtování aktualizace  
-Můžete sledovat spotřebu projektu až do jeho dokončení v jednom kroku. K tomu použijte **Výp. projektu. Dávkovou úlohu Zbývající spotřeba** pro všechny činnosti až do konce projektu.  
+## <a name="to-view-job-usage-estimates-and-post-updates"></a><span data-ttu-id="2492a-155">Zobrazení odhadu spotřeby projektu a zaúčtování aktualizace</span><span class="sxs-lookup"><span data-stu-id="2492a-155">To view job usage estimates and post updates</span></span>  
+<span data-ttu-id="2492a-156">Můžete sledovat spotřebu projektu až do jeho dokončení v jednom kroku.</span><span class="sxs-lookup"><span data-stu-id="2492a-156">You can view job usage up to the completion of a project in one step.</span></span> <span data-ttu-id="2492a-157">K tomu použijte **Výp. projektu. Dávkovou úlohu Zbývající spotřeba** pro všechny činnosti až do konce projektu.</span><span class="sxs-lookup"><span data-stu-id="2492a-157">To do so, you use the **Job Calc. Remaining Usage** batch job for all the tasks up to and including the end of a job.</span></span>  
 
-To vám umožní sledovat a porovnávat původní odhady s aktuálními výsledky a podle potřeby provádět úpravy nebo nové položky. Například můžete odhadnout, že práce vyžadovala 10 hodin a dosud to trvalo 15 hodin. Můžete přidat další pět hodin do existujícího řádku deníku nebo vytvořit nový řádek deníku, který vykáže těchto pět hodin jako přesčas, což je další typ práce. Vypočítá se příslušná cena a náklady a poté je můžete zaúčtovat do deníku.  
+<span data-ttu-id="2492a-158">To vám umožní sledovat a porovnávat původní odhady s aktuálními výsledky a podle potřeby provádět úpravy nebo nové položky.</span><span class="sxs-lookup"><span data-stu-id="2492a-158">This lets you track and compare your original estimates against actual results and make modifications or new entries as needed.</span></span> <span data-ttu-id="2492a-159">Například můžete odhadnout, že práce vyžadovala 10 hodin a dosud to trvalo 15 hodin.</span><span class="sxs-lookup"><span data-stu-id="2492a-159">For example, you may have estimated that a job required 10 hours, and to date, it has taken 15 hours.</span></span> <span data-ttu-id="2492a-160">Můžete přidat další pět hodin do existujícího řádku deníku nebo vytvořit nový řádek deníku, který vykáže těchto pět hodin jako přesčas, což je další typ práce.</span><span class="sxs-lookup"><span data-stu-id="2492a-160">You can add the extra five hours to the existing journal line or create a new journal line to report these five hours as overtime, which is another work type.</span></span> <span data-ttu-id="2492a-161">Vypočítá se příslušná cena a náklady a poté je můžete zaúčtovat do deníku.</span><span class="sxs-lookup"><span data-stu-id="2492a-161">The appropriate cost and price are calculated, and you can then post to the journal.</span></span>  
 
-**Poznámka**: Položky zboží vytvářejí položky zboží a snižují množství zásob. Dávková úloha **Zaúčtovat náklady na zás. do hl. knihy** převádí náklady ze zásob do hlavní knihy. Položky zdrojů vytvářejí věcné položky zdrojů.  
+<span data-ttu-id="2492a-162">**Poznámka**: Položky zboží vytvářejí položky zboží a snižují množství zásob.</span><span class="sxs-lookup"><span data-stu-id="2492a-162">**Note**: Item entries create item ledger entries and reduce the inventory quantity.</span></span> <span data-ttu-id="2492a-163">Dávková úloha **Zaúčtovat náklady na zás. do hl. knihy** převádí náklady ze zásob do hlavní knihy.</span><span class="sxs-lookup"><span data-stu-id="2492a-163">The **Post Inventory Cost to G/L** batch job transfers the cost from inventory to the general ledger.</span></span> <span data-ttu-id="2492a-164">Položky zdrojů vytvářejí věcné položky zdrojů.</span><span class="sxs-lookup"><span data-stu-id="2492a-164">Resource entries create resource ledger entries.</span></span>  
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Deník projektu** a pak vyberte související odkaz.  
-2. Vyberte příslušný deník projektu a potom vyberte položku **Výp. Akce Zbývající spotřeba** .  
-3. V **Výp. projektu Okně Zbývající spotřeba** , zadejte číslo dokladu a datum zaúčtování, které chcete vložit do deníku, a potom klepněte na tlačítko **OK** .  
-4. Aktualizujte deník se všemi možnými úpravami.  
-5. Zvolte **Zaúčtovat**.
+1. <span data-ttu-id="2492a-165">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Deník projektu** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="2492a-165">In the top right corner, choose the **Search for Page or Report** icon, enter **Job Journals**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="2492a-166">Vyberte příslušný deník projektu a potom vyberte položku **Výp. Akce Zbývající spotřeba** .</span><span class="sxs-lookup"><span data-stu-id="2492a-166">Select a relevant job journal, and then choose the **Calc. Remaining Usage** action.</span></span>  
+3. <span data-ttu-id="2492a-167">V **Výp. projektu Okně Zbývající spotřeba** , zadejte číslo dokladu a datum zaúčtování, které chcete vložit do deníku, a potom klepněte na tlačítko **OK** .</span><span class="sxs-lookup"><span data-stu-id="2492a-167">In the **Job Calc. Remaining Usage** window, enter the document number and posting date that is to be inserted in the journal, and then choose the **OK** button.</span></span>  
+4. <span data-ttu-id="2492a-168">Aktualizujte deník se všemi možnými úpravami.</span><span class="sxs-lookup"><span data-stu-id="2492a-168">Update the journal with any modifications that may be needed.</span></span>  
+5. <span data-ttu-id="2492a-169">Zvolte **Zaúčtovat**.</span><span class="sxs-lookup"><span data-stu-id="2492a-169">Choose the **Post**.</span></span>
 
-## <a name="to-view-job-ledger-entries"></a>Zobrazení položek projektu
-Všechny záznamy týkající se projektu jsou zaznamenány v žurnálu projektů a číslovány postupně, počínaje 1. Z žurnálu projektu získáte přehled o všech položkách projektu.    
+## <a name="to-view-job-ledger-entries"></a><span data-ttu-id="2492a-170">Zobrazení položek projektu</span><span class="sxs-lookup"><span data-stu-id="2492a-170">To view job ledger entries</span></span>
+<span data-ttu-id="2492a-171">Všechny záznamy týkající se projektu jsou zaznamenány v žurnálu projektů a číslovány postupně, počínaje 1.</span><span class="sxs-lookup"><span data-stu-id="2492a-171">All job-related entries are recorded in job registers and are numbered sequentially, starting with 1.</span></span> <span data-ttu-id="2492a-172">Z žurnálu projektu získáte přehled o všech položkách projektu.</span><span class="sxs-lookup"><span data-stu-id="2492a-172">From the job register, you can get an overview of all job ledger entries.</span></span>    
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Žurnál projektu** a pak vyberte související odkaz.
-2. Vyberte příslušný žurnál a poté zvolte akci **Položky projektu** .
+1. <span data-ttu-id="2492a-173">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Žurnál projektu** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="2492a-173">In the top right corner, choose the **Search for Page or Report** icon, enter **Job Registers**, and then choose the related link.</span></span>
+2. <span data-ttu-id="2492a-174">Vyberte příslušný žurnál a poté zvolte akci **Položky projektu** .</span><span class="sxs-lookup"><span data-stu-id="2492a-174">Select a relevant register, and then choose **Job Ledger** action.</span></span>
 
-V okně **Položky projektu** můžete zkontrolovat položky, které jsou přiřazeny k libovolnému projektu.  
+<span data-ttu-id="2492a-175">V okně **Položky projektu** můžete zkontrolovat položky, které jsou přiřazeny k libovolnému projektu.</span><span class="sxs-lookup"><span data-stu-id="2492a-175">In the **Job Ledger Entries** window you can review the entries that are associated with any job.</span></span>  
 
-## <a name="see-also"></a>Viz také
-[Správa projektů](projects-manage-projects.md)  
-[Finance](finance-setup.md)  
-[Správa nákupu](purchasing-manage-purchasing.md)         
-[Spravovat prodej](sales-manage-sales.md)      
-[Pracujte s Dynamics NAV](ui-work-product.md)  
+## <a name="see-also"></a><span data-ttu-id="2492a-176">Viz také</span><span class="sxs-lookup"><span data-stu-id="2492a-176">See Also</span></span>
+[<span data-ttu-id="2492a-177">Správa projektů</span><span class="sxs-lookup"><span data-stu-id="2492a-177">Manage Projects</span></span>](projects-manage-projects.md)  
+[<span data-ttu-id="2492a-178">Finance</span><span class="sxs-lookup"><span data-stu-id="2492a-178">Finance</span></span>](finance-setup.md)  
+<span data-ttu-id="2492a-179">[Správa nákupu](purchasing-manage-purchasing.md)       </span><span class="sxs-lookup"><span data-stu-id="2492a-179">[Manage Purchasing](purchasing-manage-purchasing.md)       </span></span>  
+<span data-ttu-id="2492a-180">[Spravovat prodej](sales-manage-sales.md)    </span><span class="sxs-lookup"><span data-stu-id="2492a-180">[Manage Sales](sales-manage-sales.md)    </span></span>  
+[<span data-ttu-id="2492a-181">Pracujte s Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="2492a-181">Work With Dynamics NAV</span></span>](ui-work-product.md)  
 
