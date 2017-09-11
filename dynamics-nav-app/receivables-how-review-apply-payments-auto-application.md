@@ -27,7 +27,7 @@ Každá úprava zisku a ztrát, která je zapotřebí v důsledku měnových kon
 
 **Poznámka**: Nemůžete vyrovnávat položky s jiným znaménkem než znaménkem platby. Chcete-li například uzavřít dobropis se záporným znaménkem a jeho související faktura je s kladným znaménkem, musíte nejprve vyrovnat fakturu k dobropisu a poté platbu vyrovnat na faktuře se sníženou zbývající částkou.
 
-**Upozornění**: Pokud používáte platební slevy a pokud je datum splatnosti před datem splatnosti platby, poté políčko **Zbývající částka včetně slevy** v okně **Vyrovnání plateb** bude použito pro párování. V opačném případě se použije hodnota v poli  **Zbývající částka**. Pokud byla platba provedena s diskontovanou částkou po splatnosti platby nebo byla zaplacena celá částka, ale byla poskytnuta sleva, částka nebude odpovídat.
+**Upozornění**: Pokud používáte skonto slevy a pokud je datum splatnosti před datem splatnosti platby, poté políčko **Zůstatková částka včetně skonta** v okně **Vyrovnání plateb** bude použito pro párování. V opačném případě se použije hodnota v poli  **Zůstatek**. Pokud byla platba provedena s diskontovanou částkou po splatnosti platby nebo byla zaplacena celá částka, ale byla poskytnuta sleva, částka nebude odpovídat.
 
 **Poznámka**: Můžete pouze vyrovnat položku pro jeden účet. Chcete-li rozdělit vyrovnání na několik otevřených položek, například k uplatnění jednorázové platby, musí být otevřené položky pro stejný účet. Další informace naleznete v krocích 7 a 8 v postupu v tomto tématu.
 
@@ -40,7 +40,7 @@ Každá úprava zisku a ztrát, která je zapotřebí v důsledku měnových kon
 6. Chcete-li část částky platit na jinou otevřenou položku účtu, například použít jednorázovou platbu, zaškrtněte políčko **Vyrovnáno** za řádku. Použitá částka se automaticky odečte z objemu transakcí tak, aby odrážely rozdělení na dvou otevřených položkách.
 7. Chcete-li část částky vyrovnat do jedné nebo více otevřených položek, které v databázi neexistují, vytvořte nový řádek pod řádkem pro stejný účet. Do pole **Vyrovnaná částka** zadejte částku, která se má použít na nový řádek, a upravte pole **Vyrovnaná částka** na existujícím řádku.
 8. Opakujte kroky 5, 6 nebo 7 pro další otevřené položky, u kterých chcete vyrovnat úplnou nebo částečnou sumu platby.
-9. Po kontrole vyrovnání platby nebo při ručním vyrovnání na jednu nebo více otevřených položek zvolte akci **Přijmout vyrovnání**.
+9. Po kontrole vyrovnání platby nebo při ručním vyrovnání na jednu nebo více otevřených položek zvolte akci **Akceptovat vyrovnání**.
 
 Okno **Vyrovnání plateb** se zavře a v **Deníku vyrovnání plateb** se hodnota v poli **Spolehlivost spárovaní** změní na hodnotu **Přijato** a zobrazí se Vám, že jste platbu prověřili nebo ručně provedli.
 

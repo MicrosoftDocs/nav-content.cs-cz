@@ -24,49 +24,49 @@ Když odešlete platbu nebo obdržíte od dodavatele refundaci, musíte se rozho
 
 Položky dodavatele můžete vyrovnat třemi různými způsoby:
 
-- Zadáním informací do specializovaných oken, například okna **Deníky plateb** a **Deníky vyrovnání plateb**.
+- Zadáním informací do specializovaných oken, například okna **Deníky plateb** a **Deníky odsouhlasení plateb**.
 - Z dokladů nákupních dobropisů.
 - Z položek dodavatele po zakoupení jsou zaúčtovány nákupní doklady, ale nejsou vyrovnány.
 
-**Poznámka**: Pokud pole **Metoda vyrovnání** na kartě dodavatele obsahuje **Vyrovnání nejstarší**, pak budou platby automaticky uplatněny na nejstarší položku otevřeného kreditu, pokud ručně neurčíte, ke které položce se vztahuje. Pokud je metoda použití pro zákazníka **Ručně**, musíte je vyrovnat ručně.
+**Poznámka**: Pokud pole **Metoda vyrovnání** na kartě dodavatele obsahuje **Vyrovnat nejstarší**, pak budou platby automaticky uplatněny na nejstarší položku otevřeného kreditu, pokud ručně neurčíte, ke které položce se vztahuje. Pokud je metoda použití pro zákazníka **Ručně**, musíte je vyrovnat ručně.
 
 Platby dodavatelů můžete vyrovnat ručně na související doklady o nákupu, když zaúčtujete platby v okně **Deníky plateb**. Informace o vyplňování deníku plateb naleznete v části [Návod: Vytváření plateb](payables-make-payments.md).
 
-Můžete také vyrovnat platby dodavatele a platby zákazníka poté, co se platby objeví ve vaší bance jako záporné bankovní transakce. V okně **Deníky vyrovnání plateb** můžete použít funkce pro import bankovních výpisů, automatické přihlašování a odsouhlasení bankovních účtů. Další informace naleznete v tématu [Odsouhlasení plateb pomocí automatického vyrovnání](receivables-how-reconcile-payments-auto-application.md).
+Můžete také vyrovnat platby dodavatele a platby zákazníka poté, co se platby objeví ve vaší bance jako záporné bankovní transakce. V okně **Deníky odsouhlasení plateb** můžete použít funkce pro import bankovních výpisů, automatické vyrovnání a odsouhlasení bankovních účtů. Další informace naleznete v tématu [Odsouhlasení plateb pomocí automatického vyrovnání](receivables-how-reconcile-payments-auto-application.md).
 
 ## <a name="to-apply-a-payment-to-a-single-or-multiple-vendor-ledger-entries"></a>Platba na jednu nebo více položek dodavatele
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Deníky plateb** a pak vyberte související odkaz.
 2. V okně **Deníky plateb** vložte do prvního řádku deníku příslušné informace o položce platby.
 3. Chcete-li použít jedinou položku dodavatele:
-4. V poli **Číslo vyrovnání  dokladu** , které otevře okno **Vyrovnat položky dodavatele**.
+4. V poli **Číslo vyrovnání  dokladu,**  které otevře okno **Vyrovnat položky dodavatele**.
 5. V okně **Vyrovnat položky dodavatele** vyberte položku, na kterou chcete platbu vyrovnat.
 6. Na řádku v poli **Částka k vyrovnání** zadejte částku k použití na položku.
 7. Nebo použijte více položek dodavatele:
 8. Vyberte tlačítko **Vyrovnat položky**.
 9. V okně **Vyrovnání položek dodavatele** vyberte řádek s položkami, ve kterých chcete platbu použít.
-10. Zvolte akci **Nastavení ID vyrovnání**.  
+10. Zvolte akci **Nastavit ID vyrovnání**.  
 11. Na každém řádku v poli **Částka k vyrovnání** zadejte částku k vyrovnání jednotlivé položky.
 
-    Pokud nezadáte částku, automaticky se použije maximální částka. V dolní části okna **Vyrovnání položek dodavatele** můžete vidět částku v poli Použitá částka a zjistíte, zda se aplikace vyrovnává.
+    Pokud nezadáte částku, automaticky se použije maximální částka. V dolní části okna **Vyrovnání položek dodavatele** můžete vidět částku v poli Vyrovnaná částka a zjistíte, zda se aplikace vyrovnává.
 12. Zvolte tlačítko **OK**.
-13. Zvolte akci **Účtovat** uveďte deník plateb.
+13. Zvolte akci **Účtovat** pro zaúčtování deníku plateb.
 
-## <a name="to-apply-a-credit-memo-to-a-single-or-multiple-vendor-ledger-entries"></a>Vyrovnání dobropisu k jedné nebo více položkám prodejce
+## <a name="to-apply-a-credit-memo-to-a-single-or-multiple-vendor-ledger-entries"></a>Vyrovnání dobropisu k jedné nebo více položkám dodavatele
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Nákupní dobropisy** a zvolte související odkaz.
 2. Otevřete dobropis, který chcete vyrovnat.
 3. Zadejte příslušné informace do hlavičky.
 4. Chcete-li vyrovnat jedinou položku dodavatele:
-5. Na záložce s náhledem **Vyrovnání** v poli dokladu s **Číslem vyrovnání dokladu dokladu** vyberte položku, na kterou chcete použít kredit.
+5. Na záložce s náhledem **Vyrovnání** v poli dokladu s **Číslo vyrovnání dokladu dokladu** vyberte položku, na kterou chcete použít kredit.
 6. Na řádku v poli **Částka k vyrovnání** zadejte částku k vyrovnání na položky.
 7. Nebo použijte více položek dodavatele:
 8. Vyberte tlačítko **Vyrovnat položky**.
-9. Zvolte řádky s položkami, na které chcete vyrovnat dobropisem.
-10. Zvolte akci **Nastavení ID vyrovnání**.  
+9. Zvolte řádky s položkami, které chcete vyrovnat dobropisem.
+10. Zvolte akci **Nastavit ID vyrovnání**.  
 11. Na každém řádku v poli **Částka k vyrovnání** zadejte částku k vyrovnání jednotlivé položky.
 
     Pokud nezadáte částku, automaticky se použije maximální částka. V dolní části okna **Vyrovnání položky dodavatele** můžete vidět částku v poli **Vyrovnaná částka** a zjistíte, zda se aplikace vyrovnává.
 12. Zvolte tlačítko **OK**.  
-Okno **Nákupní dobropis** zobrazuje položku, kterou jste vybrali v poli dokumentu **Typ Vyrovnání dokladu ** A poli číslo **Vyrovnání dokladu. dokladu**  . Okno také zobrazuje částku dobropisu, který má být zaúčtován, upraven o případné slevy na platbě.
+Okno **Nákupní dobropis** zobrazuje položku, kterou jste vybrali v poli dokumentu **Typ vyrovnání dokladu** a **v poli číslo Vyrovnání dokladu. **   Okno také zobrazuje částku dobropisu, která má být zaúčtována, upravenou o případné skonto slevy.
 13. Zvolte tlačítko **Účtovat**, chcete-li dobropis zaúčtovat.
 
 ## <a name="to-apply-posted-vendor-ledger-entries"></a>Vyrovnání položek dodavatele
@@ -76,39 +76,39 @@ Okno **Nákupní dobropis** zobrazuje položku, kterou jste vybrali v poli dokum
 3. Zvolte akci **Položky** a poté akci **Vyrovnat položky**.
 4. V okně **Vyrovnat položky dodavatele** můžete vidět otevřené položky dodavatele.
 5. Vyberte řádek s položkou, která bude vyrovnána.
-6. Zvolte akci **Nastavení ID vyrovnání**.
-7. Pole **Platí pro ID** zobrazuje tři hvězdičky, pokud pracujete v systému pro jednoho uživatele nebo v uživatelském ID, pokud pracujete v systému více uživatelů.  
+6. Zvolte akci **Nastavit ID vyrovnání**.
+7. Pole **ID Vvyrování** zobrazuje tři hvězdičky, pokud pracujete v systému pro jednoho uživatele nebo vaše uživatelském ID, pokud pracujete v systému více uživatelů.  
 8. Pro každý řádek v poli **Částka k vyrovnání** zadejte částku k vyrovnání jednotlivé položky.
 
     Pokud nezadáte částku, automaticky se použije maximální částka. Částku můžete vidět v poli **Vyrovnaná částka** v dolní části okna **Vyrovnat položky dodavatele**.
 9. Zvolte akci **Účtovat vyrovnání**.  
-Zobrazí se okno **Účtovat vyrovnání** s číslem dokladu přihlášené položky a datem zaúčtování položky s datem posledního zadávání.
+Zobrazí se okno **Účtovat vyrovnání** s číslem dokladu vyrovnávající položky a datem zaúčtování položky s datem posledního zadávání.
 10. Zvolte tlačítko **OK** pro zaúčtování vyrovnání.
 
 ## <a name="to-apply-vendor-ledger-entries-in-different-currencies-to-one-another"></a>Vyrovnání položek dodavatele v různých měnách
-Pokud nakoupíte od dodavatele v jedné měně a odešlete v druhé měně, můžete pořád použít fakturaci nákupu.
+Pokud nakoupíte od dodavatele v jedné měně a vytvoříte platbu v druhé měně, můžete pořád vyrovnat fakturu s touto platbou.
 
 Pokud vyrovnáte položku (položka 1) v jedné měně k položce (položka 2) v jiné měně, datum zaúčtování položky 1 se použije k nalezení příslušného směnného kurzu pro převod částek na položku 2. Příslušný směnný kurz naleznete v okně **Směnné kurzy**.
 
 Vyrovnání položek dodavatele v různých měnách musí být povoleno. Pro další informace viz [Návod: Umožnění vyrovnání položek v různých měnách](finance-setup-how-enable-application-ledger-entries-different-currencies.md)
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Deníky pojištění** a vyberte související odkaz.
-2. Otevřete deník, který chcete, a vyplňte první prázdný řádek deníku pomocí kódu měny.
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Deníky plateb** a vyberte související odkaz.
+2. Otevřete deník, který chcete, a vyplňte první prázdný řádek deníku s použitím kódu měny.
 3. Vyberte tlačítko **Vyrovnat položky**.
-4. Vyberte řádek s položkou, pro kterou chcete použít položku v deníku plateb, vyberte akci **Nastavení ID vyrovnání** a pak vyberte položku, kterou chcete použít.
+4. Vyberte řádek s položkou, pro kterou chcete použít položku v deníku plateb, vyberte akci **Nastavit ID vyrovnání** a pak vyberte položku, kterou chcete použít.
 5. Zvolte tlačítko **OK** pro návrat do deníku plateb.
 6. Zaúčtujte deník plateb.
 
 **Důležité**: Při vyrovnání položek v různých měnách se položky přepočítají na USD. I když jsou směnné kurzy pro dvě příslušné měny pevně stanoveny, například mezi USD a EUR, mohou být tyto částky v cizí měně přepočteny na USD. Tyto malé zbytkové částky jsou účtovány jako zisky a ztráty na účtu uvedeném v poli **Účet realizovaných zisků** nebo **Účet realizovaných ztrát** v okně **Měny**. Pole **Částka (USD)** je také nastavena podle příslušných položek dodavatele.
 
 ## <a name="to-unapply-an-application-of-vendor-entries"></a>Zrušení vyrovnání položek dodavatele
-Pokud zrušíte chybné vyrovnání, oprava položek, které jsou totožné s původní položkou, ale s opačným znaménkem v poli částky, jsou vytvořeny a zaúčtovány pro všechny položky včetně veškerého účtování hlavní knihy odvozené z vyrovnání jako jsou slevy na platbě a měnové zisky/ztráty. Položky, které byly uzavřeny vyrovnáním, jsou znovu otevřeny.
+Pokud zrušíte chybné vyrovnání, oprava položek, které jsou totožné s původní položkou, ale s opačným znaménkem v poli částky, jsou vytvořeny a zaúčtovány pro všechny položky včetně veškerého účtování hlavní knihy odvozené z vyrovnání jako jsou skonto slevy a kurzové zisky/ztráty. Položky, které byly uzavřeny vyrovnáním, jsou znovu otevřeny.
 
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Dodavatelé** a zvolte související odkaz.
 2. Otevřete příslušnou kartu dodavatele.
 3. Zvolte akci **Položky**.
 4. Vyberte odpovídající položku a potom vyberte akci **Zrušit vyrovnání položek**.
-5. Alternativně zvolte akci **Detailní položka**.
+5. Alternativně zvolte akci **Detailní položky**.
 6. Vyberte položku vyrovnání a potom vyberte akci **Zrušit vyrovnání položek**.
 7. Vyplňte pole v hlavičce a poté klepněte na tlačítko **Zrušit vyrovnání**.
 

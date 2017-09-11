@@ -32,7 +32,7 @@ Kód průmyslové skupiny definuje typ nebo kategorii skupiny, např. REKLAMA pr
 Nemůžete přiřadit průmyslové skupiny ke kontaktním osobám - pouze společnosti.
 
 1. Otevřete kontakt.
-2. Zvolte akci **Společnost** a poté akci **Průmyslové skupiny**. Otevře se okno **Průmyslné skupiny kontaktu**.
+2. Zvolte akci **Společnost** a poté akci **Průmyslové skupiny**. Otevře se okno **Průmyslové skupiny kontaktu**.
 3. V poli **Kód průmyslových skupiny** vyberte průmyslové skupiny, které chcete přiřadit.
 
 Opakujte tyto kroky, abyste přiřadili tolik průmyslových skupin, kolik chcete. Průmyslové skupiny můžete také přiřadit stejným postupem ze seznamu kontaktů.

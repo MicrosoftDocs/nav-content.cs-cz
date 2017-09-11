@@ -40,12 +40,12 @@ Bankovní platební soubor je exportován na místo, které jste zadali, a můž
 Poté, co obdržíte potvrzení o úspěšném zpracování plateb v bance, můžete odeslat exportované řádky deníku plateb.
 
 ## <a name="to-plan-when-to-post-exported-payments"></a>Naplánování odeslání exportované platby
-Pokud nechcete uveřejnit řádek žurnálu plateb pro exportovanou platbu, například proto, že čekáte na potvrzení o tom, že transakce byla zpracována bankou, můžete pouze odstranit řádek deníku. Když později vytvoříte řádek platebního deníku a zaplatíte zbývající částku na faktuře, pole **Celková exportovaná částka** ukazuje, kolik částky platby již bylo exportováno. Podrobné informace o exportované částce najdete také výběrem tlačítka **Položky žurnálu přenosu kreditu** k zobrazení detailů o exportovaných platebních souborech.
+Pokud nechcete uveřejnit řádek žurnálu plateb pro exportovanou platbu, například proto, že čekáte na potvrzení o tom, že transakce byla zpracována bankou, můžete pouze odstranit řádek deníku. Když později vytvoříte řádek platebního deníku a zaplatíte zbývající částku na faktuře, pole **Exportovaná částka celkem** ukazuje, kolik částky platby již bylo exportováno. Podrobné informace o exportované částce najdete také výběrem tlačítka **Položky bezhotovostního převodu** k zobrazení detailů o exportovaných platebních souborech.
 
 Pokud se budete řídit procesem, v němž neúčtujete platby, dokud nemáte potvrzení o tom, že byly zpracovány v bance, můžete to ovládat dvěma způsoby.
 
-* V deníku plateb s navrhovanými platebními řádky můžete třídit buď sloupec **Exportováno do platebního souboru** nebo **Celková exportovaná částka** a pak smazat návrhy plateb pro otevřené faktury, pro které již byly provedeny platby a nechcete za ně platit.
-* V okně **Navrhnutí platby dodavateli**, kde určíte platby, které chcete vložit do deníku plateb, zaškrtněte políčko **Přeskočit exportované platby**, pokud nechcete vkládat řádky deníku pro platby, které již byly exportovány.
+* V deníku plateb s navrhovanými platebními řádky můžete třídit buď sloupec **Exportováno do souboru plateb ** nebo **Exportovaná částka celkem** a pak smazat návrhy plateb pro otevřené faktury, pro které již byly provedeny platby a nechcete za ně platit.
+* V okně **Navrhnout platby dodavateli**, kde určíte platby, které chcete vložit do deníku plateb, zaškrtněte políčko **Přeskočit exportované platby**, pokud nechcete vkládat řádky deníku pro platby, které již byly exportovány.
 
 Chcete-li zobrazit informace o exportovaných platbách, zvolte akci **Historie exportu plateb**.
 

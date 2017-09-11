@@ -41,8 +41,8 @@ Transakce mohou být přiděleny různým oddělením nebo projektům podle uži
 
 Přidělovací klíče platí pro třídy DM, nikoli pro jednotlivý majetek.  
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Účto skupiny DM** a pak vyberte související odkaz.  
-2. V okně **Účto skupiny DM** vyberte akci **Přidělení** a poté vyberte typ účtování.
-3. V okně **Přidělení DM** vyplňte pole podle potřeby.
+2. V okně **Účto skupiny DM** vyberte akci **Rozdělení** a poté vyberte typ účtování.
+3. V okně **Rozdělení DM** vyplňte pole podle potřeby.
 4. Opakujte kroky 2 a 3 pro každý typ účtování, pro který chcete definovat přidělovací klíče.
 
 ## <a name="to-set-up-fixed-asset-journal-templates"></a>Nastavení šablon deníku DM  
@@ -65,7 +65,7 @@ Používáte-li vyhrazené přeřazení deníků, když potřebujete převést, 
 
 ## <a name="to-set-up-fixed-asset-reclassification-journal-batches"></a>Nastavení dávky deníku pro reklasifikaci DM  
 Můžete nastavit více dávek deníku, což jsou jednotlivé deníky pro každou reklasifikaci šablony deníku. Zaměstnanci mohou mít například vlastní reklasifikaci dávky deníku, který používá iniciály zaměstnanců jako název reklasifikaci dávky deníku. Další informace naleznete v tématu [Práce s Finančním deníkem](ui-work-general-journals.md).
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Šablony deníku ****přeřazení DM** a pak vyberte související odkaz.  
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Šablony deníku ** přeřazení DM** a pak vyberte související odkaz.  
 2. Vyberte příslušnou šablonu deníku a pak zvolte akci **Dávky**.
 3. V okně **Listy deníku přeřazení DM** vyplňte pole podle potřeby.
 

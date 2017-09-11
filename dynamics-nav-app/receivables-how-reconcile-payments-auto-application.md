@@ -29,18 +29,18 @@ Pomocí akce **Mapovat text na účet** můžete nastavit mapování mezi textem
 
 Podobné funkce existují k tomu, aby se odsouhlasily přebytečné částky na řádcích deníku odsouhlasení plateb v základním ad-hoc. Další informace naleznete v tématu [Návod: Odsouhlasení plateb, které nelze vyrovnat.](receivables-how-reconcile-payments-cannot-apply-auto.md)
 
-Použijete funkci **Automatické vyrovnání** a to buď automaticky při importu bankovního souboru nebo zdroje s platebními transakcemi nebo při jeho aktivaci k vyrovnání plateb na jejich souvisejících otevřených položkách na základě shody dat na řádku deníku s daty v jedné nebo více otevřených položkách.
+Použijete funkci **Automatické vyrovnání** a to buď automaticky při importu bankovního souboru nebo zdroje s platebními transakcemi nebo při jeho aktivaci k vyrovnání plateb na jejich souvisejících otevřených položkách na základě párování dat na řádku deníku s daty v jedné nebo více otevřených položkách.
 
-Na řádcích deníku, kde byla platba automaticky vyrovnána na jednu nebo více otevřených položek, má pole **Spolehlivost shody** hodnotu mezi Nízká a Vysoká, která označuje kvalitu shody dat, na které je založena navrhovaná vyrovnávací platba. Navíc pole **Typ účtu** a **Číslo účtu** obsahuje informace o zákazníkovi nebo dodavateli, u kterých je platba vyrovnána. Pokud jste nastavili textové mapování účtů, automatické vyrovnání může mít za následek spolehlivost shody **Vysoká - Textové mapování účtů**.
+Na řádcích deníku, kde byla platba automaticky vyrovnána na jednu nebo více otevřených položek, má pole **Spolehlivost párování** hodnotu mezi Nízká a Vysoká, která označuje kvalitu párování dat, na které je založena navrhovaná vyrovnávací platba. Navíc pole **Typ účtu** a **Číslo účtu** obsahuje informace o zákazníkovi nebo dodavateli, u kterých je platba vyrovnána. Pokud jste nastavili textové mapování účtů, automatické vyrovnání může mít za následek spolehlivost párování **Vysoká - Textové mapování účtů**.
 
-Pro každý řádek deníku v okně **Deník odsouhlasení plateb** můžete otevřít okno **Vyrovnání plateb**, abyste viděli všechny kandidáty otevřených položek pro platbu a detailní pohled na informace pro každou položku o shodě dat, na kterou je vyrovnání plateb založeno. Zde můžete ručně použít vyrovnání plateb nebo znovu vyrovnat platby, které byly automaticky vyrovnány na nesprávnou položku. Další informace naleznete v tématu [Návod: Pohled nebo vyrovnání plateb po automatickém vyrovnání](receivables-how-review-apply-payments-auto-application.md).
+Pro každý řádek deníku v okně **Deník odsouhlasení plateb** můžete otevřít okno **Vyrovnání platby**, abyste viděli všechny kandidáty otevřených položek pro platbu a detailní pohled na informace pro každou položku o shodě dat, na kterou je vyrovnání plateb založeno. Zde můžete ručně použít vyrovnání plateb nebo znovu vyrovnat platby, které byly automaticky vyrovnány na nesprávnou položku. Další informace naleznete v tématu [Návod: Pohled nebo vyrovnání plateb po automatickém vyrovnání](receivables-how-review-apply-payments-auto-application.md).
 
 **Poznámka**: Můžete zahájit import bankovních transakcí současně s otevřením okna **Deník odsouhlasení plateb** pro existující deník odsouhlasení plateb v okně **Deník odsouhlasení plateb**. Následující postup popisuje, jak lze importovat bankovní transakce do okna **Deník odsouhlasení plateb** poté, co jste vytvořili nový deník.
 
 ## <a name="to-reconcile-payments-using-automatic-application"></a>Odsouhlasení plateb pomocí automatického vyrovnání
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Deníky odsouhlasení plateb** a pak vyberte související odkaz.
 2. Chcete-li pracovat v novém deníku odsouhlasení plateb, zvolte akci **Nový deník**.
-3. V okně **Seznam plateb bankovních účtů** vyberte bankovní účet, pro který chcete odsouhlasit platby a potom klepněte na tlačítko **OK**.
+3. V okně **Přehled plateb bankovních účtů** vyberte bankovní účet, pro který chcete odsouhlasit platby a potom klepněte na tlačítko **OK**.
 Okno **Deníky odsouhlasení plateb** se otevře pro vybraný bankovní účet.
 4. Zvolte akci **Import bankovních transakcí**.
 Pokud bankovní účet pro vybraný deník není nastaven pro import bankovních transakcí, otevře se dialogové okno, které vám pomůže vyplnit příslušná pole.
@@ -49,17 +49,17 @@ Pokud bankovní účet pro vybraný deník není nastaven pro import bankovních
 
     Okno **Deníky odsouhlasení plateb** je vyplněno řádky pro platby představující bankovní transakce v importovaném bankovním výpisu.
 
-    Na řádcích plateb, které byly automaticky vyrovnány na jejich související otevřené položky, má pole **Spolehlivost shody** hodnotu mezi **Nízká** a **Vysoká**, které označuje kvalitu shody dat, na které je založeno navrhované vyrovnání plateb. Navíc pole **Typ účtu** a **Číslo účtu** obsahuje informace o zákazníkovi nebo dodavateli, u kterých je platba vyrovnána.
-7. Vyberte řádek deníku a potom zvolte akci **Ruční vyrovnání** k pohledu, znovu vyrovnání nebo vyrovnání platby ručně v okně **Vyrovnání plateb**. Další informace naleznete v tématu [Návod: Pohled nebo vyrovnání plateb po automatickém vyrovnání](receivables-how-review-apply-payments-auto-application.md).
+    Na řádcích plateb, které byly automaticky vyrovnány na jejich související otevřené položky, má pole **Spolehlivost párování** hodnotu mezi **Nízká** a **Vysoká**, které označuje kvalitu párování dat, na které je založeno navrhované vyrovnání plateb. Navíc pole **Typ účtu** a **Číslo účtu** obsahuje informace o zákazníkovi nebo dodavateli, u kterých je platba vyrovnána.
+7. Vyberte řádek deníku a potom zvolte akci **Vyrovnat ručně** k pohledu na vyrovnané  položky, znovu vyrovnání platby nebo vyrovnání platby ručně v okně **Vyrovnání plateb**. Další informace naleznete v tématu [Návod: Pohled nebo vyrovnání plateb po automatickém vyrovnání](receivables-how-review-apply-payments-auto-application.md).
 
-    Po dokončení ručního vyrovnání, pole **Spolehlivost shody** na řádku deníku, který jste zpracovali ručně, obsahuje **Přijato**.
-8. Vyberte nevyrovnaný řádek deníku pro opakující se příjem nebo výdajů hotovosti, jako je nákup automobilového benzínu a poté na kartě Domů ve skupině Pohled zvolte Mapovat text na účet. Další informace naleznete v tématu [Návod: Mapovat text periodických plateb na účtech pro automatické odsouhlasení](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md)
+    Po dokončení ručního vyrovnání, pole **Spolehlivost párování** na řádku deníku, který jste zpracovali ručně, obsahuje **Přijato**.
+8. Vyberte nevyrovnaný řádek deníku pro opakující se příjem nebo výdajů hotovosti, jako je nákup automobilového benzínu a poté na kartě Domů ve skupině Pohled zvolte Mapovat text na účet. Další informace naleznete v tématu [Návod: Mapování textu periodických plateb na účtech pro automatické odsouhlasení](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md)
 9. Jakmile dokončíte mapování textu platby na účty, zvolte akci **Vyrovnat ručně**.
 10. Pokud jste spokojeni s tím, že všechny platby na řádcích deníku jsou správně vyrovnány nebo nastaveny na přímé zaúčtování, zvolte akci **Účtovat**.
 
 Při zaúčtování deníku odsouhlasení plateb se uzavřou vyrovnané otevřené položky a související zákazník, dodavatel nebo účty hlavní knihy jsou aktualizovány. Pro platby na řádcích deníku založeném na textovém mapování účtů, se specifický zákazník, dodavatel a účty hlavní knihy aktualizují. Pro všechny řádky deníku jsou vytvořeny položky knihy bankovního účtu. Pokud zvolíte akci **Účtování plateb a odsouhlasení bankovních účtů**, budou uzavřeny všechny otevřené položky knihy bankovního účtu související s vyrovnáním položek knihy zákazníka nebo dodavatele. To znamená, že bankovní účet je automaticky odsouhlasen pro platby, které zaúčtujete do deníku.
 
-Můžete porovnat hodnotu v poli **Zůstatek na bankovním účtu po zaúčtování** spolu s hodnotou v poli **Zůstatek konečného výpisu** pro sledování, když bankovní účet je odsouhlasen na základě platby, kterou zaúčtujete.
+Můžete porovnat hodnotu v poli **Saldo bankovního účtu po zaúčtování** spolu s hodnotou v poli **Konečné saldo výpisu** pro sledování, když bankovní účet je odsouhlasen na základě platby, kterou zaúčtujete.
 
 **Poznámka**: Pokud nechcete odsouhlasit bankovní účet z okna **Deníky odsouhlasení plateb**, musíte použít okno **Odsouhlasení bank. účtu**. Další informace naleznete v tématu [Odsouhlasení bankovních účtů zvlášť](bank-how-reconcile-bank-accounts-separately.md).
 

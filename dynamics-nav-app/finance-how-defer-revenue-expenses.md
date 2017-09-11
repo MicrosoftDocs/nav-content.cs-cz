@@ -30,16 +30,16 @@ K distribuci výdajů a výnosů na zahrnuté účtovací období nastavíte ša
 Pro oba typy odložených vyberte **Rozvaha** v poli **Typ** a pojmenujte účty vhodně jako "Nezaplacený příjem“ pro odložené výnosy a "Nezaplacený výdaj“ pro odložené výdaje.
 
 ## <a name="to-set-up-a-deferral-template"></a>Nastavení šablony odložení
-1. V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Šablona časového rozlišení** a pak vyberte související odkaz.
+1. V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Šablony časového rozlišení** a pak vyberte související odkaz.
 2. Vyberte akci **Nový**.
 3. Vyplňte pole dle potřeby.
-4. V poli **Způsob výpočtu** specifikujte jak bude pole **Částka** pro každé období v okně **Šablona odložení** počítáno. Můžete si vybrat mezi následujícími možnostmi:
+4. V poli **Metoda výpočtu** specifikujte jak bude pole **Částka** pro každé období v okně **Šablona časového rozlišení** počítáno. Můžete si vybrat mezi následujícími možnostmi:
     - **Lineární**: Pravidelné odklady jsou počítány podle počtu období, distribuovány podle délky období.
-    - **Rovno za období**: Pravidelné odklady jsou počítány podle počtu období, distribuovány rovnoměrně na období.
-    - **Dny za období**: Pravidelné odklady jsou počítány podle počtu dní v období.
-    - **Definované uživatelem**: Pravidelné odklady nejsou počítány. Musíte manuálně vyplnit pole hodnoty pro každé období v okně Plán časového rozlišení. Další informace naleznete v tématu „Změna schématu odložení z prodejní faktury”.
+    - **Stejně za období**: Pravidelné odklady jsou počítány podle počtu období, distribuovány rovnoměrně na období.
+    - **Dní za období**: Pravidelné odklady jsou počítány podle počtu dní v období.
+    - **Uživatelsky definovaná**: Pravidelné odklady nejsou počítány. Musíte manuálně vyplnit pole hodnoty pro každé období v okně Plán časového rozlišení. Další informace naleznete v tématu „Změna schématu odložení z prodejní faktury”.
 
-5. V poli **Období sestupně** specifikuj popis, který se ukáže na položkách pro odložené zaúčtování. Můžete zadat následující zástupné symboly kódů pro typické hodnoty, které budou vyplněny automaticky, když je popis období zobrazen.
+5. V poli **Popis období** specifikuj popis, který se ukáže na položkách pro odložené zaúčtování. Můžete zadat následující zástupné symboly kódů pro typické hodnoty, které budou vyplněny automaticky, když je popis období zobrazen.
     - %1 = Počet dní období data zaúčtování
     - %2 = Počet týdnů období data zaúčtování
     - %3 = Počet měsíců období data zaúčtování
@@ -58,9 +58,9 @@ Příklad: Datum zaúčtování je 02/06/2016. Pokud zadáte “Výdaje odložen
 **Poznámka**: Kroky v téhle proceduře jsou stejné jako, když měníte schéma odložení, pro výdaje z nákupní faktury.
 
 1. V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Prodejní faktury**, a pak vyberte související odkaz.
-2. Vytvořte prodejní fakturu pro zboží, které má přiřazenou šablonu odložení. Další informace naleznete v tématu [Návod: Prodejní faktury](sales-how-invoice-sales.md).
+2. Vytvořte prodejní fakturu pro zboží, které má přiřazenou šablonu rozlišení. Další informace naleznete v tématu [Návod: Prodejní faktury](sales-how-invoice-sales.md).
 
-    Všimněte si, že jakmile zadáte zboží (zdroje nebo finanční účet) na řádek faktury, pole **Odkladový kód** je vyplněno kódem přiřazené šablony odložení.
+    Všimněte si, že jakmile zadáte zboží (zdroje nebo finanční účet) na řádek faktury, pole **Kód časového rozlišení** je vyplněno kódem přiřazené šablony odložení.
 3. Vyberte akci **Plán časového rozlišení**.
 4. V okně **Schéma časového rozlišení**, změňte nastavení v hlavičce nebo hodnotách na řádcích, např. k pozdržení částky na přídavné období účtování.
 5. Vyberte akci **Plán časového rozlišení**.
@@ -72,7 +72,7 @@ Příklad: Datum zaúčtování je 02/06/2016. Pokud zadáte “Výdaje odložen
 1. V okně **Prodejní faktura** vyberte akci **Náhled zaúčtování**.
 2. V okně **Náhled zaúčtování** vyberte akci **Položka financí** a zvolte akci **Zobrazit související položky**.
 
-Položky financí k zaúčtování do specifikovaného účtu odložení, například  Nerozdělený příjem, jsou označeny popisem, který jste zadali v poli ** Období sestupně** v šabloně odložení, například "Výdaje odložené na Únor 2016".
+Položky financí k zaúčtování do specifikovaného účtu časového rozlišení, například  Nerozdělený příjem, jsou označeny popisem, který jste zadali v poli **Popis období** v šabloně odložení, například "Výdaje odložené na Únor 2016".
 
 ## <a name="to-review-posted-deferrals-in-the-sales-deferral-summary-report"></a>Revize zaúčtovaných odložení v sestavě prodeje souhrnu odložení
 **Poznámka**: Kroky v této proceduře jsou stejné jako revize sestavy nákupu souhrnu odložení.

@@ -27,7 +27,7 @@ Dynamics NAV může vypočítat denní odpis, který vám umožní vypočítat o
 
 Pokud je dlouhodobý majetek využíván několika odděleními, mohou být tyto oddělení automaticky přiděleny pravidelně podle odměnové tabulky definované uživatelem.  
 
-Záznamy o nesprávném odpisu můžete zrušit pomocí dávkové úlohy **Zrušit položky knihy DM**. Poté můžete zaúčtovat správné množství odpisů spuštěním dávkové úlohy **Výpočet odpisů** znovu. Když opravujete chyby, jsou zaúčtovány jako chyby v položkách knih DM.  
+Záznamy o nesprávném odpisu můžete zrušit pomocí dávkové úlohy **Storno položek DM**. Poté můžete zaúčtovat správné množství odpisů spuštěním dávkové úlohy **Výpočet odpisů** znovu. Když opravujete chyby, jsou zaúčtovány jako chyby v položkách knih DM.  
 
 Odsazení slouží k úpravě hodnot pro obecné změny cenové hladiny. Dávková úloha **Indexovat DM** může být použita k vypočítání pořizovací ceny v reprodukčních nákladech.  
 
@@ -45,9 +45,9 @@ Jednou za měsíc nebo vždy, když si zvolíte, můžete spustit dávkovou úlo
 5. Zvolte akci **Účtovat**.
 
 ## <a name="to-post-a-depreciation-manually-from-the-fixed-asset-gl-journal"></a>Zaúčtování odpisů ručně z finančního deníku DM
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Dlouhodobý majetek finančního deníku** a pak vyberte související odkaz.  
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Finanční deníky DM** a pak vyberte související odkaz.  
 2. Vytvořte počáteční řádek deníku a vyplňte pole podle potřeby.
-3. Do pole **Typ zaúčtování DM** vyberte **Odpis**.
+3. Do pole **Typ účtování DM** vyberte **Odpis**.
 4. Zvolte možnost **Vložit protiúčet DM**. Druhý řádek deníku je vytvořen pro vyrovnávací účet, který je nastaven pro zaúčtování odpisů. Další informace naleznete v tématu "Nastavení skupin zaúčtování DM“ [Návod: Nastavení informací o obecném dlouhodobém majetku](fa-how-setup-general.md).
 5. Na kartě **Domů** vyberte možnost **Účtovat** k zaúčtování deníku.
 
@@ -56,22 +56,22 @@ Pokud jste nastavili přidělovací klíče DM pro přidělování částek růz
 ## <a name="to-calculate-allocations-in-the-fixed-asset-gl-journal"></a>Výpočet přidělení ve finančním deníku DM
 Pokud je dlouhodobý majetek využíván několika odděleními, mohou být tyto oddělení automaticky přiděleny pravidelně podle odměnové tabulky definované uživatelem.  
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Dlouhodobý majetek finančního deníku** a pak vyberte související odkaz.   
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Finanční deníky DM** a pak vyberte související odkaz.   
 Vytvořte počáteční řádek a vyplňte pole podle potřeby.
-3. Do pole **Typ zaúčtování DM** vyberte **Přidělení**.
+3. Do pole **Typ účtování DM** vyberte **Přidělení**.
 4. Zvolte možnost **Vložit protiúčet** **DM**. Druhý řádek deníku je vytvořen pro vyrovnávací účet, který je nastaven pro zaúčtování přidělení.
 5. Na kartě **Domů** vyberte možnost **Účtovat** k zaúčtování deníku.
 
 ## <a name="use-duplication-lists-to-prepare-to-post-to-multiple-depreciation-books"></a>Použijte duplicitní seznamy, abyste se mohli připravit k zaúčtování více odpisových knih  
 Když vyplníte řádky deníků, které mají být zaúčtovány do odpisové knihy, můžete duplikovat řádky v samostatném deníku, po kterém mohou být zaúčtovány do jiné odpisové knihy. Další informace naleznete v tématu "Zaúčtování položek do různých odpisových knih".
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Odpisové knihy** a pak vyberte související odkaz.  
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Knihy odpisů** a pak vyberte související odkaz.  
 2. Otevřete příslušnou odpisovou knihu a zaškrtněte políčko **Část seznamu duplikací**.  
 
 **Důležité**: Pokud jste vybrali políčko **Použít seznam duplikací**, nepoužívejte v deníku číselné řady. Důvodem je, že číselné řady pro dlouhodobý majetek finančního deníku nepředstavují číselné řady pro dlouhodobý majetek deníku.
 
 ## <a name="to-post-entries-to-different-depreciation-books"></a>Zaúčtování položek do různých odpisových knih  
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Dlouhodobý majetek finančního deníku** a pak vyberte související odkaz.
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Finanční deníky DM** a pak vyberte související odkaz.
 2. V deníku, který chcete zaúčtovat, zaškrtněte políčko **Použít seznam duplikací**.
 3. Vyplňte pole podle potřeby.
 4. Zvolte akci **Zaúčtovat**.
@@ -86,7 +86,7 @@ Když vyplníte řádky deníků, které mají být zaúčtovány do odpisové k
 Můžete kopírovat položky z jedné odpisové knihy do jiné s dávkovou úlohou **Kopie odpisových knih**. Dávková úloha vytvoří řádky deníku v dávkovém deníku, který jste zadali v okně **Nastavení deníku DM** pro odpisovou knihu, kterou chcete kopírovat. Další informace naleznete v následujícím postupu.
 
 ## <a name="to-copy-fixed-asset-ledger-entries-between-depreciation-books"></a>Zkopírování položek knihy DM mezi odpisovými knihami  
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Odpisové knihy** a pak vyberte související odkaz.
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Knihy odpisů** a pak vyberte související odkaz.
 2. Otevřete příslušnou kartu odpisové knihy a potom vyberte akci **Kopírovat odpisovou knihu**.  
 3. V okně **Kopírovat odpisovou knihu** vyplňte pole podle potřeby.  
 4. Zvolte tlačítko **OK**.  

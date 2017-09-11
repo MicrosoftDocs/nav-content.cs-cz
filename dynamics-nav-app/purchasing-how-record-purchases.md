@@ -35,22 +35,22 @@ Položky dodavatele na nákupní faktuře můžete vyplnit dvěma způsoby v zá
 
 ## <a name="to-create-a-purchase-invoice"></a>Vytvoření nákupní faktury
 1. Na domovské stránce vyberte akci **Nákupní faktury**.  
-2. Do pole **Dodavatel** zadejte název stávajícího zákazníka.
+2. Do pole **Dodavatel** zadejte název stávajícího dodavatele.
 
     Další pole v okně **Nákupní faktury** jsou nyní vyplněna standardními informacemi vybraného dodavatele. Pokud dodavatel není registrován, postupujte takto:
 3. Do pole **Dodavatel** zadejte název nového dodavatele.
 4. V dialogovém okně o registraci nového dodavatele zvolte tlačítko **Ano**.
-5. V okně **Vybrat šablonu pro nového dodavatele**  vyberte šablonu, na které bude založena nová karta dodavatele, a potom klepněte na tlačítko **OK**.
-6. Otevře se nová karta dodavatele, která je předvyplněná informacemi o vybrané šabloně dodavatele. Pole **Název** je vyplněno novým jménem dodavatele, které jste zadali na nákupní faktuře.
+5. V okně **Vybrat šablonu pro nového dodavatele**  vyberte šablonu, podle které bude založena nová karta dodavatele, a potom klepněte na tlačítko **OK**.
+6. Otevře se nová karta dodavatele, která je předvyplněná informacemi z vybrané šablony dodavatele. Pole **Název** je vyplněno novým jménem dodavatele, které jste zadali na nákupní faktuře.
 7. Pokračujte k vyplnění zbývajících polí na kartě dodavatele. Další informace naleznete v tématu: [Návod: Registrace nového dodavatele](purchasing-how-register-new-vendors.md).  
 8. Po dokončení karty dodavatele zvolte tlačítko **OK** k návratu do okna **Nákupní faktura**.
 
     Několik polí v okně **Nákupní faktury** je vyplněno informacemi uvedenými na nové kartě dodavatele.
 9. V případě potřeby vyplňte zbývající pole v okně **Nákupní faktury**. Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.
 
-    Nyní jste připraveni vyplnit řádky nákupní faktury skladovými položkami inventáře nebo službami, které jste zakoupili od dodavatele.
+    Nyní jste připraveni vyplnit řádky nákupní faktury skladovými položkami zboží nebo službami, které jste zakoupili od dodavatele.
 
-    **Poznámka**: Pokud jste pro dodavatele nastavili opakované řádky nákupu, jako například měsíční doplňující objednávku, pak můžete tyto řádky na fakturu vložit výběrem akce **Získat periodické nákupní řádky**.
+    **Poznámka**: Pokud jste pro dodavatele nastavili periodické řádky nákupu, jako například měsíční doplňující objednávku, pak můžete tyto řádky na fakturu vložit výběrem akce **Získat periodické nákupní řádky**.
 10. Na záložce s náhledem **Řádky**, v poli **Číslo zboží** zadejte číslo skladové položky nebo služby.
 11. Do pole **Množství** zadejte číslo položek k nákupu. 
 
@@ -61,7 +61,7 @@ Položky dodavatele na nákupní faktuře můžete vyplnit dvěma způsoby v zá
     Cena a částka řádku jsou zobrazeny s nebo bez prodejní daně podle toho, co jste vybrali v poli **Ceny včetně daně** na kartě dodavatele.
 12. Do pole **Částka fakturační slevy** zadejte částku, která by měla být odečtena od hodnoty zobrazené v poli **Celkem včetně daně** v dolní části faktury.
 
-    **Poznámka**: Pokud jste pro dodavatele nastavili slevy z faktury, pak se zadaná procentní hodnota automaticky vloží do pole **Sleva z faktury dodavatele (%)**, pokud jsou splněna kritéria, a příslušná částka je se vloží do pole **Částka slevy z faktury**.
+    **Poznámka**: Pokud jste pro dodavatele nastavili fakturační slevy, pak se zadaná procentní hodnota automaticky vloží do pole **Fakturační sleva (%)**, pokud jsou splněna kritéria, a příslušná částka je se vloží do pole **Částka fakturační slevy**.
 13. Když obdržíte zakoupené položky nebo služby, zvolte možnost **Účtovat**.
 
 Nákup se nyní odráží v zásobách a finančních záznamech a aktivuje se platba dodavateli. Nákupní faktura je odstraněna ze seznamu nákupních faktur a nahrazena novým dokumentem v seznamu Účtovaných nákupních faktur.

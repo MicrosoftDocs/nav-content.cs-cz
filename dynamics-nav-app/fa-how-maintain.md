@@ -24,22 +24,22 @@ Můžete si zaznamenat a udržovat aktualizovaný soubor o údržbě a servisu s
 Odsazení slouží k úpravě hodnot pro obecné změny cenové hladiny. Dávková úloha **Indexovat DM** může být použita k vypočítání nákladů na údržbu.
 
 ## <a name="to-record-maintenance-work-on-a-fixed-asset"></a>Záznam prací k údržbě DM  
-Pokaždé, když byla provedena údržba, například návštěva servisu, můžete ji zaznamenat pro příslušný dlouhodobý majetek v okně **Registrace údržby**.  
+Pokaždé, když byla provedena údržba, například návštěva servisu, můžete ji zaznamenat pro příslušný dlouhodobý majetek v okně **Evidence údržby**.  
 
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Dlouhodobý majetek** a pak vyberte související odkaz.  
-2. Vyberte dlouhodobý majetek, u kterého chcete zobrazit údržbu a pak vyberte akci **Registrace údržby**.
-3. V okně **Registrace údržby** vyplňte pole podle potřeby. Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.  
+2. Vyberte dlouhodobý majetek, u kterého chcete zobrazit údržbu a pak vyberte akci **Evidence údržby**.
+3. V okně **Evidence údržby** vyplňte pole podle potřeby. Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.  
 
 ## <a name="to-post-maintenance-costs-from-a-fixed-asset-gl-journal"></a>Zaúčtování nákladů na údržbu z finančního deníku DM
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Seznam odpisových knih** a pak vyberte související odkaz.  
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Knihy odpisů** a pak vyberte související odkaz.  
 2. Vyberte odpisovou knihu, kde chcete zobrazit dlouhodobý majetek a poté vyberte akci **Upravit**.
 3. V okně **Karta odpisové knihy** zkontrolujte, zda není zaškrtnuto políčko **Údržba**. Tím je zajištěno, že náklady na údržbu nejsou zaúčtovány do hlavní knihy.
 4. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Finanční deník** a pak vyberte související odkaz.  
 5. Vytvořte počáteční řádek deníku a vyplňte pole podle potřeby.
-6. Do pole **Typ zaúčtování DM** vyberte **Údržba**.
+6. Do pole **Typ účtování DM** vyberte **Údržba**.
 7. Zvolte možnost **Vložit protiúčet DM**. Druhý řádek deníku je vytvořen pro vyrovnávací účet, který je nastaven pro zaúčtování údržby.
 
-    **Poznámka**: Krok 7 funguje pouze v případě, že jste nastavili následující: V okně **Karta účto skupiny DM** pro účtovací skupinu DM pole **Účet údržby** obsahuje účet MD v hlavní knize a pole **Údržba protiúčet** obsahuje účet hlavní knihy, na který chcete zaúčtovat zůstatkové položky za účelem zhodnocení. Další informace naleznete v tématu "Nastavení skupin zaúčtování DM“ [Návod: Nastavení informací o obecném dlouhodobém majetku](fa-how-setup-general.md).
+    **Poznámka**: Krok 7 funguje pouze v případě, že jste nastavili následující: V okně **Karta účto skupiny DM** pro účtovací skupinu DM pole **Účet nákladů údržby** obsahuje účet MD v hlavní knize a pole **Protiúčet  údržby** obsahuje účet hlavní knihy, na který chcete zaúčtovat zůstatkové položky za účelem zhodnocení. Další informace naleznete v tématu "Nastavení skupin zaúčtování DM“ [Návod: Nastavení informací o obecném dlouhodobém majetku](fa-how-setup-general.md).
 8. Zvolte akci **Účtovat**.
 
 ## <a name="to-follow-up-on-fixed-assets-service-visits"></a>Pokračování servisu na dlouhodobém majetku

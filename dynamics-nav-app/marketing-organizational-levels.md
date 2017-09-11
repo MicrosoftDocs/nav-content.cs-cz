@@ -30,7 +30,7 @@ Kód organizační úrovně definuje typ nebo kategorii organizační úrovně, 
 Organizační úrovně můžete přiřadit pouze ke kontaktním osobám, nikoli kontaktním společnostem. Každému kontaktu můžete přiřadit pouze jednu organizační úroveň.
 
 1. Otevřete kontakt.
-2. V poli **Organizační úrovně** vyberte kód, který chcete přiřadit.
+2. V poli **Kód organizační úrovně** vyberte kód, který chcete přiřadit.
 
 Po přidělení organizačních úrovní k vašim kontaktům můžete pomocí těchto informací vytvořit segmenty.
 

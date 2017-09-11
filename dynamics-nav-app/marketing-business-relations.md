@@ -34,7 +34,7 @@ Nemůžete přiřadit obchodní vztahy ke kontaktním osobám - pouze společnos
 1. Otevřete kontakt.
 2. Zvolte akci **Společnost** a poté akci **Obchodní vztahy**.
 
-    Otevře se okno **Kontaktovat obchodní vztahy** .
+    Otevře se okno **Obchodní vztahy kontaktu** .
 3. V poli **Kód obchodních vztahů** vyberte obchodní vztah, který chcete přiřadit.
 
 Opakujte tyto kroky, abyste přiřadili tolik obchodních vztahů, kolik chcete. Obchodní vztahy můžete také přidělit stejným postupem ze seznamu kontaktů.

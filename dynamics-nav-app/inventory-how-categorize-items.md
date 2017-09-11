@@ -1,5 +1,5 @@
 ---
-title: "Návod: Kategorizace položek"
+title: "Návod: Kategorizace zboží"
 author: SorenGP
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,14 +16,14 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-categorize-items"></a>Návod: Kategorizace položek
+# <a name="how-to-categorize-items"></a>Návod: Kategorizace zboží
 Chcete-li udržovat přehled o vašem zboží a pomoc při řazení a hledání zboží, je vhodné uspořádat zboží do kategorií.
 
 Chcete-li vyhledat zboží podle vlastností, můžete přiřadit atributy ke zboží a také ke kategoriím zboží. Další informace naleznete v tématu [Návod: Práce s atributy zboží](inventory-how-work-item-attributes.md).
 
 ## <a name="to-create-an-item-category"></a>Vytvoření kategorie zboží
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Kategorie zboží** a zvolte související odkaz.
-2. ý okně **Služby pro platby** zvolte **Nový**.
+2. V okně **Kategorie zboží** zvolte **Nový**.
 3. V okně **Karta kategorií zboží** na záložce  **Obecné** vyplňte pole podle potřeby. Vybrat pole k zobrazení krátkého popisu nebo odkazu pro více informací.
 4. Na záložce s náhledem **Atributy** zadejte všechny atributy zboží pro kategorii zboží. Další informace naleznete v tématu “Přiřadit atributy zboží ke kategorii zboží“ v [Návod: Práce s atributy zboží](inventory-how-work-item-attributes.md).
 

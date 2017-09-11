@@ -17,7 +17,7 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="how-to-reconcile-payments-that-cannot-be-applied-automatically"></a>Návod: Odsouhlasení plateb, které nelze vyrovnat automaticky
-Někdy budete muset zpracovávat platby na váš bankovní účet, které nelze vyrovnat na souvisejícího otevřeného zákazníka, dodavatele nebo položku knihy bankovního učtu. Důvodem může být skutečnost, že v programu Dynamics NAV neexistuje žádný doklad, který by umožňoval vyrovnat platbu nebo žádný související dokument v Dynamics NAV nemá jinou částku než částku transakce například kvůli směnně měny. V okně **Deník odsouhlasení plateb** se všechny transakce částek za platby, které nejsou vyrovnány, objeví v poli **Rozdíl** včetně částek, které nelze vyrovnat z důvodů, které jsou uvedené výše.
+Někdy budete muset zpracovávat platby na váš bankovní účet, které nelze vyrovnat na souvisejícího otevřeného zákazníka, dodavatele nebo položku knihy bankovního učtu. Důvodem může být skutečnost, že v programu Dynamics NAV neexistuje žádný doklad, který by umožňoval vyrovnat platbu nebo žádný související dokument v Dynamics NAV nemá jinou částku než částku transakce například kvůli kurzu měny. V okně **Deník odsouhlasení plateb** se všechny transakce částek za platby, které nejsou vyrovnány, objeví v poli **Rozdíl** včetně částek, které nelze vyrovnat z důvodů, které jsou uvedené výše.
 
 Platby, které nelze vyrovnat se mohou objevit na řádcích deníku odsouhlasení plateb následujícími různými způsoby:
 
@@ -25,14 +25,14 @@ Platby, které nelze vyrovnat se mohou objevit na řádcích deníku odsouhlasen
 
 - Hodnota v poli **Rozdíl** je nižší než hodnota v poli **Částka transakce**, což znamená, že část platby může být vyrovnána na souvisejícího otevřeného zákazníka, dodavatele nebo položku knihy bankovního účtu. Zbývající část platby nemůže být vyrovnána a musí být odsouhlasena ručně nebo zaúčtována přímo na účet.
 
-Chcete-li odsouhlasit takové platby, můžete zvolit tlačítko Přenos rozdílu k účtu a poté určit, na který účet bude částka v poli Rozdíl zaúčtována, když zaúčtujete deník odsouhlasení plateb.
+Chcete-li odsouhlasit takové platby, můžete zvolit tlačítko převést rozdíl na účet a poté určit, na který účet bude částka v poli Rozdíl zaúčtována, když zaúčtujete deník odsouhlasení plateb.
 
 **Poznámka**: Podobné funkce existují pro nastavení automatického odsouhlasení opakujících se plateb, které nelze vyrovnat na souvisejícího otevřeného zákazníka, dodavatele nebo položku knihy bankovního účtu. [Další informace naleznete v tématu Návod: Mapovat text periodických plateb na účtech pro automatické odsouhlasení](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
 
 ## <a name="to-reconcile-payments-that-cannot-be-applied"></a>Odsouhlasení plateb, které nelze vyrovnat
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Deníky odsouhlasení plateb** a pak vyberte související odkaz.
 2. Otevřete deník odsouhlasení plateb. Další informace naleznete v tématu [Návod: Odsouhlasení plateb pomocí automatického vyrovnání](receivables-how-reconcile-payments-auto-application.md).
-3. Zvolte **Převod rozdílu k účtu**. Otevře se okno **Převod rozdílu k účtu** 3.
+3. Zvolte **Převést rozdíl na účet**. Otevře se okno **Převést rozdíl na účet** 3.
 4. Pole **Typ účtu** určuje typ účtu, kde částka platby bude vyrovnána.
 5. Pole **Číslo účtu** určuje účet, kde částka platby bude vyrovnána.
 6. Pole **Popis** určuje text, který popisuje toto přímé zaúčtování platby. Ve výchozím nastavení je vložen text v poli **Text transakce** na řádku deníku odsouhlasení plateb.

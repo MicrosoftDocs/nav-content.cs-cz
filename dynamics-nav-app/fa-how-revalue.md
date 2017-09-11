@@ -17,30 +17,30 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="how-to-revalue-fixed-assets"></a>Návod: Přecenění DM
-Přecenění DM může zahrnovat zhodnocení, snížení hodnoty nebo úpravy obecné hodnoty.
+Přecenění DM může zahrnovat zhodnocení, znehodnocení nebo úpravy obecné hodnoty.
 
 Když se hodnota DM zvýšila, zaúčtujete řádky deníku s vyšší hodnotou (zhodnocení) do odpisové knihy. Nová částka je zaznamenána jako zhodnocení podle nastavení zaúčtování DM.
 
-Pokud se hodnota DM sníží, zaúčtujete řádky deníku s nižší hodnotou  (snížení hodnoty) do odpisové knihy. Nová částka se zaznamená jako snížení hodnoty podle nastavení zaúčtování DM.
+Pokud se hodnota DM sníží, zaúčtujete řádky deníku s nižší hodnotou  (znehodnocení) do odpisové knihy. Nová částka se zaznamená jako snížení hodnoty podle nastavení zaúčtování DM.
 
 Indexace se používá k úpravě více hodnot DM například na základě změn obecné ceny. Dávková úloha **Indexovat DM** může být použita ke změně různých částek například snížení hodnoty a zhodnocení.
 
 ## <a name="to-post-an-appreciation-from-the-fixed-asset-gl-journal"></a>Zaúčtování zhodnocení z finančního deníku DM  
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Finanční deník DM** a pak vyberte související odkaz.  
 2. Vytvořte počáteční řádek deníku a vyplňte pole podle potřeby.
-3. Do pole **Typ zaúčtování DM** vyberte **Zhodnocení**.
+3. Do pole **Typ účtování DM** vyberte **Zhodnocení**.
 4. Zvolte možnost **Vložit protiúčet DM**. Druhý řádek deníku je vytvořen pro vyrovnávací účet, který je nastaven pro zhodnocení zaúčtování.
 
-    **Poznámka**: Krok 4 funguje pouze v případě, že jste nastavili následující: V okně **Karta účto skupiny DM** pro zaúčtování skupin DM, pole **Účet zhodnocení** obsahuje hlavní knihu účtu MD a pole **Protiúčet**** ****zhodnocení** obsahuje účet hlavní knihy, na který chcete zaúčtovat zůstatkové položky pro zhodnocení. Další informace naleznete v tématu "Nastavení skupin zaúčtování DM“ [Návod: Nastavení informací o obecném dlouhodobém majetku](fa-how-setup-general.md).
+    **Poznámka**: Krok 4 funguje pouze v případě, že jste nastavili následující: V okně **Karta účto skupiny DM** pro zaúčtování skupin DM, pole **Účet zhodnocení** obsahuje hlavní knihu účtu MD a pole **Protiúčet zhodnocení**** ** obsahuje účet hlavní knihy, na který chcete zaúčtovat zůstatkové položky pro zhodnocení. Další informace naleznete v tématu "Nastavení skupin zaúčtování DM“ [Návod: Nastavení informací o obecném dlouhodobém majetku](fa-how-setup-general.md).
 5. Zvolte akci **Účtovat**.
 
 ## <a name="to-post-a-write-down-from-the-fixed-asset-gl-journal"></a>Zaúčtování snížení hodnoty z finančního deníku DM  
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Finanční deník DM** a pak vyberte související odkaz.  
 2. Vytvořte počáteční řádek deníku a vyplňte pole podle potřeby.
-3. Do pole **Typ zaúčtování DM** vyberte **Snížení hodnoty**.
+3. Do pole **Typ účtování DM** vyberte **Znehodnocení**.
 4. Zvolte možnost **Vložit protiúčet DM**. Druhý řádek deníku je vytvořen pro vyrovnávací účet, který je nastaven pro zaúčtování snížení hodnoty.
 
-    **Poznámka**: Krok 4 funguje pouze v případě, že jste nastavili následující: V okně **Karta účto skupiny DM** pro zaúčtování skupin DM, pole **Účet znehodnocení** obsahuje hlavní knihu účtu Dal a pole **Výdajový účet znehodnocení** obsahuje hlavní knihu účtu MD, na který chcete zaúčtovat zůstatkové položky pro snížení hodnoty. Další informace naleznete v tématu "Nastavení skupin zaúčtování DM“ [Návod: Nastavení informací o obecném dlouhodobém majetku](fa-how-setup-general.md).
+    **Poznámka**: Krok 4 funguje pouze v případě, že jste nastavili následující: V okně **Karta účto skupiny DM** pro zaúčtování skupin DM, pole **Účet znehodnocení** obsahuje hlavní knihu účtu Dal a pole **Účet nákladů znehodnocení** obsahuje hlavní knihu účtu MD, na který chcete zaúčtovat zůstatkové položky pro snížení hodnoty. Další informace naleznete v tématu "Nastavení skupin zaúčtování DM“ [Návod: Nastavení informací o obecném dlouhodobém majetku](fa-how-setup-general.md).
 5. Zvolte akci **Účtovat**.
 
 ## <a name="to-perform-general-revaluation-of-fixed-assets"></a>Provádění obecného přecenění DM  

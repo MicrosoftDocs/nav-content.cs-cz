@@ -1,5 +1,5 @@
 ---
-title: "Návod: Nastavení časových rozvrhů."
+title: "Návod: Nastavení pracovních výkazů"
 author: SorenGP
 ms.custom: na
 ms.date: 11/01/2016
@@ -16,50 +16,50 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-set-up-time-sheets"></a>Návod: Nastavení časových rozvrhů.
-Časové rozvrhy v Dynamics NAV zaznamenávejte v týdenních přírůstcích po sedmi dnech. Používáte je ke sledování času použitého na projektech a můžete je použít k záznamu jednoduché registrace času. Než budete moci používat časové rozvrhy, musíte určit, jak chcete, aby byly nastaveny a nakonfigurovány.
+# <a name="how-to-set-up-time-sheets"></a>Návod: Nastavení pracovních výkazů
+Pracovní výkazyPracovní výkazy v Dynamics NAV zaznamenávejte v týdenních přírůstcích po sedmi dnech.  Používáte je ke sledování času použitého na projektech a můžete je použít k záznamu jednoduché registrace času. Než budete moci používat pracovní výkazy, musíte určit, jak chcete, aby byly nastaveny a nakonfigurovány.
 
-Jakmile nastavíte, jak bude vaše organizace používat časové rozvrhy, můžete určit, zda a jak jsou schvalovány. V závislosti na potřebách vaší organizace můžete určit:
+Jakmile nastavíte, jak bude vaše organizace používat pracovní výkazy, můžete určit, zda a jak jsou schvalovány.  V závislosti na potřebách vaší organizace můžete určit:
 
-- Jeden nebo více uživatelů jako správce časového rozvrhu a schvalovatel pro všechny časové rozvrhy.
-- Schvalovatel časového rozvrhu pro každý zdroj.
+- Jeden nebo více uživatelů jako správce pracovního výkazupracovního výkazu a schvalovatel pro všechny pracovní výkazy.
+- Schvalovatel pracovního výkazu pro každý zdroj.
 
-Když jste nastavili časové rozvrhy, můžete vytvořit časové rozvrhy pro zdroje, přiřadit je k řádkům plánování projektu a zaúčtovat řádky časových rozvrhů. Další informace naleznete v tématu [Návod: Použití časových rozvrhů](projects-how-use-time-sheets.md).
+Když jste nastavili pracovní výkazy, můžete vytvořit pracovní výkazy pro zdroje, přiřadit je k řádkům plánování projektu a zaúčtovat řádky pracovních výkazů. Další informace naleznete v tématu [Návod: Použití pracovních výkazů](projects-how-use-time-sheets.md).
 
-## <a name="to-set-up-general-information-for-time-sheets"></a>Nastavení obecných informací pro časové rozvrhy  
+## <a name="to-set-up-general-information-for-time-sheets"></a>Nastavení obecných informací pro pracovní výkazy  
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Nastavení zdrojů** a zvolte související odkaz.  
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Nastavení zdrojů** a zvolte související odkaz.  
 2. Vyplňte pole podle potřeby. Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.
-3. Pro pole **Časový rozvrh podle schválení projektu** vyberte jednu z následujících možností.
+3. Pro pole **Pracovní výkaz Schválení pracovního výkazu za projekt ** vyberte jednu z následujících možností.
 
 |Možnost |Popis|
 |---|---|
-|**Nikdy**|Uživatel v poli **ID schvalovatele časového rozvrhu** na kartě zdrojů schvaluje časový rozvrh.|
-|**Vždy**|Uživatel v poli **Zodpovědná osoba** na pracovní kartě schvaluje časový rozvrh.|
-|**Pouze stroj** ´|Je-li časový rozvrh stroje spojen s projektem, uživatel v poli **Odpovědná osoba** na kartě projektu schvaluje časový rozvrh. Je-li časový rozvrh stroje spojen se zdrojem, pak uživatel v poli **ID schvalovatele časového rozvrhu** na kartě zdrojů schvaluje časový rozvrh.
+|**Nikdy**|Uživatel v poli **ID schvalovatele pracovního výkazu** na kartě zdrojů schvaluje pracovní výkaz.|
+|**Vždy**|uživatel v poli **Zodpovědná osoba** na pracovní kartě schvaluje pracovní výkaz.|
+|**Pouze stroj** ´|Je-li pracovní výkaz stroje spojen s projektem, uživatel v poli **Odpovědná osoba** na kartě projektu schvaluje pracovní výkaz. Je-li pracovní výkaz stroje spojen se zdrojem, pak uživatel v poli **ID schvalovatele pracovního výkazu** na kartě zdrojů schvaluje pracovní výkaz.
 
-## <a name="to-assign-a-time-sheet-administrator"></a>Přiřadit správce časového rozvrhu  
+## <a name="to-assign-a-time-sheet-administrator"></a>Přiřazení správce pracovního výkazu  
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu** , zadejte **Nastavení uživatele** a zvolte související odkaz.  
-2.  Přidejte nového uživatele, pokud seznam uživatelů neobsahuje osobu, kterou chcete mít správcem časových rozvrhů. Pro další informace prosím kontaktujte svého správce.  
-3. Vyberte uživatele, kterého chcete mít správcem časových rozvrhů, a poté vyberte **Admin. časového rozvrhu**. zaškrtávací políčko.  
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Nastavení uživatele** a zvolte související odkaz.  
+2.  Přidejte nového uživatele, pokud seznam uživatelů neobsahuje osobu, kterou chcete mít správcem pracovních výkazů. Pro další informace prosím kontaktujte svého správce.  
+3. Vyberte uživatele, kterého chcete mít správcem pracovních výkazů a poté vyberte **Správce pracovního výkazu** zaškrtávací políčko.  
 
-**Tip**: Doporučuje se, abyste pro společnost určili pouze jednoho uživatele, který bude správcem časových rozvrhů. V následujícím postupu nastavíte vlastníka a schvalovatele časového rozvrhu, kde je pro každý zdroj přidělen schvalovatel časového rozvrhu.  
+**Tip**: Doporučuje se, abyste pro společnost určili pouze jednoho uživatele, který bude správcem pracovních výkazů. V následujícím postupu nastavíte vlastníka a schvalovatele pracovního výkazu, kde je pro každý zdroj přidělen schvalovatel pracovního výkazu.  
 
-## <a name="to-assign-a-time-sheets-owner-and-approver"></a>Přiřazení vlastníku časového rozvrhu a schvalovatele  
+## <a name="to-assign-a-time-sheets-owner-and-approver"></a>Přiřazení vlastníku pracovního výkazu a schvalovatele  
 
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Zdroje** a zvolte související odkaz.
-2. Vyberte zdroj, pro který chcete nastavit možnost používat časové rozvrhy, a poté zaškrtněte políčko **Použít časový rozvrh** .  
-3. V poli **ID vlastníka časového rozvrhu** zadejte ID vlastníka časového rozvrhu. Vlastník může zadat časový údaj na časovém rozvrhu a předložit jej ke schválení. Obecně platí, že pokud je zdroj osoba, je tato osoba také vlastníkem.  
-4. Do pole **ID schvalovatele časového rozvrhu** zadejte ID schvalovatele časového rozvrhu. Schvalovatel může schvalovat, odmítnout nebo znovu otevřít časový rozvrh.  
+2. Vyberte zdroj, pro který chcete nastavit možnost používat pracovní výkazy a poté zaškrtněte políčko **Použít pracovní výkaz**.  
+3. V poli **ID vlastníka pracovního výkazu** zadejte ID vlastníka pracovního výkazu. Vlastník může zadat časový údaj na časovém rozvrhu a předložit jej ke schválení. Obecně platí, že pokud je zdroj osoba, je tato osoba také vlastníkem.  
+4. Do pole **ID schvalovatele pracovního výkazu** zadejte ID schvalovatele pracovního výkazu. Schvalovatel může schvalovat, odmítnout nebo znovu otevřít pracovní výkaz.  
 
-**Poznámka**: Nemůžete změnit ID schvalovatele časového rozvrhu, pokud existují časové rozvrhy, které dosud nebyly zpracovány a mají status **Odeslané** nebo **Otevřené** .
+**Poznámka**: Nemůžete změnit ID schvalovatele pracovního výkazu, pokud existují pracovní výkazy, které dosud nebyly zpracovány a mají status **Odeslané** nebo **Otevřené**.
 
 ## <a name="see-also"></a>Viz také
-[Nastavit řízení projektu](projects-setup-projects.md)  
+[Nastavení řízení projektu](projects-setup-projects.md)  
 [Správa projektů](projects-manage-projects.md)  
 [Finance](finance-setup.md)  
 [Správa nákupu](purchasing-manage-purchasing.md)         
-[Spravovat prodej](sales-manage-sales.md)      
-[Pracujte s Dynamics NAV](ui-work-product.md)  
+[Správa prodeje](sales-manage-sales.md)      
+[Práce s Dynamics NAV](ui-work-product.md)  
 

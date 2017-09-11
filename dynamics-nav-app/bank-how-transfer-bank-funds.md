@@ -25,8 +25,8 @@ Někdy budete možná muset převést částku z jednoho bankovního účtu na j
 3. V poli **Typ účtu** vyberte **Bankovní účet**.
 4. V poli **Číslo účtu** vyberte banku, ze které chcete peníze převést.
 5. Do pole **Částka** zadejte částku, kterou chcete převést.
-6. V poli **Typ protiúčtu** vyberte **Bankovní účet**.
-7. V poli **Typ protiúčtu vyberte bankovní** účet, ke kterému chcete peníze převést.
+6. V poli **Typ protiúčtu**  vyberte **Bankovní účet**.
+7. V poli **Typ protiúčtu** vyberte bankovní** účet, ke kterému chcete peníze převést.
 8. Zaúčtujte deník.
 
 ## <a name="to-post-a-transfer-between-bank-accounts-with-different-currency-codes"></a>Zaúčtování převodu mezi bankovními účty s různými kódy měn

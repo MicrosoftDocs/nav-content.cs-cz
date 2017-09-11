@@ -30,7 +30,7 @@ Kód pracovní odpovědnosti definuje typ nebo kategorii úlohy, např. MARKETIN
 Nemůžete přiřadit pracovní povinnosti ke kontaktním společnostem.
 
 1. Otevřete kontakt.
-2. Zvolte akci **Osoba** a poté akci **Pracovní odpovědnosti**. Otevře se okno **Kontaktování pracovní odpovědnosti**.
+2. Zvolte akci **Osoba** a poté akci **Pracovní odpovědnosti**. Otevře se okno **Pracovní odpovědnosti kontaktu**.
 3. V poli **Kód pracovní odpovědnosti** vyberte pracovní odpovědnosti, které chcete přiřadit.
 
 Opakujte tyto kroky, abyste přiřadili tolik pracovních odpovědností, kolik potřebujete. Průmyslové skupiny můžete přiřadit také stejným postupem ze seznamu kontaktů.
