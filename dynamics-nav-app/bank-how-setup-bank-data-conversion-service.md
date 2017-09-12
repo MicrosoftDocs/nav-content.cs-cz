@@ -27,25 +27,25 @@ Jako alternativu k službě Envestnet Bank Data Feeds můžete také využít sl
 
 ## <a name="to-sign-your-company-up-for-the-bank-data-conversion-service"></a>Zaregistrování vaší společnosti na službu převodu bankovních dat
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Nastavení služby konver. bank. dat** a pak vyberte související odkaz.  
-2. Otevře se okno **Nastavení služby konver. bank. Dat** se třemi políčky předem vyplněnými příslušnými adresami URL poskytovatele služby převodu bankovních dat.
+2. Otevře se okno **Nastavení služby konver. bank. dat** se třemi políčky předem vyplněnými příslušnými adresami URL poskytovatele služby převodu bankovních dat.
 
     **Poznámka**: V CRONUS International Ltd. demonstrační databázi jsou pole Název uživatele a Heslo předem vyplněny přihlašovacími informacemi, které nahradíte skutečnými informacemi vaší společnosti při přihlášení k službě převod bankovní dat.
 3. V poli **Přihlášení URL** vyberte tlačítko prohlížeč a otevřete přihlašovací stránku poskytovatele služby.  
 4. Na přihlašovací stránce poskytovatele služby bankovních dat zadejte název uživatele a heslo pro předplatné vaší společnosti a dokončete přihlašovací proces podle pokynů poskytovatele služby.
 
     Vaše společnost je nyní zaregistrována pro službu konverze bankovních dat. Pokračujte v zadání názvu uživatele a hesla, které jste zadali do příslušných polí v nastavení v Dynamics NAV.
-5. V okně **Nastavení služby konver. bank. dat** ** v poli Uživatel **Jméno** zadejte stejnou hodnotu, kterou jste zadali jako přihlašovací jméno na stránce poskytovatele služby v kroku 4.
+5. V okně **Nastavení služby konver. bank. dat** **v poli Uživatel **Jméno** zadejte stejnou hodnotu, kterou jste zadali jako přihlašovací jméno na stránce poskytovatele služby v kroku 4.
 6. V poli **Heslo** zadejte stejnou hodnotu, kterou jste zadali v poli **Heslo** na stránce poskytovatele služby v kroku 4.
 
 ## <a name="to-encrypt-your-login-information"></a>Šifrování přihlašovacích údajů
-Doporučuje se chránit přihlašovací informace, které zadáváte v okně **Nastavení služby**** konver. bank. dat**. Šifrování dat na serveru Dynamics NAV může vygenerovat nové nebo importovat existující šifrovací klíče, které povolíte na instanci serveru Dynamics NAV, která se připojí k databázi.
+Doporučuje se chránit přihlašovací informace, které zadáváte v okně **Nastavení služby** konver. bank. dat**. Šifrování dat na serveru Dynamics NAV může vygenerovat nové nebo importovat existující šifrovací klíče, které povolíte na instanci serveru Dynamics NAV, která se připojí k databázi.
 
-1. V okně **Nastavení služby konver. bank. dat**  ** zvolte akci **Správa šifrování**.
+1. V okně **Nastavení služby konver. bank. dat**  **zvolte akci **Správa šifrování**.
 2. V okně **Správa šifrování dat** povolte šifrování vašich dat.
 
 ##<a name="to-view-or-update-the-list-of-currently-supported-bank-data-formats"></a>Zobrazení nebo aktualizace seznamu aktuálně podporovaných formátů bankovních dat
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Nastavení služby**  ****konver. bank. dat** a pak vyberte související odkaz. 
-2. V okně **Nastavení služby konver. bank. dat** ** zvolte akci **Název banky - Seznam převodu dat** k otevření seznamu názvů bank představujících formáty bankovních dat podporovaných službou převodu.
+1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Nastavení služby **konver. bank. dat** a pak vyberte související odkaz. 
+2. V okně **Nastavení služby konver. bank. dat** **zvolte akci **Název banky - Seznam převodu dat** k otevření seznamu názvů bank představujících formáty bankovních dat podporovaných službou převodu.
 3. Na stránce **Název banky - Seznam převodu dat** zvolte akci **Aktualizovat seznam názvů bank**.
 
 Seznam formátů bankovních dat, které jsou podporovány službou převodu bankovních dat je nyní aktualizován. Jedná se o seznam názvů bank, filtrovaných podle země/oblasti, kterou můžete vybrat v poli **Název Banky - Převod dat** v okně **Karta bankovního účtu**.

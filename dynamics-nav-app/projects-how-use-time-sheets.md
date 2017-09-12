@@ -1,5 +1,5 @@
 ---
-title: "Návod: Použití pracovních výkazy pro projekty"
+title: "Návod: Použití pracovních výkazů pro projekty"
 author: SorenGP
 ms.custom: na
 ms.date: 11/01/2016
@@ -16,8 +16,8 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-use-time-sheets-for-jobs"></a>Návod: Použití pracovních výkazy pro projekty
-Používáte dávkovou úlohu **Vytvořit pracovní výkazy ** pro nastavení pracovních výkazů pro určitý počet časových období nebo týdnů.  Abyste mohli vytvářet pracovní výkazy, musíte mít oprávnění.
+# <a name="how-to-use-time-sheets-for-jobs"></a>Návod: Použití pracovních výkazů pro projekty
+Používáte dávkovou úlohu **Vytvořit pracovní výkazy** pro nastavení pracovních výkazů pro určitý počet časových období nebo týdnů.  Abyste mohli vytvářet pracovní výkazy, musíte mít oprávnění.
 
 Můžete kopírovat a používat své řádky plánování projektu v pracovním výkazu. Tímto způsobem musíte zadat informace pouze na jednom místě a informace o řádcích jsou vždy správné.
 
@@ -29,7 +29,7 @@ Než budete moci používat pracovní výkazy, musíte nastavit obecné informac
 Můžete použít dávkovou úlohu **Vytvořit pracovní výkazy** k nastavení pracovních výkazů  pro určitý počet časových období nebo týdnů. Poté může vlastník rozvrhu otevřít a zaznamenat čas, který byl na činnost vynaložen.
 
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Pracovní výkazy** a zvolte související odkaz.
-2. V okně **Seznam pracovních výkazů ** vyberte akci **Vytvořit pracovní výkazy**.
+2. V okně **Seznam pracovních výkazů** vyberte akci **Vytvořit pracovní výkazy**.
 3. Vyplňte pole podle potřeby. Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.
 
 **Poznámka**: Pole **Použít pracovní výkaz** a **ID vlastníka pracovního výkazu** musí být vyplněna na kartě pro zdroj časového listu.  
@@ -65,7 +65,7 @@ Pokud informace o pracovním výkazu zůstanou stejné z časového hlediska na 
 Řádky jsou kopírovány včetně podrobností, jako je typ a popis. Například pokud řádek souvisí s projektem, **Č. projektu**  je zkopírováno. Všechny kopírované řádky mají stav **Otevřít**. Nyní můžete upravovat řádky podle potřeby.
 
 ## <a name="to-fill-in-a-time-sheet-lines-and-submit-for-approval"></a>Vyplnění řádků časového listu a odeslání je ke schválení  
-Registrace časového rozvrhu je sledována v hodinách, což je standardní základní měrná jednotka pro zdroje. Ve výchozím nastavení se v pracovním výkazu zobrazují běžné pracovní dny od pondělí do pátku.
+Registrace pracovního výkazu je sledována v hodinách, což je standardní základní měrná jednotka pro zdroje. Ve výchozím nastavení se v pracovním výkazu zobrazují běžné pracovní dny od pondělí do pátku.
 
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Pracovní výkazy** a zvolte související odkaz.  
 2. Vyberte časový rozvrh pro příslušné časové období a potom zvolte akci **Upravit pracovní výkaz**.  

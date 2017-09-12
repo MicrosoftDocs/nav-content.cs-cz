@@ -26,7 +26,7 @@ Následující postup ukazuje, jak použít nákupní fakturu k nákupu produkt�
 
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Nákupní faktury** a pak vyberte související odkaz.  
 2. Vyberte akci **Nový** a poté vyplňte potřebná pole. Další informace naleznete v tématu [Návod: Záznam nákupů](purchasing-how-record-purchases.md).
-3. V poli **Číslo projektu** a **Č. úlohyprojektu** vyberte informace o projektu, pro který chcete zakoupit zboží nebo služby.  
+3. V poli **Číslo projektu** a **Č. úlohy projektu** vyberte informace o projektu, pro který chcete zakoupit zboží nebo služby.  
 
     Hodnota, kterou vyberete v poli **Typ řádku projektu** určuje, zda je po zaúčtování spotřeby zboží vytvořen řádek plánování. Pokud pole obsahuje možnost **Fakturovatelné**, jsou vytvořeny řádky plánování projektu, které jsou připraveny k fakturaci zákazníkovi. Další informace naleznete v tématu [Návod: Faktury projektu](projects-how-invoice-jobs.md).
 

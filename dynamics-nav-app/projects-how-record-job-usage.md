@@ -79,7 +79,7 @@ Pokud jste připraveni zaúčtovat finanční informace pro projekty, musíte vy
 ## <a name="to-review-planning-lines-for-a-job-ledger-entry"></a>Kontrola řádků plánování pro věcné položky projektu  
 Po zaúčtování řádků deníku projektu můžete zobrazit řádky plánování, které jsou přiřazeny k položkám deníku projektu, které byly zaúčtovány.
 
-**Poznámka**: To vyžaduje zaškrtnutí políčka **Použít propojení spotřeby ** pro projekty nebo nastavení jako výchozí volba pro všechny projekty ve vaší organizaci. Další informace naleznete v tématu [Návod: Nastavení projektů](projects-how-setup-jobs.md).  
+**Poznámka**: To vyžaduje zaškrtnutí políčka **Použít propojení spotřeby** pro projekty nebo nastavení jako výchozí volba pro všechny projekty ve vaší organizaci. Další informace naleznete v tématu [Návod: Nastavení projektů](projects-how-setup-jobs.md).  
 
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Deníky projektů** a poté vyberte související odkaz.  
 2. Vyberte příslušný deník projektu a potom vyberte akci **Položky**.  

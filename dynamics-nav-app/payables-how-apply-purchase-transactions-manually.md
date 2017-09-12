@@ -66,7 +66,7 @@ Můžete také vyrovnat platby dodavatele a platby zákazníka poté, co se plat
 
     Pokud nezadáte částku, automaticky se použije maximální částka. V dolní části okna **Vyrovnání položky dodavatele** můžete vidět částku v poli **Vyrovnaná částka** a zjistíte, zda se aplikace vyrovnává.
 12. Zvolte tlačítko **OK**.  
-Okno **Nákupní dobropis** zobrazuje položku, kterou jste vybrali v poli dokumentu **Typ vyrovnání dokladu** a **v poli číslo Vyrovnání dokladu. **   Okno také zobrazuje částku dobropisu, která má být zaúčtována, upravenou o případné skonto slevy.
+Okno **Nákupní dobropis** zobrazuje položku, kterou jste vybrali v poli dokumentu **Typ vyrovnání dokladu** a **v poli **Číslo vyrovnání** dokladu**. Okno také zobrazuje částku dobropisu, která má být zaúčtována, upravenou o případné skonto slevy.
 13. Zvolte tlačítko **Účtovat**, chcete-li dobropis zaúčtovat.
 
 ## <a name="to-apply-posted-vendor-ledger-entries"></a>Vyrovnání položek dodavatele

@@ -31,7 +31,7 @@ Indexace se používá k úpravě více hodnot DM například na základě změn
 3. Do pole **Typ účtování DM** vyberte **Zhodnocení**.
 4. Zvolte možnost **Vložit protiúčet DM**. Druhý řádek deníku je vytvořen pro vyrovnávací účet, který je nastaven pro zhodnocení zaúčtování.
 
-    **Poznámka**: Krok 4 funguje pouze v případě, že jste nastavili následující: V okně **Karta účto skupiny DM** pro zaúčtování skupin DM, pole **Účet zhodnocení** obsahuje hlavní knihu účtu MD a pole **Protiúčet zhodnocení**** ** obsahuje účet hlavní knihy, na který chcete zaúčtovat zůstatkové položky pro zhodnocení. Další informace naleznete v tématu "Nastavení skupin zaúčtování DM“ [Návod: Nastavení informací o obecném dlouhodobém majetku](fa-how-setup-general.md).
+    **Poznámka**: Krok 4 funguje pouze v případě, že jste nastavili následující: V okně **Karta účto skupiny DM** pro zaúčtování skupin DM, pole **Účet zhodnocení** obsahuje hlavní knihu účtu MD a pole **Protiúčet zhodnocení**** **obsahuje účet hlavní knihy, na který chcete zaúčtovat zůstatkové položky pro zhodnocení. Další informace naleznete v tématu "Nastavení skupin zaúčtování DM“ [Návod: Nastavení informací o obecném dlouhodobém majetku](fa-how-setup-general.md).
 5. Zvolte akci **Účtovat**.
 
 ## <a name="to-post-a-write-down-from-the-fixed-asset-gl-journal"></a>Zaúčtování snížení hodnoty z finančního deníku DM  

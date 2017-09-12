@@ -71,7 +71,7 @@ Pokud se při přidání pořizovací ceny vyskytne chyba, můžete záznam odeb
 
 Pokud například zaúčtujete pořízení se špatným datem, musíte ji co nejdříve opravit, protože je použito datum zaúčtování DM pro spoustu kritických výpočtů.
 
-**Důležité** : Funkci **Reverzní transakce** nelze použít pro položky DM.
+**Důležité** : Funkci **Storno transakce** nelze použít pro položky DM.
 
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Storno položek DM** a pak vyberte související odkaz.
 2. Vyplňte pole podle potřeby. Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.

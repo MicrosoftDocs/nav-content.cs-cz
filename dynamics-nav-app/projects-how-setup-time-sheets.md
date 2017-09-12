@@ -17,11 +17,11 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="how-to-set-up-time-sheets"></a>Návod: Nastavení pracovních výkazů
-Pracovní výkazyPracovní výkazy v Dynamics NAV zaznamenávejte v týdenních přírůstcích po sedmi dnech.  Používáte je ke sledování času použitého na projektech a můžete je použít k záznamu jednoduché registrace času. Než budete moci používat pracovní výkazy, musíte určit, jak chcete, aby byly nastaveny a nakonfigurovány.
+Pracovní výkazy v Dynamics NAV zaznamenávejte v týdenních přírůstcích po sedmi dnech.  Používáte je ke sledování času použitého na projektech a můžete je použít k záznamu jednoduché registrace času. Než budete moci používat pracovní výkazy, musíte určit, jak chcete, aby byly nastaveny a nakonfigurovány.
 
 Jakmile nastavíte, jak bude vaše organizace používat pracovní výkazy, můžete určit, zda a jak jsou schvalovány.  V závislosti na potřebách vaší organizace můžete určit:
 
-- Jeden nebo více uživatelů jako správce pracovního výkazupracovního výkazu a schvalovatel pro všechny pracovní výkazy.
+- Jeden nebo více uživatelů jako správce pracovního výkazu a schvalovatel pro všechny pracovní výkazy.
 - Schvalovatel pracovního výkazu pro každý zdroj.
 
 Když jste nastavili pracovní výkazy, můžete vytvořit pracovní výkazy pro zdroje, přiřadit je k řádkům plánování projektu a zaúčtovat řádky pracovních výkazů. Další informace naleznete v tématu [Návod: Použití pracovních výkazů](projects-how-use-time-sheets.md).
@@ -30,7 +30,7 @@ Když jste nastavili pracovní výkazy, můžete vytvořit pracovní výkazy pro
 
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Nastavení zdrojů** a zvolte související odkaz.  
 2. Vyplňte pole podle potřeby. Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.
-3. Pro pole **Pracovní výkaz Schválení pracovního výkazu za projekt ** vyberte jednu z následujících možností.
+3. Pro pole **Pracovní výkaz Schválení pracovního výkazu za projekt** vyberte jednu z následujících možností.
 
 |Možnost |Popis|
 |---|---|

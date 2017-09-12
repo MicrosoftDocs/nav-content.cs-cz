@@ -43,6 +43,6 @@ Počet obchodních vztahů, které jste přidali ke kontaktu, se zobrazuje v pol
 
 Po přidělení obchodních vztahů k vašim kontaktům můžete pomocí těchto informací vybrat kontakty pro vaše segmenty. Další informace naleznete v tématu [Návod: Přidání kontaktů do segmentů](marketing-add-contact-segment.md).
 
-##<a name="see-also"></a>Viz také
+##<a name="see-also"></a> Viz také
 [Vytvoření kontaktní společnosti](marketing-create-contact-companies.md)
 

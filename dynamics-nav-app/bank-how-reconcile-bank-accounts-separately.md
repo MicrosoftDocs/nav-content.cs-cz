@@ -1,5 +1,5 @@
 ---
-title: "Návod: Odsouhlasení bankovních účtů zvlášť"
+title: "Návod: Separátní odsouhlasení bankovních účtů"
 author: SorenGP
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,7 +16,7 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-reconcile-bank-accounts-separately"></a>Návod: Odsouhlasení bankovních účtů zvlášť
+# <a name="how-to-reconcile-bank-accounts-separately"></a>Návod: Separátní odsouhlasení bankovních účtů
 Chcete-li odsouhlasit bankovní účty v systému Dynamics NAV s výpisy přijatými z banky, musíte vyplnit řádky v okně **Odsouhlasení bank. účtu**. 
 
 **Poznámka**: Bankovní účty můžete také odsouhlasit v okně **Deník odsouhlasení plateb**. Veškeré položky bankovních účtů, které se vztahují k položkám účtů zákazníků nebo dodavatelů budou uzavřeny, když zvolíte akci **Zaúčtování plateb a odsouhlasení bankovních účtů**. To znamená, že bankovní účet je automaticky odsouhlasen pro platby, které zaúčtujete do deníku. Další informace naleznete v tématu [Návod: Odsouhlasení plateb pomocí automatického vyrovnání](receivables-how-reconcile-payments-auto-application.md).

@@ -39,7 +39,7 @@ Pokaždé, když byla provedena údržba, například návštěva servisu, můž
 6. Do pole **Typ účtování DM** vyberte **Údržba**.
 7. Zvolte možnost **Vložit protiúčet DM**. Druhý řádek deníku je vytvořen pro vyrovnávací účet, který je nastaven pro zaúčtování údržby.
 
-    **Poznámka**: Krok 7 funguje pouze v případě, že jste nastavili následující: V okně **Karta účto skupiny DM** pro účtovací skupinu DM pole **Účet nákladů údržby** obsahuje účet MD v hlavní knize a pole **Protiúčet  údržby** obsahuje účet hlavní knihy, na který chcete zaúčtovat zůstatkové položky za účelem zhodnocení. Další informace naleznete v tématu "Nastavení skupin zaúčtování DM“ [Návod: Nastavení informací o obecném dlouhodobém majetku](fa-how-setup-general.md).
+    **Poznámka**: Krok 7 funguje pouze v případě, že jste nastavili následující: V okně **Karta účto skupiny DM** pro účtovací skupinu DM pole **Účet nákladů údržby** obsahuje účet MD v hlavní knize a pole **Protiúčet údržby** obsahuje účet hlavní knihy, na který chcete zaúčtovat zůstatkové položky za účelem zhodnocení. Další informace naleznete v tématu "Nastavení skupin zaúčtování DM“ [Návod: Nastavení informací o obecném dlouhodobém majetku](fa-how-setup-general.md).
 8. Zvolte akci **Účtovat**.
 
 ## <a name="to-follow-up-on-fixed-assets-service-visits"></a>Pokračování servisu na dlouhodobém majetku

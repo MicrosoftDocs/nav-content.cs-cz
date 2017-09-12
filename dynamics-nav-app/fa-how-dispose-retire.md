@@ -24,7 +24,7 @@ Při prodeji nebo jiném vyřazování DM musí být hodnota vyřazení zaúčto
 ## <a name="to-post-a-disposal-from-the-fixed-asset-gl-journal"></a>Zaúčtování vyřazeného DM z finančního deníku  
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Finanční deníky DM** a pak vyberte související odkaz.  
 2. Vytvořte počáteční řádek deníku a vyplňte pole podle potřeby. Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.
-3. V poli **Typ zaúčtování DM** vyberte **Vyřazení**.
+3. V poli **Typ účtování DM** vyberte **Vyřazení**.
 4. Zvolte možnost **Vložit protiúčet DM**. Druhý řádek deníku je vytvořen pro vyrovnávací účet, který je nastaven pro zaúčtování vyřazeného.
 
     **Poznámka**: Krok 4 funguje pouze v případě, že jste nastavili následující: V okně **Karta účto skupiny DM** pro zaúčtování skupin DM, pole **Účet vyřazení** obsahuje účet MD hlavní knihy a pole **Protiúčet  při vyřazení** obsahuje účet hlavní knihy, na který chcete zaúčtovat zůstatkové položky za účelem zhodnocení. Další informace naleznete v tématu "Nastavení skupin zaúčtování DM“ [Návod: Nastavení informací o obecném dlouhodobém majetku](fa-how-setup-general.md).

@@ -65,7 +65,7 @@ Po dokončení všech úloh pro daný projekt včetně zaúčtování spotřeby 
 
      Položky NV projektu vytvořené spuštěním dávkové úlohy budou mít zaškrtnuto políčko **Dokončený projekt**, aby bylo jasné, že jsou dokončeny.  
 
-7. Vyberte akci **Účto NV projektu do fin. den.**.
+7. Vyberte akci **Účto NV projektu do fin. den**.
 8. V okně **Účto NV projektu do fin. den.** vyplňte pole podle potřeby.  
 
      Položky hlav. knihy NV projektu vytvořené spuštěním dávkové úlohy budou mít zaškrtnuto políčko **Dokončený projekt**, aby bylo jasné, že jsou dokončeny.

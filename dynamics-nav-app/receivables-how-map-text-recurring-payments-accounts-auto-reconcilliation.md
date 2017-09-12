@@ -1,5 +1,5 @@
 ---
-title: "Návod: Mapovat text periodických plateb na účtech pro automatické odsouhlasení"
+title: "Návod: Mapování textu periodických plateb na účtech pro automatické odsouhlasení"
 author: SorenGP
 ms.custom: na
 ms.date: 09/22/2016
@@ -16,7 +16,7 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-map-text-on-recurring-payments-to-accounts-for-automatic-reconciliation"></a>Návod: Mapovat text periodických plateb na účtech pro automatické odsouhlasení
+# <a name="how-to-map-text-on-recurring-payments-to-accounts-for-automatic-reconciliation"></a>Návod: Mapování textu periodických plateb na účtech pro automatické odsouhlasení
 V okně **Textové mapování účtů**, které otevřete z okna **Deníky odsouhlasení plateb**, můžete nastavit mapování mezi textem plateb a konkrétními Dal, MD a zůstatkovými účty tak, aby tyto platby byly účtovány na určené účty, když účtujete deník odsouhlasení plateb.
 
 **Poznámka**: Téma také platí, když používáte funkci **Mapování textu na účet** ze záznamu došlého dokladu a pomáháte při převodu elektronických dokladů přijatých z externích služeb do dokladů v Dynamics NAV. Další informace naleznete v tématu [Návod: Použití funkce OCR k převedení souborů PDF a obrázkových souborů do elektronických dokladů](across-how-use-ocr-pdf-images-files.md).   
