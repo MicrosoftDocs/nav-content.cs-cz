@@ -17,9 +17,9 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="manage-bank-accounts"></a>Správa bankovních účtů
-V pravidelných intervalech musíte odsouhlasit bankovní položky v Dynamics NAV se souvisejícími bankovními transakcemi na bankovních účtech u vaší banky a pak musíte zaúčtovat zůstatek na vašem bankovním účtu. Tuto úlohu můžete provést jako součást zpracování plateb uvedených v bankovním výpisu v **Deník odsouhlasení plateb**. Případně můžete úlohu provádět odděleně od zpracování plateb v **Odsouhlasení bank. účtů**, které podporuje kontrolu položek knihy. V obou případech vyplníte okna importováním bankovního výpisu do Dynamics NAV.
+V pravidelných intervalech musíte odsouhlasit bankovní položky v [!INCLUDE[navnow](includes/navnow_md.md)] se souvisejícími bankovními transakcemi na bankovních účtech u vaší banky a pak musíte zaúčtovat zůstatek na vašem bankovním účtu. Tuto úlohu můžete provést jako součást zpracování plateb uvedených v bankovním výpisu v **Deník odsouhlasení plateb**. Případně můžete úlohu provádět odděleně od zpracování plateb v **Odsouhlasení bank. účtů**, které podporuje kontrolu položek knihy. V obou případech vyplníte okna importováním bankovního výpisu do [!INCLUDE[navnow](includes/navnow_md.md)].
 
-Někdy je třeba převést částky mezi bankovním účtem v Dynamics NAV tak, aby odrážely převody ve vaší bance. Tento úkol provedete v okně **Finanční deník** různými způsoby v závislosti na měně finančních prostředků.
+Někdy je třeba převést částky mezi bankovním účtem v [!INCLUDE[navnow](includes/navnow_md.md)] tak, aby odrážely převody ve vaší bance. Tento úkol provedete v okně **Finanční deník** různými způsoby v závislosti na měně finančních prostředků.
 
 Než budete moci spravovat bankovní účty, musíte nastavit každý bankovní účet jako kartu bankovního účtu. Navíc musíte nastavit elektronické služby, které můžete použít pro import bankovních výpisů a export platebních souborů. Další informace naleznete v tématu [Nastavení bankovních účtů](bank-setup-banking.md).
 
@@ -34,6 +34,6 @@ Následující tabulka popisuje postup úkolů s odkazy na téma, která je popi
 [Nastavení bankovnictví](bank-setup-banking.md)  
 [Správa pohledávek](receivables-manage-receivables.md)  
 [Správa závazků](payables-manage-payables.md)    
-[Práce s Dynamics NAV](ui-work-product.md)  
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
 [Skrz obchodní oblasti](ui-across-business-areas.md)
 

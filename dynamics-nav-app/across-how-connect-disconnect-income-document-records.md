@@ -17,7 +17,7 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="how-to-connect-and-disconnect-incoming-document-records-from-documents-and-entries"></a>Návod: Připojení a odpojení záznamů došlého dokladu z dokladů a položek
-V aplikaci Dynamics NAV můžete ukládat externí obchodní doklady připojením souborů k souvisejícím záznamům došlého dokladu. Pokud se doklad jako třeba nákupní faktura nespustí jako záznam došlého dokladu, můžete stále vytvořit a připojit záznam došlého dokladu později. Soubory došlých dokladů můžete také připojit k zaúčtovaným nákupním a prodejním dokladům a k záznamům prodejců, zákazníků a položek hlavní knihy pomocí okna s fakty **Soubory došlého dokladu**, pro příklad okna **Účtované nákupní faktury** a **Položky dodavatelů**.
+V aplikaci [!INCLUDE[navnow](includes/navnow_md.md)] můžete ukládat externí obchodní doklady připojením souborů k souvisejícím záznamům došlého dokladu. Pokud se doklad jako třeba nákupní faktura nespustí jako záznam došlého dokladu, můžete stále vytvořit a připojit záznam došlého dokladu později. Soubory došlých dokladů můžete také připojit k zaúčtovaným nákupním a prodejním dokladům a k záznamům prodejců, zákazníků a položek hlavní knihy pomocí okna s fakty **Soubory došlého dokladu**, pro příklad okna **Účtované nákupní faktury** a **Položky dodavatelů**.
 
 Z oken **Účtová osnova** a **Hlavní kniha položek** můžete použít vyhledávací funkci k nalezení položek hlavní knihy pro zaúčtování nákupních a prodejních dokladů, které nemají záznamy došlého dokladu a pak centrálně odkazovat na existující záznamy nebo vytvářet nové s připojenými soubory. Další informace naleznete v tématu [Návod: Nalezení zaúčtovaných dokladů bez záznamů došlého dokladu](across-how-find-posted-documents-without-income-document-records.md).
 
@@ -47,5 +47,5 @@ Připojení zaúčtovaného dokladu je odebráno. Nyní můžete pokračovat v p
 [Proces došlých dokladů](across-process-income-documents.md)  
 [Došlé doklady](across-income-documents.md)  
 [Správa nákupu](purchasing-manage-purchasing.md)  
-[Práce s Dynamics NAV](ui-work-product.md)
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
 

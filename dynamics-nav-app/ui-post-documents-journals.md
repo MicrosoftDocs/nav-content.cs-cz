@@ -19,7 +19,7 @@ ms.lasthandoff: 07/19/2017
 # <a name="post-documents-and-journals"></a>Účtování dokladů a deníků
 Účtování představuje účetní akci při zaznamenávání obchodních transakcí v různých firemních denících.
 
-Prakticky každý doklad a deník v Dynamics NAV nabízí **Účtování** ze které můžete vybírat mezi různými účtovacími akcemi, jako je akce **Účtovat**, **Náhled účtování**, **Účtovat a odeslat**, **Účtovat a odeslat e-mailem**.
+Prakticky každý doklad a deník v [!INCLUDE[navnow](includes/navnow_md.md)] nabízí **Účtování** ze které můžete vybírat mezi různými účtovacími akcemi, jako je akce **Účtovat**, **Náhled účtování**, **Účtovat a odeslat**, **Účtovat a odeslat e-mailem**.
 
 Následující tabulka popisuje související úlohy s odkazy na témata, které je popisují.
 

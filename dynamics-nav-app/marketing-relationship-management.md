@@ -16,9 +16,9 @@ ms.lasthandoff: 06/26/2017
 
 ---
 # <a name="relationship-management"></a>Správce vztahů
-Funkce Dynamics NAV správce vztahů vám pomáhá spravovat a podporovat vaše obchodní úsilí. Díky těmto funkcím máte přístup k úplným a přesným informacím, abyste se mohli soustředit na své interakce preferovaných segmentů zákazníků/kontaktů.
+Funkce [!INCLUDE[navnow](includes/navnow_md.md)] správce vztahů vám pomáhá spravovat a podporovat vaše obchodní úsilí. Díky těmto funkcím máte přístup k úplným a přesným informacím, abyste se mohli soustředit na své interakce preferovaných segmentů zákazníků/kontaktů.
 
-Správné prodejní a marketingové praktiky jsou hlavně o tom, jak učinit správné rozhodnutí v ten pravý čas. Dynamics NAV poskytuje přesný a včasný přehled vašich kontaktních informací, abyste mohli účinněji sloužit potenciálním zákazníkům a zvýšit jejich spokojenost.
+Správné prodejní a marketingové praktiky jsou hlavně o tom, jak učinit správné rozhodnutí v ten pravý čas. [!INCLUDE[navnow](includes/navnow_md.md)] poskytuje přesný a včasný přehled vašich kontaktních informací, abyste mohli účinněji sloužit potenciálním zákazníkům a zvýšit jejich spokojenost.
 
 Chcete-li začít, podívejte se na následující témata:
 

@@ -17,7 +17,7 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="how-to-set-up-time-sheets"></a>Návod: Nastavení pracovních výkazů
-Pracovní výkazy v Dynamics NAV zaznamenávejte v týdenních přírůstcích po sedmi dnech.  Používáte je ke sledování času použitého na projektech a můžete je použít k záznamu jednoduché registrace času. Než budete moci používat pracovní výkazy, musíte určit, jak chcete, aby byly nastaveny a nakonfigurovány.
+Pracovní výkazy v [!INCLUDE[navnow](includes/navnow_md.md)] zaznamenávejte v týdenních přírůstcích po sedmi dnech.  Používáte je ke sledování času použitého na projektech a můžete je použít k záznamu jednoduché registrace času. Než budete moci používat pracovní výkazy, musíte určit, jak chcete, aby byly nastaveny a nakonfigurovány.
 
 Jakmile nastavíte, jak bude vaše organizace používat pracovní výkazy, můžete určit, zda a jak jsou schvalovány.  V závislosti na potřebách vaší organizace můžete určit:
 
@@ -61,5 +61,5 @@ Když jste nastavili pracovní výkazy, můžete vytvořit pracovní výkazy pro
 [Finance](finance-setup.md)  
 [Správa nákupu](purchasing-manage-purchasing.md)         
 [Správa prodeje](sales-manage-sales.md)      
-[Práce s Dynamics NAV](ui-work-product.md)  
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
 

@@ -17,7 +17,7 @@ ms.lasthandoff: 07/19/2017
 ---
     
 # <a name="mandatory-fields"></a>Povinná pole
-Při zadávání dat na stránkách Dynamics NAV jsou některá pole označena červenou hvězdičkou. Červená hvězdička znamená, že pole musí být vyplněno, aby se dokončil určitý proces, který dané pole používá, například zaúčtování transakce, která používá hodnotu v poli. 
+Při zadávání dat na stránkách [!INCLUDE[navnow](includes/navnow_md.md)] jsou některá pole označena červenou hvězdičkou. Červená hvězdička znamená, že pole musí být vyplněno, aby se dokončil určitý proces, který dané pole používá, například zaúčtování transakce, která používá hodnotu v poli. 
 
 I když pole obsahuje červenou hvězdičku, není nutné vyplnit pole před tím, než budete pokračovat k dalším polím nebo zavřete stránku. Červená hvězdička slouží pouze jako upozornění, že dokončení určitého procesu bude zablokováno.  
 
@@ -27,6 +27,6 @@ V okně **Karta zákazníka** se červená hvězdička objevuje v poli **Název*
 V okně **Karta zboží** se červená hvězdička objevuje v poli **Popis** k označení, že nemůžete zadat zboží na řádek dokladu, jako například na prodejní objednávku, pokud není pole vyplněno. 
 
 ## <a name="see-also"></a>Viz také
-[Práce s Dynamics NAV](ui-work-product.md) 
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md) 
 
 

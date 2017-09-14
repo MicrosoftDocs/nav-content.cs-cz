@@ -21,7 +21,7 @@ Pokud vytvoříte řádky finančního deníku ze záznamů došlého dokladu, m
 
 Pokud nechcete, aby uživatelé vytvářeli faktury nebo řádky finančního deníku ze záznamů došlého dokladu, pokud nejsou doklady prvně schváleny, je nutné nastavit schvalovatele v okně **Schvalovatelé došlého dokladu**.
 
-Chcete-li soubory PDF a obrázkové soubory převést do elektronických dokumentů, které lze převést například na nákupní faktury v Dynamics NAV, musíte nejprve nastavit funkci OCR a povolit službu.
+Chcete-li soubory PDF a obrázkové soubory převést do elektronických dokumentů, které lze převést například na nákupní faktury v [!INCLUDE[navnow](includes/navnow_md.md)], musíte nejprve nastavit funkci OCR a povolit službu.
 
 Když je nastavena funkce Došlých dokladů, můžete použít různé funkce pro kontrolu výdajů, správu úloh OCR a převod souborů došlého dokladu ručně nebo automaticky na příslušné doklady nebo řádky deníku. Externí soubory lze připojit v libovolné fázi procesu včetně zaúčtovaných dokladů a výsledných záznamů prodejce, zákazníka a položek hlavní knihy. Další informace naleznete v tématu [Návod: Proces došlých dokladů](across-process-income-documents.md).
 
@@ -33,7 +33,7 @@ Když je nastavena funkce Došlých dokladů, můžete použít různé funkce p
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Nastavení došlých dokladů** a pak vyberte související odkaz.  
 2. V okně **Nastavení došlých dokladů** zvolte akci **Schvalovatelé**. 
 
-    Okno **Schvalovatelé došlých dokladů** ukáže všechny uživatele, kteří jsou nastaveni v Dynamics NAV.  
+    Okno **Schvalovatelé došlých dokladů** ukáže všechny uživatele, kteří jsou nastaveni v [!INCLUDE[navnow](includes/navnow_md.md)].  
 3. Vyberte jednoho nebo více uživatelů, kteří mohou schválit došlý doklad předtím, než lze vytvořit související doklad nebo řádek deníku.
 
 Pokud byli schvalovatelé nastaveni v okně **Schvalovatelé došlých dokladů**, pouze tito uživatelé mohou schválit došlý doklad, pokud je zaškrtnuto políčko **K vytvoření vyžaduje schválení** v okně **Nastavení došlých dokladů**.
@@ -55,5 +55,5 @@ Doporučuje se chránit přihlašovací informace, které zadáte do okna **Nast
 [Proces došlých dokladů](across-process-income-documents.md)  
 [Došlé doklady](across-income-documents.md)  
 [Správa nákupu](purchasing-manage-purchasing.md)  
-[Práce s Dynamics NAV](ui-work-product.md)
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
 

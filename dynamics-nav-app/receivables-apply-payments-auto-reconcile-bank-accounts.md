@@ -17,15 +17,15 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="apply-payments-automatically-and-reconcile-bank-accounts"></a>Použití automatických plateb a odsouhlasení bankovních účtů
-Musíte pravidelně sladit své účty s bankami, pohledávkami a závazky v Dynamics NAV uhrazením plateb zaznamenaných v bance na jejich souvisejících nezaplacených fakturách a dobropisech nebo jiných otevřených položkách v Dynamics NAV.
+Musíte pravidelně sladit své účty s bankami, pohledávkami a závazky v [!INCLUDE[navnow](includes/navnow_md.md)] uhrazením plateb zaznamenaných v bance na jejich souvisejících nezaplacených fakturách a dobropisech nebo jiných otevřených položkách v [!INCLUDE[navnow](includes/navnow_md.md)].
 
-Tuto úlohu můžete provést v okně **Deník odsouhlasení plateb** importováním souboru  bankovního výpisu, abyste mohli rychle zapsat platby v Dynamics NAV. Funkce automatických aplikací uplatňuje platby k jejich souvisejícím otevřeným položkám zákazníka nebo dodavatele založených na datových shodách mezi textem platby a zadaných informací. Před zaúčtováním deníku můžete zkontrolovat a měnit automatické aplikace. Při účtování deníku můžete uzavřít všechny otevřené položky bankovního účtu, které se vztahují k zaplaceným položkám. To znamená, že bankovní účet je automaticky odsouhlasen při zaplacení všech plateb.
+Tuto úlohu můžete provést v okně **Deník odsouhlasení plateb** importováním souboru  bankovního výpisu, abyste mohli rychle zapsat platby v [!INCLUDE[navnow](includes/navnow_md.md)]. Funkce automatických aplikací uplatňuje platby k jejich souvisejícím otevřeným položkám zákazníka nebo dodavatele založených na datových shodách mezi textem platby a zadaných informací. Před zaúčtováním deníku můžete zkontrolovat a měnit automatické aplikace. Při účtování deníku můžete uzavřít všechny otevřené položky bankovního účtu, které se vztahují k zaplaceným položkám. To znamená, že bankovní účet je automaticky odsouhlasen při zaplacení všech plateb.
 
 Chcete-li povolit import bankovních výpisů jako bankovního zdroje, musíte nejprve nastavit a aktivovat službu Envestnet Yodlee Bank Feed a poté propojit své bankovní účty se souvisejícími online bankovními účty. Další informace naleznete v tématu [Návod: Nastavení služby Envestnet Yodlee Bank Feed](bank-how-setup-bank-statement-service.md).
 
 **Poznámka**: Služba Envestnet Yodlee Bank Feeds nebo jiná služba bankovního poskytovatele nemusí být ve vašem systému k dispozici. Obraťte se na svého partnera Microsoft, chcete-li pro import bankovních výpisů použít bankovní službu.
 
-Případně můžete použít službu převodu bankovních dat, abyste měli bankovní výpis v jakémkoli formátu převedený na datový proud, který můžete importovat do Dynamics NAV. Další infromace naleznete v tématu [Návod: Nastavení služby převodu bankovních dat](bank-how-setup-bank-data-conversion-service.md).
+Případně můžete použít službu převodu bankovních dat, abyste měli bankovní výpis v jakémkoli formátu převedený na datový proud, který můžete importovat do [!INCLUDE[navnow](includes/navnow_md.md)]. Další infromace naleznete v tématu [Návod: Nastavení služby převodu bankovních dat](bank-how-setup-bank-data-conversion-service.md).
 
 Následující tabulka popisuje sekvenci úkolů s odkazy na téma, která je popisují.
 

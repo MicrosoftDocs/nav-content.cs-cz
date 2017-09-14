@@ -18,7 +18,7 @@ ms.lasthandoff: 06/26/2017
 
 # <a name="understanding-wip-methods"></a>Porozumění metodám WIP
 
-Dynamics NAV podporuje následující metody výpočtu a zaznamenávání hodnoty práce v procesu.
+[!INCLUDE[navnow](includes/navnow_md.md)] podporuje následující metody výpočtu a zaznamenávání hodnoty práce v procesu.
 
 |Metoda WIP |Vzorec výpočtu |Popis výpočtu|
 |-----------|--------------------|-----------------------|
@@ -33,5 +33,5 @@ Dynamics NAV podporuje následující metody výpočtu a zaznamenávání hodnot
 [Finance](finance-setup.md)  
 [Správa nákupu](purchasing-manage-purchasing.md)         
 [Správa prodeje](sales-manage-sales.md)      
-[Práce s Dynamics NAV](ui-work-product.md)  
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
 

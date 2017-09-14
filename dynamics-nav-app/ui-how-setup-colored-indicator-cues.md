@@ -41,6 +41,6 @@ V následující tabulce jsou uvedeny barvy, které odpovídají možnostem pol�
 |**Podřízený**|Šedá|
 
 ## <a name="see-also"></a>Viz také
-[Práce s Dynamics NAV](ui-work-product.md)
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
 
 

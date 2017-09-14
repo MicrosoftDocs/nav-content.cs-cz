@@ -16,7 +16,7 @@ ms.lasthandoff: 06/26/2017
 
 ---
 # <a name="managing-interactions-with-contacts"></a>Správa interakcí s kontakty
-Interakce v Dynamics NAV jsou všechny typy komunikace mezi vaší společností a vašimi kontakty. Komunikace může být například dopisem, faxem, e-mailem, telefonem, schůzkami a podobně.
+Interakce v [!INCLUDE[navnow](includes/navnow_md.md)] jsou všechny typy komunikace mezi vaší společností a vašimi kontakty. Komunikace může být například dopisem, faxem, e-mailem, telefonem, schůzkami a podobně.
 
 Oblast správce vztahů vám umožňuje zaznamenat všechny interakce, které máte s vašimi kontakty, abyste sledovali prodejní a marketingové úsilí, které jste nasměrovali k vašim kontaktům, a zlepšit s nimi své budoucí obchodní vztahy. Nastavení aplikace pro zaznamenávání interakcí skládajících se z těchto úloh:
 

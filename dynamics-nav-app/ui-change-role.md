@@ -17,17 +17,17 @@ ms.lasthandoff: 07/19/2017
 ---
 
 # <a name="how-to-change-the-role-center"></a>Návod: Změna Centra rolí
-Domovská stránka je vaším hlavním bodem vstupu do Dynamics NAV. Zde můžete získat přehled o každodenních pracovních úkolech a jejich stavu. Úlohy, které často provádíte, jsou zpřístupněny prostřednictvím dlaždic v oblasti obsahu, navigačního podokna vlevo a pomocí akcí na pásu karet.
+Domovská stránka je vaším hlavním bodem vstupu do [!INCLUDE[navnow](includes/navnow_md.md)]. Zde můžete získat přehled o každodenních pracovních úkolech a jejich stavu. Úlohy, které často provádíte, jsou zpřístupněny prostřednictvím dlaždic v oblasti obsahu, navigačního podokna vlevo a pomocí akcí na pásu karet.
 
-Obsah na domovské stránce je založen na vybraném Centru rolí.  Standardním centrem rolí je pro Dynamics NAV  **Obchodní manažer**, ale můžete jej změnit a vybrat si z několika center rolí.
+Obsah na domovské stránce je založen na vybraném Centru rolí.  Standardním centrem rolí je pro [!INCLUDE[navnow](includes/navnow_md.md)]  **Obchodní manažer**, ale můžete jej změnit a vybrat si z několika center rolí.
 
 ## <a name="to-change-role-center"></a>Změna Centra rolí
 1. V pravém horním rohu v nabídce **Nastavení** vyberte možnost **Moje nastavení**.
 2. V okně **Moje nastavení** v poli **Centrum rolí** vyberte Centrum rolí, které chcete nastavit jako standardní. Vyberte například **Účetní**.
 3. Zvolte tlačítko **OK**.
-4. Odhlaste se ze služby Dynamics NAV a poté se znovu přihlaste, aby se změna projevila.
+4. Odhlaste se ze služby [!INCLUDE[navnow](includes/navnow_md.md)] a poté se znovu přihlaste, aby se změna projevila.
 
 ## <a name="see-also"></a>Viz také
-[Vítejte v Dynamics NAV](across-get-started.md)  
-[Práce s Dynamics NAV](ui-work-product.md)  
+[Vítejte v [!INCLUDE[navnow](includes/navnow_md.md)]](across-get-started.md)  
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
 

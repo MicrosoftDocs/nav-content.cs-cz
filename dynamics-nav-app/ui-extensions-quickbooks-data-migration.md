@@ -16,20 +16,20 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="the-quickbooks-data-migration-extension-for-dynamics-nav"></a>Rozšíření migrace dat QuickBooks pro Dynamics NAV
-Toto rozšíření usnadňuje migraci zákazníků, dodavatelů a zboží z QuickBooks do Dynamics NAV. Pokud vaše firma používá služby QuickBooks, můžete exportovat příslušné informace a poté otevřít pomocnou instalační příručku pro nahrání dat do Dynamics NAV.  
+# <a name="the-quickbooks-data-migration-extension-for-dynamics-nav"></a>Rozšíření migrace dat QuickBooks pro [!INCLUDE[navnowlong](includes/navnowlong_md.md)]
+Toto rozšíření usnadňuje migraci zákazníků, dodavatelů a zboží z QuickBooks do [!INCLUDE[navnow](includes/navnow_md.md)]. Pokud vaše firma používá služby QuickBooks, můžete exportovat příslušné informace a poté otevřít pomocnou instalační příručku pro nahrání dat do [!INCLUDE[navnow](includes/navnow_md.md)].  
 
 ## <a name="exporting-data-from-quickbooks"></a>Export dat z QuickBooks
-Musíte exportovat některé nebo všechny své stávající zákazníky, dodavatele a inventární položky do souboru Intuit Interchange Format (IIF). Rozšíření migrace dat QuickBooks obsahuje standardní mapování dat služby QuickBooks, takže můžete použít stávající data k otestování nové společnosti Dynamics NAV. Výchozí mapování bude v převážné většině případů postačující, ale můžete změnit mapování v příručce pro asistenci.  
-QuickBooks obsahuje nástroj na export seznamů v menu. Pro účely Dynamics NAV můžete exportovat následující seznamy:
+Musíte exportovat některé nebo všechny své stávající zákazníky, dodavatele a inventární položky do souboru Intuit Interchange Format (IIF). Rozšíření migrace dat QuickBooks obsahuje standardní mapování dat služby QuickBooks, takže můžete použít stávající data k otestování nové společnosti [!INCLUDE[navnow](includes/navnow_md.md)]. Výchozí mapování bude v převážné většině případů postačující, ale můžete změnit mapování v příručce pro asistenci.  
+QuickBooks obsahuje nástroj na export seznamů v menu. Pro účely [!INCLUDE[navnow](includes/navnow_md.md)] můžete exportovat následující seznamy:
 - Seznam zákazníků
 - Seznam dodavatelů
 - Seznam zboží
 - Seznam účtů  
 
-Exportovaná data jsou uložena jako soubor typu IIF, který můžete poté nahrát do aplikace Dynamics NAV.
+Exportovaná data jsou uložena jako soubor typu IIF, který můžete poté nahrát do aplikace [!INCLUDE[navnow](includes/navnow_md.md)].
 
 ## <a name="see-also"></a>Viz také  
-[Přizpůsobení Dynamics NAV pomocí rozšíření ](ui-extensions.md)  
+[Přizpůsobení [!INCLUDE[navnow](includes/navnow_md.md)] pomocí rozšíření ](ui-extensions.md)  
 [Import dat z jiných finančních systémů](upload-data.md)  
 

@@ -39,6 +39,6 @@ Když musíte nastavit rozložení šeku, můžete tisknout z okna **Deník plat
 [Správa závazků](payables-manage-payables.md)  
 [Spravovat bankovní účty.](bank-manage-bank-accounts.md)   
 [Dokončování procesů na konci období](year-how-complete-period-end-processes.md)  
-[Práce s Dynamics NAV](ui-work-product.md)  
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
 [Napříč obchodními oblastmi](ui-across-business-areas.md)
 

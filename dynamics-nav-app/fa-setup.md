@@ -38,5 +38,5 @@ Následující tabulka popisuje postup úkolů s odkazy na témata, která je po
 ## <a name="see-also"></a>Viz také
 [Správa dlouhodobého majetku](fa-manage.md)  
 [Finance](finance-setup.md)  
-[Vítejte v aplikaci Dynamics NAV](across-get-started.md)
+[Vítejte v aplikaci [!INCLUDE[navnow](includes/navnow_md.md)]](across-get-started.md)
 

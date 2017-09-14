@@ -19,11 +19,11 @@ ms.lasthandoff: 06/26/2017
 # <a name="how-to-review-or-apply-payments-manually-after-automatic-application"></a>Návod: Kontrola nebo manuální vyrovnání plateb po automatickém vyrovnání.
 Pro každý řádek deníku představující platbu v okně **Deníku odsouhlasení plateb**, můžete otevřít okno **Vyrovnání plateb**, aby jste viděli všechny kandidátní otevřené položky pro platbu a také můžete zobrazit podrobné informace pro každou položku shodného data, z něhož je založeno platební vyrovnání. Můžete zde ručně vyrovnat platby nebo znovu vyrovnat platby, které byly automaticky vyrovnány se špatným záznamem. Pro více informací o automatickém vyrovnání jděte na [Návod: Vyrovnání plateb pomocí automatického vyrovnání](receivables-how-reconcile-payments-auto-application.md).
 
-**Důležité**: Pokud je bankovní účet, na kterém vyrovnáváte platby nastaven na lokální měnu, potom okno **Vyrovnání plateb** zobrazí všechny otevřené položky v lokální měně včetně otevřených položek pro dokumenty, které byly původně fakturovány v cizí měně. Vyrovnání plateb položek s konvertovanými měnami mohou být zaúčtovány s jinými částkami, než byly na původním dokladu, protože mohou být rozdílné směnné kurzy používané bankou a Dynamics NAV.
+**Důležité**: Pokud je bankovní účet, na kterém vyrovnáváte platby nastaven na lokální měnu, potom okno **Vyrovnání plateb** zobrazí všechny otevřené položky v lokální měně včetně otevřených položek pro dokumenty, které byly původně fakturovány v cizí měně. Vyrovnání plateb položek s konvertovanými měnami mohou být zaúčtovány s jinými částkami, než byly na původním dokladu, protože mohou být rozdílné směnné kurzy používané bankou a [!INCLUDE[navnow](includes/navnow_md.md)].
 
 Proto doporučujeme sledovat kódy cizích měn v poli **Kód měny** v okně **Vyrovnání plateb**, abyste zjistili, zda je vyrovnání založené na měně. Chcete-li zkontrolovat počáteční částku v cizí měně a zobrazit použitý směnný kurz, vyberte pole **Vyrovnat položku číslo**  a poté v místní nabídce vyberte tlačítko na rozbalení nabídky **Položky zákazníka** nebo **Položky dodavatele**
 
-Každá úprava zisku a ztrát, která je zapotřebí v důsledku měnových konverzí, není automaticky prováděna Dynamics NAV.
+Každá úprava zisku a ztrát, která je zapotřebí v důsledku měnových konverzí, není automaticky prováděna [!INCLUDE[navnow](includes/navnow_md.md)].
 
 **Poznámka**: Nemůžete vyrovnávat položky s jiným znaménkem než znaménkem platby. Chcete-li například uzavřít dobropis se záporným znaménkem a jeho související faktura je s kladným znaménkem, musíte nejprve vyrovnat fakturu k dobropisu a poté platbu vyrovnat na faktuře se sníženou zbývající částkou.
 

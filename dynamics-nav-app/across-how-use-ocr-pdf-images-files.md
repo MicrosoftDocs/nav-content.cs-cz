@@ -17,7 +17,7 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="how-to-use-ocr-to-turn-pdf-and-image-files-into-electronic-documents"></a>Návod: Použití funkce OCR k převedení souborů PDF a obrázkových souborů do elektronických dokladů
-Ze souborů PDF nebo obrázkový souborů, které obdržíte od svých obchodních partnerů, můžete pomocí externí službu OCR (Optical Character Recognition) generovat elektronické doklady, které lze převést na záznamy dokladů v Dynamics NAV. Pokud například od dodavatele obdržíte fakturu ve formátu PDF, můžete ji odeslat do služby OCR z okna **Došlé doklady**. Toto je popsáno v první proceduře.
+Ze souborů PDF nebo obrázkový souborů, které obdržíte od svých obchodních partnerů, můžete pomocí externí službu OCR (Optical Character Recognition) generovat elektronické doklady, které lze převést na záznamy dokladů v [!INCLUDE[navnow](includes/navnow_md.md)]. Pokud například od dodavatele obdržíte fakturu ve formátu PDF, můžete ji odeslat do služby OCR z okna **Došlé doklady**. Toto je popsáno v první proceduře.
 
 Jako alternativu k odeslání souboru z okna **Došlé doklady**, můžete odeslat soubor službě OCR e-mailem. Poté, když obdržíte elektronický doklad zpět, automaticky se vytvoří související záznam došlého dokladu. Toto je popsáno v druhé proceduře.
 
@@ -58,17 +58,17 @@ Pokud nepoužíváte frontu úloh nebo chcete přijmout dokončený doklad OCR d
 
     Zobrazí se informace o dokladu OCR, které zobrazují zdrojový obsah souboru PDF nebo obrázkového souboru a výsledné hodnoty pole OCR.
 3. Zkontrolujte různé hodnoty polí a ručně upravte nebo zadejte hodnoty v polích, které služba OCR označila za nejisté.
-4. Zvolte tlačítko **OK**. Proces OCR je dokončen a výsledný elektronický doklad je odeslán do okna **Došlé doklady** v Dynamics NAV podle plánu fronty úloh.
+4. Zvolte tlačítko **OK**. Proces OCR je dokončen a výsledný elektronický doklad je odeslán do okna **Došlé doklady** v [!INCLUDE[navnow](includes/navnow_md.md)] podle plánu fronty úloh.
 
     Pokud přistupujete k webové stránce pomocí výběru dlaždice na domovské stránce, automaticky se na webových stránkách zobrazí další doklad OCR, který má být ověřen.
 5. Opakujte krok 4 pro ověření jakéhokoliv jiného dokladu OCR.
 
-Nyní můžete manuálně nebo automaticky vytvářet záznamy dokladu pro přijaté elektronické doklady v Dynamics NAV. Další informace naleznete v tématu "Vytvoření záznamu dokladu v programu Dynamics NAV z dokladu přijatého OCR". Nový záznam došlého dokladu můžete také připojit k existujícímu zaúčtovanému či nezaúčtovanému dokladu, takže zdrojový soubor je snadno přístupný z aplikace Dynamics NAV. Další informace naleznete v tématu [Proces došlých dokladů](across-process-income-documents.md).
+Nyní můžete manuálně nebo automaticky vytvářet záznamy dokladu pro přijaté elektronické doklady v [!INCLUDE[navnow](includes/navnow_md.md)]. Další informace naleznete v tématu "Vytvoření záznamu dokladu v programu [!INCLUDE[navnow](includes/navnow_md.md)] z dokladu přijatého OCR". Nový záznam došlého dokladu můžete také připojit k existujícímu zaúčtovanému či nezaúčtovanému dokladu, takže zdrojový soubor je snadno přístupný z aplikace [!INCLUDE[navnow](includes/navnow_md.md)]. Další informace naleznete v tématu [Proces došlých dokladů](across-process-income-documents.md).
 
 ## <a name="to-create-a-purchase-invoice-from-an-electronic-document-received-from-the-ocr-service"></a>Vytvoření nákupní faktury z elektronického dokladu obdrženého od služby OCR
 Následující postup popisuje, jak vytvořit záznam o nákupní faktuře z faktury dodavatele obdržené jako elektronický doklad od služby OCR. Postup je stejný, jako když vytvoříte například řádek finančního deníku z výdajů příjemky.
 
-**Poznámka**: Pole **Popis** a **Číslo** na vytvořených řádcích dokladu budou vyplněny pouze tehdy, pokud jste poprvé namapovali text v dokumentu OCR na dvě pole v aplikaci Dynamics NAV. Můžete to udělat buď jako křížové odkazy položky pro řádky dokladů typu Zboží nebo jako mapování textu k účtům pro doklad nebo řádky finančního deníku. Další informace naleznete v popisu tlačítka akce **Křížové odkazy** na kartách položek a související procedury [Návod: Mapovat text o opakovaných platbách na účtech pro automatické odsouhlasení](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
+**Poznámka**: Pole **Popis** a **Číslo** na vytvořených řádcích dokladu budou vyplněny pouze tehdy, pokud jste poprvé namapovali text v dokumentu OCR na dvě pole v aplikaci [!INCLUDE[navnow](includes/navnow_md.md)]. Můžete to udělat buď jako křížové odkazy položky pro řádky dokladů typu Zboží nebo jako mapování textu k účtům pro doklad nebo řádky finančního deníku. Další informace naleznete v popisu tlačítka akce **Křížové odkazy** na kartách položek a související procedury [Návod: Mapovat text o opakovaných platbách na účtech pro automatické odsouhlasení](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
 
 U došlých dokladů typicky použijete **Mapovat text na účet**, abyste definovali, že určitý text na faktuře dodavatele je přijatý ze služby OCR a je mapován na určitý účet dodavatele. Jakákoliv část popisu došlého dokladu, která existuje jako mapovací text, znamená, že pole **Číslo** na výsledných dokumentech nebo řádcích finančního deníku je vyplněno dotyčným prodejcem.
 
@@ -79,9 +79,9 @@ Kromě mapování na účet prodejce nebo na finanční účet můžete také ma
 3. Chcete-li namapovat čísla zboží na dokladu do popisu položek dodavatele, otevřete kartu každé položky a potom vyberte akci **Křížové odkazy** a nastavte křížové odkazy mezi vašimi popisy zboží a těmi u prodejce.
 4. V okně **Došlé doklady** zvolte akci **Vytvořit dokument**.
 
-V Dynamics NAV bude vytvořena nákupní faktura na základě informací v elektronickém dokladu dodavatele, který jste obdrželi od služby OCR.
+V [!INCLUDE[navnow](includes/navnow_md.md)] bude vytvořena nákupní faktura na základě informací v elektronickém dokladu dodavatele, který jste obdrželi od služby OCR.
 
-Jakékoliv chyby ověřování, které se typicky týkají nesprávných nebo chybějících hlavních dat v Dynamics NAV, se zobrazí v záložce s náhledem **Chyby a varování**. Další informace naleznete v tématu „Vypořádání se s chybami při přijímání elektronických dokladů.“
+Jakékoliv chyby ověřování, které se typicky týkají nesprávných nebo chybějících hlavních dat v [!INCLUDE[navnow](includes/navnow_md.md)], se zobrazí v záložce s náhledem **Chyby a varování**. Další informace naleznete v tématu „Vypořádání se s chybami při přijímání elektronických dokladů.“
 
 ## <a name="to-handle-errors-when-receiving-electronic-documents"></a>Vypořádání se s chybami při přijímání elektronických dokladů
 1. V okně **Došlé doklady** vyberte řádek pro elektronický doklad přijatý službou OCR s chybami. Toto je indikováno hodnotou Error v poli **Stav OCR**.
@@ -111,5 +111,5 @@ Pole záložky s náhledem **Finanční informace** v okně **Došlé doklady** 
 [Proces došlých dokladů](across-process-income-documents.md)  
 [Došlé doklady](across-income-documents.md)  
 [Správa nákupu](purchasing-manage-purchasing.md)  
-[Práce s Dynamics NAV](ui-work-product.md)
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
 

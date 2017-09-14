@@ -19,9 +19,9 @@ ms.lasthandoff: 06/26/2017
 # <a name="how-to-set-up-the-bank-data-conversion-service"></a>Návod: Nastavení služby převodu bankovních dat
 Můžete exportovat platební řádky z okna **Deník plateb** do datového proudu, který pak nahrajete do své banky pro automatické zpracování, takže nemusíte provádět elektronické platby individuálně. Další informace naleznete v tématu [Návod: Export plateb do bankovního souboru](payables-how-export-payments-bank-file.md).
 
-Globální poskytovatel služeb, který převádí informace o platbách do libovolného formátu dat, který banka vyžaduje, je připojen a připraven k zapnutí v Dynamics NAV.
+Globální poskytovatel služeb, který převádí informace o platbách do libovolného formátu dat, který banka vyžaduje, je připojen a připraven k zapnutí v [!INCLUDE[navnow](includes/navnow_md.md)].
 
-Jako alternativu k službě Envestnet Bank Data Feeds můžete také využít službu převodu bankovních dat, abyste měli bankovní výpis, který obdržíte od své banky, převeden na datový tok, který můžete importovat do Dynamics NAV. Další informace naleznete v tématu [Návod: Automatické vyrovnání plateb a odsouhlasení bankovních účtů](receivables-apply-payments-auto-reconcile-bank-accounts.md).
+Jako alternativu k službě Envestnet Bank Data Feeds můžete také využít službu převodu bankovních dat, abyste měli bankovní výpis, který obdržíte od své banky, převeden na datový tok, který můžete importovat do [!INCLUDE[navnow](includes/navnow_md.md)]. Další informace naleznete v tématu [Návod: Automatické vyrovnání plateb a odsouhlasení bankovních účtů](receivables-apply-payments-auto-reconcile-bank-accounts.md).
 
 **Poznámka**: Služba převodu bankovních dat může omezit počet řádků, které lze exportovat do jednoho souboru. Při překročení limitu se zobrazí chybová zpráva. Doporučuje se, aby soubory bankovních výpisů nepřekročily 1000 řádků, jelikož doba zpracování v bankovní službě převodu dat se může výrazně zvýšit.
 
@@ -33,12 +33,12 @@ Jako alternativu k službě Envestnet Bank Data Feeds můžete také využít sl
 3. V poli **Přihlášení URL** vyberte tlačítko prohlížeč a otevřete přihlašovací stránku poskytovatele služby.  
 4. Na přihlašovací stránce poskytovatele služby bankovních dat zadejte název uživatele a heslo pro předplatné vaší společnosti a dokončete přihlašovací proces podle pokynů poskytovatele služby.
 
-    Vaše společnost je nyní zaregistrována pro službu konverze bankovních dat. Pokračujte v zadání názvu uživatele a hesla, které jste zadali do příslušných polí v nastavení v Dynamics NAV.
+    Vaše společnost je nyní zaregistrována pro službu konverze bankovních dat. Pokračujte v zadání názvu uživatele a hesla, které jste zadali do příslušných polí v nastavení v [!INCLUDE[navnow](includes/navnow_md.md)].
 5. V okně **Nastavení služby konver. bank. dat** **v poli Uživatel **Jméno** zadejte stejnou hodnotu, kterou jste zadali jako přihlašovací jméno na stránce poskytovatele služby v kroku 4.
 6. V poli **Heslo** zadejte stejnou hodnotu, kterou jste zadali v poli **Heslo** na stránce poskytovatele služby v kroku 4.
 
 ## <a name="to-encrypt-your-login-information"></a>Šifrování přihlašovacích údajů
-Doporučuje se chránit přihlašovací informace, které zadáváte v okně **Nastavení služby** konver. bank. dat**. Šifrování dat na serveru Dynamics NAV může vygenerovat nové nebo importovat existující šifrovací klíče, které povolíte na instanci serveru Dynamics NAV, která se připojí k databázi.
+Doporučuje se chránit přihlašovací informace, které zadáváte v okně **Nastavení služby** konver. bank. dat**. Šifrování dat na serveru [!INCLUDE[navnow](includes/navnow_md.md)] může vygenerovat nové nebo importovat existující šifrovací klíče, které povolíte na instanci serveru [!INCLUDE[navnow](includes/navnow_md.md)], která se připojí k databázi.
 
 1. V okně **Nastavení služby konver. bank. dat**  **zvolte akci **Správa šifrování**.
 2. V okně **Správa šifrování dat** povolte šifrování vašich dat.

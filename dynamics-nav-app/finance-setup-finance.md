@@ -17,7 +17,7 @@ ms.lasthandoff: 06/26/2017
 ---
 
 #<a name="set-up-core-financial-processes"></a>Nastavení klíčových finančních procesů
-Dynamics NAV zahrnuje standardní konfiguraci většiny finančních procesů, ale můžete změnit konfiguraci tak, aby vám vyhovovala.
+[!INCLUDE[navnow](includes/navnow_md.md)] zahrnuje standardní konfiguraci většiny finančních procesů, ale můžete změnit konfiguraci tak, aby vám vyhovovala.
 Z Domů můžete přistoupit k průvodci nastavení, který vám například pomůže nastavit prodejní daň vzhledem k místu. Ostatní aspekty správy nastavení financí musíte nastavit sami podle toho, jestli chcete používat například dimenze.  
 
 Následující tabulka popisuje postup úkolů s odkazy na témata, která je popisují.

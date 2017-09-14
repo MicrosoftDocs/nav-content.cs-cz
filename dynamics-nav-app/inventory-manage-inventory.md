@@ -23,7 +23,7 @@ Zvýšení a snížení zásob se přirozeně také zaznamenává, když účtuj
 
 Chcete-li zvýšit přehled o zboží a zlepšit vyhledávání, můžete kategorizovat zboží a dát jim atributy pro vyhledávání a řazení.   
 
-**Poznámka**: V Dynamics NAV se produkt označuje výrazem "zboží".
+**Poznámka**: V [!INCLUDE[navnow](includes/navnow_md.md)] se produkt označuje výrazem "zboží".
 
 |Popis |Odkaz |
 |---|----|
@@ -38,6 +38,6 @@ Chcete-li zvýšit přehled o zboží a zlepšit vyhledávání, můžete katego
 ## <a name="see-also"></a>Viz také  
 [Správa nákupu](purchasing-manage-purchasing.md)  
 [Správa prodeje](sales-manage-sales.md)  
-[Práce s Dynamics NAV](ui-work-product.md)  
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
 [Napříč obchodními oblastmi](ui-across-business-areas.md)
 

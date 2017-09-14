@@ -21,7 +21,7 @@ Můžete vytvořit prodejní faktury nebo prodejní objednávky, abyste zaznamen
 
 Musíte použít prodejní objednávky, pokud to váš prodejní proces vyžaduje a můžete pouze dodat části objednávky, například pokud celé množství není k dispozici najednou. Pokud prodáváte zboží dodáním přímo od svého dodavatele zákazníkovi jako zásilku, musíte také použít prodejní objednávky. Ve všech ostatních ohledech fungují prodejní objednávky stejným způsobem jako prodejní faktury.  
 
-Správné prodejní a marketingové praktiky jsou hlavně o tom, jak učinit správné rozhodnutí v ten pravý čas. Funkce marketingu ve službě Dynamics NAV poskytuje přesný a včasný přehled vašich informací o kontaktech, abyste mohli účinněji sloužit potenciálním zákazníkům a zvýšit spokojenost zákazníků. Další informace naleznete v tématu [Řízení vztahů](marketing-relationship-management.md).
+Správné prodejní a marketingové praktiky jsou hlavně o tom, jak učinit správné rozhodnutí v ten pravý čas. Funkce marketingu ve službě [!INCLUDE[navnow](includes/navnow_md.md)] poskytuje přesný a včasný přehled vašich informací o kontaktech, abyste mohli účinněji sloužit potenciálním zákazníkům a zvýšit spokojenost zákazníků. Další informace naleznete v tématu [Řízení vztahů](marketing-relationship-management.md).
 
 Můžete vyjednávat se zákazníkem tím, že nejprve vytvoříte prodejní nabídku, kterou můžete při prodeji přenést na prodejní fakturu, pokud souhlasíte s obchodem. Poté, co zákazník potvrdí smlouvu, například po nabídce cen, můžete odeslat potvrzení objednávky, abyste si zaznamenali povinnost dodat produkty podle dohody.
 
@@ -48,6 +48,6 @@ Následující tabulka popisuje postup úkolů s odkazy na témata, která je po
 [Nastavení prodeje](sales-setup-sales.md)  
 [Správa pohledávek](receivables-manage-receivables.md)  
 [Správa závazků](payables-manage-payables.MD)      
-[Práce s Dynamics NAV](ui-work-product.md)  
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
 [Napříč obchodními oblastmi](ui-across-business-areas.md)
 

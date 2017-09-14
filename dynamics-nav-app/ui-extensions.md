@@ -16,9 +16,9 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="customizing-dynamics-nav-using-extensions"></a>Přizpůsobení Dynamics NAV pomocí Rozšíření
-Dynamics NAV můžete změnit instalací rozšíření, které přidávají funkce, mění chování nebo například umožňují přístup k novým online službám.
-Při prvním spuštění služby Dynamics NAV jsou pro vás některá rozšíření již nainstalována. Postupem času mohou být k dispozici další rozšíření a poté můžete zvolit, zda chcete rozšíření použít, nebo ne.
+# <a name="customizing-dynamics-nav-using-extensions"></a>Přizpůsobení [!INCLUDE[navnowlong](includes/navnowlong_md.md)] pomocí Rozšíření
+[!INCLUDE[navnow](includes/navnow_md.md)] můžete změnit instalací rozšíření, které přidávají funkce, mění chování nebo například umožňují přístup k novým online službám.
+Při prvním spuštění služby [!INCLUDE[navnow](includes/navnow_md.md)] jsou pro vás některá rozšíření již nainstalována. Postupem času mohou být k dispozici další rozšíření a poté můžete zvolit, zda chcete rozšíření použít, nebo ne.
 
 Například společnost Microsoft poskytuje rozšíření, které umožňuje integraci s platebním standardem PayPal. Toto rozšíření je standardně nainstalováno.
 Pokud je dispozici další rozšíření, které nabízí integraci s jinou platební službou, můžete nainstalovat nové rozšíření a vybrat, kterou z těchto dvou služeb použijete.  
@@ -30,7 +30,7 @@ Pokud jsou k dispozici nové rozšíření, jelikož byly zveřejněny na vašem
 
 Pokud vyberete rozšíření, můžete si přečíst co rozšíření dělá, dále získat přístup k nápovědě pro rozšíření, kde se dozvíte více. Pokud se rozhodnete pro rozšíření, musíte souhlasit s podmínkami používání.  
 
-Při instalaci rozšíření budete možná muset zadat nastavení, například zadat účet pro použití s **Rozšíření platební standard PayPal pro Dynamics NAV**.
+Při instalaci rozšíření budete možná muset zadat nastavení, například zadat účet pro použití s **Rozšíření platební standard PayPal pro [!INCLUDE[navnow](includes/navnow_md.md)]**.
 Ostatní rozšíření jednoduše přidávají pole na existující stránku nebo přidávají například novou stránku.   
 
 Pokud se rozhodnete odinstalovat rozšíření a poté se rozhodnete, že ho opět chcete, stačí ho znovu nainstalovat. Když odinstalujete rozšíření, které jste použili, data jsou zachována, takže pokud znovu nainstalujete rozšíření, jsou vaše data stále k dispozici.  
@@ -43,5 +43,5 @@ Ostatní rozšíření jsou také k dispozici ve výchozím nastavení v závisl
 
 ## <a name="see-also"></a>Viz také  
 [Návod: Povolení plateb zákazníka pomocí PayPalu](sales-how-enable-customer-payments-paypal.md)  
-[Vítejte v aplikaci Dynamics NAV](across-get-started.md)  
+[Vítejte v aplikaci [!INCLUDE[navnow](includes/navnow_md.md)]](across-get-started.md)  
 

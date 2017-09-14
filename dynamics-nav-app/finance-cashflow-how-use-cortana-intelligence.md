@@ -33,13 +33,13 @@ Je pár věcí ke splnění než budete moci použít Cortana Intelligence pro p
     * Jedna nebo více prognóz cashflow v **Prognóza cashflow**. Ujistěte se, že zahrnujete nákupní objednávky, prodejní objednávky, pohledávky a závazky jako zdroje.  
     Pro další informace hledejte _Prognóza cashflow_ v systému Nápovědy. 
 * Je potřeba znát API URL a klíč rozhraní API pro webovou službu předpovědi pro použití.  
-    Můžete použít Azure Machine Learning nebo jinou službu. Alternantivně veřejný model pojmenovaný _Model prognózování pro Microsoft Dynamics NAV_ Pro použití modelu postupujte následově:
+    Můžete použít Azure Machine Learning nebo jinou službu. Alternantivně veřejný model pojmenovaný _Model prognózování pro Microsoft [!INCLUDE[navnow](includes/navnow_md.md)]_ Pro použití modelu postupujte následově:
 
     1. V prohlížeči jděte na [Cortana Intelligence Gallery](https://go.microsoft.com/fwlink/?linkid=828352)
-    2. Hledejte _Model prognózování pro Microsoft Dynamics NAV_ a pak otevřete model v Azure Machine Learning Studio.
+    2. Hledejte _Model prognózování pro Microsoft [!INCLUDE[navnow](includes/navnow_md.md)]_ a pak otevřete model v Azure Machine Learning Studio.
     3. Použijte svůj Microsoft účet k přihlášení do pracovní prostoru a pak model zkopírujte.
     4. Spusťte model a publikujte.
-    5. Zapište poznámku o API URL a klíči rozhraní API. Použijete tyto přihlašovací údaje, když nastavíte Cortana Intelligence v Microsoft Dynamics NAV.  
+    5. Zapište poznámku o API URL a klíči rozhraní API. Použijete tyto přihlašovací údaje, když nastavíte Cortana Intelligence v Microsoft [!INCLUDE[navnow](includes/navnow_md.md)].  
 
 * Zvažte, jak často počítat prognózu. Služba Azure Machine Learning má limity dle použití. Například pokud máte hodně zboží, bude lepší počítat méně často. 
 * Přiřaďte si roli účetního v centru rolí. 
@@ -74,5 +74,5 @@ Například můžete vidět tuto předpověď:
 * Přeskakování duplikovaných prodejních a nákupních objednávek.
 
 ## <a name="see-also"></a>Viz také  
-[Práce s Dynamics NAV](ui-work-product.md)
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
 

@@ -48,7 +48,7 @@ Přidělovací klíče platí pro třídy DM, nikoli pro jednotlivý majetek.
 ## <a name="to-set-up-fixed-asset-journal-templates"></a>Nastavení šablon deníku DM  
 Šablona je předdefinované rozložení pro deník. Šablona obsahuje informace o sledovacích kódech, výkazech a číselných řadách. Další informace naleznete v tématu [Práce s Finančním deníkem](ui-work-general-journals.md).
 
-Dynamics NAV automaticky vytvoří šablonu deníku DM při prvním otevření okna **Deník DM**, ale můžete nastavit další šablony deníku.  
+[!INCLUDE[navnow](includes/navnow_md.md)] automaticky vytvoří šablonu deníku DM při prvním otevření okna **Deník DM**, ale můžete nastavit další šablony deníku.  
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Šablony deníku DM** a pak vyberte související odkaz.  
 2. Vyplňte pole podle potřeby.
 
@@ -59,7 +59,7 @@ Můžete nastavit více dávek deníku, což jsou jednotlivé deníky pro každo
 3. V okně **Dávky deníku DM** vyplňte pole podle potřeby.
 
 ## <a name="to-set-up-fixed-asset-reclassification-journal-templates"></a>Nastavení šablon deníku pro reklasifikaci DM  
-Používáte-li vyhrazené přeřazení deníků, když potřebujete převést, rozdělit nebo kombinovat dlouhodobý majetek. Dynamics NAV automaticky vytvoří šablonu deníku pro reklasifikaci DM při prvním otevření okna **Deník přeřazení DM**, ale můžete nastavit další reklasifikaci šablony deníku. Další informace naleznete v tématu [Práce s Finančním deníkem](ui-work-general-journals.md).  
+Používáte-li vyhrazené přeřazení deníků, když potřebujete převést, rozdělit nebo kombinovat dlouhodobý majetek. [!INCLUDE[navnow](includes/navnow_md.md)] automaticky vytvoří šablonu deníku pro reklasifikaci DM při prvním otevření okna **Deník přeřazení DM**, ale můžete nastavit další reklasifikaci šablony deníku. Další informace naleznete v tématu [Práce s Finančním deníkem](ui-work-general-journals.md).  
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Šablony deníku přeřazení DM** a pak vyberte související odkaz.  
 2. Vyplňte pole podle potřeby.
 
@@ -85,7 +85,7 @@ Použijete kódy místa DM k registraci umístění DM, např. oddělení prodej
 2. Zadejte kódy a názvy pro umístění DM, který chcete vytvořit.
 
 ## <a name="to-register-opening-entries"></a>Zaregistrování otevíracích položek  
-Pokud používáte dlouhodobý majetek v Dynamics NAV poprvé, musíte nastavit oblast aplikace hlavní knihy před nastavením DM. Jak to uděláte, závisí na tom, zda je dlouhodobý majetek integrován do hlavní knihy.  
+Pokud používáte dlouhodobý majetek v [!INCLUDE[navnow](includes/navnow_md.md)] poprvé, musíte nastavit oblast aplikace hlavní knihy před nastavením DM. Jak to uděláte, závisí na tom, zda je dlouhodobý majetek integrován do hlavní knihy.  
 
  Následující postup se používá, pokud mají být transakce DM zaúčtovány do hlavní knihy.  
 
@@ -99,7 +99,7 @@ Pokud používáte dlouhodobý majetek v Dynamics NAV poprvé, musíte nastavit 
 8. V deníku DM zadejte následující řádky pro každý majetek:
     - Řádek s pořizovací cenou.
     - Řádek s akumulovaným odpisem do konce předchozího fiskálního roku.
-    - Řádek s akumulovaným odpisem od začátku běžného fiskálního roku do data, kdy je Dynamics NAV nastaven tak, aby začal vypočítávat odpisy.
+    - Řádek s akumulovaným odpisem od začátku běžného fiskálního roku do data, kdy je [!INCLUDE[navnow](includes/navnow_md.md)] nastaven tak, aby začal vypočítávat odpisy.
 
 Máte-li další počáteční zůstatky, můžete je nyní také zadat, například napsat\-dolů a zhodnocení.  
 
@@ -109,5 +109,5 @@ Pokud není dlouhodobý majetek integrován do hlavní knihy, přeskočte kroky 
 [Nastavení DM](fa-setup.md)  
 [Správa DM](fa-manage.md)  
 [Finance](finance-setup.md)  
-[Vítejte v Dynamics NAV](across-get-started.md)
+[Vítejte v [!INCLUDE[navnow](includes/navnow_md.md)]](across-get-started.md)
 

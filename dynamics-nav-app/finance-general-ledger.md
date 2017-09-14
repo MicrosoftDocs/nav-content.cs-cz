@@ -17,7 +17,7 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="the-general-ledger-and-the-chart-of-accounts"></a>Hlavní kniha a Účetní osnova
-Hlavní kniha ukládá Vaše finanční data a účetní osnova ukazuje účty, ke kterým jsou položky hlavní knihy zaúčtovány. Dynamics NAV zahrnuje standardní účetní osnovu, která je připravena podpořit Váš obchod.
+Hlavní kniha ukládá Vaše finanční data a účetní osnova ukazuje účty, ke kterým jsou položky hlavní knihy zaúčtovány. [!INCLUDE[navnow](includes/navnow_md.md)] zahrnuje standardní účetní osnovu, která je připravena podpořit Váš obchod.
 
 ## <a name="general-ledger-setup-and-general-posting-setup"></a>Nastavení hlavní knihy a obecného účtování
 V jádře Vašich obchodních procesů je hlavní kniha a konfigurace, jak jsou data účtována do hlavní knihy.
@@ -27,7 +27,7 @@ Podobně v okně **Nastavení obecného účtování** specifikujete, jak chcete
 ## <a name="the-chart-of-accounts"></a>Účetní osnova
 Účetní osnova ukazuje všechny účty. Odtud můžete otevřít různé sestavy, které ukazují položky hlavní knihy a zůstatky mimo jiné také můžete uzavřít výsledovku. Pro každý účet můžete otevřít kartu finančních účtů a přidat nebo změnit nastavení. Můžete také vidět seznam účtovacích skupin, podle kterých se účet účtuje  
 
-Dynamics NAV bude předcházet tomu, abyste si vymazali účet hlavní knihy, který ukládá potřebné data v účtové osnově.  
+[!INCLUDE[navnow](includes/navnow_md.md)] bude předcházet tomu, abyste si vymazali účet hlavní knihy, který ukládá potřebné data v účtové osnově.  
 
 ## <a name="account-categories"></a>Kategorie účtů
 S kategoriemi účtů, můžete mapovat účty hlavní knihy ke kategoriím jako je personalizace struktury Vašich finančních výkazů.  

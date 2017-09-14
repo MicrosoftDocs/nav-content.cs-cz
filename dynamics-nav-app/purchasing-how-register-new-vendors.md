@@ -48,5 +48,5 @@ Chcete-li tuto kartu dodavatele použít jako šablonu při vytváření nových
 ## <a name="see-also"></a>Viz také
 [Správa nákupu](purchasing-manage-purchasing.md)  
 [Návod: Zaznamenejte nákupy](purchasing-how-record-purchases.md)   
-[Práce s Dynamics NAV](ui-work-product.md)
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
 

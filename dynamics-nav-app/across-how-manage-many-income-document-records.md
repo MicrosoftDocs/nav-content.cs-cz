@@ -49,5 +49,5 @@ Zobrazí se všechny záznamy došlého dokladu, včetně těch, ve kterých nen
 [Proces došlých dokladů](across-process-income-documents.md)  
 [Došlé doklady](across-income-documents.md)  
 [Správa nákupu](purchasing-manage-purchasing.md)  
-[Práce s Dynamics NAV](ui-work-product.md)
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
 

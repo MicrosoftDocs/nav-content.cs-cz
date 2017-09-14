@@ -346,5 +346,5 @@ Při zadání položky v B1 ve finančním deníku dlouhodobého majetku a zašk
 [Správa dlouhodobého majetku](fa-manage.md)  
 [Nastavení dlouhodobého majetku](fa-setup.md)  
 [Finance](finance-setup.md)  
-[Vítejte v Dynamics NAV](across-get-started.md)
+[Vítejte v [!INCLUDE[navnow](includes/navnow_md.md)]](across-get-started.md)
 

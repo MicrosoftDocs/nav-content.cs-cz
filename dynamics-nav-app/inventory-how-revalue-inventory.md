@@ -1,5 +1,5 @@
 <properties
-                pageTitle="Návod: Přecenění zásob | Dynamics NAV"
+                pageTitle="Návod: Přecenění zásob | [!INCLUDE[navnowlong](includes/navnowlong_md.md)]"
                 description="Popisuje, jak ocenit nebo odepsat hodnoty jednoho nebo více zboží v zásobách zaúčtováním jejich aktuální vypočtené hodnoty."
                 services="project-madeira"
                 documentationCenter=""
@@ -35,5 +35,5 @@ Nové položky přecenění jsou nyní vytvořeny tak, aby odrážely přeceněn
 [Správa skladů](inventory-manage-inventory.md)  
 [Správa prodeje](sales-manage-sales.md)  
 [Správa nákupu](purchasing-manage-purchasing.md)  
-[Práce s Dynamics NAV](ui-work-product.md)
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
 

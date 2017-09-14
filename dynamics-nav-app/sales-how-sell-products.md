@@ -33,7 +33,7 @@ Pokud je účtovaná prodejní faktura, musíte si vytvořit dobropis ke zpětn�
 
 Produkt mohou být skladové položky nebo služby. Další informace naleznete v tématu [Návod: Registrovat nové produkty](inventory-how-register-new-products.md). Proces prodejních objednávek je stejný pro oba typy produktů.
 
-**Poznámka**: V produktu Dynamics NAV se produkt označuje výrazem „zboží".
+**Poznámka**: V produktu [!INCLUDE[navnow](includes/navnow_md.md)] se produkt označuje výrazem „zboží".
 
 Položky zákazníků můžete vyplnit na prodejní objednávce dvěma způsoby v závislosti na tom, zda je zákazník již zaregistrován.
 
@@ -89,5 +89,5 @@ Položky souvisejících položek a účtů zákazníků jsou nyní vytvořeny v
 [Nastavení prodeje](sales-setup-sales.md)  
 [Sklady](inventory-manage-inventory.md)  
 [Návod: Posílání dokumentů pomocí Emailu](ui-how-send-documents-email.md)  
-[Práce s Dynamics NAV](ui-work-product.md)
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
 

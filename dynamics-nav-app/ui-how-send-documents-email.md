@@ -19,7 +19,7 @@ ms.lasthandoff: 07/19/2017
 # <a name="how-to-send-documents-by-email"></a>Návod: Odesílání dokumentů e-mailem
 Chcete-li rychle informovat své obchodní partnery o obsahu obchodních dokumentů, například pokud chcete svým zákazníkům sdělit platební informace na prodejních dokladech, můžete pomocí funkce Rozvržení sestavy definovat obsah specifický pro doklad, který se do těl emailů bude automaticky vkládat.
 
-Chcete-li povolit zasílání e-mailů ze služby Dynamics NAV, spusťte **Nastavení e-mailů** k asistovanému nastavení na Domovské stránce. 
+Chcete-li povolit zasílání e-mailů ze služby [!INCLUDE[navnow](includes/navnow_md.md)], spusťte **Nastavení e-mailů** k asistovanému nastavení na Domovské stránce. 
 
 Jako přílohu k emailovým zprávám můžete zaslat prakticky všechny typy dokumentů, a to přímo z okna, ve kterém je dokument zobrazen. Kromě přílohy můžete nastavit těla emailů pro konkrétní doklady se základními informacemi z dokladu, kterým předchází standardní text, který pozdraví příjemce pošty a představí daný doklad. Chcete-li svým zákazníkům nabídnout platbu za prodej prostřednictvím elektronické platební služby, jako například prostřednictvím PayPal, můžete mít do těla emailu vložené i informace o PayPal a hypertextový odkaz.
 
@@ -62,6 +62,6 @@ Následující postup popisuje odeslání zaúčtované prodejní faktury jako e
 **Poznámka**: Pokud nepotřebujete zadávat nastavení e-mailu vždy, když odesíláte doklad e-mailem, můžete v okně **Odeslat dokument** v poli emailu vybrat možnost **Ano (Použít výchozí nastavení)**. V takovém případě se okno **Odeslat e-mail** neotevře. Viz krok 4. Další informace naleznete v tématu: [Návod: Nastavení profilů odesílání dokladů](sales-how-setup-document-send-profiles.md) .
 
 ## <a name="see-also"></a>Viz také  
-[Práce s Dynamics NAV](ui-work-product.md)  
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
 [Návod: Prodejní faktury.](sales-how-invoice-sales.md)
 

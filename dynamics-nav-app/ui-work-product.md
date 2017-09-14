@@ -16,7 +16,7 @@ ms.lasthandoff: 07/19/2017
 
 ---
     
-# <a name="work-with-dynamics-nav"></a>Práce s Dynamics NAV
+# <a name="work-with-dynamics-nav"></a>Práce s [!INCLUDE[navnowlong](includes/navnowlong_md.md)]
 Při provádění obchodních úloh komunikujete s daty různými způsoby, jako například vytvářením záznamů a zadávání dat, tříděním a filtrování dat, psaním poznámek a předáváním dat do jiných aplikací.
 
 Můžete například upravit velikost a polohu libovolného okna, rozbalit šířku sloupců a zvýšit výšku hlaviček sloupců a změnit řazení dat ve sloupcích. A chcete-li použít vodorovnou posuvnou lištu pro zobrazení všech sloupců na stránce seznamu nebo na řádcích dokladu, uvidíte, že se zde nachází svislé podokno zablokování, které omezuje posun sloupců.

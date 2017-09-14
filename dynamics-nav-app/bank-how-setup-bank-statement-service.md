@@ -23,14 +23,14 @@ Můžete importovat elektronické bankovní výpisy z vaší banky pro rychlé n
 
 Pokud jste povolili bankovní službu, musíte propojit příslušný bankovní účet s bankovním účtem online, ze kterého pochází zdroj. Bankovní účty propojíte s online bankovními účty v různých scénářích:
 
-- Bankovní účet neexistuje v Dynamics NAV pro váš online bankovní účet. Proto vytvoříte bankovní účet tím, že ho propojíte s online bankovním účtem.
-- V Dynamics NAV existuje bankovní účet, který chcete propojit s online bankovním účtem.
+- Bankovní účet neexistuje v [!INCLUDE[navnow](includes/navnow_md.md)] pro váš online bankovní účet. Proto vytvoříte bankovní účet tím, že ho propojíte s online bankovním účtem.
+- V [!INCLUDE[navnow](includes/navnow_md.md)] existuje bankovní účet, který chcete propojit s online bankovním účtem.
 - Propojený bankovní účet musí být odpojen, protože chcete přestat používat bankovní službu pro daný účet.
-- Online bankovní účty se změnily a chcete aktualizovat informace o bankovních účtech v Dynamics NAV.
+- Online bankovní účty se změnily a chcete aktualizovat informace o bankovních účtech v [!INCLUDE[navnow](includes/navnow_md.md)].
 
 Když je bankovní služba aktivována, můžete nastavit bankovní účet, aby automaticky importoval nové bankovní výpisy do okna **Deník odsouhlasení plateb** každé dvě hodiny. Transakce plateb, které již byly zveřejněny jako zaúčtované a/nebo odsouhlasené v okně **Deník odsouhlasení plateb** nebudou importovány. Další informace naleznete v části “Povolit automatický import bankovních výpisů.“
 
-**Poznámka**: Používáte-li instalaci s asistencí nastavení společnosti, pak se některé kroky v následujících postupech automaticky provedou, když se dostanete k nastavení bankovního účtu společnosti. Další informace naleznete v tématu [Vítejte v Dynamics NAV](across-get-started.md).
+**Poznámka**: Používáte-li instalaci s asistencí nastavení společnosti, pak se některé kroky v následujících postupech automaticky provedou, když se dostanete k nastavení bankovního účtu společnosti. Další informace naleznete v tématu [Vítejte v [!INCLUDE[navnow](includes/navnow_md.md)]](across-get-started.md).
 
 ## <a name="to-enable-the-bank-feed-service"></a>Povolení bankovní služby 
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Bankovní účty** a pak vyberte související odkaz.
@@ -47,21 +47,21 @@ Bankovní služba bude aktivována, když propojíte bankovní účet s jeho sou
 3. V okně **Propojení online bankovního účtu** v podokně **Propojit účet** použijte funkci Hledat a vyhledejte banku, kde máte jeden nebo více online bankovních účtů.
 4. Vyberte název banky. Otevře se podokno **Přihlášení**.
 5. Zadejte uživatelské jméno a heslo, které používáte pro přihlášení do online banky a poté zvolte tlačítko **Další**.  
-6. Bankovní služba se připravuje k propojení prvního online bankovního účtu na určené bance s novým bankovním účtem v Dynamics NAV.
+6. Bankovní služba se připravuje k propojení prvního online bankovního účtu na určené bance s novým bankovním účtem v [!INCLUDE[navnow](includes/navnow_md.md)].
 
-    **Poznámka**: Máte-li v bance více online bankovních účtů, musíte pro tyto další online bankovní účty vytvořit v účtu Dynamics NAV další bankovní účty. Viz kroky 8 až 10.
+    **Poznámka**: Máte-li v bance více online bankovních účtů, musíte pro tyto další online bankovní účty vytvořit v účtu [!INCLUDE[navnow](includes/navnow_md.md)] další bankovní účty. Viz kroky 8 až 10.
 
     Po úspěšném dokončení procesu se název banky zobrazí v podokně **Mé účty** na kartě **Propojené**. Číslo v závorce udává, kolik online bankovních účtů bylo spojeno.
 7. Zvolte tlačítko **OK**.
 
     Pokud je propojen pouze jeden online bankovní účet, otevře se okno **Karta bankovního účtu** pro nový bankovní účet, který je předem vyplněn názvem online bankovního účtu. V tomto případě je dokončena úloha propojení bankovního účtu. Zbývá jen nastavení bankovního účtu. Další informace naleznete v tématu [Návod: Nastavení bankovních účtů](bank-how-setup-bank-accounts.md).
 
-    Pokud bylo propojeno více online bankovních účtů, otevře se okno **Propojení bankovních účtů** s uvedenými dalšími online bankovními účty, které ještě nejsou propojeny s bankovními účty v Dynamics NAV. V tomto případě, následujte další krok.  
+    Pokud bylo propojeno více online bankovních účtů, otevře se okno **Propojení bankovních účtů** s uvedenými dalšími online bankovními účty, které ještě nejsou propojeny s bankovními účty v [!INCLUDE[navnow](includes/navnow_md.md)]. V tomto případě, následujte další krok.  
 8. V okně **Propojení bankovního účtu** vyberte řádek pro online bankovní účet a poté zvolte akci **Odkaz na nový bankovní účet**.
 
     V okně **Karta bankovního účtu** se otevře nový bankovní účet, který je předem vyplněn názvem online bankovního účtu.
 
-    Pokud v Dynamics NAV již existuje bankovní účet, ke kterému chcete připojit další bankovní účet, postupujte podle následujícího kroku.  
+    Pokud v [!INCLUDE[navnow](includes/navnow_md.md)] již existuje bankovní účet, ke kterému chcete připojit další bankovní účet, postupujte podle následujícího kroku.  
 9. V okně **Připojení bankovního účtu** vyberte řádek pro online bankovní účet a poté zvolte akci **Propojit na existující bankovní účet**.
 10. V okně **Seznam bankovních účtů** vyberte bankovní účet, ke kterému ho chcete propojit a potom klepněte na tlačítko **OK**.
 
@@ -71,7 +71,7 @@ Bankovní služba bude aktivována, když propojíte bankovní účet s jeho sou
 3. Vyberte název banky. Otevře se podokno **Přihlášení**.
 4. Zadejte uživatelské jméno a heslo, které používáte pro přihlášení do online banky a poté zvolte tlačítko **Další**.
 
-    Bankovní služba se připravuje na propojení vašeho bankovního účtu v Dynamics NAV s příslušným online bankovním účtem.
+    Bankovní služba se připravuje na propojení vašeho bankovního účtu v [!INCLUDE[navnow](includes/navnow_md.md)] s příslušným online bankovním účtem.
 
     Po úspěšném dokončení procesu se název banky zobrazí v podokně **Mé účty** na kartě **Propojené**. Pokud má banka více než jeden bankovní účet, je propojen pouze bankovní účet, který jste vybrali v kroku 2.
 5. Zvolte tlačítko **OK**.
@@ -105,5 +105,5 @@ Každou hodinu bude nyní okno **Deník odsouhlasení plateb** naplněno novými
 [Nastavení bankovnictví](bank-setup-banking.md)  
 [Správa bankovních účtů](bank-manage-bank-accounts.md)  
 [Použití automatických plateb a odsouhlasení bankovních účtů](receivables-apply-payments-auto-reconcile-bank-accounts.md)  
-[Přizpůsobení Dynamics NAV pomocí rozšíření ](ui-extensions.md)
+[Přizpůsobení [!INCLUDE[navnow](includes/navnow_md.md)] pomocí rozšíření ](ui-extensions.md)
 

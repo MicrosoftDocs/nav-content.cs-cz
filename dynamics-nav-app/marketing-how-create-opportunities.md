@@ -42,5 +42,5 @@ Než budete moci vytvářet příležitosti, musíte nastavit cykly prodejních 
 ##<a name="see-also"></a>Viz také  
 [Správa prodeje](sales-manage-sales.md)  
 [Vytvoření a správa kontaktů](marketing-contacts.md)  
-[Práce s Dynamics NAV](ui-work-product.md)
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
 

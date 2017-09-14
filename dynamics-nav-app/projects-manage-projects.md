@@ -40,5 +40,5 @@ Následující tabulka popisuje sekvenci úlohy s odkazy na témata, která je p
 [Správa nákupu](purchasing-manage-purchasing.md)         
 [Správa prodeje](sales-manage-sales.md)    
 [Finance](finance-setup.md)  
-[Práce s Dynamics NAV](ui-work-product.md)  
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
 

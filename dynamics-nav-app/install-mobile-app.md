@@ -16,19 +16,19 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="get-dynamics-nav-on-my-mobile-device"></a>Získání Dynamics NAV na svém mobilním zařízení
-Získejte přístup k údajům Dynamics NAV z mobilního zařízení. Můžete procházet data vašeho podniku, používat funkce jako je odesílání do aplikace Excel nebo Office 365, prohlížení aktuálních grafů a KPI, e-mailových prodejních nabídek, faktur, fotografování a připojení snímků pomocí fotoaparátu. Chcete-li aplikaci stáhnout a začít, postupujte podle následujících pokynů.
+# <a name="get-dynamics-nav-on-my-mobile-device"></a>Získání [!INCLUDE[navnowlong](includes/navnowlong_md.md)] na svém mobilním zařízení
+Získejte přístup k údajům [!INCLUDE[navnow](includes/navnow_md.md)] z mobilního zařízení. Můžete procházet data vašeho podniku, používat funkce jako je odesílání do aplikace Excel nebo Office 365, prohlížení aktuálních grafů a KPI, e-mailových prodejních nabídek, faktur, fotografování a připojení snímků pomocí fotoaparátu. Chcete-li aplikaci stáhnout a začít, postupujte podle následujících pokynů.
 
 ## <a name="to-get-the-app-on-my-mobile-device"></a>Získání aplikace na svém mobilním zařízení
-1. Nainstalujte aplikaci Dynamics NAV na svém mobilním zařízení stažením aplikace z Obchodu Windows Store, App Store nebo Google Play.  
+1. Nainstalujte aplikaci [!INCLUDE[navnow](includes/navnow_md.md)] na svém mobilním zařízení stažením aplikace z Obchodu Windows Store, App Store nebo Google Play.  
 [![Windows Store](./media/install-mobile-app/windowsstore.png)](http://go.microsoft.com/fwlink/?LinkId=734848)
 [![App Store](./media/install-mobile-app/appstore.png)](http://go.microsoft.com/fwlink/?LinkId=734847) [![Google Play](./media/install-mobile-app/googleplay.png)](http://go.microsoft.com/fwlink/?LinkId=734849)  
 2. Spusťte aplikaci z mobilního zařízení.
-3. Zadejte uživatelské jméno a heslo, které jste vytvořili při registraci pro Dynamics NAV, a postupujte podle pokynů na obrazovce.
+3. Zadejte uživatelské jméno a heslo, které jste vytvořili při registraci pro [!INCLUDE[navnow](includes/navnow_md.md)], a postupujte podle pokynů na obrazovce.
 
-Nyní byste měli mít přístup ke službě Dynamics NAV a mít možnost zobrazit a upravit data.
+Nyní byste měli mít přístup ke službě [!INCLUDE[navnow](includes/navnow_md.md)] a mít možnost zobrazit a upravit data.
 
 ## <a name="see-also"></a>Viz také
-[Vítejte v Dynamics NAV](across-get-started.md)  
-[Práce s Dynamics NAV](ui-work-product.md)  
+[Vítejte v [!INCLUDE[navnow](includes/navnow_md.md)]](across-get-started.md)  
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
 

@@ -17,7 +17,7 @@ ms.lasthandoff: 07/19/2017
 ---
 
 # <a name="changing-basic-settings"></a>Změna základních nastavení
-V okně **Moje nastavení** můžete zobrazit a změnit základní nastavení pro webového klienta Dynamics NAV.  
+V okně **Moje nastavení** můžete zobrazit a změnit základní nastavení pro webového klienta [!INCLUDE[navnow](includes/navnow_md.md)].  
 
 ## <a name="role-center"></a>Centrum rolí
 Centrum rolí představuje domovskou stránku, počáteční stránku, která je určena pro potřeby role. Na domovské stránce máte přehled o obchodu. Vlevo se zobrazí navigační panel, který vám umožňuje snadný přístup k zákazníkům, prodejcům, položkám apod.
@@ -29,7 +29,7 @@ Na domovské stránce můžete také vytvořit seznam oblíbených zákazníků 
 Výchozím centrem rolí je **Zpracovatel prodejních objednávek**, ale můžete vybrat jiné centrum rolí, které bude lépe vyhovovat vašim potřebám. Další informace naleznete v tématu: [Návod: Změna Centra rolí](ui-change-role.md).
 
 ## <a name="company"></a>Společnost
-Společnost funguje jako kontejner pro data v Dynamics NAV. V databázi může být více společností, ale vždy může být vybrána jen jedna.
+Společnost funguje jako kontejner pro data v [!INCLUDE[navnow](includes/navnow_md.md)]. V databázi může být více společností, ale vždy může být vybrána jen jedna.
 
 Společnost CRONUS CZ s.r.o je výchozí společností. Obsahuje pouze ukázkové údaje.   
 
@@ -41,12 +41,12 @@ Výchozí pracovní datum je obvykle dnešní datum. Možná budete muset dočas
 **Důležité**: Pracovní datum se mění pouze do doby, než uzavřete společnost nebo do doby, kdy se datum změní. Pokud otevřete jinou společnost nebo otevřete stejnou společnost další den a budete muset použít jiný pracovní den, pak budete muset pracovní datum nastavit znovu. 
 
 ## <a name="region-and-language"></a>Oblast a jazyk
-Zde můžete změnit oblast, jazyk a časové pásmo. Místní nastavení určuje formát dat, jako jsou data, časy, čísla, měny atd. Časové pásmo určuje časové pásmo, které se použije na data a časová data, která zobrazujete nebo zadáváte v Dynamics NAV. Aby se projevila změna musíte se odhlásit a znovu přihlásit.
+Zde můžete změnit oblast, jazyk a časové pásmo. Místní nastavení určuje formát dat, jako jsou data, časy, čísla, měny atd. Časové pásmo určuje časové pásmo, které se použije na data a časová data, která zobrazujete nebo zadáváte v [!INCLUDE[navnow](includes/navnow_md.md)]. Aby se projevila změna musíte se odhlásit a znovu přihlásit.
 
 ## <a name="confirmation-dialogs"></a>Potvrzovací dialogové okno
 Pokud chcete zadat nějaké další kontroly pro účtování dokladu, použijte v této části možnosti.  Tyto možnosti jsou standardně kontrolovány, ale abyste se vyhnuli určitým upozorněním a zprávám, můžete zaškrtnutí políček zrušit.
 
 ## <a name="see-also"></a>Viz také
-[Práce s Dynamics NAV](ui-work-product.md)  
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
 [Návod: Změna Centra rolí](ui-change-role.md)  
 

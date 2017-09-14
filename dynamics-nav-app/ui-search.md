@@ -23,5 +23,5 @@ Když začnete psát znaky, rozevírací seznam zobrazuje názvy stránek, kter�
 **Poznámka**: **Hledat stránku nebo sestavu** neprohledává data, například jména zákazníků, adresy nebo transakce. Chcete-li vyhledat data, můžete použít vyhledávání spojené se stránkou. To je znázorněno symbolem lupy umístěném v pravém horním rohu stránky. Další informace o používání tohoto typu vyhledávání naleznete v části [Zadávání kritérií ve filtrech](ui-enter-criteria-filters.md).
 
 ## <a name="see-also"></a>Viz také
-[Pracujte s Dynamics NAV](ui-work-product.md)
+[Pracujte s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
 

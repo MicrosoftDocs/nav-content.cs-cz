@@ -66,7 +66,7 @@ Položky platby jsou účtovány v hlavní knize, bankách a účtů zákazník�
 
 Pokud platba v bance není zobrazena v řádku **Registrace plateb**, může to být proto, že související dokument nebyl dosud zaúčtován. V takovém případě můžete pomocí funkce vyhledávání, rychle vyhledat doklad a zaúčtovat jej, aby zpracoval platbu. Další informace naleznete v tématu Návod: Nalezení nezaplacených dokladů během ručního odsouhlasení plateb zákazníků.
 
-Pokud není platba v bance reprezentována žádným dokumentem v Dynamics NAV, můžete otevřít předem vyplněný finanční deník z okna **Registrace plateb** a zaúčtovat platbu přímo na vyrovnávací účet bez použití platby k dokladu. Případně možná budete chtít zaznamenat platbu v deníku, dokud nebude původní platba vyřešena. Další informace naleznete v tématu „Zaznamenání nebo zaúčtování platby bez souvisejícího dokumentu.“
+Pokud není platba v bance reprezentována žádným dokumentem v [!INCLUDE[navnow](includes/navnow_md.md)], můžete otevřít předem vyplněný finanční deník z okna **Registrace plateb** a zaúčtovat platbu přímo na vyrovnávací účet bez použití platby k dokladu. Případně možná budete chtít zaznamenat platbu v deníku, dokud nebude původní platba vyřešena. Další informace naleznete v tématu „Zaznamenání nebo zaúčtování platby bez souvisejícího dokumentu.“
 
 ## <a name="to-customer-payments-with-discounts-manually"></a>Platby zákazníků se slevami ručně
 Pokud máte odsouhlasenu platební slevu s vaším zákazníkem, může být částka platby nižší než částky faktury, pokud k platbě dojde před dohodnutým datem slevy.
@@ -153,10 +153,10 @@ Funkce vyhledávání vyhledává doklady, které nejsou na základě zadaných 
 
 Pokud jeden nebo více dokladů odpovídá kritériím, otevře se okno **Výsledek hledání dokladu**, čímž se zobrazí řádky, které tyto doklady představují. Každý řádek obsahuje číslo dokladu, popis a částku, takže můžete snadno najít konkrétní doklad, například na základě informací ve vašem bankovním výpisu.
 
-Pokud není platba v bance reprezentována žádným dokladem v Dynamics NAV, můžete otevřít předem vyplněný finanční deník z okna **Registrace plateb** a zaúčtovat platbu přímo na vyrovnávací účet bez použití platby k dokladu. Případně možná budete chtít zaznamenat platbu v deníku, dokud nebude původní platba vyřešena.
+Pokud není platba v bance reprezentována žádným dokladem v [!INCLUDE[navnow](includes/navnow_md.md)], můžete otevřít předem vyplněný finanční deník z okna **Registrace plateb** a zaúčtovat platbu přímo na vyrovnávací účet bez použití platby k dokladu. Případně možná budete chtít zaznamenat platbu v deníku, dokud nebude původní platba vyřešena.
 
 ##<a name="to-record-or-post-a-payment-without-a-related-document"></a>Zaznamenání nebo zaúčtování platby bez souvisejícího dokladu
-Pokud není platba v bance reprezentována žádným dokladem Dynamics NAV, můžete otevřít předem vyplněný řádek finančního deníku z okna **Registrace plateb** a zaúčtovat platbu přímo na vyrovnávací účet bez použití platby do dokladu. Případně můžete zaznamenat platbu v deníku, dokud není objasněna původní platba.
+Pokud není platba v bance reprezentována žádným dokladem [!INCLUDE[navnow](includes/navnow_md.md)], můžete otevřít předem vyplněný řádek finančního deníku z okna **Registrace plateb** a zaúčtovat platbu přímo na vyrovnávací účet bez použití platby do dokladu. Případně můžete zaznamenat platbu v deníku, dokud není objasněna původní platba.
 
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Registrace plateb** a pak vyberte související odkaz.  
 Proces zaznamenávání nedokumentované platby.  

@@ -62,5 +62,5 @@ Zobrazí se dialogové okno **Potvrzení účtování a odeslání** s uvedením
 [Správa prodeje](sales-manage-sales.md)  
 [Nastavení prodeje](sales-setup-sales.md)  
 [Návod: Posílání dokumentů pomocí Emailu](ui-how-send-documents-email.md)  
-[Práce s Dynamics NAV](ui-work-product.md)
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
 

@@ -116,5 +116,5 @@ Pokud jste nevybrali zaškrtávací políčko **Odpisy od zúčt.data DM**, maje
 [Správa DM](fa-manage.md)  
 [Nastavení DM](fa-setup.md)  
 [Finance](finance-setup.md)  
-[Vítejte v Dynamics NAV](across-get-started.md)
+[Vítejte v [!INCLUDE[navnow](includes/navnow_md.md)]](across-get-started.md)
 

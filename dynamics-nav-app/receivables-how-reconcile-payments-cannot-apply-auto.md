@@ -17,7 +17,7 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="how-to-reconcile-payments-that-cannot-be-applied-automatically"></a>Návod: Odsouhlasení plateb, které nelze vyrovnat automaticky
-Někdy budete muset zpracovávat platby na váš bankovní účet, které nelze vyrovnat na souvisejícího otevřeného zákazníka, dodavatele nebo položku knihy bankovního učtu. Důvodem může být skutečnost, že v programu Dynamics NAV neexistuje žádný doklad, který by umožňoval vyrovnat platbu nebo žádný související dokument v Dynamics NAV nemá jinou částku než částku transakce například kvůli kurzu měny. V okně **Deník odsouhlasení plateb** se všechny transakce částek za platby, které nejsou vyrovnány, objeví v poli **Rozdíl** včetně částek, které nelze vyrovnat z důvodů, které jsou uvedené výše.
+Někdy budete muset zpracovávat platby na váš bankovní účet, které nelze vyrovnat na souvisejícího otevřeného zákazníka, dodavatele nebo položku knihy bankovního učtu. Důvodem může být skutečnost, že v programu [!INCLUDE[navnow](includes/navnow_md.md)] neexistuje žádný doklad, který by umožňoval vyrovnat platbu nebo žádný související dokument v [!INCLUDE[navnow](includes/navnow_md.md)] nemá jinou částku než částku transakce například kvůli kurzu měny. V okně **Deník odsouhlasení plateb** se všechny transakce částek za platby, které nejsou vyrovnány, objeví v poli **Rozdíl** včetně částek, které nelze vyrovnat z důvodů, které jsou uvedené výše.
 
 Platby, které nelze vyrovnat se mohou objevit na řádcích deníku odsouhlasení plateb následujícími různými způsoby:
 

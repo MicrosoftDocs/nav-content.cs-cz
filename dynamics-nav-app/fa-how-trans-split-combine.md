@@ -72,5 +72,5 @@ Můžete kombinovat více dlouhodobých majetků do jednoho dlouhodobého majetk
 [Správa dlouhodobého majetku](fa-manage.md)  
 [Nastavení dlouhodobého majetku](fa-setup.md)  
 [Finance](finance-setup.md)  
-[Vítejte v Dynamics NAV](across-get-started.md)
+[Vítejte v [!INCLUDE[navnow](includes/navnow_md.md)]](across-get-started.md)
 

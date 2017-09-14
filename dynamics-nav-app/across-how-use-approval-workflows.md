@@ -19,7 +19,7 @@ ms.lasthandoff: 06/26/2017
 # <a name="how-to-use-approval-workflows"></a>Návod: Použití schvalovacího workflow
 Pokud musí být záznam, například nákupní doklad nebo zákaznická karta schválen někým ve vaší organizaci, odešlete požadavek na schválení jako součást workflow. Na základě nastavení workflow je příslušná schvalující osoba informována o tom, že záznam vyžaduje schválení.
 
-Základní schvalovací workflow pro nákupní doklady, prodejní doklady, platební deníky, zákaznické karty a karty položek jsou připraveny k zahájení jako asistenční nastavení. Další informace naleznete v tématu [Vítejte v Dynamics NAV](across-get-started.md).
+Základní schvalovací workflow pro nákupní doklady, prodejní doklady, platební deníky, zákaznické karty a karty položek jsou připraveny k zahájení jako asistenční nastavení. Další informace naleznete v tématu [Vítejte v [!INCLUDE[navnow](includes/navnow_md.md)]](across-get-started.md).
 
 ## <a name="to-request-approval-of-a-record"></a>Požadavek na schválení záznamu
 Následující úloha je prováděna schvalovacím uživatelem.
@@ -90,5 +90,5 @@ Funkce Odeslání upozornění o schválení kontroluje všechny otevřené žá
 [Správa prodeje](sales-manage-sales.md)    
 [Došlé doklady](across-income-documents.md)  
 [Správa nákupu](purchasing-manage-purchasing.md)  
-[Práce s Dynamics NAV](ui-work-product.md)
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
 

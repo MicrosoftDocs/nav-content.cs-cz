@@ -72,5 +72,5 @@ Zboží v okně **Zboží** je filtrováno podle specifikované hodnoty atributu
 [Návod: Kategorizace zboží](inventory-how-categorize-items.md)    
 [Návod: Registrovat nové produkty](inventory-how-register-new-products.md)  
 [Správa skladů](inventory-manage-inventory.md)  
-[Práce s Dynamics NAV](ui-work-product.md)
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
 

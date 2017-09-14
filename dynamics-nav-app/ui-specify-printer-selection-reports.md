@@ -36,5 +36,5 @@ Následující tabulka popisuje kombinaci hodnot určených pro nastavení výb�
 |Vytiskněte konkrétní sestavu na konkrétní tiskárně pro konkrétního uživatele|Určete hodnoty ve všech třech polích.|
 
 ## <a name="see-also"></a>Viz také
-[Práce s Dynamics NAV](ui-work-product.md)
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
 

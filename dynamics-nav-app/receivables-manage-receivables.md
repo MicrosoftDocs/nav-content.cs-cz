@@ -19,7 +19,7 @@ ms.lasthandoff: 06/26/2017
 # <a name="manage-receivables"></a>Správa pohledávek
 Centrálním úkolem ve Správě pohledávek je uplatňovat příchozí platby na související položky zákazníků nebo prodejců, a tím uzavřít související prodejní faktury nebo nákupní dobropisy jako zaplacené. Po vyrovnání všech plateb můžete odsouhlasit bankovní účet.  
 
-Tuto úlohu můžete provést v okně **Deník vyrovnávání plateb** importováním bankovního výpisu nebo dávky, abyste mohli rychle registrovat platby v Dynamics NAV. Funkce automatického vyrovnání platby na související položky pro otevřené položky zákazníka nebo dodavatele založené na datových shodách mezi textem platby a informacemi o vstupu. Před zveřejněním deníku můžete zkontrolovat a měnit automatické vyrovnání. Můžete zvolit uzavření jakékoli otevřené položky bankovního účtu související s vyrovnanými položkami hlavní knihy, když se účtujete deník. To znamená, že bankovní účet je automaticky odsouhlasený při vyrovnání všech plateb.
+Tuto úlohu můžete provést v okně **Deník vyrovnávání plateb** importováním bankovního výpisu nebo dávky, abyste mohli rychle registrovat platby v [!INCLUDE[navnow](includes/navnow_md.md)]. Funkce automatického vyrovnání platby na související položky pro otevřené položky zákazníka nebo dodavatele založené na datových shodách mezi textem platby a informacemi o vstupu. Před zveřejněním deníku můžete zkontrolovat a měnit automatické vyrovnání. Můžete zvolit uzavření jakékoli otevřené položky bankovního účtu související s vyrovnanými položkami hlavní knihy, když se účtujete deník. To znamená, že bankovní účet je automaticky odsouhlasený při vyrovnání všech plateb.
 
 **Poznámka**:  Můžete odsouhlasit bankovní účty jako samostatný úkol v okně **Odsouhlasení bankovního účtu**, které taktéž podporuje kontrolu položek hlavní knihy.  Další informace naleznete v tématu [Návod: Odsouhlasení Bankovních účtů samostatně](bank-how-reconcile-bank-accounts-separately.md).
 
@@ -41,6 +41,6 @@ Následující tabulka popisuje postup úkolů s odkazy na témata, která je po
 ## <a name="see-also"></a>Viz také
 [Správa prodeje](sales-manage-sales.md)  
 [Správa závazků](payables-manage-payables.md)  
-[Práce s Dynamics NAV](ui-work-product.md)  
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
 [Napříč obchodními oblastmi](ui-across-business-areas.md)
 

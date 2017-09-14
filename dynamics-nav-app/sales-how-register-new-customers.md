@@ -54,5 +54,5 @@ Chcete-li tuto kartu použít jako šablonu pro vytváření nových zákaznick�
 ## <a name="see-also"></a>Viz také  
 [Správa prodeje](sales-manage-sales.md)    
 [Nastavení prodeje](sales-setup-sales.md)    
-[Práce s Dynamics NAV](ui-work-product.md)
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
 

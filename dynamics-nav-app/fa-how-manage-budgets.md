@@ -58,5 +58,5 @@ Pro výpočet budoucího odpisu můžete použít sestavu **Dlouhodobý majetek 
 [Správa DM](fa-manage.md)  
 [Nastavení DM](fa-setup.md)  
 [Finance](finance-setup.md)  
-[Vítejte v Dynamics NAV](across-get-started.md)
+[Vítejte v [!INCLUDE[navnow](includes/navnow_md.md)]](across-get-started.md)
 

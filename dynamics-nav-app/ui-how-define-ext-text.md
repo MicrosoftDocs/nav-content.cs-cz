@@ -31,6 +31,6 @@ Můžete rozšířit standardní text pro položky přidáním dalších řádk�
 8. Zavřete okno.
 
 ## <a name="see-also"></a>Viz také
-[Práce s Dynamics NAV](ui-work-product.md)
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
 
 

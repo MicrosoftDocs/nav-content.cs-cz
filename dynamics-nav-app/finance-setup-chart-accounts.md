@@ -17,7 +17,7 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="set-up-or-change-the-chart-of-accounts"></a>Nastavení nebo změna účtové osnovy
-Účtová osnova ukazuje účet hlavní knihy, který ukládá vaše finanční data. Dynamics NAV zahrnuje standardní účtovou osnovu, která je připravena podpořit váš obchod.
+Účtová osnova ukazuje účet hlavní knihy, který ukládá vaše finanční data. [!INCLUDE[navnow](includes/navnow_md.md)] zahrnuje standardní účtovou osnovu, která je připravena podpořit váš obchod.
 Avšak můžete měnit výchozí účty a přidávat nové.  
 
 ## <a name="adding-or-changing-accounts"></a>Přidání nebo změna účtů
@@ -28,7 +28,7 @@ Z účtové osnovy můžete otevřít každý finanční účet a přidat nebo z
 - Pole **Povolit odstranění finančního účtu před** musí být nastaveno v okně **Nastavení financí** a účet nesmí mít položky toho data či po něm.  
 - Pokud pole **Kontrolovat použití fin. účtu** v okně **Nastavení financí** je vybráno, pak účet nesmí být využíván v žádné z účtovacích skupin nebo účtovacího nastavení.  
 
-Dynamics NAV bude předcházet tomu, abyste si vymazali účet hlavní knihy, který ukládá potřebné data v účtové osnově.  
+[!INCLUDE[navnow](includes/navnow_md.md)] bude předcházet tomu, abyste si vymazali účet hlavní knihy, který ukládá potřebné data v účtové osnově.  
 
 ##<a name="see-also"></a>Viz také  
 [Hlavní kniha a Účetní osnova](finance-setup-general-ledger.md)  

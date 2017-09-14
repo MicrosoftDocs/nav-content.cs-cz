@@ -23,7 +23,7 @@ Musíte použít nákupní objednávky, pokud váš nákupní proces vyžaduje, 
 
 Můžete mít nákupní faktury vytvořeny automaticky použitím služby OCR (optické rozpoznávání znaků) ke konvertování faktury PDF od vašich dodavatelů na elektronické dokumenty, které pak budou pracovním postupem převedeny na nákupní faktury. Chcete-li používat tuto funkci, musíte nejprve zaregistrovat službu OCR a potom provést různá nastavení. Další informace naleznete v tématu: [Návod: Proces příchozích dokumentů](across-process-income-documents.md).      
 
-**Poznámka**: V Dynamics NAV se produkt označuje výrazem "zboží".
+**Poznámka**: V [!INCLUDE[navnow](includes/navnow_md.md)] se produkt označuje výrazem "zboží".
 
 Produkty mohou být jak skladové položky, tak služby. Další informace naleznete v tématu: [Návod: Zaregistrovat nové produkty](inventory-how-register-new-products.md).
 
@@ -42,6 +42,6 @@ Následující tabulka popisuje sekvenci úloh s odkazy na témata, které je po
 ## <a name="see-also"></a>Viz také
 [Nastavení nákupu](purchasing-setup-purchasing.md)  
 [Správa závazků](payables-manage-payables.md)    
-[Práce s Dynamics NAV](ui-work-product.md)  
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
 [Skrz obchodní oblasti](ui-across-business-areas.md)
 

@@ -40,5 +40,5 @@ Chcete-li vyhledat zboží podle vlastností, můžete přiřadit atributy ke zb
 [Návod: Práce s atributy zboží.](inventory-how-work-item-attributes.md)  
 [Návod: Registrovat nové produkty](inventory-how-register-new-products.md)  
 [Správa skladů](inventory-manage-inventory.md)  
-[Práce s Dynamics NAV](ui-work-product.md)
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
 

@@ -44,7 +44,7 @@ Pokud zvolíte možnost **Dokončit**, vyplní se pole **Hodnota knihy** v okně
 ## <a name="to-set-up-a-component-list-for-a-main-asset"></a>Nastavení seznamu komponent pro hlavní majetek  
 Můžete seskupit váš dlouhodobý majetek a jejich komponenty do hlavního majetku. Například můžete mít výrobní stroj, který se skládá z mnoha částí, které chcete tímto způsobem seskupit.  
 
-Jak základní aktivum, tak i všechny její komponenty musí být nastaveny jako individuální karty DM. Po nastavení seznamu komponent Dynamics NAV se automaticky vyplní pole **Hlavní majetek/Komponenty** a **Komponenty hlavního majetku** na kartách s dlouhodobým majetkem.
+Jak základní aktivum, tak i všechny její komponenty musí být nastaveny jako individuální karty DM. Po nastavení seznamu komponent [!INCLUDE[navnow](includes/navnow_md.md)] se automaticky vyplní pole **Hlavní majetek/Komponenty** a **Komponenty hlavního majetku** na kartách s dlouhodobým majetkem.
 
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Dlouhodobý majetek** a pak vyberte související odkaz.
 2. Vyberte dlouhodobý majetek, který je hlavním aktivem a poté vyberte akci **Hlavní aktiva komponent**.
@@ -64,7 +64,7 @@ Následující postup popisuje, jak pořídit dlouhodobý majetek ručně vytvo�
 3. Vyplňte pole podle potřeby.
 4. Zvolte akci **Zaúčtovat**.  
 
-**Tip** : Pokud vyplníte pole **Číslo pojištění** ve finančním deníku DM při zaúčtování pořizovací ceny, Dynamics NAV rovněž zaúčtuje pořizovací cenu DM do knihy pojištění. Další informace naleznete v tématu [Návod: Pojištění DM](fa-how-insure.md).
+**Tip** : Pokud vyplníte pole **Číslo pojištění** ve finančním deníku DM při zaúčtování pořizovací ceny, [!INCLUDE[navnow](includes/navnow_md.md)] rovněž zaúčtuje pořizovací cenu DM do knihy pojištění. Další informace naleznete v tématu [Návod: Pojištění DM](fa-how-insure.md).
 
 ## <a name="to-cancel-an-acquisition-cost-posting-for-one-fixed-asset"></a>Zrušení zaúčtování pořizovací ceny pro jeden dlouhodobý majetek
 Pokud se při přidání pořizovací ceny vyskytne chyba, můžete záznam odebrat pomocí dávkové úlohy **Storno položek DM** a poté odeslat správnou položku pořízení. Chybné položky jsou přeneseny do okna **Chybné položky DM**.
@@ -94,5 +94,5 @@ Můžete zaúčtovat hodnotu při vyřazení společně s pořizovací cenou z f
 [Správa DM](fa-manage.md)  
 [Nastavení DM](fa-setup.md)  
 [Finance](finance-setup.md)  
-[Vítejte v Dynamics NAV](across-get-started.md)
+[Vítejte v [!INCLUDE[navnow](includes/navnow_md.md)]](across-get-started.md)
 

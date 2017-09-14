@@ -17,7 +17,7 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="how-to-set-up-bank-accounts"></a>Návod: Nastavení bankovních účtů
-Použijte bankovní účty v Dynamics NAV, které slouží ke sledování vašich bankovních transakcí. Účty mohou být denominovány v místní měně nebo v cizí měně. Po nastavení bankovních účtů můžete použít také možnost kontroly tisku.
+Použijte bankovní účty v [!INCLUDE[navnow](includes/navnow_md.md)], které slouží ke sledování vašich bankovních transakcí. Účty mohou být denominovány v místní měně nebo v cizí měně. Po nastavení bankovních účtů můžete použít také možnost kontroly tisku.
 
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Bankovní účty** a pak vyberte související odkaz. 
 2. V okně **Bankovní účty** zvolte akci **Nový**.

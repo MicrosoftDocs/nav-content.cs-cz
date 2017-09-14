@@ -73,5 +73,5 @@ Kromě ceny uvedené na kartě zdrojů můžete nastavit alternativní ceny pro 
 [Finance](finance-setup.md)  
 [Správa nákupu](purchasing-manage-purchasing.md)         
 [Správa prodeje](sales-manage-sales.md)      
-[Práce s Dynamics NAV](ui-work-product.md)  
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
 

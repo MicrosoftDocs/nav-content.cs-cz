@@ -16,7 +16,7 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="the-paypal-payments-standard-extension-to-dynamics-nav"></a>Rozšíření: Platební standard PayPal pro Dynamics NAV
+# <a name="the-paypal-payments-standard-extension-to-dynamics-nav"></a>Rozšíření: Platební standard PayPal pro [!INCLUDE[navnowlong](includes/navnowlong_md.md)]
 Zákazníci neustále vyžadují vyšší zákaznický servis jak z hlediska kvality výrobků, tak z hlediska možností doručení a platby. Platební standard PayPal Vám pomůže zvýšit vaše služby zákazníkům.
 
 Jako alternativu k výběru plateb bankovním převodem nebo kreditními kartami můžete svým zákazníkům nabídnout, že vám budou platit prostřednictvím účtu PayPal. Pokud posíláte prodejní fakturu nebo prodejní objednávku emailem, je v jeho těle zakomponován odkaz na PayPal platbu a také připojený PDF dokument. Pokud zákazník zvolí odkaz, objeví se stránka pro služby PayPal s platebními údaji. Zákazník může zaplatit fakturu jako jakoukoli jinou PayPal platbu.
@@ -34,7 +34,7 @@ Platební standard PayPal přináší tyto výhody:
 Další informace naleznete v tématu [Návod: Povolení zákaznických plateb pomocí PayPalu](sales-how-enable-customer-payments-paypal.md)
 
 ## <a name="see-also"></a>Viz také  
-[Přizpůsobení Dynamics NAV pomocí rozšíření](ui-extensions.md)  
+[Přizpůsobení [!INCLUDE[navnow](includes/navnow_md.md)] pomocí rozšíření](ui-extensions.md)  
 [Nastavení prodeje](sales-setup-sales.md)  
-[Práce s Dynamics NAV](ui-work-product.md)
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
 

@@ -83,5 +83,5 @@ V přehledu **Údržba - detaily** můžete zobrazit nebo vytisknout položky o 
 [Správa DM](fa-manage.md)  
 [Nastavení DM](fa-setup.md)  
 [Finance](finance-setup.md)  
-[Vítejte v Dynamics NAV](across-get-started.md)
+[Vítejte v [!INCLUDE[navnow](includes/navnow_md.md)]](across-get-started.md)
 

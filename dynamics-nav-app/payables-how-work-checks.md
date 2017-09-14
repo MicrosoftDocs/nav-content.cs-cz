@@ -17,7 +17,7 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="how-to-work-with-checks"></a>Návod: Práce se šeky
-Dynamics NAV podporuje elektronické a manuální vydávání šeků. Obě metody používají deník plateb k vystavení šeků dodavatelům. Můžete také anulovat šeky a zobrazit položky šeku.
+[!INCLUDE[navnow](includes/navnow_md.md)] podporuje elektronické a manuální vydávání šeků. Obě metody používají deník plateb k vystavení šeků dodavatelům. Můžete také anulovat šeky a zobrazit položky šeku.
 
 Proces vydávání šeků navrhuje platby, vytváří položky a tiskne počítačové šeky.
 
@@ -30,7 +30,7 @@ Tiskárna musí být správně nastavena pomocí šekových formulářů a musí
 
  - **Počítačový šek**: Tuto volbu vyberte, pokud chcete vytisknout šek částky na řádku deníku plateb. Musíte vytisknout kontroly před tím, než budete moci zaúčtovat řádky žurnálu. Můžete zvolit pouze možnost **Počítačový šek**, pokud je nastavena hodnota **Protiúčet Typ účtu** nebo **Typ účtu** je **Bankovní účet**.
 
- - **Ruční kontrola**: Tuto volbu vyberte, pokud jste ručně vytvořili šek a chcete vytvořit odpovídající záznam pro tuto částku. Pomocí této možnosti nelze vytisknout šeky z Dynamics NAV. Můžete zvolit pouze možnost **Počítačový šek**, pokud je nastavena hodnota **Protiúčet Typ účtu** nebo **Typ účtu** je **Bankovní účet**.
+ - **Ruční kontrola**: Tuto volbu vyberte, pokud jste ručně vytvořili šek a chcete vytvořit odpovídající záznam pro tuto částku. Pomocí této možnosti nelze vytisknout šeky z [!INCLUDE[navnow](includes/navnow_md.md)]. Můžete zvolit pouze možnost **Počítačový šek**, pokud je nastavena hodnota **Protiúčet Typ účtu** nebo **Typ účtu** je **Bankovní účet**.
 
     **Poznámka**: Musíte vytisknout počítačové šeky před tím, než budete moci zaúčtovat řádky žurnálu.
 4. V případě kontroly počítače zvolte možnost **Tisk šeku**.

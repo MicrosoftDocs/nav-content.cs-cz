@@ -41,5 +41,5 @@ K účtování výdajů za údržbu musíte nejprve zvolit číslo účtu v okn�
 [Nastavení dlouhodobého majetku](fa-setup.md)  
 [Správa dlouhodobého majetku](fa-manage.md)  
 [Finance](finance-setup.md)  
-[Vítejte v Dynamics NAV](across-get-started.md)
+[Vítejte v [!INCLUDE[navnow](includes/navnow_md.md)]](across-get-started.md)
 

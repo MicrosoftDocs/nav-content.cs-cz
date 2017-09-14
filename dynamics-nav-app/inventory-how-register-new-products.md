@@ -20,7 +20,7 @@ ms.lasthandoff: 06/26/2017
 
 Výrobky jsou základem vašeho podnikání, zboží nebo služeb, se kterými obchodujete. Každý produkt musí být registrován jako karta zboží.
 
-**Poznámka**: V Dynamics NAV se produkt označuje výrazem "zboží".
+**Poznámka**: V [!INCLUDE[navnow](includes/navnow_md.md)] se produkt označuje výrazem "zboží".
 
 Karty zboží obsahují informace, které jsou nutné k nákupu, skladování, prodeji, doručení a pro účet produktů.
 

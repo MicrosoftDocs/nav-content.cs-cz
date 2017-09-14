@@ -20,7 +20,7 @@ ms.lasthandoff: 06/26/2017
 Ke správě pokrytí pojištění dlouhodobého majetku musíte nejprve nastavit obecné informace o pojištění a kartě pojištění dle určitých zásad.
 
 ## <a name="to-set-up-general-insurance-information"></a>Nastavení obecných informací o pojištění  
-K používání pojišťovacích funkcí v Dynamics NAV musíte nastavit obecné informace o pojištění.  
+K používání pojišťovacích funkcí v [!INCLUDE[navnow](includes/navnow_md.md)] musíte nastavit obecné informace o pojištění.  
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zvolte **Nastavení DM**, a zvolte související odkaz.  
 2. Vyplňte pole dle potřeby. Vyberte pole k zobrazení krátkého popisu pole nebo odkaz pro více informací.  
 
@@ -36,7 +36,7 @@ Na kartě pojištění můžete shromažďovat informace o každé pojišťovac�
 3. Vyplňte pole dle potřeby.
 
 ## <a name="to-set-up-insurance-journal-templates"></a>Nastavení šablon deníku pojištění  
-Dynamics NAV automaticky vytvoří šablonu deníku pojištění při prvním otevření okna **Deníky pojištění**, ale můžete nastavit i další šablony deníku pojištění. Pro další informace se podívejte na [Práce s finančními deníky](ui-work-general-journals.md).  
+[!INCLUDE[navnow](includes/navnow_md.md)] automaticky vytvoří šablonu deníku pojištění při prvním otevření okna **Deníky pojištění**, ale můžete nastavit i další šablony deníku pojištění. Pro další informace se podívejte na [Práce s finančními deníky](ui-work-general-journals.md).  
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zvolte **Šablony deníku pojištění** a zvolte související odkaz.  
 2. Vyplňte pole dle potřeby.
 
@@ -52,5 +52,5 @@ Můžete nastavit dávky v šabloně deníku pojištění. Hodnoty v dávce den�
 [Nastavení dlouhodobého majetku](fa-setup.md)  
 [Správa dlouhodobého majetku](fa-manage.md)  
 [Finance](finance-setup.md)  
-[Vítejte v Dynamics NAV](across-get-started.md)
+[Vítejte v [!INCLUDE[navnow](includes/navnow_md.md)]](across-get-started.md)
 

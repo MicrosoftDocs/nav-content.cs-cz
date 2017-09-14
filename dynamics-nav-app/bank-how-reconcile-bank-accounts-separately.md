@@ -17,7 +17,7 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="how-to-reconcile-bank-accounts-separately"></a>Návod: Separátní odsouhlasení bankovních účtů
-Chcete-li odsouhlasit bankovní účty v systému Dynamics NAV s výpisy přijatými z banky, musíte vyplnit řádky v okně **Odsouhlasení bank. účtu**. 
+Chcete-li odsouhlasit bankovní účty v systému [!INCLUDE[navnow](includes/navnow_md.md)] s výpisy přijatými z banky, musíte vyplnit řádky v okně **Odsouhlasení bank. účtu**. 
 
 **Poznámka**: Bankovní účty můžete také odsouhlasit v okně **Deník odsouhlasení plateb**. Veškeré položky bankovních účtů, které se vztahují k položkám účtů zákazníků nebo dodavatelů budou uzavřeny, když zvolíte akci **Zaúčtování plateb a odsouhlasení bankovních účtů**. To znamená, že bankovní účet je automaticky odsouhlasen pro platby, které zaúčtujete do deníku. Další informace naleznete v tématu [Návod: Odsouhlasení plateb pomocí automatického vyrovnání](receivables-how-reconcile-payments-auto-application.md).
 
@@ -74,7 +74,7 @@ Všechny řádky bankovního výpisu a položky bankovních účtů, které lze 
 5. Chcete-li odstranit shodu, vyberte řádek výpisu banky a potom zvolte akci **Odebrat shodu**.
 
 ## <a name="to-create-missing-ledger-entries-to-match-bank-transactions-with"></a>Vytvoření chybějící položky knihy tak, aby odpovídaly bankovním transakcím
-Někdy bankovní výpis obsahuje částky za úroky nebo poplatky. Takové bankovní transakce nemohou být shodné, protože v Dynamics NAV neexistují žádné související položky knihy. Musíte zaúčtovat řádek deníku pro každou transakci a vytvořit příslušnou položku knihy, kterou lze porovnat.
+Někdy bankovní výpis obsahuje částky za úroky nebo poplatky. Takové bankovní transakce nemohou být shodné, protože v [!INCLUDE[navnow](includes/navnow_md.md)] neexistují žádné související položky knihy. Musíte zaúčtovat řádek deníku pro každou transakci a vytvořit příslušnou položku knihy, kterou lze porovnat.
 
 1. V okně **Odsouhlasení bank. účtu** zvolte akci **Přenos do fin. deníku**.  
 2. V okně **Přev.odsouhl.bank.účtu do fin.den. zadejte, který finanční** deník použijete a potom klepněte na tlačítko **OK**.

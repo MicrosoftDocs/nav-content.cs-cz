@@ -19,7 +19,7 @@ ms.lasthandoff: 06/26/2017
 # <a name="how-to-export-payments-to-a-bank-file"></a>Návod: Exportování plateb do bankovního souboru
 Když jste připraveni provést platby dodavateli pomocí okna **Deníky plateb**, můžete exportovat soubor s informacemi o platbách na řádcích deníku. Pak můžete soubor nahrát do elektronické banky a zpracovat příslušné převody peněz.
 
-V generické verzi služby Dynamics NAV je nastaven globální poskytovatel služeb pro převod bankovních dat do libovolného formátu souborů, který vaše banka vyžaduje.
+V generické verzi služby [!INCLUDE[navnow](includes/navnow_md.md)] je nastaven globální poskytovatel služeb pro převod bankovních dat do libovolného formátu souborů, který vaše banka vyžaduje.
 
 **Poznámka**: Než budete moci exportovat z deníku plateb, musíte povolit export v související dávce deníku. Kromě toho musí být bankovní účet a bankovní účet dodavatele nastaven pro elektronickou platbu. Další informace naleznete v tématu: [Návod: Nastavení služby převodu bankovních dat](bank-how-setup-bank-data-conversion-service.md).
 

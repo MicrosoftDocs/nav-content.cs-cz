@@ -37,7 +37,7 @@ Dědičnost polí přepíše výchozí hodnoty, které jste nastavili. Napříkl
 <!--You can also setup a default salutation that the program automatically assigns to your contacts. You can use these salutations in your interaction template attachments (for example, Microsoft Word documents). When setting up a default salutation, you can enter a salutation text and a salutation format. For example, if the salutation text is Dear, and the salutation format is Salutation Text + Title + Name, the program will automatically enter Dear Mr. John Smith as a salutation for a contact called John Smith.-->
 
 ## <a name="automatically-record-interactions"></a>Automatické zaznamenávání interakcí
-Dynamics NAV dokáže automaticky zaznamenávat prodejní a nákupní doklady jako interakce (například objednávky, faktury, příjmy atd.), Stejně jako e-maily, telefonní hovory a průvodní stránky.
+[!INCLUDE[navnow](includes/navnow_md.md)] dokáže automaticky zaznamenávat prodejní a nákupní doklady jako interakce (například objednávky, faktury, příjmy atd.), Stejně jako e-maily, telefonní hovory a průvodní stránky.
 
 Další informace naleznete v tématu [Automatické zaznamenávání interakcí s kontakty](marketing-auto-record-interactions.md).
 

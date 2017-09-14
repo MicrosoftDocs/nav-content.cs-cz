@@ -17,7 +17,7 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="displaying-lists-in-different-views"></a>Zobrazení seznamu v různých pohledech
-V pravém rohu jakéhokoliv seznamu v aplikaci Dynamics NAV můžete najít ikony, které umožní přepnout zobrazení seznamu. Seznam může být zobrazen jako podrobný seznam, který je ve standardním zobrazení. Ale také můžete přepnout do dlaždicového zobrazení, které ukáže méně podrobností na specifický záznam a seskupí položky jako dlaždice. Toto zobrazení je velmi užitečné pro přehled zisků několika položek a je konkrétně užitečné pro menší zařízení, protože zjednodušuje klepnutí na každou položku.
+V pravém rohu jakéhokoliv seznamu v aplikaci [!INCLUDE[navnow](includes/navnow_md.md)] můžete najít ikony, které umožní přepnout zobrazení seznamu. Seznam může být zobrazen jako podrobný seznam, který je ve standardním zobrazení. Ale také můžete přepnout do dlaždicového zobrazení, které ukáže méně podrobností na specifický záznam a seskupí položky jako dlaždice. Toto zobrazení je velmi užitečné pro přehled zisků několika položek a je konkrétně užitečné pro menší zařízení, protože zjednodušuje klepnutí na každou položku.
 
 ## <a name="items-list"></a>Seznam zboží
 Seznam zboží s obrázky vám pomůže získat rychlý přehled o tom, co prodáváte a přepnutí do dlaždicového zobrazení vám nabídne katalog zboží pro procházení. Pokud je pro specifické zboží definován obrázek, máte třetí možnost vedle podrobného seznamu a dlaždicového zobrazení a to vysoké dlaždicové zobrazení. Toto zobrazení zobrazí velké obrázky pro každou položku.
@@ -25,6 +25,6 @@ Seznam zboží s obrázky vám pomůže získat rychlý přehled o tom, co prod�
 Můžete importovat obrázek pro specifické zboží tím, že jdete na kartu **Zboží** a vpravo vyberete **Obrázek** a zvolíte **Importovat**. Podobně můžete exportovat obrázek do souboru nebo odstranit obrázek pro dané zboží.  
 
 ## <a name="see-also"></a>Viz také
-[Práce s Dynamics NAV](ui-work-product.md)  
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
 [Návod: Registrace nového produktu](inventory-how-register-new-products.md)  
 

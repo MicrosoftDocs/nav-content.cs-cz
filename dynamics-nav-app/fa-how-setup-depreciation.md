@@ -41,7 +41,7 @@ V odpisové knize DM specifikujete, jak je odpisován dlouhodobý majetek. Chcet
 **Poznámka**: Pokud používáte ruční metodu odpisů, je nutné ručně zadat odpis DM ve finančním deníku. Funkce **Výpočet odpisů** vynechává dlouhodobý majetek, který používá metodu ručního odpisování. Tuto metodu můžete použít pro majetek, který nepodléhá odpisům například pozemky.
 
 ## <a name="to-assign-a-depreciation-book-to-multiple-fixed-assets-with-a-batch-job"></a>Přidělení odpisové knihy do více dlouhodobých aktiv s dávkovou úlohou
-Chcete-li přiřadit odpisovou knihu k několika dlouhodobému majetku, můžete použít dávkovou úlohu **Vytvořit knihy odpisů DM**, abyste v Dynamics NAV automaticky vytvořili potřebné odpisové knihy DM.  
+Chcete-li přiřadit odpisovou knihu k několika dlouhodobému majetku, můžete použít dávkovou úlohu **Vytvořit knihy odpisů DM**, abyste v [!INCLUDE[navnow](includes/navnow_md.md)] automaticky vytvořili potřebné odpisové knihy DM.  
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Dlouhodobý majetek** a pak vyberte související odkaz.
 2. Vyberte dlouhodobý majetek, u kterého chcete přiřadit odpisovou knihu a pak vyberte akci **Upravit**.
 3. Na kartě **Karta knihy odpisů** vyberte akci **Vytvořit knihy odpisů DM**.
@@ -53,7 +53,7 @@ Chcete-li přiřadit odpisovou knihu k několika dlouhodobému majetku, můžete
 7. Zvolte tlačítko **OK**.
 
 ## <a name="to-set-up-depreciation-posting-types"></a>Nastavení typů odpisů zaúčtování  
-Pro každou odpisovou knihu musíte nastavit, jak chcete v Dynamics NAV zpracovávat různé typy zaúčtování. Například, zda by zaúčtování mělo být MD nebo Dal a zda by měl být typ zaúčtování zahrnut do odpisovatelného základu.  
+Pro každou odpisovou knihu musíte nastavit, jak chcete v [!INCLUDE[navnow](includes/navnow_md.md)] zpracovávat různé typy zaúčtování. Například, zda by zaúčtování mělo být MD nebo Dal a zda by měl být typ zaúčtování zahrnut do odpisovatelného základu.  
 1.  V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Knihy odpisů** a pak vyberte související odkaz.  
 2. Vyberte odpisovou knihu, kterou chcete nastavit a poté vyberte akci **Nastavení typu účtování DM**.
 3. V okně **Nastavení typu účtování DM** vyplňte pole podle potřeby.
@@ -77,5 +77,5 @@ Pro každou odpisovou knihu definujete výchozí nastavení šablon a dávek. Ty
 [Nastavení DM](fa-setup.md)  
 [Správa DM](fa-manage.md)  
 [Finance](finance-setup.md)  
-[Vítejte v Dynamics NAV](across-get-started.md)
+[Vítejte v [!INCLUDE[navnow](includes/navnow_md.md)]](across-get-started.md)
 

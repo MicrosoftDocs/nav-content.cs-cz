@@ -23,7 +23,7 @@ Při vyjednávání se zákazníkem můžete změnit a odeslat prodejní nabídk
 
 Produkt mohou být inventární položky nebo služby. Další informace naleznete v tématu [Návod: Zaznamenávání nových produktů](inventory-how-register-new-products.md). Proces prodejních nabídek je stejný pro oba typy produktů.
 
-**Poznámka**: V produktu Dynamics NAV se produkt označuje výrazem „zboží".
+**Poznámka**: V produktu [!INCLUDE[navnow](includes/navnow_md.md)] se produkt označuje výrazem „zboží".
 
 Políčka zákazníků můžete vyplnit na prodejní nabídce dvěma způsoby v závislosti na tom, zda je zákazník již zaregistrován.
 
@@ -75,5 +75,5 @@ Prodejní nabídka je smazána z databáze. Prodejní faktura nebo prodejní obj
 [Správa prodeje](sales-manage-sales.md)  
 [Nastavení prodeje](sales-setup-sales.md)  
 [Návod: Posílání dokumentů pomocí Emailu](ui-how-send-documents-email.md)  
-[Práce s Dynamics NAV](ui-work-product.md)
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
 

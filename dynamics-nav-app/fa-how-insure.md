@@ -64,7 +64,7 @@ Můžete použít dávkovou úlohu **Indexovat pojištění** k aktualizaci hodn
 5. Otevřete příslušný deník pojištění, zkontrolujte vytvořené hodnoty a poté je zaúčtujte do knihy pojištění.
 
 ## <a name="to-monitor-insurance-coverage"></a>Monitorování pojistného krytí
-Dynamics NAV poskytuje specializované přehledy a statistiky, které se používají při analýze pojistných smluv a zda vaše dlouhodobá aktiva jsou nadměrně nebo nedostatečně pojištěná.
+[!INCLUDE[navnow](includes/navnow_md.md)] poskytuje specializované přehledy a statistiky, které se používají při analýze pojistných smluv a zda vaše dlouhodobá aktiva jsou nadměrně nebo nedostatečně pojištěná.
 
 ### <a name="overview-of-insurance-policies"></a>Přehled pojistných smluv  
 Chcete-li získat přehled o svých pojistných smlouvách, můžete zobrazit náhled nebo tisk sestavy **Přehled pojištění**, která zobrazuje všechny smlouvy a nejdůležitější pole z karty pojištění.  
@@ -111,5 +111,5 @@ Dlouhodobý majetek bude odpojen od nesprávné pojistky na druhém řádku a p�
 [Správa DM](fa-manage.md)  
 [Nastavení DM](fa-setup.md)  
 [Finance](finance-setup.md)  
-[Vítejte v Dynamics NAV](across-get-started.md)
+[Vítejte v [!INCLUDE[navnow](includes/navnow_md.md)]](across-get-started.md)
 

@@ -38,5 +38,5 @@ Po přidání  příležitostného prodejního cyklu můžete začít přidávat
 ##<a name="see-also"></a>Viz také  
 [Zpracování prodejních příležitostí](marketing-processing-sales-opportunities.md)  
 [Správa prodeje](sales-manage-sales.md)  
-[Práce s Dynamics NAV](ui-work-product.md)
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
 

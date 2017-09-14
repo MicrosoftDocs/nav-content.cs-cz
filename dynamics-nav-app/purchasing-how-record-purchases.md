@@ -72,5 +72,5 @@ Nákup se nyní odráží v zásobách a finančních záznamech a aktivuje se p
 [Návod: Nákup produktů pro prodej](purchasing-how-purchase-products-sale.md)  
 [Návod: Registrace nového dodavatele](purchasing-how-register-new-vendors.md)  
 [Návod: Příprava přímé dodávky zboží](sales-how-drop-shipment.md)  
-[Práce s Dynamics NAV](ui-work-product.md)
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
 

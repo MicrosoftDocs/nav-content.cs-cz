@@ -26,10 +26,10 @@ Existuje několik šablon finančního deníku.  Každá šablona deníku je rep
 
 Pro každou šablonu deníku můžete nastavit svůj vlastní osobní deník jako list deníku. Například můžete definovat váš vlastní list deníku pro platební deník, který má vaše osobní rozložení a nastavení. 
 
-**Poznámka**: Příkladem osobního nastavení, které můžete definovat ve vašem listu finančního deníku je systém, který vám pomůže vyplnit pole částky. Pokud pro váš list zaškrtnete na řádku pole **Navrhovat vyrovnávací částku** v okně **Listy finančního deníku**, a pak pole **Částka**, pak jsou například řádky finančního deníku pro stejné číslo dokladu automaticky předvyplněné hodnotou, která je vyžadována k vyrovnání dokladu. Další informace naleznete v [Povolení navrhování hodnot aplikací Dynamics NAV](ui-let-system-suggest-values.md).
+**Poznámka**: Příkladem osobního nastavení, které můžete definovat ve vašem listu finančního deníku je systém, který vám pomůže vyplnit pole částky. Pokud pro váš list zaškrtnete na řádku pole **Navrhovat vyrovnávací částku** v okně **Listy finančního deníku**, a pak pole **Částka**, pak jsou například řádky finančního deníku pro stejné číslo dokladu automaticky předvyplněné hodnotou, která je vyžadována k vyrovnání dokladu. Další informace naleznete v [Povolení navrhování hodnot aplikací [!INCLUDE[navnow](includes/navnow_md.md)]](ui-let-system-suggest-values.md).
 
 ## <a name="main-accounts-and-balancing-accounts"></a>Hlavní účty a vyrovnávací účty
-Pokud jste nastavili výchozí vyrovnávací účty pro listy deníku, vyrovnávací účet bude vyplněn automaticky, když vyplníte pole **Číslo účtu** . V opačném případě vyplňte ručně jak pole **Číslo účtu**, tak pole **Číslo protiúčtu** . Kladná částka v poli **Částka** je odečtena od hlavního účtu a připsána na vyrovnávací účet. Záporná částka je připsána na hlavní účet a odečtena z vyrovnávacího účtu.
+Pokud jste nastavili výchozí vyrovnávací účty pro listy deníku, vyrovnávací účet bude vyplněn automaticky, když vyplníte pole **Číslo účtu** . V opačném případě vyplňte ručně jak pole **Číslo účtu**, tak pole **Číslo protiúčtu ** . Kladná částka v poli **Částka** je odečtena od hlavního účtu a připsána na vyrovnávací účet. Záporná částka je připsána na hlavní účet a odečtena z vyrovnávacího účtu.
 
 **Poznámka**: DPH se vypočítává samostatně pro hlavní účet a vyrovnávací účet, takže mohou být použity různé procentní sazby DPH.
 
@@ -39,5 +39,5 @@ Periodický deník je obecný deník se specifickými poli pro správu transakc�
 ## <a name="see-also"></a>Viz také
 [Návod: Použití rozdělovacích klíčů ve finančních denících.](ui-how-use-allocation-keys-general-journals.md)  
 [Finance](Finance.md)  
-[Práce s Dynamics NAV](ui-work-product.md)
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
 

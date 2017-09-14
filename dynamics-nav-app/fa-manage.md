@@ -17,11 +17,11 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="manage-fixed-assets"></a>Správa dlouhodobého majetku
-Funkce dlouhodobý majetek v Dynamics NAV poskytuje přehled vašeho dlouhodobého majetku a zajišťuje správný periodický odpis. Umožňuje také sledovat náklady na údržbu, spravovat pojistné smlouvy, účtovat transakce dlouhodobého majetku a vytvářet různé sestavy a statistiky.
+Funkce dlouhodobý majetek v [!INCLUDE[navnow](includes/navnow_md.md)] poskytuje přehled vašeho dlouhodobého majetku a zajišťuje správný periodický odpis. Umožňuje také sledovat náklady na údržbu, spravovat pojistné smlouvy, účtovat transakce dlouhodobého majetku a vytvářet různé sestavy a statistiky.
 
 Pro každý dlouhodobý majetek musíte nastavit kartu obsahující informace o majetku. Můžete založit budovy nebo výrobní vybavení jako hlavní majetek se seznamem komponent a můžete je seskupovat různými způsoby, např. podle třídy nebo umístění. Pak můžete začít získávat, udržovat a prodávat dlouhodobý majetek. Můžete také nastavit rozpočtový majetek. Tohle umožňuje zahrnout jakékoli očekávané zisky a prodeje v sestavách.
 
-Ke sledování jak odpisů dlouhodobého majetku, tak ostatních finančních transakcí souvisejících s dlouhodobým majetkem, nastavíte jednu nebo více knih odpisů pro každý dlouhodobý majetek ve vaší společnosti. Odpis se dělá spuštěním sestavy ke spočítání periodického odpisu a vyplněním deníku s výslednými hodnotami připravenými k zaúčtování. Dynamics NAV podporuje několik odpisových metod. Další informace naleznete v tématu [Metody odpisování](fa-depreciation-methods.md). Můžete nastavit vícero knih odpisů na dlouhodobý majetek pro různé záměry, např. jeden pro vykazování daní a další pro vnitřní vykazování.
+Ke sledování jak odpisů dlouhodobého majetku, tak ostatních finančních transakcí souvisejících s dlouhodobým majetkem, nastavíte jednu nebo více knih odpisů pro každý dlouhodobý majetek ve vaší společnosti. Odpis se dělá spuštěním sestavy ke spočítání periodického odpisu a vyplněním deníku s výslednými hodnotami připravenými k zaúčtování. [!INCLUDE[navnow](includes/navnow_md.md)] podporuje několik odpisových metod. Další informace naleznete v tématu [Metody odpisování](fa-depreciation-methods.md). Můžete nastavit vícero knih odpisů na dlouhodobý majetek pro různé záměry, např. jeden pro vykazování daní a další pro vnitřní vykazování.
 
 Pro každý majetek můžete zaznamenat náklady na údržbu a datum služby. Sledování výdajů na údržbu může být důležité pro rozpočtové záměry a pro rozhodování, zda vyměnit dlouhodobý majetek.
 
@@ -46,5 +46,5 @@ Následující tabulka popisuje postup úkolů s odkazy na témata, která je po
 ## <a name="see-also"></a>Viz také
 [Nastavení dlouhodobého majetku](fa-setup.md)  
 [Finance](finance-setup.md)  
-[Vítejte v Dynamics NAV](across-get-started.md)
+[Vítejte v [!INCLUDE[navnow](includes/navnow_md.md)]](across-get-started.md)
 

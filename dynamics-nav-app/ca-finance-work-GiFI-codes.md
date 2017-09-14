@@ -26,7 +26,7 @@ Pokud je účet spojen s kódem GIFI, je nahlášen agentuře pro příjem pod t
 Můžete exportovat informace o zůstatku pomocí kódu GIFI a uložit exportovaný soubor v aplikaci Excel, což je užitečné pro přenos informací do softwaru pro daňové zpracování.
 
 ## <a name="to-set-up-gifi-codes"></a>Nastavení kódů GIFI
-V Dynamics NAV musíte nastavit kódy GIFI pro účty hlavní knihy, přehledy, rozvahy, výkazy příjmů a výkazy nerozděleného zisku.
+V [!INCLUDE[navnow](includes/navnow_md.md)] musíte nastavit kódy GIFI pro účty hlavní knihy, přehledy, rozvahy, výkazy příjmů a výkazy nerozděleného zisku.
 
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Kódy GIFI** a pak vyberte související odkaz.
 2. V okně **Kódy GIFI** vyberte akci **Nový**.

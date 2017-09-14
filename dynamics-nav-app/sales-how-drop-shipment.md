@@ -58,5 +58,5 @@ Když dodavatel odeslal zboží, můžete zaúčtovat prodejní objednávku jako
 [Návod: Zaznamenávání nákupů](purchasing-how-record-purchases.md)  
 [Správa prodeje](sales-manage-sales.md)  
 [Správa skladů](inventory-manage-inventory.md)      
-[Práce s Dynamics NAV](ui-work-product.md)
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
 

@@ -17,7 +17,7 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="set-up-project-management"></a>Nastavení řízení projektu
-Než budete moci pro správu projektů používat Dynamics NAV, musíte nastavit zdroje, pracovní výkazy a úlohy.
+Než budete moci pro správu projektů používat [!INCLUDE[navnow](includes/navnow_md.md)], musíte nastavit zdroje, pracovní výkazy a úlohy.
 
 Poté můžete vytvářet činnosti a plánovat zdroje pro projekty stejně jako spravovat rozpočty a sledovat hodiny strojů a zaměstnanců s pracovními výkazy. Další informace naleznete v tématu [Správa projektů](projects-manage-projects.md).  
 
@@ -34,5 +34,5 @@ Následující tabulka popisuje sekvenci úloh s odkazy na témata, které je po
 [Finance](finance-setup.md)  
 [Správa nákupu](purchasing-manage-purchasing.md)         
 [Správa prodeje](sales-manage-sales.md)     
-[Práce s Dynamics NAV](ui-work-product.md)  
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
 

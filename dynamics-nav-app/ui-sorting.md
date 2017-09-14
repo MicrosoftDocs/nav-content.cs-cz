@@ -24,7 +24,7 @@ Zvolte záhlaví sloupce a pomocí malé šipky třiďte vzestupně nebo sestupn
 **Poznámka**: Třídění není podporováno pro obrázky, pole binárního rozsáhlého objektu, tok filtrů a pole, která nepatří do tabulky.
 
 ## <a name="see-also"></a>Viz také
-[Práce s Dynamics NAV](ui-work-product.md)  
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
 [Zadávání kritérií ve filtrech.](ui-enter-criteria-filters.md)
 
 

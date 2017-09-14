@@ -23,7 +23,7 @@ Odpisy se používají k rozdělení nákladů na dlouhodobý majetek, jako jsou
 - Automaticky spuštěním dávkové úlohy **Výpočet odpisu**.
 - Ručně pomocí DM ve finančním deníku.  
 
-Dynamics NAV může vypočítat denní odpis, který vám umožní vypočítat odpisy za jakékoliv období. Můžete tedy analyzovat aktuální provozní výsledky, například měsíční, čtvrtletní nebo roční. Výpočet používá standardní rok 360 dnů a standardní měsíc 30 dní. Další informace naleznete v tématu [Metody odpisování](fa-depreciation-methods.md).
+[!INCLUDE[navnow](includes/navnow_md.md)] může vypočítat denní odpis, který vám umožní vypočítat odpisy za jakékoliv období. Můžete tedy analyzovat aktuální provozní výsledky, například měsíční, čtvrtletní nebo roční. Výpočet používá standardní rok 360 dnů a standardní měsíc 30 dní. Další informace naleznete v tématu [Metody odpisování](fa-depreciation-methods.md).
 
 Pokud je dlouhodobý majetek využíván několika odděleními, mohou být tyto oddělení automaticky přiděleny pravidelně podle odměnové tabulky definované uživatelem.  
 
@@ -97,5 +97,5 @@ Zkopírované řádky jsou vytvářeny buď ve finančním deníku DM nebo dení
 [Správa DM](fa-manage.md)  
 [Nastavení DM](fa-setup.md)  
 [Finance](finance-setup.md)  
-[Vítejte v Dynamics NAV](across-get-started.md)
+[Vítejte v [!INCLUDE[navnow](includes/navnow_md.md)]](across-get-started.md)
 

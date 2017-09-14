@@ -44,5 +44,5 @@ Pokud jste nastavili více než jednu číselnou řadu pro stejný druh informac
 Nyní, když nastavíte něco, co vyžaduje číslo, můžete použít vztahy, které jste vytvořili k výběru mezi souvisejícími číselnými řadami.
 
 ## <a name="see-also"></a>Viz také
-[Práce s Dynamics NAV](ui-work-product.md)
+[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
 
