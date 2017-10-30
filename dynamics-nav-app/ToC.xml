@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Node Name="" DisplayName="Nápověda" Page="index.html">
+  <Node Name="" DisplayName="Začínáme" Page="index.html">
+    <Node Name="" DisplayName="Přehled obchodní funčnosti" Page="madeira-business-functionality.html"/>
+    <Node Name="" DisplayName="Import obchodních dat z jiných finančních systémů" Page="upload-data.html"/>
+    <Node Name="" DisplayName="Získání Dynamics NAV na vašem mobilním zařízení" Page="install-mobile-app.html"/>
+    <Node Name="" DisplayName="Použití Dynamics NAV jako vaší doručené pošty v aplikaci Outlook" Page="across-outlook.html"/>
+    <Node Name="" DisplayName="Použití vašich obchodních dat pro Power BI" Page="across-powerbi.html"/>
+    <Node Name="" DisplayName="Použití Dynamics NAV v automatizovaném workflow" Page="across-how-use-financials-data-source-flow.html"/>
+    <Node Name="" DisplayName="Použití Dynamics NAV jako zdroj dat pro Power BI" Page="across-how-use-financials-data-source-powerbi.html"/>
+    <Node Name="" DisplayName="Přizpůsobení Dynamics NAV použitím rozšíření" Page="ui-extensions.html"/>
+  </Node>
+  <Node Name="" DisplayName="Tipy a triky" Page="ui-work-product.html">
+    <Node Name="" DisplayName="Práce s Dynamics NAV" Page="ui-work-product.html"/>
+    <Node Name="" DisplayName="Použití funkce Hledat stránku nebo sestavu" Page="ui-search.html"/>
+    <Node Name="" DisplayName="Změna základních nastavení" Page="ui-change-basic-settings.html"/>
+    <Node Name="" DisplayName="Návod: Změna centra rolí" Page="change-role.html"/>
+    <Node Name="" DisplayName="Přizpůsobení Dynamics NAV" Page="ui-customizing-overview.md.html"/>
+    <Node Name="" DisplayName="Povolení navrhování hodnot aplikací" Page="ui-let-system-suggest-values.html"/>
+    <Node Name="" DisplayName="Tisk a sestavy" Page="ui-work-report.html"/>
+    <Node Name="" DisplayName="Videa běžných úloh" Page="across-videos.html"/>
+  </Node>
+  <Node Name="" DisplayName="Nastavení Dynamics NAV" Page="setup.html">
+    <Node Name="" DisplayName="Nastavení a správa" Page="admin-setup-and-administration.html">
+      <Node Name="" DisplayName="Protokolování změn" Page="across-log-changes.html"/>
+      <Node Name="" DisplayName="Vytvoření nových společností" Page="about-new-company.html"/>
+      <Node Name="" DisplayName="Uživatelé, profily a centra rolí" Page="admin-users-profiles-roles.html"/>
+      <Node Name="" DisplayName="Návod: Správa uživatelů a oprávnění" Page="ui-how-users-permissions.html"/>
+      <Node Name="" DisplayName="Použití front úloh k plánování úloh" Page="admin-job-queues-schedule-tasks.html"/>
+      <Node Name="" DisplayName="Návod: Publikování webové služby" Page="across-how-publish-web-service.html"/>
+    </Node>
+    <Node Name="" DisplayName="Nastavení financí" Page="finance-setup-finance.html">
+      <Node Name="" DisplayName="Definování způsobů plateb" Page="finance-payment-methods.html"/>
+      <Node Name="" DisplayName="Nastavení účto skupin" Page="finance-posting-groups.html"/>
+      <Node Name="" DisplayName="Návod: Práce s platebními odchylkami a se skontem" Page="finance-payment-tolerance-and-payment-discount-tolerance.html"/>
+      <Node Name="" DisplayName="Návod: Otevření nového fiskálního roku" Page="finance-how-open-new-fiscal-year.html"/>
+      <Node Name="" DisplayName="Nastavení DPH" Page="finance-setup-vat.html"/>
+      <Node Name="" DisplayName="Návod: Úprava směnných kurzů" Page="finance-how-update-currencies.html"/>
+      <Node Name="" DisplayName="Nastavení účetní osnovy" Page="finance-setup-chart-accounts.html"/>
+      <Node Name="" DisplayName="Nastavení analýzy cash flow" Page="finance-setup-cash-flow-analyses.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení zákazníků platících v hotovosti" Page="finance-how-to-set-up-cash-customers.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení vykazování Intrastat" Page="finance-how-setup-report-intrastat.html"/>
+      <Node Name="" DisplayName="Návod: Práce s konsolidovanou předvahou" Page="accross-how-consolidated-company-reporting.html"/>
+    </Node>
+    <Node Name="" DisplayName="Nastavení bankovnictví" Page="bank-setup-banking.html">
+      <Node Name="" DisplayName="Návod: Nastavení bankovních účtů" Page="bank-how-setup-bank-accounts.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení služby převodu bankovních dat" Page="bank-how-setup-bank-data-conversion-service.html"/>
+    </Node>
+    <Node Name="" DisplayName="Nastavení prodeje" Page="sales-setup-sales.html">
+      <Node Name="" DisplayName="Návod: Registrace nových zákazníků" Page="sales-how-register-new-customers.html"/>
+      <Node Name="" DisplayName="Návod: Povolení zákaznických plateb pomocí PayPal" Page="sales-how-enable-payment-service-extensions.html"/>
+      <Node Name="" DisplayName="Návod: Zaznamenávání prodejních cen a slev" Page="sales-how-record-sales-price-discount-payment-agreements.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení prodejců" Page="sales-how-setup-salespeople.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení profilů odesílání dokladů" Page="sales-how-setup-document-send-profiles.html"/>
+      <Node Name="" DisplayName="Návod: Odesílání dokumentů e-mailem" Page="ui-how-send-documents-email.html"/>
+      <Node Name="" DisplayName="Návod: Ověření DIČ" Page="sales-how-to-verify-vat-registration-numbers.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení přepravců" Page="sales-how-to-set-up-shipping-agents.html"/>
+    </Node>
+    <Node Name="" DisplayName="Nastavení nákupu" Page="purchasing-setup-purchasing.html">
+      <Node Name="" DisplayName="Návod: Registrace nového dodavatele" Page="purchasing-how-register-new-vendors.html"/>
+      <Node Name="" DisplayName="Návod: Zaznamenání speciálních nákupních cen a slev" Page="purchasing-how-record-purchase-price-discount-payment-agreements.html"/>
+      <Node Name="" DisplayName="Návod: Priorita dodavatelů" Page="purchasing-how-prioritize-vendors.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení nákupčích" Page="purchasing-how-setup-purchasers.html"/>
+    </Node>
+    <Node Name="" DisplayName="Nastavení zásob" Page="inventory-setup-inventory.html">
+      <Node Name="" DisplayName="Návod: Nastavení obecných informací zásob" Page="inventory-how-setup-general.html"/>
+      <Node Name="" DisplayName="Návod: Práce s centry odpovědnosti" Page="inventory-responsibility-centers.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení lokací" Page="inventory-how-setup-locations.html"/>
+      <Node Name="" DisplayName="Návod: Pořízení nového zboží" Page="inventory-how-register-new-items.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení skladové jednotky" Page="inventory-how-to-set-up-stockkeeping-units.html"/>
+      <Node Name="" DisplayName="Návod: Kategorizace zboží" Page="inventory-how-categorize-items.html"/>
+    </Node>
+    <Node Name="" DisplayName="Nastavení řízení projektu" Page="projects-setup-projects.html">
+      <Node Name="" DisplayName="Návod: Nastavení zdrojů" Page="projects-how-setup-resources.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení pracovních výkazů" Page="projects-how-setup-time-sheets.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení projektů" Page="projects-how-setup-jobs.html"/>
+    </Node>
+    <Node Name="" DisplayName="Nastavení dlouhodobého majetku" Page="fa-setup.html">
+      <Node Name="" DisplayName="Návod: Nastavení informací o obecném dlouhodobém majetku" Page="fa-how-setup-general.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení odpisů DM" Page="fa-how-setup-depreciation.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení pojištění dlouhodobého majetku" Page="fa-how-setup-insurance.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení údržby dlouhodobého majetku" Page="fa-how-setup-maintenance.html"/>
+    </Node>
+    <Node Name="" DisplayName="Nastavení správce skladu" Page="warehouse-setup-warehouse.html">
+      <Node Name="" DisplayName="Podrobnosti návrhu: Přehled skladu" Page="design-details-warehouse-overview.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení druhů přihrádek" Page="warehouse-how-to-set-up-bin-types.html"/>
+      <Node Name="" DisplayName="Návod: Vytvoření přihrádek" Page="warehouse-how-to-create-individual-bins.html"/>
+      <Node Name="" DisplayName="Návod: Vytvoření obsahu přihrádek" Page="warehouse-how-to-set-up-bin-contents.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení šablon zaskladnění" Page="warehouse-how-to-set-up-put-away-templates.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení zaměstnanců skladu" Page="warehouse-how-to-set-up-warehouse-employees.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení lokací s použitím přihrádek" Page="warehouse-how-to-set-up-locations-to-use-bins.html"/>
+      <Node Name="" DisplayName="Návod: Převod existujících lokací na lokace skladu" Page="warehouse-how-to-convert-existing-locations-to-warehouse-locations.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení základního skladu s oblastmi operací" Page="warehouse-how-to-set-up-basic-warehouses-with-operations-areas.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení zboží a lokací pro přímé zaskladnění a vyskladnění" Page="warehouse-how-to-set-up-items-for-directed-put-away-and-pick.html"/>
+      <Node Name="" DisplayName="Návod: Vypočítat, adjustovat nebo přecenit zásoby" Page="inventory-how-count-adjust-reclassify.html"/>
+      <Node Name="" DisplayName="Návod: Povolení automatického rozbalení s přímým zaskladněním a vyskladněním" Page="warehouse-enable-automatic-breaking-bulk-with-directed-put-away-and-pick.html"/>
+      <Node Name="" DisplayName="Návod: Povolení vyskladnění dle FEFO" Page="warehouse-picking-by-fefo.html"/>
+      <Node Name="" DisplayName="Návod: Povolení automatického shromažďování dat (ADCS)" Page="warehouse-use-automated-data-capture-systems-adcs.html"/>
+      <Node Name="" DisplayName="Návod: Změna struktury skladů" Page="warehouse-how-to-restructure-warehouses.html"/>
+    </Node>
+    <Node Name="" DisplayName="Nastavení výroby" Page="production-configure-production-processes.html">
+      <Node Name="" DisplayName="Návod: Vytvoření kalendářů pracovního centra" Page="production-how-to-create-work-center-calendars.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení pracovních a strojních center" Page="production-how-to-set-up-work-and-machine-centers.html"/>
+      <Node Name="" DisplayName="Návod: Vytvoření TNG postupů" Page="production-how-to-create-routings.html"/>
+      <Node Name="" DisplayName="Návod: Vytvoření výrobních kusovníků" Page="production-how-to-create-production-boms.html"/>
+      <Node Name="" DisplayName="Povolení spotřeby komponent dle výstupní operace" Page="production-how-to-flush-components-according-to-operation-output.html"/>
+      <Node Name="" DisplayName="Návod: Práce s měrnou jednotkou ve výrobě" Page="production-how-to-use-the-manufacturing-batch-unit-of-measure.html"/>
+      <Node Name="" DisplayName="Návod: Práce se skupinou výrobků" Page="production-how-work-family.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení standardních řádků postupu" Page="production-how-set-up-standard-routing-lines.html"/>
+      <Node Name="" DisplayName="Návod: Subdodávky výroby" Page="production-how-to-subcontract-manufacturing.html"/>
+    </Node>
+    <Node Name="" DisplayName="Nastavení servisu" Page="service-setup-service.html">
+      <Node Name="" DisplayName="Návod: Nastavení standardních kódů servisu" Page="service-how-setup-service-coding.html"/>
+      <Node Name="" DisplayName="Návod: Konfigurace procesů servisu" Page="service-setup-service-processes.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení hlášení poruch" Page="service-how-setup-fault-reporting.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení nabídek služeb" Page="service-how-setup-service-offerings.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení poradce při potížích" Page="service-how-setup-troubleshooting.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení přidělení zdroje" Page="service-how-setup-resource-allocation.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení cen a dodatečných nákladů servisu" Page="service-how-setup-service-costs-pricing.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení předmětů servisu a komponent předmětů servisu" Page="service-how-setup-service-items.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení  pracovní doby a servisních hodin" Page="service-how-setup-work-service-hours.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení stavů pro servisní zakázky a opravy" Page="service-order-repair-status.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení programu zápůjček" Page="service-how-setup-loaner-program.html"/>
+      <Node Name="" DisplayName="Návod: Nastavení servisních smluv" Page="service-how-setup-service-contracts.html"/>
+    </Node>
+    <Node Name="" DisplayName="Metody odpisu" Page="fa-depreciation-methods.html"/>
+    <Node Name="" DisplayName="Návod: Nastavení emailu" Page="madeira-how-setup-email.html"/>
+    <Node Name="" DisplayName="Návod: Vytvoření číselné řady" Page="ui-create-number-series.html"/>
+    <Node Name="" DisplayName="Návod: Nastavení rozšířeného popisu zboží" Page="ui-how-define-ext-text.html"/>
+    <Node Name="" DisplayName="Návod: Nastavení základních kalendářů" Page="across-how-to-assign-base-calendars.html"/>
+    <Node Name="" DisplayName="Nastavení oblastí aplikace s použititím doporučených postupů pro nastavení" Page="set-up-complex-application-areas-using-best-practices.html">
+      <Node Name="" DisplayName="Doporučené postupy pro nastavení: Plánování dodávek" Page="setup-best-practices-supply-planning.html"/>
+      <Node Name="" DisplayName="Doporučené postupy pro nastavení: Metody ocenění" Page="setup-best-practices-costing-method.html"/>
+    </Node>
+  </Node>
+  <Node Name="" DisplayName="Finance" Page="finance.html">
+    <Node Name="" DisplayName="Správa pohledávek" Page="receivables-manage-receivables.html">
+      <Node Name="" DisplayName="Vyrovnání plateb automaticky a odsouhlasení bankovních účtů" Page="receivables-apply-payments-auto-reconcile-bank-accounts.html"/>
+      <Node Name="" DisplayName="Návod: Odsouhlasení plateb zákazníka ručně ze seznamu neuhrazených prodejních dokladů" Page="receivables-how-reconcile-customer-payments-list-unpaid-sales-documents.html"/>
+      <Node Name="" DisplayName="Návod: Vyrovnání plateb zákazníka ručně" Page="receivables-how-apply-sales-transactions-manually.html"/>
+      <Node Name="" DisplayName="Návod: Shromáždění zbývajících zůstatků" Page="receivables-collect-outstanding-balances.html"/>
+      <Node Name="" DisplayName="Návod: Použití poplatků za zboží k účtu pro dodatečné obchodní náklady" Page="payables-how-assign-item-charges.html"/>
+      <Node Name="" DisplayName="Návod: Práce s odchylkami plateb a se skontem" Page="finance-payment-tolerance-and-payment-discount-tolerance.html"/>
+    </Node>
+    <Node Name="" DisplayName="Správa závazků" Page="payables-manage-payables.html">
+      <Node Name="" DisplayName="Provádění plateb" Page="payables-make-payments.html"/>
+      <Node Name="" DisplayName="Automatické vyrovnání plateb a odsouhlasení bankovních účtů" Page="receivables-apply-payments-auto-reconcile-bank-accounts.html"/>
+      <Node Name="" DisplayName="Návod: Odsouhlasení plateb dodavateli ručně" Page="payables-how-apply-purchase-transactions-manually.html"/>
+      <Node Name="" DisplayName="Návod: Použití poplatků za zboží k účtu pro dodatečné obchodní náklady" Page="payables-how-assign-item-charges.html"/>
+    </Node>
+    <Node Name="" DisplayName="Fakturace záloh" Page="finance-invoice-prepayments.html">
+      <Node Name="" DisplayName="Návod: Nastavení záloh" Page="finance-set-up-prepayments.html"/>
+      <Node Name="" DisplayName="Návod: Vytvoření záloh" Page="finance-how-to-create-prepayment-invoices.html"/>
+      <Node Name="" DisplayName="Návod: Oprava záloh" Page="finance-how-to-correct-prepayments.html"/>
+    </Node>
+    <Node Name="" DisplayName="Správa bankovních účtů" Page="bank-manage-bank-accounts.html">
+      <Node Name="" DisplayName="Vyrovnání plateb automaticky a odsouhlasení bankovních účtů" Page="receivables-apply-payments-auto-reconcile-bank-accounts.html"/>
+      <Node Name="" DisplayName="Návod: Odsouhlasení bankovních účtů odděleně" Page="bank-how-reconcile-bank-accounts-separately.html"/>
+      <Node Name="" DisplayName="Návod: Převod bankovních fondů" Page="bank-how-transfer-bank-funds.html"/>
+    </Node>
+    <Node Name="" DisplayName="Správa vnitropodnikových transakcí" Page="intercompany-manage.html">
+      <Node Name="" DisplayName="Návod: Nastavení vnitropodnikové společnosti" Page="intercompany-how-setup.html"/>
+      <Node Name="" DisplayName="Návod: Práce s vnitropodnikovými doklady a deníky" Page="intercompany-how-work-documents-journals.html"/>
+      <Node Name="" DisplayName="Návod: Správa vnitropodnikové doručené pošty a pošty k odeslání" Page="intercompany-how-manage-intercompany-inbox.html"/>
+    </Node>
+    <Node Name="" DisplayName="Nákladové účetnictví" Page="finance-manage-cost-accounting.html">
+      <Node Name="" DisplayName="Terminologie nákladového účetnictví" Page="finance-terminology-in-cost-accounting.html"/>
+      <Node Name="" DisplayName="O nákladovém účetnictví" Page="finance-about-cost-accounting.html"/>
+      <Node Name="" DisplayName="Nastavení nákladového účetnictví" Page="finance-set-up-cost-accounting.html"/>
+      <Node Name="" DisplayName="Převod a účtování položek nákladů" Page="finance-transfer-and-post-cost-entries.html"/>
+      <Node Name="" DisplayName="Definování a rozdělení nákladů" Page="finance-define-and-allocate-costs.html"/>
+      <Node Name="" DisplayName="Vytvoření rozpočtů nákladů" Page="finance-create-cost-budgets.html"/>
+    </Node>
+    <Node Name="" DisplayName="Správa ocenění zásob" Page="finance-manage-inventory-costs.html">
+      <Node Name="" DisplayName="O ocenění zásob" Page="finance-learn-about-costing.html"/>
+      <Node Name="" DisplayName="Nastavení oceňování zásob a kalkulace nákladů" Page="finance-set-up-inventory-valuation-and-costing.html"/>
+      <Node Name="" DisplayName="Návod: Přecenění zásob" Page="inventory-how-revalue-inventory.html"/>
+      <Node Name="" DisplayName="Návod: Upravení nákladů" Page="inventory-how-adjust-item-costs.html"/>
+      <Node Name="" DisplayName="Návod: Zpracování nákladů zásob a výroby" Page="finance-handle-inventory-and-manufacturing-costs.html"/>
+      <Node Name="" DisplayName="Návod: Aktualizace pevné ceny" Page="finance-how-to-update-standard-costs.html"/>
+      <Node Name="" DisplayName="Vykazování nákladů a odsouhlasení s financemi" Page="finance-report-costs-and-reconcile-with-the-general-ledger.html"/>
+      <Node Name="" DisplayName="Podrobnosti návrhu: Ocenění zásob" Page="design-details-inventory-costing.html"/>
+    </Node>
+    <Node Name="" DisplayName="Finanční a nákladové účetnictví" Page="finance-general-ledger.html"/>
+    <Node Name="" DisplayName="Práce s dimenzemi" Page="finance-dimensions.html"/>
+    <Node Name="" DisplayName="Návod: Vytvoření rozpočtů" Page="finance-how-create-budgets.html"/>
+    <Node Name="" DisplayName="Návod: Zaúčtování transakcí přímo do hlavní knihy" Page="finance-how-post-transactions-directly.html"/>
+    <Node Name="" DisplayName="Návod: Stornování transakcí" Page="finance-how-reverse-journal-posting.html"/>
+    <Node Name="" DisplayName="Návod: Rozdělení nákladů a výnosů" Page="year-allocate-costs-income.html"/>
+    <Node Name="" DisplayName="Návod: Použití poplatků za zboží k účtu pro dodatečné obchodní náklady" Page="payables-how-assign-item-charges.html"/>
+    <Node Name="" DisplayName="Návod: Zaznamenání a úhrada výdajů zaměstnanců" Page="finance-how-record-reimburse-employee-expenses.html"/>
+    <Node Name="" DisplayName="Návod: Odložení příjmů a výdajů" Page="finance-how-defer-revenue-expenses.html"/>
+    <Node Name="" DisplayName="Návod: Import mzdových transakcí" Page="finance-how-import-payroll-transactions.html"/>
+    <Node Name="" DisplayName="Návod: Vykazování DPH" Page="finance-how-report-vat.html"/>
+    <Node Name="" DisplayName="Návod: Práce s DPH v prodeji a nákupu" Page="finance-work-with-vat.html"/>
+    <Node Name="" DisplayName="Návod: Převod servisních smluv, které zahrnují čáskty DPH" Page="service-how-to-convert-service-contracts.html"/>
+    <Node Name="" DisplayName="Analýza finančních výkazů v Excelu" Page="finance-analyze-excel.html"/>
+    <Node Name="" DisplayName="Analýza cash flow vaší společnosti" Page="finance-analyze-cash-flow.html"/>
+    <Node Name="" DisplayName="Uzavření roku a období" Page="year-close-years-periods.html">
+      <Node Name="" DisplayName="Návod: Určení účetních období" Page="finance-how-specify-posting-periods.html"/>
+      <Node Name="" DisplayName="Uzavřít období" Page="year-how-complete-period-end-processes.html"/>
+      <Node Name="" DisplayName="Návod: Úprava směnných kurzů" Page="finance-how-update-currencies.html"/>
+      <Node Name="" DisplayName="Návod: Rozdělení nákladů a výnosů" Page="year-allocate-costs-income.html"/>
+      <Node Name="" DisplayName="Návod: Vykazování DPH" Page="finance-how-report-vat.html"/>
+      <Node Name="" DisplayName="Připravte sestavy před uzavřením" Page="year-prepare-preclose-reports.html"/>
+      <Node Name="" DisplayName="Uzavřít knihy" Page="year-close-books.html"/>
+      <Node Name="" DisplayName="Připravte závěrečné výkazy" Page="year-prepare-close-statement.html"/>
+    </Node>
+  </Node>
+  <Node Name="" DisplayName="Business Intelligence" Page="bi.html">
+    <Node Name="" DisplayName="Návod: Analýza aktuálních částek a částek rozpočtu" Page="bi-how-analyze-actual-versus-budget.html"/>
+    <Node Name="" DisplayName="Návod: Práce s účetními schématy" Page="bi-how-work-account-schedule.html"/>
+    <Node Name="" DisplayName="Návod: Nastavení a publikování webové služby KPI účetního schéma" Page="bi-how-to-set-up-and-publish-kpi-web-services-based-on-account-schedules.html"/>
+    <Node Name="" DisplayName="Návod: Analýza dat dle dimenzí" Page="bi-how-analyze-data-dimension.html"/>
+    <Node Name="" DisplayName="Návod: Vytvoření sestav analýzy" Page="bi-how-create-analysis-views-reports.html"/>
+    <Node Name="" DisplayName="Návod: Vytvoření sestav s XBRL" Page="bi-create-reports-with-xbrl.html"/>
+  </Node>
+  <Node Name="" DisplayName="Prodej" Page="sales-manage-sales.html">
+    <Node Name="" DisplayName="Návod: Vytváření nabídek" Page="sales-how-make-offers.html"/>
+    <Node Name="" DisplayName="Návod: Fakturování prodeje" Page="sales-how-invoice-sales.html"/>
+    <Node Name="" DisplayName="Návod: Prodej zboží" Page="sales-how-sell-products.html"/>
+    <Node Name="" DisplayName="Návod: Vytvoření periodických prodejních a nákupních řádků" Page="sales-how-work-standard-lines.html"/>
+    <Node Name="" DisplayName="Návod: Vytvoření příme dodávky" Page="sales-how-drop-shipment.html"/>
+    <Node Name="" DisplayName="Návod: Vytvoření speciální objednávky" Page="sales-how-to-create-special-orders.html"/>
+    <Node Name="" DisplayName="Návod: Oprava nebo stornování nezaplacených prodejních faktur" Page="sales-how-correct-cancel-sales-invoice.html"/>
+    <Node Name="" DisplayName="Návod: Zpracování prodejních vratek nebo zuršení" Page="sales-how-process-sales-returns-cancellations.html"/>
+    <Node Name="" DisplayName="Návod: Práce s hromadnými objednávkami" Page="sales-how-to-create-blanket-sales-orders.html"/>
+    <Node Name="" DisplayName="Návod: Kombinování dodávek na jedné faktuře" Page="sales-how-to-combine-shipments-on-a-single-invoice.html"/>
+    <Node Name="" DisplayName="Návod: Výpočet přislíbených dat na objednávce" Page="sales-how-to-calculate-order-promising-dates.html"/>
+    <Node Name="" DisplayName="Návod: Sledování zásilek" Page="sales-how-track-packages.html"/>
+  </Node>
+  <Node Name="" DisplayName="Nákup" Page="purchasing-manage-purchasing.html">
+    <Node Name="" DisplayName="Návod: Zaznamenání nákupů" Page="purchasing-how-record-purchases.html"/>
+    <Node Name="" DisplayName="Návod: Vyžádání nabídky" Page="purchasing-how-request-quotes.html"/>
+    <Node Name="" DisplayName="Návod: Nákup zboží pro prodej" Page="purchasing-how-purchase-products-sale.html"/>
+    <Node Name="" DisplayName="Návod: Oprava nebo stornování nezaplacených nákupních faktur" Page="purchasing-how-correct-cancel-unpaid-purchase-invoices.html"/>
+    <Node Name="" DisplayName="Návod: Kombinace přjemek na jedné faktuře" Page="purchasing-how-to-combine-receipts.html"/>
+    <Node Name="" DisplayName="Návod: Zpracování nákupních vratek nebo zrušení" Page="purchasing-how-process-purchase-returns-cancellations.html"/>
+    <Node Name="" DisplayName="Výpočet dat pro nákupy" Page="purchasing-date-calculation-for-purchases.html"/>
+  </Node>
+  <Node Name="" DisplayName="Zásoby" Page="inventory-manage-inventory.html">
+    <Node Name="" DisplayName="Návod: Pořídit nové zboží" Page="inventory-how-register-new-items.html"/>
+    <Node Name="" DisplayName="Návod: Práce s kusovníky" Page="inventory-how-work-BOMs.html"/>
+    <Node Name="" DisplayName="Návod: Kategorizace zboží" Page="inventory-how-categorize-items.html"/>
+    <Node Name="" DisplayName="Návod: Práce s atributy zboží" Page="inventory-how-work-item-attributes.html"/>
+    <Node Name="" DisplayName="Návod: Práce s neskladovaným zbožím" Page="inventory-how-work-nonstock-items.html"/>
+    <Node Name="" DisplayName="Návod: Vypočítat, Adjustovat a Přeřadit zásoby" Page="inventory-how-count-adjust-reclassify.html"/>
+    <Node Name="" DisplayName="Návod: Zobrazení dostupnosti zboží" Page="inventory-how-availability-overview.html"/>
+    <Node Name="" DisplayName="Návod: Přeřazení zásob mezi lokacemi" Page="inventory-how-transfer-between-locations.html"/>
+    <Node Name="" DisplayName="Návod: Rezervace zboží" Page="inventory-how-to-reserve-items.html"/>
+    <Node Name="" DisplayName="Návod: Práce se sériovými čísly a čísly dávek" Page="inventory-how-work-item-tracking.html"/>
+    <Node Name="" DisplayName="Návod: Práce s centry odpovědnosti" Page="inventory-responsibility-centers.html"/>
+  </Node>
+  <Node Name="" DisplayName="Projekty" Page="projects-manage-projects.html">
+    <Node Name="" DisplayName="Návod: Vytvoření projektu" Page="projects-how-create-jobs.html"/>
+    <Node Name="" DisplayName="Návod: Použití zdrojů pro projekt" Page="projects-how-use-resources.html"/>
+    <Node Name="" DisplayName="Návod: Použití pracovních výkazů pro projekt" Page="projects-how-use-time-sheets.html"/>
+    <Node Name="" DisplayName="Návod: Správa rozpočtů projektu" Page="projects-how-manage-budgets.html"/>
+    <Node Name="" DisplayName="Návod: Zaznamenání spotřeby pro projekt" Page="projects-how-record-job-usage.html"/>
+    <Node Name="" DisplayName="Návod: Spravování dodávek pro projekt" Page="projects-how-manage-project-supplies.html"/>
+    <Node Name="" DisplayName="Seznámení s metodami nedokončené výroby" Page="projects-understanding-wip.html"/>
+    <Node Name="" DisplayName="Návod: Sledování průběhu projektu a výkonu" Page="projects-how-monitor-progress-performance.html"/>
+    <Node Name="" DisplayName="Návod: Fakturace projektů" Page="projects-how-invoice-jobs.html"/>
+  </Node>
+  <Node Name="" DisplayName="Dlouhodobý majetek" Page="fa-manage.html">
+    <Node Name="" DisplayName="Návod: Pořízení dlouhodobého majetku" Page="fa-how-acquire.html"/>
+    <Node Name="" DisplayName="Návod: Údržba dlouhodobého majetku" Page="fa-how-maintain.html"/>
+    <Node Name="" DisplayName="Návod: pojištění dlouhodobého majetku" Page="fa-how-insure.html"/>
+    <Node Name="" DisplayName="Návod: Přeřazení, rozdělení nebo kombinování dlouhodobého majetku" Page="fa-how-trans-split-combine.html"/>
+    <Node Name="" DisplayName="Návod: Přecenění dlouhodobého majetku" Page="fa-how-revalue.html"/>
+    <Node Name="" DisplayName="Návod: Odepisování nebo amortizace dlouhodobého majetku" Page="fa-how-depreciate-amortize.html"/>
+    <Node Name="" DisplayName="Návod: Vyřazení dlouhodobého majetku" Page="fa-how-dispose-retire.html"/>
+    <Node Name="" DisplayName="Návod: Správa rozpočtů pro dlouhodobý majetek" Page="fa-how-manage-budgets.html"/>
+  </Node>
+  <Node Name="" DisplayName="Správce vztahů" Page="marketing-relationship-management.html">
+    <Node Name="" DisplayName="Nastavení správce vztahů" Page="marketing-setup-marketing.html"/>
+    <Node Name="" DisplayName="Správa kontaktů" Page="marketing-contacts.html"/>
+    <Node Name="" DisplayName="Správa segmentů" Page="marketing-segments.html"/>
+    <Node Name="" DisplayName="Zaznamenání interakcí" Page="marketing-interactions.html"/>
+    <Node Name="" DisplayName="Správa příležitostí prodeje" Page="marketing-manage-sales-opportunities.html"/>
+    <Node Name="" DisplayName="Správa vztahů se zákazníky používajících Dynamics 365 for Sales z Dynamics NAV" Page="marketing-integrate-dynamicscrm.html"/>
+  </Node>
+  <Node Name="" DisplayName="Lidské zdroje" Page="hr-manage-human-resources.html">
+    <Node Name="" DisplayName="Návod: Pořízení zaměstnanců" Page="hr-how-register-employees.html"/>
+    <Node Name="" DisplayName="Návod: Správa absencí zaměstnanců" Page="hr-how-manage-absence.html"/>
+  </Node>
+  <Node Name="" DisplayName="Plánování" Page="production-planning.html">
+    <Node Name="" DisplayName="O funkčnosti plánování" Page="production-about-planning-functionality.html"/>
+    <Node Name="" DisplayName="Návod: Subdodávky výroby" Page="production-how-to-subcontract-manufacturing.html"/>
+    <Node Name="" DisplayName="Plánování s nebo bez lokací" Page="production-planning-with-without-locations.html"/>
+    <Node Name="" DisplayName="Návod: Vytváření předpovědí" Page="production-how-to-create-a-forecast.html"/>
+    <Node Name="" DisplayName="Návod: Vytváření výrobních zakázek z prodejních objednávek" Page="production-how-to-create-production-orders-from-sales-orders.html"/>
+    <Node Name="" DisplayName="Návod: Plánování zakázek projektu" Page="production-how-to-plan-project-orders.html"/>
+    <Node Name="" DisplayName="Návod: Plánování pro nové zakázky poptávky dle zakázky" Page="production-how-to-plan-for-new-demand.html"/>
+    <Node Name="" DisplayName="Návod: Spustit plné plánování, MPS nebo MRP" Page="production-how-to-run-mps-and-mrp.html"/>
+    <Node Name="" DisplayName="Návod: Přeplánování nebo aktualizace výrobních zakázek" Page="production-how-to-replan-refresh-production-orders.html"/>
+    <Node Name="" DisplayName="Návod: Sledování vztahů mezi poptávkou a dodávkou" Page="production-how-track-demand-supply.html"/>
+    <Node Name="" DisplayName="Návod: Úprava návrhů plánování v grafickém zobrazení" Page="production-how-to-modify-planning-suggestions-in-a-graphical-view.html"/>
+  </Node>
+  <Node Name="" DisplayName="Montáž" Page="assembly-assemble-items.html">
+    <Node Name="" DisplayName="Montáž na zakázku a Montáž na sklad" Page="assembly-assemble-to-order-or-assemble-to-stock.html"/>
+    <Node Name="" DisplayName="Návod: Nabídka montáže na zakázku" Page="assembly-how-to-quote-an-assemble-to-order-sale.html"/>
+    <Node Name="" DisplayName="Návod: Montáž zboží" Page="assembly-how-to-assemble-items.html"/>
+    <Node Name="" DisplayName="Návod: Prodej zboží vytvořeného montáží na zakázku" Page="assembly-how-to-sell-items-assembled-to-order.html"/>
+    <Node Name="" DisplayName="Návod: Prodej zásob zboží s vytvořením montáže na zakázku" Page="assembly-how-to-sell-inventory-items-in-assemble-to-order-flows.html"/>
+    <Node Name="" DisplayName="Návod: Společný prodej zboží vytvořeného montáží na zakázku a zásob" Page="assembly-how-to-sell-assemble-to-order-items-and-inventory-items-together.html"/>
+    <Node Name="" DisplayName="Návod: Stornování účtování montáže" Page="assembly-how-to-undo-assembly-posting.html"/>
+    <Node Name="" DisplayName="Návod: Práce s kusovníky" Page="inventory-how-work-BOMs.html"/>
+    <Node Name="" DisplayName="Podrobnosti návrhu: Účtování montážní zakázky" Page="design-details-assembly-order-posting.html"/>
+  </Node>
+  <Node Name="" DisplayName="Výroba" Page="production-manage-manufacturing.html">
+    <Node Name="" DisplayName="O výrobních zakázkách" Page="production-about-production-orders.html"/>
+    <Node Name="" DisplayName="Návod: Vytvoření výrobních zakázek" Page="production-how-to-create-production-orders.html"/>
+    <Node Name="" DisplayName="Návod: Subdodávky výroby" Page="production-how-to-subcontract-manufacturing.html"/>
+    <Node Name="" DisplayName="Návod: Účtování spotřeby a výstupu pro jeden řádek vydané výrobní zakázky" Page="production-how-to-register-consumption-and-output.html"/>
+    <Node Name="" DisplayName="Návod: Hromadné účtování spotřeby" Page="production-how-to-post-consumption.html"/>
+    <Node Name="" DisplayName="Návod: Hromadné účtování výstupu" Page="production-how-to-post-output-quantity.html"/>
+    <Node Name="" DisplayName="Návod: Účtování zmetků" Page="production-how-to-post-scrap.html"/>
+    <Node Name="" DisplayName="Návod: Zobrazení zatížení a strojní centra" Page="production-how-to-view-the-load-on-work-centers.html"/>
+    <Node Name="" DisplayName="Návod: Účtování kapacit" Page="production-how-to-post-capacities.html"/>
+    <Node Name="" DisplayName="O nákladech na dokončenou výrobní zakázku" Page="finance-about-finished-production-order-costs.html"/>
+  </Node>
+  <Node Name="" DisplayName="Sklad" Page="warehouse-manage-warehouse.html">
+    <Node Name="" DisplayName="Návod: Příjem zboží" Page="warehouse-how-receive-items.html"/>
+    <Node Name="" DisplayName="Návod: Přeložení zboží" Page="warehouse-how-to-cross-dock-items.html"/>
+    <Node Name="" DisplayName="Zaskladnění zboží" Page="warehouse-put-away-items.html"/>
+    <Node Name="" DisplayName="Přesun zboží" Page="warehouse-move-items.html"/>
+    <Node Name="" DisplayName="Vyskladnění zboží" Page="warehouse-pick-items.html"/>
+    <Node Name="" DisplayName="Návod: Dodání zboží" Page="warehouse-how-ship-items.html"/>
+  </Node>
+  <Node Name="" DisplayName="Servis" Page="service-service.html">
+    <Node Name="" DisplayName="Plánování servisu" Page="service-plan-service.html"/>
+    <Node Name="" DisplayName="Plnění servisních smluv" Page="service-fulfill-service-contracts.html"/>
+    <Node Name="" DisplayName="Dodání služby" Page="service-deliver-service.html"/>
+  </Node>
+  <Node Name="" DisplayName="Napříč obchodními oblastmi" Page="ui-across-business-areas.html">
+    <Node Name="" DisplayName="Návod: Definování rozšířených textů" Page="ui-how-define-ext-text.html"/>
+    <Node Name="" DisplayName="Práce s finančními deníky" Page="ui-work-general-journals.html"/>
+    <Node Name="" DisplayName="Návod: Odesílání dokumentů e-mailem" Page="ui-how-send-documents-email.html"/>
+    <Node Name="" DisplayName="Práce se sestavami" Page="ui-work-report.html"/>
+    <Node Name="" DisplayName="Správa rozvržení sestav" Page="ui-manage-report-layouts.html"/>
+    <Node Name="" DisplayName="Protokolování změn v Dynamics NAV" Page="across-log-changes.html"/>
+    <Node Name="" DisplayName="Návod: Správa uživatelů a oprávnění" Page="ui-how-users-permissions.html"/>
+    <Node Name="" DisplayName="Přizpůsobení Dynamics NAV pomocí rozšíření" Page="ui-extensions.html"/>
+    <Node Name="" DisplayName="Došlé doklady" Page="across-income-documents.html">
+      <Node Name="" DisplayName="Návod: Nastavení došlých dokladů" Page="across-how-setup-income-documents.html"/>
+      <Node Name="" DisplayName="Zpracování došlých dokladů" Page="across-process-income-documents.html"/>
+    </Node>
+    <Node Name="" DisplayName="Workflow" Page="across-workflow.html">
+      <Node Name="" DisplayName="Nastavení Workflow" Page="across-set-up-workflows.html"/>
+      <Node Name="" DisplayName="Použití Workflow" Page="across-use-workflows.html"/>
+    </Node>
+    <Node Name="" DisplayName="Výměna dat elektronicky" Page="across-data-exchange.html">
+      <Node Name="" DisplayName="O rozhraní pro výměnu dat" Page="across-about-the-data-exchange-framework.html"/>
+      <Node Name="" DisplayName="Nastavení výměny dat" Page="across-set-up-data-exchange.html"/>
+      <Node Name="" DisplayName="Výměna dat" Page="across-exchange-data.html"/>
+    </Node>
+    <Node Name="" DisplayName="Definování úloh uživatele" Page="across-user-tasks.html"/>
+  </Node>
+  <Node Name="" DisplayName="Průvodce obchodními procesy" Page="walkthrough-business-process-walkthroughs.html">
+    <Node Name="" DisplayName="Průvodce: Vedení prodejní kampaně" Page="walkthrough-conducting-a-sales-campaign.html"/>
+    <Node Name="" DisplayName="Průvodce: Nastavení a fakturování prodejních záloh" Page="walkthrough-setting-up-and-invoicing-sales-prepayments.html"/>
+    <Node Name="" DisplayName="Průvodce: Nastavení a použití workflow schvalování nákupu" Page="walkthrough-setting-up-and-using-a-purchase-approval-workflow.html"/>
+    <Node Name="" DisplayName="Průvodce: Příjem a zaskladnění v základné konfiguraci skladu" Page="walkthrough-picking-and-shipping-in-basic-warehousing.html"/>
+    <Node Name="" DisplayName="Průvodce: Příjem a zaskladnění v rozšířené konfiguraci skladu" Page="walkthrough-receiving-and-putting-away-in-advanced-warehousing.html"/>
+    <Node Name="" DisplayName="Průvodce: Plánování dodávek ručně" Page="walkthrough-planning-supplies-manually.html"/>
+    <Node Name="" DisplayName="Průvodce: Plánování dodávek automaticky" Page="walkthrough-planning-supplies-automatically.html"/>
+    <Node Name="" DisplayName="Průvodce: Prodejem, montáží a dodáním" Page="walkthrough-selling-assembling-and-shipping-kits.html"/>
+    <Node Name="" DisplayName="Průvodce: Správa projektů s úlohami" Page="walkthrough-managing-projects-with-jobs.html"/>
+    <Node Name="" DisplayName="Průvodce: Výpočet práce ve zpracování pro projekt" Page="walkthrough-calculating-work-in-process-for-a-job.html"/>
+    <Node Name="" DisplayName="Průvodce: Vyskladnění a dodání v základní konfiguraci skladu" Page="walkthrough-picking-and-shipping-in-basic-warehousing.html"/>
+    <Node Name="" DisplayName="Průvodce: Sledování dle sériových čísel/čísel dávek" Page="walkthrough-tracing-serial-lot-numbers.html"/>
+  </Node>
+  <Node Name="" DisplayName="Podrobnosti návrhu" Page="design-details-application-design.html">
+    <Node Name="" DisplayName="Podrobnosti návrhu: Položky sady dimenzí" Page="design-details-dimension-set-entries.html"/>
+    <Node Name="" DisplayName="Podrobnosti návrhu: Plánování dodávek" Page="design-details-supply-planning.html"/>
+    <Node Name="" DisplayName="Podrobnosti návrhu: Oceňování zásob" Page="design-details-inventory-costing.html"/>
+    <Node Name="" DisplayName="Podrobnosti návrhu: Řízení skladu" Page="design-details-warehouse-management.html"/>
+    <Node Name="" DisplayName="Podrobnosti návrhu: Sledování zboží" Page="design-details-item-tracking.html"/>
+    <Node Name="" DisplayName="Podrobnosti návrhu: Řádek finančního deníku" Page="design-details-general-journal-post-line.html"/>
+  </Node>
+  <Node Name="" DisplayName="Lokální funkčnosti" Page="index.html">
+    <Node Name="" DisplayName="Kanada" Page="LocalFunctionality/Canada/canada-local-functionality.html"/>
+    <Node Name="" DisplayName="Dánsko" Page="LocalFunctionality/Denmark/denmark-local-functionality.html"/>
+    <Node Name="" DisplayName="Velká Británie" Page="LocalFunctionality/UnitedKingdom/united-kingdom-local-functionality.html"/>
+    <Node Name="" DisplayName="USA" Page="LocalFunctionality/UnitedStates/united-states-local-functionality.html"/>
+  </Node>
+</Node>
