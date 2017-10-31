@@ -19,7 +19,8 @@
     }
   ],
   "notification_subscribers": [
-    "navualocbld@microsoft.com"
+    "navualocbld@microsoft.com",
+    "v-pejano@microsoft.com"
   ],
   "branches_to_filter": [
     "live-sxs"
