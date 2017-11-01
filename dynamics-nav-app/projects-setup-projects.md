@@ -1,38 +1,40 @@
 ---
-title: "Nastavení řízení projektu"
+title: "Nastavení zdrojů, pracovních výkazů a projektů"
+description: "Popisuje jak nastavit zdroje, pracovní výkazy a úlohy na řízení projektů."
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 11/01/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: cce5d36859336b3380bb43adc4f53b05a664042a
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: projects
+ms.date: 06/06/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 610e943f70908c402f3ad78d8ce2ee84e6033110
 ms.contentlocale: cs-cz
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
-# <a name="set-up-project-management"></a>Nastavení řízení projektu
-Než budete moci pro správu projektů používat [!INCLUDE[navnow](includes/navnow_md.md)], musíte nastavit zdroje, pracovní výkazy a úlohy.
+# <a name="setting-up-project-management"></a>Nastavení Správy vztahů
+Než budete moci pro správu projektů používat [!INCLUDE[d365fin](includes/d365fin_md.md)], musíte nastavit zdroje, pracovní výkazy a úlohy.
 
 Poté můžete vytvářet činnosti a plánovat zdroje pro projekty stejně jako spravovat rozpočty a sledovat hodiny strojů a zaměstnanců s pracovními výkazy. Další informace naleznete v tématu [Správa projektů](projects-manage-projects.md).  
 
-Následující tabulka popisuje sekvenci úloh s odkazy na témata, které je popisují.
+Následující tabulka popisuje sekvenci úloh s odkazy na témata, která je popisují.
 
-|Popis |Odkaz |
-|---|----|
-|Nastavte své zdroje a související náklady a ceny buď pro jednotlivé zdroje, skupiny zdrojů nebo pro všechny dostupné zdroje společnosti.|[Návod: Nastavení zdrojů](projects-how-setup-resources.md)|
-|Povolte zdroje pro oznamování využití času jednotlivce nebo stroje a povolte správci, aby zkontroloval využití a jeho přidělení.|[Návod: Nastavení pracovních výkazů](projects-how-setup-time-sheets.md)
-|Vytvořte pracovní karty a připravte pracovní úkoly. Nastavte ceny za položky projektu a zdroje projektu a definujte účetní skupiny projektu.|[Návod: Nastavení Projektů](projects-how-setup-jobs.md)|
+| Viz | také |
+| --- | --- |
+| Nastavte své zdroje a související náklady a ceny buď pro jednotlivé zdroje, skupiny zdrojů nebo pro všechny dostupné zdroje společnosti. |[Návody Nastavení zdrojů](projects-how-setup-resources.md) |
+| Povolte zdroje pro oznamování využití času jednotlivce nebo stroje a povolte správci, aby zkontroloval využití a jeho přidělení. |[Návody Nastavení pracovních výkazů](projects-how-setup-time-sheets.md) |
+| Vytvořte pracovní karty a připravte pracovní úkoly. Nastavte ceny za položky projektu a zdroje projektu a definujte účetní skupiny projektu. |[Návody Nastavení Projektů](projects-how-setup-jobs.md) |
 
 ## <a name="see-also"></a>Viz také
 [Správa projektů](projects-manage-projects.md)  
-[Finance](finance-setup.md)  
-[Správa nákupu](purchasing-manage-purchasing.md)         
-[Správa prodeje](sales-manage-sales.md)     
-[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
+[Finance](finance.md)  
+[Nákup](purchasing-manage-purchasing.md)         
+[Prodej](sales-manage-sales.md)     
+[Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

@@ -1,21 +1,24 @@
 ---
-title: "Vytváření kontaktních osob"
+title: "Vytvoření kontaktních osob"
+description: "Popisuje úkoly pro vytvoření kontaktní karty pro osobu, například pro průzkum nebo dodavatele, což pomáhá definovat vztah a přizpůsobit komunikaci."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 2d6fa08f83276d9da91f22215e578d98199cf4e3
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 34dc16ae3c6f9f6b11abca2480c7bcae9a0a3cab
 ms.contentlocale: cs-cz
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="create-contact-persons"></a>Vytváření kontaktních osob
+# <a name="creating-contact-persons"></a>Vytvoření kontaktních osob
 Kontakt vytvoříte nastavením kontaktní karty pro osobu. Můžete vytvářet kontaktní osoby z existujících kontaktních společností nebo vytvářet nezávislé kontaktní osoby.
 
 Například po setkání s potenciální společností se setkáte s kupujícím. Pro tuto osobu můžete vytvořit kontaktní kartu, takže komunikace může být přizpůsobena.
@@ -24,16 +27,18 @@ Můžete také potřebovat nějaké publikace o vašich přeložených produktec
 
 Nahrání co nejvíce informací o kontaktní osobě zajistí, že všechny skupiny ve vaší společnosti naleznou příslušné informace.
 
-Následující tabulka popisuje postup úkolů s odkazy na témata, která je popisují. Tyto úlohy jsou uvedeny v pořadí, ve kterém se obvykle provádějí.
+Následující tabulka popisuje sekvenci úloh s odkazy na témata, která je popisují. 
 
-|Popis |Odkaz |
-|---|----|
-|Poskytujte informace o kontaktní osobě.|[Návod: Vytváření kontaktní osoby](marketing-how-create-contact-persons.md)|
-|Nastavení alternativní adresy pro kontakt.|[Návod: Přiřazení alternativní adresy](marketing-how-assign-alternative-address.md)|
-|Popište obchodní vztah kontaktní společnosti.|[Nastavení pracovní odpovědnosti ke kontaktům](marketing-job-responsibilities.md)|
-|Popište organizační úroveň vašich kontaktů.|[Nastavení organizační úrovně pro kontaktní osoby](marketing-organizational-levels.md)|
-|Přiřaďte poštovní skupiny k vašim kontaktům.|[Přiřazení poštovní skupiny k vašim kontaktům](marketing-mailing-groups.md#assign-mailing-groups-to-a-contact)|
+| Viz | také |
+| --- | --- |
+| Poskytujte informace o kontaktní osobě. |[Návody Vytvoření kontaktních osob](marketing-how-create-contact-persons.md) |
+| Nastavení alternativní adresy pro kontakt. |[Návody Přiřazení alternativní adresy](marketing-how-assign-alternate-address.md) |
+| Popište obchodní vztah kontaktní společnosti. |[Návody Nastavení pracovních odpovědnosti ke kontaktům](marketing-job-responsibilities.md) |
+| Popište organizační úroveň vašich kontaktů. |[Návody Nastavení organizační úrovně pro kontaktní osoby](marketing-organizational-levels.md) |
+| Přiřaďte poštovní skupiny k vašim kontaktům |[Přiřazení poštovní skupiny ke kontaktu](marketing-mailing-groups.md) |
 
-##<a name="see-also"></a>Viz také
-[Vytváření kontaktních společností](marketing-create-contact-companies.md)
+## <a name="see-also"></a>Viz také
+[Vytvoření kontaktních společností](marketing-create-contact-companies.md)  
+[Vytváření a správa kontaktů]()  
+[Práce s Dynamics NAV](ui-work-product.md)
 

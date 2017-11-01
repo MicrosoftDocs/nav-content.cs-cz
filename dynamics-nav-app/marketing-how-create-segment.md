@@ -1,34 +1,38 @@
 ---
-title: "Návod: Vytvoření segmentů"
+title: "Vytvoření segmentů"
+description: "Popisuje, jak vytvořit segment pro skupinu kontaktů v aplikaci Dynamics NAV, například za účelem cílení na několik kontaktů s přímou poštou."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 62b9e2c54e7229e9c9e8fdd51f56ee874b34ab40
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 930f03d18612cd161137c92121e91b91aa1a21ac
 ms.contentlocale: cs-cz
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-create-segments"></a>Návod: Vytvoření segmentů
+# <a name="how-to-create-segments"></a>Návody Vytvoření segmentů
 Segmenty můžete vytvořit pro výběr skupiny kontaktů, například chcete-li vytvořit interakci zahrnující několik kontaktů, jakou je například přímá pošta.
 
 ## <a name="to-create-a-segment"></a>Vytvoření segmentu
-1. Na domovské stránce vyberte **Aktivní segmenty**. Nebo v pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Segmenty** a zvolte související odkaz.
+1. Na domovské stránce vyberte **Aktivní segmenty**. , Zvolte ikonu ![Vyhledat stránku nebo sestavu](media/ui-search/search_small.png "Ikona Vyhledat stránku nebo sestavu"), zadejte **Segmenty** a vyberte související odkaz.
 2. Vyberte akci **Nový**.
 3. V sekci **Obecné** v poli **Číslo** zadejte číslo segmentu.
 
     Alternativně, pokud jste nastavili číselné řady pro segmenty v okně **Nastavení marketingu**, můžete zmáčknout Enter pro vybrání dalšího čísla segmentu, které je k dispozici.
 4. Vyplňte pole v hlavičce.
 
-Nyní můžete do segmentu přidat kontakty. Pro další informace viz [Návod: Přidání kontaktů do segmentů](marketing-add-contact-segment.md).
+Nyní můžete do segmentu přidat kontakty. Další informace naleznete v tématu [Návod: Přidání kontaktů do segmentů.](marketing-add-contact-segment.md).
 
-##<a name="see-also"></a>Viz také
+## <a name="see-also"></a>Viz také
 [Správa segmentů](marketing-segments.md)  
 [Správa prodejních příležitostí](marketing-manage-sales-opportunities.md)  
+[Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

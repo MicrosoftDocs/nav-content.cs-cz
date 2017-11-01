@@ -1,54 +1,58 @@
 ---
-title: "Návod: Správa rozpočtů projektu"
+title: "Nastavení a správa rozpočtů projektu"
+description: "Popisuje jak plánovat zdroje, dále předpovídat a řídit náklady projektu pomocí nastavení rozpočtu pro každý projekt. "
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 11/01/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: c28e23c4ae0082265357a567ea82795b77ac8f1c
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: project budget, forecast
+ms.date: 06/06/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 69ac2811e90985f49739ef3e5df020f136112654
 ms.contentlocale: cs-cz
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
-# <a name="how-to-manage-job-budgets"></a>Návod: Správa rozpočtů projektu
+# <a name="how-to-manage-job-budgets"></a>Návody Správa rozpočtů projektu
 Můžete nastavit rozpočet pro každý projekt. Rozpočet se používá k plánování zdrojů, které přidělíte projektu. Rozpočet může být buď obecný s několika položkami nebo může obsahovat více položek rozdělených do úrovní aktivit. Poté můžete porovnat rozpočtové částky se skutečnou spotřebou, jak je zaznamenáno v deníku projektů. Monitorováním rozdílů mezi skutečnou spotřebou a rozpočtovou spotřebou můžete řídit probíhající projekt a zlepšit kvalitu budoucích pracovních míst tím, že snížíte riziko podhodnocení nákladů.
 
-Následující postup popisuje, jak odhadnout rozpočtované náklady během plánování. Informace o zaznamenaném rozpočtu versus skutečné ceně a nákladům naleznete v části [Návod: Záznam využití pro projekty](projects-how-record-job-usage.md).  
+Následující postup popisuje, jak odhadnout rozpočtované náklady během plánování. Informace o zaznamenaném rozpočtu versus skutečné ceně a nákladům naleznete v části [Návod: Záznam spotřeby pro projekty](projects-how-record-job-usage.md).  
 
-## <a name="JobBudgetCosts"></a> Odhadnutí rozpočtových nákladů na projekt  
+## <a name="JobBudgetCosts"></a> Odhadnutí rozpočtových nákladů na projekt
 Pokud chce zákazník znát cenu projektu, která bude fakturována na základě jejího použití, musíte určit výši rozpočtových nákladů na projekt. K tomu použijte okno **Řádky úlohy projektu**.
 
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Projekty** a zvolte související odkaz.  
+1. Zvolte ikonu ![Vyhledat stránku nebo sestavu](media/ui-search/search_small.png "Ikona Vyhledat stránku nebo sestavu"), zadejte **Projekty** a vyberte související odkaz.  
 2. Otevřete příslušný projekt.
 3. Vyberte řádek úlohy typu Účet a poté vyberte akci **Řádky plánování projektu**.
-4. Na novém řádku, vyplňte pole podle potřeby. Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.   
+4. Na novém řádku, vyplňte pole podle potřeby. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]   
 
 U pole **Typ řádku** naleznete následující informace.  
 
-|Typ řádku |Popis |
-|----------|------------|
-|**Oba typy Plán a Fakturovatelné**|Částky nákladů a cen zapsané na řádku plánování jsou rozpočtové náklady na konkrétním řádku plánování. Cena bude fakturována.|
-|**Plán**|Zákazník za spotřebu neúčtuje. Spotřeba není převedena na fakturu, ale bude se i nadále používat při výpočtu NV.|
-|**Fakturovatelné**|Zákazníkovi je účtována spotřeba. Spotřeba je převedena na fakturu na základě množství specifikovaného v poli Množství k přesunu do faktury.|
+| Typ řádku | Popis |
+| --- | --- |
+| **Oba typy Plán a Fakturovatelné** |Částky nákladů a cen zapsané na řádku plánování jsou rozpočtové náklady na konkrétním řádku plánování. Cena bude fakturována. |
+| **Plán** |Zákazník za spotřebu neúčtuje. Spotřeba není převedena na fakturu, ale bude se i nadále používat při výpočtu NV. |
+| **Fakturovatelné** |Zákazníkovi je účtována spotřeba. Spotřeba je převedena na fakturu na základě množství specifikovaného v poli Množství k fakturaci. |
 
-**Poznámka**: Pole **Datum plánování** pro řádek plánování obsahuje datum, kdy se očekává, že bude spotřeba související s řádkem plánování dokončena. Je také datem, kdy lze řádek plánování převést na prodejní fakturu a zaúčtovat ji.  
+> [!NOTE]  
+>   Pole **Datum plánování** pro řádek plánování obsahuje datum, kdy se očekává, že bude spotřeba související s řádkem plánování dokončena. Je také datem, kdy lze řádek plánování převést na prodejní fakturu a zaúčtovat ji.  
 
-**Poznámka**: Po vyplnění pole **Množství** se pro tento řádek plánování vypočítají a vyplní veškeré informace o celkové ceně a celkových nákladech. Můžete je kdykoli upravit.
+> [!NOTE]  
+>   Po vyplnění pole **Množství** se pro tento řádek plánování vypočítají a vyplní veškeré informace o celkové ceně a celkových nákladech. Můžete je kdykoli upravit.
 
 V okně **Karta projektu** můžete nyní zobrazit souhrn všech rozpočtových nákladů, rozpočtovou cenu, fakturační náklady a fakturační cenu pro každou činnost.
 
-Informace o zaznamenaném rozpočtu versus skutečné ceně a nákladům naleznete v části [Návod: Využití záznamu pro projekty](projects-how-record-job-usage.md).
+Informace o zaznamenaném rozpočtu versus skutečné ceně a nákladům naleznete v části [Návod: Záznam spotřeby pro projekty](projects-how-record-job-usage.md).
 
 ## <a name="see-also"></a>Viz také
-[Správa projektů](projects-manage-projects.md)  
-[Finance](finance-setup.md)  
-[Správa nákupu](purchasing-manage-purchasing.md)         
-[Správa prodeje](sales-manage-sales.md)      
-[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
+[Řízení projektů](projects-manage-projects.md)  
+[Finance](finance.md)  
+[Nákup](purchasing-manage-purchasing.md)         
+[Prodej](sales-manage-sales.md)      
+[Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 
