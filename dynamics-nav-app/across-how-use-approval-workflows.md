@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/23/2017
 
 ---
-# <a name="how-to-use-approval-workflows"></a>Návody: Použití schvalovacího workflow
+# <a name="how-to-use-approval-workflows"></a>Návod: Použití schvalovacího workflow
 Pokud musí být záznam, například nákupní doklad nebo zákaznická karta schválen někým ve vaší organizaci, odešlete požadavek na schválení jako součást workflow. Na základě nastavení workflow je příslušná schvalující osoba informována o tom, že záznam vyžaduje schválení.
 
 Nastavení schvalovacího workflow v okně **Workflow**. Další informace naleznete v tématu: [Nastavení workflow](across-set-up-workflows.md).

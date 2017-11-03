@@ -28,6 +28,6 @@ Obsah na domovské stránce je založen na vybraném Centru rolí. Standardním 
 4. Odhlaste se ze služby Dynamics NAV a poté se znovu přihlaste, aby se změna projevila.
 
 ## <a name="see-also"></a>Viz také
-[Vítejte v Dynamics NAV](across-get-started.md)  
-[Pracujte s Dynamics NAV](ui-work-product.md)  
+[Vítejte v aplikaci Dynamics NAV](across-get-started.md)  
+[Práce s Dynamics NAV](ui-work-product.md)  
 

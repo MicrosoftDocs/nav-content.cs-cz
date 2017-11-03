@@ -40,7 +40,7 @@ Proces došlých dokladů se může skládat z následujících hlavních činno
 
 | Popis | Odkaz |
 | --- | --- |
-| Nastavení funkcí Došlých dokladů a nastavení služby OCR. |[Návody: Nastavení Došlých dokladů](across-how-setup-income-documents.md) |
+| Nastavení funkcí Došlých dokladů a nastavení služby OCR. |[Návod: Nastavení došlých dokladů](across-how-setup-income-documents.md) |
 | Vytváření záznamů došlého dokladu, připojení souborů, použítí OCR k tomu, abyste soubory PDF převedli do elektronických dokladů a elektronické doklady na záznamy dokladů, auditovaly záznamy došlého dokladu ze zaúčtovaných prodejních a nákupních dokladů. |[Správa došlých dokumentů](across-process-income-documents.md) |
 
 ## <a name="see-also"></a>Viz také

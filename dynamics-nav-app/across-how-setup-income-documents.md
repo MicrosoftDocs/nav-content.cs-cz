@@ -1,6 +1,6 @@
 ---
-title: "Nastavení Došlých dokladů"
-description: "Pomocí funkce Došlých dokladů můžete vytvářet elektronické doklady, spravovat úlohy OCR, importovat faktury a převádět obrazové soubory."
+title: "Nastavení došlých dokladů"
+description: "Pomocí funkce došlých dokladů můžete vytvářet elektronické doklady, spravovat úlohy OCR, importovat faktury a převádět obrazové soubory."
 documentationcenter: 
 author: SorenGP
 ms.prod: dynamics-nav-2017
@@ -18,16 +18,16 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-set-up-incoming-documents"></a>Návody: Nastavení Došlých dokladů
+# <a name="how-to-set-up-incoming-documents"></a>Návod: Nastavení došlých dokladů
 Pokud vytvoříte řádky finančního deníku ze záznamů došlého dokladu, musíte zadat v okně **Nastavení došlých dokladů** šablonu deníku a dávku, které chcete použít.
 
 Pokud nechcete, aby uživatelé vytvářeli faktury nebo řádky finančního deníku ze záznamů došlého dokladu, pokud nejsou doklady prvně schváleny, je nutné nastavit schvalovatele v okně **Schvalovatelé došlého dokladu**.
 
 Chcete-li soubory PDF a obrázkové soubory převést do elektronických dokumentů, které lze převést například na nákupní faktury v [!INCLUDE[d365fin](includes/d365fin_md.md)], musíte nejprve nastavit funkci OCR a povolit službu.
 
-Když je nastavena funkce Došlých dokladů, můžete použít různé funkce pro kontrolu výdajů, správu úloh OCR a převod souborů došlého dokladu ručně nebo automaticky na příslušné doklady nebo řádky deníku. Externí soubory lze připojit v libovolné fázi procesu včetně zaúčtovaných dokladů a výsledných záznamů prodejce, zákazníka a položek hlavní knihy. Další informace naleznete v tématu [Proces došlých dokladů](across-process-income-documents.md).
+Když je nastavena funkce došlých dokladů, můžete použít různé funkce pro kontrolu výdajů, správu úloh OCR a převod souborů došlého dokladu ručně nebo automaticky na příslušné doklady nebo řádky deníku. Externí soubory lze připojit v libovolné fázi procesu včetně zaúčtovaných dokladů a výsledných záznamů prodejce, zákazníka a položek hlavní knihy. Další informace naleznete v tématu [Proces došlých dokladů](across-process-income-documents.md).
 
-## <a name="to-set-up-the-incoming-documents-feature"></a>Nastavení funkcí Došlých dokladů
+## <a name="to-set-up-the-incoming-documents-feature"></a>Nastavení funkcí došlých dokladů
 1. Zvolte ikonu ![Vyhledat stránku nebo sestavu](media/ui-search/search_small.png "Ikona Vyhledat stránku nebo sestavu"), zadejte **Nastavení došlých dokladů** a pak vyberte související odkaz.
 2. Vyplňte pole dle potřeby. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
@@ -54,7 +54,7 @@ Doporučuje se chránit přihlašovací informace, které zadáte do okna **Nast
 2. Okno **Správa šifrování dat** umožňuje šifrování vašich dat.
 
 ## <a name="see-also"></a>Viz také
-[Proces Došlých dokladů](across-process-income-documents.md)  
+[Proces došlých dokladů](across-process-income-documents.md)  
 [Došlé doklady](across-income-documents.md)  
 [Nákup](purchasing-manage-purchasing.md)  
 [Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

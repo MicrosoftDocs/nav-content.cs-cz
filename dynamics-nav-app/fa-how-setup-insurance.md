@@ -1,56 +1,65 @@
 ---
-title: "Návod: Nastavení pojištění dlouhodobého majetku"
+title: "Nastavení pojištění DM"
+description: "Nastavte kartu pojištění a informace o všeobecných pojistných smlouvách ke správě pojistného krytí dlouhodobého majetku."
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 44bb5f20702a01d9fbbc025889ec2bc3191813be
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: policy, coverage
+ms.date: 06/02/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 0c0b553adee7df5979352999c60549b280501926
 ms.contentlocale: cs-cz
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # <a name="how-to-set-up-fixed-asset-insurance"></a>Návod: Nastavení pojištění dlouhodobého majetku
 Ke správě pokrytí pojištění dlouhodobého majetku musíte nejprve nastavit obecné informace o pojištění a kartě pojištění dle určitých zásad.
 
-## <a name="to-set-up-general-insurance-information"></a>Nastavení obecných informací o pojištění  
-K používání pojišťovacích funkcí v [!INCLUDE[navnow](includes/navnow_md.md)] musíte nastavit obecné informace o pojištění.  
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zvolte **Nastavení DM**, a zvolte související odkaz.  
-2. Vyplňte pole dle potřeby. Vyberte pole k zobrazení krátkého popisu pole nebo odkaz pro více informací.  
+## <a name="to-set-up-general-insurance-information"></a>Nastavení obecných informací o pojištění
+K používání pojišťovacích funkcí v [!INCLUDE[d365fin](includes/d365fin_md.md)] musíte nastavit obecné informace o pojištění.  
 
-## <a name="to-set-up-insurance-types"></a>Nastavení typů pojištění  
+1. Zvolte ikonu ![Vyhledat stránku nebo sestavu](media/ui-search/search_small.png "Ikona Vyhledat stránku nebo sestavu"), zadejte **Nastavení DM** a pak vyberte související odkaz.  
+2. Vyplňte pole dle potřeby. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
+
+## <a name="to-set-up-insurance-types"></a>Nastavení typů pojištění
 Můžete seskupit vaše zásady pojištění do kategorií, např. pojištění proti krádeži nebo pojištění proti požáru. Typy pojištění jsou používány na kartě pojištění.
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, vyberte **Typy pojištění** a zvolte související odkaz.  
+
+1. Zvolte ikonu ![Vyhledat stránku nebo sestavu](media/ui-search/search_small.png "Ikona Vyhledat stránku nebo sestavu"), zadejte **Typy pojištění** a pak vyberte související odkaz.  
 2. Vyplňte pole dle potřeby.
 
-## <a name="to-set-up-insurance-cards"></a>Nastavení karty pojištění  
+## <a name="to-set-up-insurance-cards"></a>Nastavení karty pojištění
 Na kartě pojištění můžete shromažďovat informace o každé pojišťovací zásadě.  
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zvolte **Pojištění** a zvolte související odkaz.  
+
+1. Zvolte ikonu ![Vyhledat stránku nebo sestavu](media/ui-search/search_small.png "Ikona Vyhledat stránku nebo sestavu"), zadejte **Pojištění** a pak vyberte související odkaz.  
 2. V okně **Pojištění** vyberte akci **Nový** na vytvoření nové pojišťovací karty.  
 3. Vyplňte pole dle potřeby.
 
-## <a name="to-set-up-insurance-journal-templates"></a>Nastavení šablon deníku pojištění  
-[!INCLUDE[navnow](includes/navnow_md.md)] automaticky vytvoří šablonu deníku pojištění při prvním otevření okna **Deníky pojištění**, ale můžete nastavit i další šablony deníku pojištění. Pro další informace se podívejte na [Práce s finančními deníky](ui-work-general-journals.md).  
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zvolte **Šablony deníku pojištění** a zvolte související odkaz.  
+## <a name="to-set-up-insurance-journal-templates"></a>Nastavení šablon deníku pojištění
+[!INCLUDE[d365fin](includes/d365fin_md.md)] automaticky vytvoří šablonu deníku pojištění při prvním otevření okna **Deníky pojištění**, ale můžete nastavit i další šablony deníku pojištění. Pro další informace se podívejte na [Práce s finančními deníky](ui-work-general-journals.md).  
+
+1. Zvolte ikonu ![Vyhledat stránku nebo sestavu](media/ui-search/search_small.png "Ikona Vyhledat stránku nebo sestavu"), zadejte **Šablony deníku pojištění** a pak vyberte související odkaz.  
 2. Vyplňte pole dle potřeby.
 
-## <a name="to-set-up-insurance-journal-batches"></a>Nastavení dávky deníku pojištění  
+## <a name="to-set-up-insurance-journal-batches"></a>Nastavení dávky deníku pojištění
 Můžete nastavit dávky v šabloně deníku pojištění. Hodnoty v dávce deníku jsou používány jako výchozí hodnoty, pokud pole není vyplněno na řádku deníku. Pro další informace se podívejte na [Práce s finančními deníky](ui-work-general-journals.md)  
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zvolte **Šablony deníku pojištění** a zvolte související odkaz.  
+
+1. Zvolte ikonu ![Vyhledat stránku nebo sestavu](media/ui-search/search_small.png "Ikona Vyhledat stránku nebo sestavu"), zadejte **Šablony deníku pojištění** a pak vyberte související odkaz.  
 2. Vyberte šablonu deníku pojištění a pak vyberte akci **Listy**.
 3. V okně **Listy deníku pojištění** vyplňte pole podle potřeby.
 
-**POZNÁMKA**: Čísla mají v názvech deníků zvláštní funkci. Pokud šablona nebo list deníku obsahuje číslo, číslo je automaticky inkrementováno o jedna pokaždé, když je deník účtován. Např. pokud HH1 je zvoleno v poli **Název**, název deníku se změní na HH2 potom, co deník HH1 byl zaúčtován.
+> [!NOTE]  
+>   Čísla mají v názvech deníků zvláštní funkci. Pokud šablona nebo list deníku obsahuje číslo, je automaticky inkrementováno o jedna pokaždé, když je deník účtován. Např. pokud HH1 je zvoleno v poli **Název**, název deníku se změní na HH2 potom, co deník HH1 byl zaúčtován.
 
 ## <a name="see-also"></a>Viz také
-[Nastavení dlouhodobého majetku](fa-setup.md)  
-[Správa dlouhodobého majetku](fa-manage.md)  
-[Finance](finance-setup.md)  
-[Vítejte v [!INCLUDE[navnow](includes/navnow_md.md)]](across-get-started.md)
+[Nastavení DM](fa-setup.md)  
+[Dlouhodobý majetek](fa-manage.md)  
+[Finance](finance.md)  
+[Vítejte v [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
+[Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

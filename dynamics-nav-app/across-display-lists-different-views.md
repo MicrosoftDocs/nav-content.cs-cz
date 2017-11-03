@@ -28,5 +28,5 @@ Můžete importovat obrázek pro specifické zboží tím, že jdete na kartu **
 
 ## <a name="see-also"></a>Viz také
 [Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-[Návody: Registrace nového zboží](inventory-how-register-new-items.md)  
+[Návod: Registrace nového zboží](inventory-how-register-new-items.md)  
 

@@ -1,44 +1,45 @@
 ---
-title: "Návod: Definování rozvržení šeku"
-author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
+title: "Určete rozvržení šeku"
+description: "Můžete upravit a vytisknout vaše šeky v různých formátech, aby byly v souladu s normami."
+documentationcenter: 
+author: edupont04
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 50d0b1ac6250d4f9bfd1734b06be9a9621f6f233
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: print check, customize
+ms.date: 06/15/2017
+ms.author: edupont
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: d99326be66bf16a4a756d9f78e11f9af37e11fbd
 ms.contentlocale: cs-cz
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # <a name="how-to-define-check-layouts"></a>Návod: Definování rozvržení šeku
-
 Můžete navrhovat své šeky k přizpůsobení standardů nastavených místními úřady. Obrazy šeků můžou být vytištěny v angličtině, francouzštině nebo španělštině.
 
 Šeky jsou navrženy k tisku v obou formátech, americkém i kanadském buď ve formátu check-stub-check nebo stub-stub-check.
 
 ## <a name="to-define-check-layouts"></a>Definování rozvržení šeku
-1. V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Výběr sestav - bank.účet** a pak vyberte související odkaz.
-2. V okně **Sestava výběru - bankovní účet** v poli **Využití** vyberte **Šek**.
+1. Zvolte ikonu ![Vyhledat stránku nebo sestavu](media/ui-search/search_small.png "Ikona Vyhledat stránku nebo sestavu"), zadejte **Výběry sestav bankovního účtu** a pak vyberte související odkaz.
+2. V okně **Výběry sestav – Bank.účet** vyberte v poli **Použití** možnost **Šek**.
 3. Vyberte jedno z následujících ID sestav.
 
-| ID sestavy   | Název sestavy   | Popis |
-|-------------|---------------|-------------|
-|1401|Šek|Toto je výchozí sestava.|
-|10401|Šek (Stub/Stub/Check)|Tahle sestava je navržena k tisku šeků ve formátu (zástupná procedura/zástupná procedura/šek).|
-|10411|Šek (Stub/Check/Stub)|Tahle sestava je navržena k tisku šeků ve formátu (check/stub/check).|
+| ID sestavy | Název sestavy | Popis |
+| --- | --- | --- |
+| 1401 |Šek |Toto je výchozí sestava. |
+| 10401 |Šek (Stub/Stub/Check) |Tahle sestava je navržena k tisku šeků ve formátu (zástupná procedura/zástupná procedura/šek). |
+| 10411 |Šek (Stub/Check/Stub) |Tahle sestava je navržena k tisku šeků ve formátu (check/stub/check). |
 
-Když musíte nastavit rozložení šeku, můžete tisknout z okna **Deník plateb**. Další informace naleznete v tématu [Práce se šeky](payables-how-work-checks.md).
+Když musíte nastavit rozložení šeku, můžete tisknout z okna **Deník plateb**. Další informace naleznete v tématu [Návod: Práce s šeky](payables-how-work-checks.md).
 
 ## <a name="see-also"></a>Viz také
 [Správa závazků](payables-manage-payables.md)  
-[Spravovat bankovní účty.](bank-manage-bank-accounts.md)   
+[Správa bankovních účtů](bank-manage-bank-accounts.md)   
 [Dokončování procesů na konci období](year-how-complete-period-end-processes.md)  
-[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
-[Napříč obchodními oblastmi](ui-across-business-areas.md)
+[Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Obecné obchodní funkce](ui-across-business-areas.md)
 

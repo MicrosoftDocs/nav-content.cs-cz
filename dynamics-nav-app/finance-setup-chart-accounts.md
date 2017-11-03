@@ -1,38 +1,45 @@
 ---
-title: "Nastavení nebo změna účtové osnovy"
+title: "Nastavení účetní osnovy"
+description: "Změňte výchozí účty v účetní osnově (COA) a můžete přidat nové účty."
+documentationcenter: 
 author: edupont04
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 48cd91958545b40b2ab0c5e48442fc874845af5b
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: COA, cha of acc
+ms.date: 06/02/2017
+ms.author: edupont
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: b9ed31ae8e7478f57457ad68fd69d7809f706e2a
 ms.contentlocale: cs-cz
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
-# <a name="set-up-or-change-the-chart-of-accounts"></a>Nastavení nebo změna účtové osnovy
-Účtová osnova ukazuje účet hlavní knihy, který ukládá vaše finanční data. [!INCLUDE[navnow](includes/navnow_md.md)] zahrnuje standardní účtovou osnovu, která je připravena podpořit váš obchod.
+# <a name="setting-up-or-changing-the-chart-of-accounts"></a>Nastavení nebo změna účetní osnovy
+Účetní osnova ukazuje účet hlavní knihy, který ukládá vaše finanční data. [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] zahrnuje standardní účetní osnovu, která je připravena podpořit váš obchod.
 Avšak můžete měnit výchozí účty a přidávat nové.  
 
 ## <a name="adding-or-changing-accounts"></a>Přidání nebo změna účtů
 Z účtové osnovy můžete otevřít každý finanční účet a přidat nebo změnit nastavení.
 
-**Poznámka**: Můžete smazat účet hlavní knihy. Avšak než jej smažete, musí platit následující:  
-- Zůstatek na účtu musí být nula.  
-- Pole **Povolit odstranění finančního účtu před** musí být nastaveno v okně **Nastavení financí** a účet nesmí mít položky toho data či po něm.  
-- Pokud pole **Kontrolovat použití fin. účtu** v okně **Nastavení financí** je vybráno, pak účet nesmí být využíván v žádné z účtovacích skupin nebo účtovacího nastavení.  
+> [!NOTE]  
+>   Můžete smazat účet hlavní knihy. Avšak než jej smažete, musí platit následující:  
 
-[!INCLUDE[navnow](includes/navnow_md.md)] bude předcházet tomu, abyste si vymazali účet hlavní knihy, který ukládá potřebné data v účtové osnově.  
+* Zůstatek na účtu musí být nula.  
+* Pole **Povolit odstranění finančního účtu před** musí být nastaveno v okně **Nastavení financí** a účet nesmí mít položky toho data či po něm.  
+* Pokud pole **Kontrolovat použití fin.účtu** v okně **Nastavení financí** je vybráno, pak účet nesmí být využíván v žádné z účtovacích skupin nebo účtovacího nastavení.  
 
-##<a name="see-also"></a>Viz také  
-[Hlavní kniha a Účetní osnova](finance-setup-general-ledger.md)  
-[Spravovat bankovní účty.](bank-manage-bank-accounts.md)  
-[Dimenze](finance-setup-dimensions.md)  
-[Návod: Práce s GIFI kódy v Kanadě](ca-finance-setup-work-GiFI-codes.md)
+[!INCLUDE[d365fin](includes/d365fin_md.md)] bude předcházet tomu, abyste si vymazali finanční účty, které ukládají potřebné data v účetní osnově.  
+
+## <a name="see-also"></a>Viz také
+[Hlavní kniha a Účetní osnova](finance-general-ledger.md)  
+[Správa bankovních účtů](bank-manage-bank-accounts.md)  
+[Práce s Dimenzemi](finance-dimensions.md)  
+[Import z jiných finančních systémů](upload-data.md)  
+[Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+
+## 
 

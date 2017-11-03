@@ -1,40 +1,51 @@
 ---
-title: "Zadání výběru tiskáren pro sestavy"
+title: "nastavení Nastavení sestav k tisku na dané tiskárně"
+description: "Naučte se specifikovat tiskárnu pro tisk sestav a použít výběr tiskárny."
+documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: online printing
+ms.date: 03/29/2017
+ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: 56a5c1428651162293e56d71e2369fe55d291594
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 4c31738da8ca833c06d976d26b9cb170a05fd46e
 ms.contentlocale: cs-cz
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-    
-# <a name="specify-printer-selection-for-reports"></a>Zadání výběru tiskáren pro sestavy
-Můžete nastavit sestavy tak, aby byly vytištěny na konkrétní tiskárně. Níže jsou uvedeny některé způsoby použití výběru tiskárny: 
+# <a name="specify-printer-selection-for-reports"></a>Výběr specifické tiskárny pro sestavy
+Tato stránka je prázdná protože nebůžete nastavit specifickou tiskárnu pro specifickou sestavu. Pracujeme na vyřešení problému..
 
-- Můžete tisknout sestavy se speciálními hlavičkami společnosti. 
-- Můžete tisknout sestavy na různě velké papíry.
-- Můžete vytisknout sestavy na výchozí tiskárně konkrétního zaměstnance.
+Mezitím, pokud budete chtít tisknout sestavu, musíte stáhnout sestavu jako PDF dokument a kliknout na tlačítko **Odeslat do**. Poté vyberete jaký typ formátu sestavy chcete stáhnout a zde kliknete na **PDF dokument**. Nyní můžete otevřít PDF dokument a rovnou ho vytisknout nebo uložit na pozdější tisk.
 
-V okně **Výběr tiskárny** můžete nastavit různé hodnoty pro získání odlišného výstupu. Pokud nastavíte konkrétní výběr tiskárny, bude mít přednost před obecnějším výběrem tiskárny. Můžete například nastavit výběr tiskárny, který obsahuje hodnoty v poli **ID uživatele**, **ID sestavy** a **Název tiskárny**. Tato volba tiskárny má přednost před volbou tiskárny s prázdnými položkami v polích **ID uživatele**, nebo **ID sestavy**. 
+<!--
 
-Následující tabulka popisuje kombinaci hodnot určených pro nastavení výběru tiskárny pro sestavu.
+You can set up reports so that they must be printed on a specific printer. The following are some uses of printer selection:
 
-|K                                                 |Nastavení následujících hodnot                                             |
+- You can print reports on special company letterhead.
+- You can print reports on different paper sizes.
+- You can print reports on the default printer of a specified employee.
+
+You use the **Printer Selections** window to set different values to obtain different output. If you set a specific printer selection, then it takes precedence over a more general printer selection. For example, you can set a printer selection that has values in the **User ID**, **Report ID**, and **Printer Name** fields. This printer selection takes precedence over a printer selection that has blank entries in the **User ID** or **Report ID** fields.
+
+The following table describes the combination of values to specify when you set up printer selections for a report.
+
+|To                                                 |Set the following values                                             |
 |---------------------------------------------------|---------------------------------------------------------------------|
-|Vytiskněte sestavu na konkrétní tiskárně pro všechny uživatele |Určete hodnoty v polích **ID sestavy** a **Název tiskárny** a pole **ID uživatele** nechejte prázdné.|
-|Vytiskněte všechny sestavy na konkrétní tiskárně pro konkrétního uživatele|Zadejte hodnoty v polích **ID uživatele** a **Název tiskárny** a pole **ID sestavy** nechejte prázdné.|
-|Nastavte výchozí tiskárnu pro všechny sestavy|Zadejte hodnotu v poli **Název tiskárny** a pole **ID uživatele** a **ID sestavy** nechte prázdné.|
-|Vytiskněte konkrétní sestavu na výchozí tiskárně uživatele|Zadejte hodnotu v poli **ID sestavy** a pole **Název tiskárny** a **ID uživatele** nechejte prázdné.|
-|Vytiskněte konkrétní sestavu na konkrétní tiskárně pro konkrétního uživatele|Určete hodnoty ve všech třech polích.|
+|Print a report to a specific printer for all users |Specify values in the **Report ID** and **Printer Name** fields and leave the **User ID** field blank.|
+|Print all reports to a specific printer for a specific user|Specify values in the **User ID** and **Printer Name** fields and leave the **Report ID** field blank.|
+|Set the default printer for all reports|Specify a value in the **Printer Name** field and leave the **User ID** and **Report ID** fields blank.|
+|Print a specific report to the user’s default printer|Specify a value in the **Report ID** field and leave the **Printer Name** and **User ID** fields blank.|
+|Print a specific report to a specific printer for a specific user|Specify values in all three fields.|
+-->
 
 ## <a name="see-also"></a>Viz také
-[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)
+[Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Návod: Spuštění dávkových úloh](ui-how-run-batch-jobs.md)  
+[Návod: Odesílání dokladů e-mailem](ui-how-send-documents-email.md)  
 

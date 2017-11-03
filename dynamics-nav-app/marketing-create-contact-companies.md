@@ -25,7 +25,7 @@ Přiřazením co nejvíce údajů o konkrétní společnosti zajistíte efektivn
 
 Můžete také definovat obchodní vztah, který máte s kontaktem. Například kontakt by mohl být potencionální zákazník, banka, nebo dodavatel.
 
-Následující tabulka popisuje sekvekci úloh s odkazy na témata, která je popisují. 
+Následující tabulka popisuje sekvenci úloh s odkazy na témata, která je popisují. 
 
 | Viz | také |
 | --- | --- |

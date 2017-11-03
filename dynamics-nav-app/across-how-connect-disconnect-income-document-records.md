@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-create-incoming-document-records-directly-from-documents-and-entries"></a>Návody: Vytvoření záznamu došlého dokladu přímo z dokumentu nebo položek
+# <a name="how-to-create-incoming-document-records-directly-from-documents-and-entries"></a>Návod: Vytvoření záznamu došlého dokladu přímo z dokumentu nebo položek
 Můžete ukládat externí obchodní doklady v [!INCLUDE[d365fin](includes/d365fin_md.md)] připojením souborů k souvisejícím záznamům došlého dokladu. Pokud se doklad jako třeba nákupní faktura nespustí jako záznam došlého dokladu, můžete stále vytvořit a připojit záznam došlého dokladu později. Soubory došlých dokladů můžete také připojit k zaúčtovaným nákupním a prodejním dokladům a k záznamům prodejců, zákazníků a položek hlavní knihy pomocí okna s fakty **Soubory došlého dokladu**, pro příklad okna **Účtované nákupní faktury** a **Položky dodavatelů**.
 
 Z oken **Účtová osnova** a **Hlavní kniha položek** můžete použít vyhledávací funkci k nalezení položek hlavní knihy pro zaúčtování nákupních a prodejních dokladů, které nemají záznamy došlého dokladu a pak centrálně odkazovat na existující záznamy nebo vytvářet nové s připojenými soubory. Další informace naleznete v tématu [Návod: Nalezení zaúčtovaných dokladů bez záznamů došlého dokladu](across-how-find-posted-documents-without-income-document-records.md).
@@ -46,7 +46,7 @@ Můžete odebrat soubor připojený k nezaúčtovaným dokladům smazáním souv
 Připojení zaúčtovaného dokladu je odebráno. Nyní můžete pokračovat v připojení dalšího záznamu došlého dokladu k zaúčtovanému dokladu, tak jak je popsáno v tomto tématu.
 
 ## <a name="see-also"></a>Viz také
-[Proces Došlých dokladů](across-process-income-documents.md)  
+[Proces došlých dokladů](across-process-income-documents.md)  
 [Došlé doklady](across-income-documents.md)  
 [Nákup](purchasing-manage-purchasing.md)  
 [Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

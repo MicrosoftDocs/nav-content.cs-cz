@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/23/2017
 
 ---
-# <a name="how-to-use-ocr-to-turn-pdf-and-image-files-into-electronic-documents"></a>Návody: Použití funkce OCR k převedení souborů PDF a obrázkových souborů do elektronických dokladů
+# <a name="how-to-use-ocr-to-turn-pdf-and-image-files-into-electronic-documents"></a>Návod: Použití funkce OCR k převedení souborů PDF a obrázkových souborů do elektronických dokladů
 Ze souboru PDF nebo obrázkového souboru, který obdržíte od svých obchodních partnerů, můžete pomocí externí služby OCR (Optical Character Recognition) generovat elektronické doklady, které lze převést na záznamy dokladů v [!INCLUDE[d365fin](includes/d365fin_md.md)]. Pokud například od dodavatele obdržíte fakturu ve formátu PDF, můžete ji odeslat do služby OCR z okna **Došlé doklady**. Toto je popsáno v první proceduře.
 
 Jako alternativu k odeslání souboru z okna **Došlé doklady**, můžete odeslat soubor službě OCR e-mailem. Poté, když obdržíte elektronický doklad zpět, automaticky se vytvoří související záznam došlého dokladu. Toto je popsáno v druhé proceduře.
@@ -62,7 +62,7 @@ Pokud nepoužíváte frontu úloh nebo chcete přijmout dokončený doklad OCR d
 
     Zobrazí se informace o dokladu OCR, které zobrazují zdrojový obsah souboru PDF nebo obrázkového souboru a výsledné hodnoty pole OCR.
 3. Zkontrolujte různé hodnoty polí a ručně upravte nebo zadejte hodnoty v polích, které služba OCR označila za nejisté.
-4. Zvolte tlačítko **OK**. Proces OCR je dokončen a výsledný elektronický doklad je odeslán do okna **Došlé doklady** v [!INCLUDE[d365fin](includes/d365fin_md.md)], podle plánu fronty úloh.
+4. Zvolte tlačítko **OK**. Proces OCR je dokončen a výsledný elektronický doklad je odeslán do okna **Došlé doklady** v [!INCLUDE[d365fin](includes/d365fin_md.md)] podle plánu fronty úloh.
 
     Pokud přistupujete k webové stránce pomocí výběru dlaždice na domovské stránce, automaticky se na webových stránkách zobrazí další doklad OCR, který má být ověřen.
 5. Opakujte krok 4 pro ověření jakéhokoliv jiného dokladu OCR.
@@ -113,7 +113,7 @@ Okno **Oprava dat OCR**, které otevřete v okně **Došlé doklady**, zobrazuje
 Pole záložky s náhledem **Finanční informace** v okně **Došlé doklady** jsou aktualizovány novými hodnotami, které jste zadali v kroku 4.
 
 ## <a name="see-also"></a>Viz také
-[Proces Došlých dokladů](across-process-income-documents.md)  
+[Proces došlých dokladů](across-process-income-documents.md)  
 [Došlé doklady](across-income-documents.md)  
 [Nákup](purchasing-manage-purchasing.md)  
 [Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

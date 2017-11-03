@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-create-incoming-document-records"></a>Návody: Vytvoření záznamu došlého dokladu
+# <a name="how-to-create-incoming-document-records"></a>Návod: Vytvoření záznamu došlého dokladu
 V okně **Došlé doklady** můžete použít různé funkce pro kontrolu výdajů, správu OCR úkolů a převod došlých dokladů ručně nebo automaticky na příslušné doklady nebo řádky deníku. Externí doklady lze připojit v libovolné fázi procesu, včetně zaúčtovaných dokladů a výsledků dodavatelů, zákazníků a položek hlavní knihy.
 
 K záznamu externího dokladu v [!INCLUDE[d365fin](includes/d365fin_md.md)], musíte nejprve vytvořit nebo dokončit záznam došlého dokladu. Můžete to provést ručně nebo můžete pořídit fotografii externího dokladu a pak vytvořit záznam došlého dokladu s připojeným obrazovým souborem.
@@ -65,7 +65,7 @@ Pokud vydáte záznam došlého dokladu, je vybráno zaškrtávací políčko **
 7. V okně **Došlý doklad** vyplňte pole podle potřeby. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
 ## <a name="see-also"></a>Viz také
-[Proces Došlých dokladů](across-process-income-documents.md)  
+[Proces došlých dokladů](across-process-income-documents.md)  
 [Došlé doklady](across-income-documents.md)  
 [Nákup](purchasing-manage-purchasing.md)  
 [Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

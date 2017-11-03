@@ -1,39 +1,43 @@
 ---
-title: "Správa závazků"
+title: "Přehled úloh pro správu závazků"
+description: "Popisuje úlohy pro správu účetních závazků, například, placení věřitelům nebo vyrovnávání odchozích plateb na věcné položky k uzavíraní faktur nebo dobropisů."
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 50a68e1eaf0d6057420635f85b473639e39caa5a
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: vendor payment, creditor, debt, balance due, AP
+ms.date: 06/28/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: a4940bddd22b4b310550606be6a2e96fc2b6bef0
 ms.contentlocale: cs-cz
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/23/2017
 
 ---
+# <a name="managing-payables"></a>Správa závazků
+Velká část řídících účtů je placena vašim dodavatelům nebo hrazení zaměstnaneckých výdajů. Můžete použít funkci přidat platební řádky pro nákupní faktury, které jsou po splatnosti v okně **Deník plateb**. K odeslání transakcí vaší bance můžete exportovat několik řádku platebního deníku do souboru a ten následně nahrát do banky. Můžete také provádět platby šekem včetně přenosu šeků jako elektronických plateb.
 
-# <a name="manage-payables"></a>Správa závazků
-Ústředním úkolem v oblasti správy závazků je zaplatit vašim dodavatelům. Můžete použít funkce k automatickému vyplnění okna **Deníky plateb** s platebními řádky pro splatné nákupních faktury. Chcete-li rychle provádět příslušné transakce s bankami, můžete exportovat několik řádků platebního deníku do souboru, který pak nahrajete do banky ke zpracování. Můžete také provádět platby šekem včetně přenosu šeků jako elektronických plateb.
+Dalším typickým úkolem je vyrovnávat odchozí platby na jejich související položky dodavatelů a zaměstnanců a tím uzavřít související nákupní faktury, nákupní dobropisy nebo zaměstnanecké účty. Toto můžete provést v okně **Deník vyrovnávání plateb** importováním bankovního výpisu do souboru, aby jste mohli zaznamenat platby. Platby jsou vyrovnány k otevřeným věcným položkám zákazníka, dodavatele nebo zaměstnance, shodující se mezi textem platby a informací položky. Existují různé způsoby, jak můžete zobrazit a změnit shody před zaúčtováním deníku. Můžete zvolit uzavření jakékoli otevřené položky bankovního účtu související s vyrovnanými položkami hlavní knihy, když se účtujete deník. Bankovní účet je automaticky odsouhlasený při vyrovnání všech plateb.
 
-Dalším typickým úkolem je vyrovnávat odchozí platby na jejich související položky dodavatelů, a tím uzavřít související nákupní faktury nebo nákupní dobropisy jako zaplacené. Tuto práci můžete provést v okně **Deníky odsouhlasení plateb** importováním souboru výpisu z účtu, abyste mohli rychle zapsat platby v systému [!INCLUDE[navnow](includes/navnow_md.md)]. Funkce automatického vyrovnání vyrovnává platby na příslušné otevřené položky dodavatele nebo zákazníka založené na datových shodách mezi textem platby a informacemi položky. Můžete použít různé funkce pro kontrolu a změnu automatických aplikací před tím, než zaúčtujete deník. Při účtování deníku můžete uzavřít všechny otevřené položky bankovního účtu, které se vztahují k zaplaceným položkám. To znamená, že bankovní účet je automaticky odsouhlasen po zaplacení všech plateb.
-
-Případně můžete vyrovnávat platby ručně v okně **Deníky plateb** nebo v souvisejících položkách dodavatele.
+Případně můžete vyrovnávat platby ručně v okně **Deníky plateb** nebo v souvisejících položkách dodavatele či zaměstnance.
 
 Následující tabulka popisuje sekvenci úloh v rámci závazků s odkazy na témata, které je popisují.
 
-|Popis |Odkaz |
-|---|----|
-|Vytvořte platby s předepsaným dodavatelem podle prioritních platebních slev a penále po splatnosti. Volitelně exportujte platby do bankovního souboru při účtování.|[Provedení plateb](payables-make-payments.md)|
-|Použít automaticky platby dodavatele na nezaplacené nákupní faktury importem souboru bankovního výpisu.|[Použití automatických plateb a odsouhlasení bankovních účtů](receivables-apply-payments-auto-reconcile-bank-accounts.md)|
-|Ručně přiřadit dodavatelské platby k nezaplaceným nákupním fakturám.|[Návod: Ručně uhradit dodavatelské platby](payables-how-apply-purchase-transactions-manually.md)|
+| Viz | také |
+| --- | --- |
+| Generování splatných plateb dodavatele nebo náhrad zaměstnanců, příprava šekové platby a export platby do bankovního souboru při účtování |[Provedení plateb](payables-make-payments.md) |
+| Použít automaticky platby dodavatele na nezaplacené nákupní faktury importem souboru bankovního výpisu. |[Automatikcé vyrovnání plateb a odsouhlasení bankovních účtů](receivables-apply-payments-auto-reconcile-bank-accounts.md) |
+| Ručně přiřadit dodavatelské platby k nezaplaceným nákupním fakturám. |[Návody: Ruční odsouhlasení plateb dodavatelů](payables-how-apply-purchase-transactions-manually.md) |
+|Zajistěte správné ocenění zásob přidělením dodatečných nákladů, jako je poplatek, fyzická manipulace, pojištění a doprava, které vzniknou při nákupu.|[Návody: Použití poplatku za položku pro účtování dodatečných obchodních nákladů](payables-how-assign-item-charges.md)|
 
 ## <a name="see-also"></a>Viz také
-[Správa nákupu](purchasing-manage-purchasing.md)  
+[Nákup](purchasing-manage-purchasing.md)  
 [Správa pohledávek](receivables-manage-receivables.md)  
-[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
-[V obchodních oblastech](ui-across-business-areas.md)
+[Návody: Použití poplatku za položku pro účtování dodatečných obchodních nákladů](payables-how-assign-item-charges.md)  
+[Obecné obchodní funkce](ui-across-business-areas.md)  
+[Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

@@ -11,11 +11,11 @@ ms.prod: dynamics-nav-2017
 ms.assetid: 0745a889-d9ba-4023-a4a8-dba74097ddd0
 caps.latest.revision: 15
 manager: edupont
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: de7a6d3d4e50e03bc48041b71b9573d0027bee56
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: a5f30fe205b2f7fc591a799b4a06c28568a97ac3
 ms.contentlocale: cs-cz
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
@@ -34,8 +34,8 @@ Tato tabulka obsahuje ZAHRNUTÉ výrazy přidružené k obsahu zahrnutého soubo
 |`[!INCLUDE[bp_tableoption_md](includes/bp_tableoption_md.md)]`|Možnost|
 |`[!INCLUDE[bp_windownoneditable_md](includes/bp_windownoneditable_md.md)]`|Nemůžete změnit obsah tohoto okna.|
 |`[!INCLUDE[crm_md](includes/crm_md.md)]`|Microsoft Dynamics CRM|
-|`[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]`|Dynamics 365 For Financials|
-|`[!INCLUDE[d365fin_md](includes/d365fin_md.md)]`|Finance|
+|`[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]`|Dynamics NAV|
+|`[!INCLUDE[d365fin_md](includes/d365fin_md.md)]`|Dynamics NAV|
 |`[!INCLUDE[demo_md](includes/demo_md.md)]`|CRONUS|
 |`[!INCLUDE[demolong_md](includes/demolong_md.md)]`|Demonstrační databáze CRONUS Danmark A/S|
 |`[!INCLUDE[demolonglight_md](includes/demolonglight_md.md)]`|CRONUS demonstrační databáze|

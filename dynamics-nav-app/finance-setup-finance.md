@@ -1,38 +1,50 @@
 ---
-title: "Nastavení klíčových finančních procesů"
+title: "Nastavení finančních procesů"
+description: "Další informace o úkolech, jak nastavit finance ve vaší firmě tak, aby vyhovovaly všem vašim účetním, auditorským nebo účetním potřebám."
+documentationcenter: 
 author: edupont04
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: b911f3701f7a326e5812f13c8528a4719c25241a
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: accounting, auditing, bookkeeping
+ms.date: 08/10/2017
+ms.author: edupont
+ms.translationtype: HT
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: f3d7c01b079b6af60505fc232faf0d9c5ac393cd
 ms.contentlocale: cs-cz
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/23/2017
 
 ---
+# <a name="setting-up-finance"></a>Nastavení financí
+K rychlému pokračování [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] obsahuje standardní konfigurace pro většinu finančních procesů. Pokud potřebujete změnit konfigurace tak, aby odpovídaly vaší firmě, jděte vpřed. Například z domovské stránky můžete použít průvodce nastavením daní z prodeje pro vaši polohu.  
 
-#<a name="set-up-core-financial-processes"></a>Nastavení klíčových finančních procesů
-[!INCLUDE[navnow](includes/navnow_md.md)] zahrnuje standardní konfiguraci většiny finančních procesů, ale můžete změnit konfiguraci tak, aby vám vyhovovala.
-Z Domů můžete přistoupit k průvodci nastavení, který vám například pomůže nastavit prodejní daň vzhledem k místu. Ostatní aspekty správy nastavení financí musíte nastavit sami podle toho, jestli chcete používat například dimenze.  
+Nicméně, jsou tu některé věci, které potřebujete nastavit vlastnoručně. Například pokud chcete použít dimenze jako základ pro business Intelligence.  
 
-Následující tabulka popisuje postup úkolů s odkazy na témata, která je popisují.
+Následující tabulka popisuje sekvenci úloh s odkazy na témata, která je popisují.
 
-| Popis                                                                  | Odkaz                      |
-|---------------------------------------------------------------------|--------------------------|
-|Zvolte způsob, jakým chcete zpracovávat platby vašich dodavatelů.|[Platební metody](finance-setup-payment-methods.md)|
-|Nastavení fiskálníjo období.|[Návod: Otevření nového fiskálního roku](finance-setup-how-open-new-fiscal-year.md)|
-|Nastavení další měny, pokud máte mezinárodní obchody.|[Nastavení měn](finance-setup-setup-currencies.md)|
-|Přidání dimenze pro bohatší podnikovou inteligenci.|[Nastavení dimenzí](finance-setup-setup-dimensions.md)|
-|Přidání nových účtů k existující účtové osnově.|[Nastavení účtové osnovy](finance-setup-setup-chart-accounts.md)|
+| Viz | také |
+| --- | --- |
+| Zvolte jak platíte vašim dodavatelům. |[Definujte platební metody](finance-payment-methods.md) |
+| Určuje účtovací skupiny pro mapování entit jako jsou zákazníci, dodavatelé, zboží, zdroje a prodejní a nákupní doklady do finančních účtů. |[Nastavení účetních skupin](finance-posting-groups.md)|
+|Nastavte toleranci, po kterou systém uzavírá faktury po zaplacení včetně slev, které plně nekryjí částku na faktuře.|[Návod: Práce s platebními tolerancemi a tolerance platebních slev](finance-payment-tolerance-and-payment-discount-tolerance.md)|
+| Nastavení fiskálního období. |[Návod: Otevření nového fiskálního roku](finance-how-open-new-fiscal-year.md) |
+| Určete způsob vykazování částek daně z přidané hodnoty, které jste shromáždili za prodej, daňovým úřadům. |[Návod: Sestavy DPH daňovým úřadům](finance-how-report-vat.md)|
+| Nastavení funkcí prodeje a nákupů tak, abyste mohli zpracovávat platby v cizích měnách.|[Návod: Umožnění vyrovnání položek v různých měnách](finance-how-enable-application-ledger-entries-different-currencies.md)
+| Přidání nových účtů k existující účetní osnově. |[Nastavení účetní osnovy](finance-setup-chart-accounts.md) |
+| Nastavení grafů business Intelligence (BI) k analýze cashflow. |[Nastavení analýzy CashFlow](finance-setup-cash-flow-analyses.md) |
+|Povolit fakturaci zákazníka, který není v systému nastaven.|[Návod: Nastavení hotovosti zákazníka](finance-how-to-set-up-cash-customers.md)|
+| Nastavení sestav Intrastat a odeslání sestav úřadům | [Návod: Nastavení a sestavy Intrastat](finance-how-setup-report-intrastat.md)|
 
+## <a name="see-also"></a>Viz také
+[Finance](finance.md)  
+[Správa bankovních účtů](bank-manage-bank-accounts.md)  
+[Práce s Dimenzemi](finance-dimensions.md)  
+[Import obchodních dat z jiných finančních systémů](upload-data.md)  
+[Analýza CashFlow ve vaší společnosti](finance-analyze-cash-flow.md)  
+[Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 
-
-##<a name="see-also"></a>Viz také
-[Spravovat bankovní účty.](bank-manage-bank-accounts.md)    
-[Dimenze](finance-setup-dimensions.md)  
+##
 

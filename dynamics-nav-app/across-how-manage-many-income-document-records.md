@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-manage-many-incoming-document-records"></a>Návody: Správa mnoha záznamů došlého dokladu
+# <a name="how-to-manage-many-incoming-document-records"></a>Návod: Správa mnoha záznamů došlého dokladu
 Při vytváření nebo zpracování záznamů došlého dokladu může počet řádků v okně **Došlé doklady** narůstat do té míry, až v ní ztratíte přehled. Proto můžete nastavit záznamy došlého dokladu na možnost Zpracovat, abyste jej mohli odstranit z výchozího zobrazení. Když zvolíte akci **Ukázat vše** můžete zobrazit jak zpracované, tak nezpracované záznamy.
 
 > [!NOTE]  
@@ -52,7 +52,7 @@ Zobrazí se všechny záznamy došlého dokladu, včetně těch, ve kterých nen
 >   Tuto akci můžete provést také pro jednotlivé záznamy v okně **Karta došlého dokladu**.
 
 ## <a name="see-also"></a>Viz také
-[Proces Došlých dokladů](across-process-income-documents.md)  
+[Proces došlých dokladů](across-process-income-documents.md)  
 [Došlé doklady](across-income-documents.md)  
 [Nákup](purchasing-manage-purchasing.md)  
 [Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)

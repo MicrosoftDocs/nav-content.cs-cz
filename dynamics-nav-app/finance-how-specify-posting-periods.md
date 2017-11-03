@@ -1,35 +1,37 @@
 ---
-title: "Návod: Specifikace účtovacího období"
+title: "Specifikace účetního období"
+description: "Určete počáteční a koncové datum zaúčtování, kdy uživatelé mohou účtovat do hlavní knihy."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+manager: edupont
+editor: 
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 7a332fa1e463b0c5c44c256d5d57803d6d1f48fe
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: user setup
+ms.date: 06/02/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: f5b0f52ecf52329471f33a7533165cb86a54267f
 ms.contentlocale: cs-cz
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="how-to-specify-posting-periods"></a>Návod: Specifikace účetního období
+Použití účtovacího období pro určení, kdy mohou uživatelé účtovat do hlavní knihy.  
 
-# <a name="how-to-specify-posting-periods"></a>Návod: Specifikace účtovacího období
-Když specifikujete účtovací období, omezujete období, ve kterých je účtování povoleno.
+## <a name="to-specify-posting-periods"></a>Specifikace účetního období
+1. Zvolte ikonu ![Vyhledat stránku nebo sestavu](media/ui-search/search_small.png "Ikona Vyhledat stránku nebo sestavu"), zadejte **Nastavení financí** a pak vyberte související odkaz.  
+2. V okně **Nastavení financí** definujte období zadáním data v polích **Povolit účtování od** a **Povolit účtování do**.  
 
-## <a name="to-specify-posting-periods"></a>Specifikace účtovacího období
-1. V pravém horním rohu vyberte ikonu **Vyhledat stránku nebo sestavu** zadejte **Nastavení financí** a pak zvolte související odkaz.
-2. V okně **Nastavení financí** zadejte datum do pole **Povolit účto od** ke specifikaci začátku období.
-3. Zadejte datum v poli **Povolit účto do** ke specifikaci konce období.
-
-Data, které tu definujete, se používají pro společnost a všechny uživatele.
-
-**Poznámka**: Pokud chcete definovat různé účtovací období pro různé uživatele, můžete jim nastavit data v okně **Nastavení uživatelů**. Pokud zadáte data v okně **Nastavení uživatelů**, tak se data zadány v okně **Nastavení financí** na tyto uživatele nepoužijí.
-
+> [!NOTE]  
+>   Tyto účetní období jsou použity pro společnost a všechny uživatele. Chcete-li povolit výjimky, můžete definovat různá účetní období pro konkrétní uživatele v okně **Nastavení uživatele**. Tyto účetní období přidělují tyto specifikace v okně **Nastavení financí**. Další informace naleznete v tématu "Nastavení uživatelských časových omezení" [Návod: Správa uživatelů a oprávnění](ui-how-users-permissions.md).
 
 ## <a name="see-also"></a>Viz také
-[Finance](finance-setup.md)  
-[Dokončování procesů na konci období](year-how-complete-period-end-processes.md)
+[Finance](finance.md)  
+[Dokončování procesů na konci období](year-how-complete-period-end-processes.md)  
+[Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

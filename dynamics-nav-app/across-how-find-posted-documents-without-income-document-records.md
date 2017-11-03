@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-find-posted-documents-without-incoming-document-records"></a>Návody: Vyhledání zaúčtovaných dokladů bez záznamů došlého dokladu
+# <a name="how-to-find-posted-documents-without-incoming-document-records"></a>Návod: Vyhledání zaúčtovaných dokladů bez záznamů došlého dokladu
 Z okna **Účetní osnova** a **Položky hlavní knihy** můžete pomocí vyhledávací funkce vyhledat položky hlavní knihy pro zaúčtované nákupní a prodejní doklady, které nemají záznamy došlého dokladu a poté centrálně odkazovat na existující záznamy nebo vytvářet nové doklady s přiloženými soubory.
 
 ## <a name="to-find-posted-documents-without-incoming-document-records"></a>Vyhledání zaúčtovaných dokladů bez záznamů došlého dokladu
@@ -37,7 +37,7 @@ Okno **Zaúčtované doklady bez došlých dokladů** otevře zaúčtované nák
 Pokud v okně **Došlé doklady** neexistuje příslušný záznam došlého dokladu, můžete jej vytvořit. Další informace naleznete v tématu [Návod: Vytvořit záznamy došlého dokladu](across-how-create-income-document-records.md).
 
 ## <a name="see-also"></a>Viz také
-[Proces Došlých dokladů](across-process-income-documents.md)  
+[Proces došlých dokladů](across-process-income-documents.md)  
 [Došlé doklady](across-income-documents.md)  
 [Nákup](purchasing-manage-purchasing.md)  
 [Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
