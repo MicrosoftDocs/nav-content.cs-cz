@@ -1,39 +1,42 @@
 ---
-title: "Návod: Nastavení profilů odesílání dokladů"
+title: "Nastavení preferovaných metod posílání prodejních dokladů"
+description: "Popisuje, jak nastavit preferovanou metodu zasílání prodejních dokumentů pro každého zákazníka, například e-mail, PDF, elektronický dokument atd."
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: eab026488b95cc722363e45d3d5ec875a1b1e64e
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: email, PDF, electronic document
+ms.date: 03/29/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 7f9acf9846ccc2c6172df7157cebc3f488744456
 ms.contentlocale: cs-cz
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
-# <a name="how-to-set-up-document-sending-profiles"></a>Návod: Nastavení profilů odesílání dokladů
+# <a name="how-to-set-up-document-sending-profiles"></a>Návody Nastavení profilů odesílání dokladů
 Každému zákazníkovi můžete nastavit preferovaný způsob odesílání prodejních dokumentů, takže při každém výběru akce **Účtovat a Odeslat** nemusíte vybírat způsob odeslání.
 
 V okně **Profily odesílání dokladů** můžete nastavit různé profily odeslání, které můžete vybrat v poli **Profily odesílání dokladů** na kartě zákazníka. Zaškrtnutím políčka **Výchozí** můžete určit, že profil odesílání dokumentu je výchozí profil pro všechny zákazníky s výjimkou zákazníků, u nichž je pole **Profily odesílání dokladů** vyplněno jiným profilem odeslání.
 
-Když zvolíte akci **Účtovat a Odeslat** v prodejním dokumentu, tak se v dialogovém okně **Potvrzení účtování a odeslání** zobrazí používaný profil odesílání, ať už nastavený pro zákazníka nebo jako výchozí pro všechny zákazníky. V dialogovém okně můžete změnit profil odesílání pro prodejní doklad. Další informace naleznete v tématu [Návod: Fakturování prodeje](sales-how-invoice-sales.md).
+Když zvolíte akci **Účtovat a Odeslat** v prodejním dokumentu, tak se v dialogovém okně **Potvrzení účtování a odeslání** zobrazí používaný profil odesílání, ať už nastavený pro zákazníka nebo jako výchozí pro všechny zákazníky. V dialogovém okně můžete změnit profil odesílání pro prodejní doklad. Další informace naleznete v [Návod: Prodejní faktury](sales-how-invoice-sales.md).
 
 ## <a name="to-set-up-a-document-sending-profile"></a>Nastavení profilů odesílání dokladů
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Profily odesílání dokladů** a poté vyberte příslušný odkaz.
+1. Zvolte ikonu ![Vyhledat stránku nebo sestavu](media/ui-search/search_small.png "Ikona Vyhledat stránku nebo sestavu"), zadejte **Dokument posílající profily** a pak vyberte související odkaz.
 2. V okně **Profily odesílání dokladů** zvolte **Nový**.
-3. Vyplňte pole dle potřeby. Vyberte pole a přečtěte si krátký popis pole nebo zvolte odkaz pro další informace.
+3. Vyplňte pole dle potřeby. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
 ## <a name="to-specify-a-sending-profile-on-a-customer-card"></a>Určení profilu odeslání na kartě zákazníka
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Zákazníci** a poté vyberte příslušný odkaz.
+1. Zvolte ikonu ![Vyhledat stránku nebo sestavu](media/ui-search/search_small.png "Ikona Vyhledat stránku nebo sestavu"), zadejte **Zákazník** a pak vyberte související odkaz.
 2. Otevřete kartu zákazníka, kterému chcete nastavit profil odesílání.
 3. Do pole **Profil odesílání dokladů** vyberte profil, který jste nastavili podle postupu popsaného v předchozích krocích.
 
-## <a name="see-also"></a>Viz také  
+## <a name="see-also"></a>Viz také
 [Nastavení prodeje](sales-setup-sales.md)  
-[Správa prodeje](sales-manage-sales.md)
+[Prodej](sales-manage-sales.md)  
+[Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

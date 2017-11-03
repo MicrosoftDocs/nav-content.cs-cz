@@ -1,39 +1,45 @@
 ---
-title: "Návod: Kontrola nebo manuální vyrovnání plateb po automatickém vyrovnání."
+title: "Ověření automaticky vyrovnaných plateb a ručně znovu vyrovnat platby"
+description: "Po automatickém vyrovnání plateb můžete zkontrolovat všechny položky pro platbu a ručně znovu vyrovnat ty, které byly vyrovnány nesprávně."
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 556a0f74a7407d247008e2d74420803123056eff
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: payment process, reconcile payment, expenses, cash receipts
+ms.date: 03/29/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 336dd02d1f29e5f80209961eae164a6faeaf65bc
 ms.contentlocale: cs-cz
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # <a name="how-to-review-or-apply-payments-manually-after-automatic-application"></a>Návod: Kontrola nebo manuální vyrovnání plateb po automatickém vyrovnání.
-Pro každý řádek deníku představující platbu v okně **Deníku odsouhlasení plateb**, můžete otevřít okno **Vyrovnání plateb**, aby jste viděli všechny kandidátní otevřené položky pro platbu a také můžete zobrazit podrobné informace pro každou položku shodného data, z něhož je založeno platební vyrovnání. Můžete zde ručně vyrovnat platby nebo znovu vyrovnat platby, které byly automaticky vyrovnány se špatným záznamem. Pro více informací o automatickém vyrovnání jděte na [Návod: Vyrovnání plateb pomocí automatického vyrovnání](receivables-how-reconcile-payments-auto-application.md).
+Pro každý řádek deníku představující platbu v okně **Deníku odsouhlasení plateb**, můžete otevřít okno **Vyrovnání plateb**, aby jste viděli všechny kandidátní otevřené položky pro platbu a také můžete zobrazit podrobné informace pro každou položku shodného data, z něhož je založeno platební vyrovnání. Můžete zde ručně vyrovnat platby nebo znovu vyrovnat platby, které byly automaticky vyrovnány se špatným záznamem. Pro více informací o automatickém vyrovnání jděte na [Návod: Odsouhlasení plateb pomocí automatické aplikace](receivables-how-reconcile-payments-auto-application.md).
 
-**Důležité**: Pokud je bankovní účet, na kterém vyrovnáváte platby nastaven na lokální měnu, potom okno **Vyrovnání plateb** zobrazí všechny otevřené položky v lokální měně včetně otevřených položek pro dokumenty, které byly původně fakturovány v cizí měně. Vyrovnání plateb položek s konvertovanými měnami mohou být zaúčtovány s jinými částkami, než byly na původním dokladu, protože mohou být rozdílné směnné kurzy používané bankou a [!INCLUDE[navnow](includes/navnow_md.md)].
+> [!IMPORTANT]  
+>   Pokud je bankovní účet, na kterém vyrovnáváte platby nastaven na lokální měnu, potom okno **Vyrovnání plateb** zobrazí všechny otevřené položky v lokální měně včetně otevřených položek pro dokumenty, které byly původně fakturovány v cizí měně. Vyrovnání plateb položek s konvertovanými měnami mohou být zaúčtovány s jinými částkami, než byly na původním dokladu, protože mohou být rozdílné směnné kurzy používané bankou a [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
-Proto doporučujeme sledovat kódy cizích měn v poli **Kód měny** v okně **Vyrovnání plateb**, abyste zjistili, zda je vyrovnání založené na měně. Chcete-li zkontrolovat počáteční částku v cizí měně a zobrazit použitý směnný kurz, vyberte pole **Vyrovnat položku číslo**  a poté v místní nabídce vyberte tlačítko na rozbalení nabídky **Položky zákazníka** nebo **Položky dodavatele**
+Proto doporučujeme sledovat kódy cizích měn v poli **Kód měny** v okně **Vyrovnání plateb**, abyste zjistili, zda je vyrovnání založené na měně. Ke kontrole původní částky dokladu v cizí měně použitého směnného kurzu, zvolte pole **Vyrovnává položku číslo** a poté v místní nabídce vyberte tlačítko na rozbalení nabídky **Položky zákazníka** nebo **Položky dodavatele**.
 
-Každá úprava zisku a ztrát, která je zapotřebí v důsledku měnových konverzí, není automaticky prováděna [!INCLUDE[navnow](includes/navnow_md.md)].
+Každá úprava zisku a ztrát, která je zapotřebí v důsledku měnových konverzí, není automaticky prováděna [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
-**Poznámka**: Nemůžete vyrovnávat položky s jiným znaménkem než znaménkem platby. Chcete-li například uzavřít dobropis se záporným znaménkem a jeho související faktura je s kladným znaménkem, musíte nejprve vyrovnat fakturu k dobropisu a poté platbu vyrovnat na faktuře se sníženou zbývající částkou.
+> [!NOTE]  
+>   Nemůžete vyrovnávat položky s jiným znaménkem než znaménkem platby. Chcete-li například uzavřít dobropis se záporným znaménkem a jeho související faktura je s kladným znaménkem, musíte nejprve vyrovnat fakturu k dobropisu a poté platbu vyrovnat na faktuře se sníženou zbývající částkou.
 
-**Upozornění**: Pokud používáte skonto slevy a pokud je datum splatnosti před datem splatnosti platby, poté políčko **Zůstatková částka včetně skonta** v okně **Vyrovnání plateb** bude použito pro párování. V opačném případě se použije hodnota v poli  **Zůstatek**. Pokud byla platba provedena s diskontovanou částkou po splatnosti platby nebo byla zaplacena celá částka, ale byla poskytnuta sleva, částka nebude odpovídat.
+> [!WARNING]  
+>   Pokud používáte skonto slevy a pokud je datum splatnosti před datem splatnosti platby, poté políčko **Zůstatková částka Včetně skonta** v okně **Vyrovnání plateb** bude použito pro párování. V opačném případě se použije hodnota v poli  **Zůstatek**. Pokud byla platba provedena s diskontovanou částkou po splatnosti platby nebo byla zaplacena celá částka, ale byla poskytnuta sleva, částka nebude odpovídat.
 
-**Poznámka**: Můžete pouze vyrovnat položku pro jeden účet. Chcete-li rozdělit vyrovnání na několik otevřených položek, například k uplatnění jednorázové platby, musí být otevřené položky pro stejný účet. Další informace naleznete v krocích 7 a 8 v postupu v tomto tématu.
+> [!NOTE]  
+>   Můžete pouze vyrovnat položku pro jeden účet. Chcete-li rozdělit vyrovnání na několik otevřených položek, například k uplatnění jednorázové platby, musí být otevřené položky pro stejný účet. Další informace naleznete v krocích 7 a 8 v postupu v tomto tématu.
 
 ## <a name="to-review-or-apply-payments-after-automatic-application"></a>Kontrola nebo vyrovnaní platby po automatickém vyrovnání
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Deníky odsouhlasení plateb** a poté vyberte příslušný odkaz.
-2. Otevřete deník odsouhlasení plateb pro bankovní účet, u kterého chcete odsouhlasit platby. Další informace naleznete v tématu [Návod: Odsouhlasení plateb pomocí automatického vyrovnání](receivables-how-reconcile-payments-auto-application.md).
+1. Zvolte ikonu ![Vyhledat stránku nebo sestavu](media/ui-search/search_small.png "Ikona Vyhledat stránku nebo sestavu"), zadejte **Deníky odsouhlasení plateb** a poté vyberte příslušný odkaz.
+2. Otevřete deník odsouhlasení plateb pro bankovní účet, u kterého chcete odsouhlasit platby. Další informace naleznete v [Návod: Odsouhlasení plateb pomocí automatické aplikace](receivables-how-reconcile-payments-auto-application.md).
 3. V okně **Deníku odsouhlasení plateb** vyberte platbu, kterou chcete zkontrolovat nebo ručně vyrovnat na jednu nebo více otevřených položek a potom vyberte akci **Vyrovnat ručně**.
 4. Vyberte zaškrtávací políčko **Vyrovnáno** na řádku pro otevřenou položku, na kterou chcete platbu použít.
 5. Částka platby, která je zobrazena také v poli **Částka transakce** v okně **Vyrovnání plateb**, je vložena do pole **Vyrovnaná částka**, ale pole můžete upravit, například pokud chcete částku použít na několik otevřených položek.
@@ -46,5 +52,6 @@ Okno **Vyrovnání plateb** se zavře a v **Deníku vyrovnání plateb** se hodn
 
 ## <a name="see-also"></a>Viz také
 [Správa pohledávek](receivables-manage-receivables.md)  
-[Správa prodeje](sales-manage-sales.md)
+[Prodej](sales-manage-sales.md)  
+[Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

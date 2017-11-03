@@ -8,11 +8,11 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: a2268d8454af761c40b11d89b01778a3f92090fb
+ms.translationtype: HT
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 15f30a03c3e7ccc865ef527a707794c2c6428b2f
 ms.contentlocale: cs-cz
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
@@ -26,7 +26,7 @@ Chcete-li povolit platby zákazníkům prostřednictvím služby PayPal, musíte
 1. Nastavte službu PayPal Payments Standard jako platební službu v okně **Služby pro platby**.
 2. Zvolte v **Služby pro platby** PayPal Payments Standard na daném prodejním dokladu.
 
-Služba PayPal Payments Standard bude nainstalována jako rozšíření [!INCLUDE[navnow](includes/navnow_md.md)] a bude připravena k zapnutí. Další informace naleznete v tématu: [Přizpůsobení [!INCLUDE[navnow](includes/navnow_md.md)] pomocí rozšíření](ui-extensions.md).
+Služba PayPal Payments Standard bude nainstalována jako rozšíření Dynamics NAV a bude připravena k zapnutí. Další informace naleznete v tématu: [Přizpůsobení Dynamics NAV pomocí rozšíření](ui-extensions.md).
 
 ## <a name="to-enable-the-paypal-payments-standard-service"></a>Povolení služby PayPal Payments Standard
 1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Služby pro platby** a poté vyberte příslušný odkaz.  
@@ -44,10 +44,10 @@ Služba PayPal Payments Standard bude nainstalována jako rozšíření [!INCLUD
 2. Otevřete prodejní fakturu, na kterou chcete povolit platby PayPal.
 3. V poli **Služby pro platby** vyberte PayPal Payments Standard.
 
-**Poznámka**: Pole **Služby pro platby** je pouze viditelné pokud je služba PayPal Payments Standard zapnutá.   
+**POZNÁMKA**: Pole **Služby pro platby** je pouze viditelné pokud je služba PayPal Payments Standard zapnutá.   
 
 ## <a name="see-also"></a>Viz také  
 [Nastavení prodeje](sales-setup-sales.md)  
-[Správa prodeje](sales-manage-sales.md)  
-[Přizpůsobení [!INCLUDE[navnow](includes/navnow_md.md)] pomocí Extensions](ui-extensions.md)
+[Správa prodej](sales-manage-sales.md)  
+[Přizpůsobení Dynamics NAV pomocí Extensions](ui-extensions.md)
 

@@ -1,31 +1,35 @@
 ---
-title: "Návod: Nastavení prodejců"
+title: "Nastavení prodejce"
+description: "Můžete nastavit identifikátor pro každého prodejce, abyste mohli sledovat výkon jednotlivce nebo přiřadit k němu prodejce."
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 2697a5f0d68b7ce6cb2fc873468583c64adb183b
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: sales rep
+ms.date: 09/08/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 3c2dab0512c8e8965d7751bfda50559844ebcf69
 ms.contentlocale: cs-cz
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # <a name="how-to-set-up-salespeople"></a>Návod: Nastavení prodejců
-Mnoho společností chce sledovat výkon jednotlivých zaměstnanců jako základ pro výpočet prodejní provize nebo jejich bonusů. Například: Sestava: „Prodejce - Provize“. Společnost může také chtít přiřadit prodejce ke každému z jejich kontaktů.
+Mnoho společností chce sledovat výkon jednotlivých zaměstnanců jako základ pro výpočet prodejní provize nebo jejich bonusů. Například: Sestava: **Prodejce - Provize**. Společnost může také chtít přiřadit prodejce ke každému z jejich kontaktů.
 
-Pokud jste v okně **Prodejci/Nákupčí** nastavili prodejce, můžete jej vybrat v poli **Kód prodejce** na všech relevantních záznamech, jako je hlavní kniha, zákazníci, dodavatelé, kontakty a kampaně. Poté, když účtujete nebo vytváříte faktury, dobropisy, deníkové lístky, finanční poplatky za nastavení poplatků apod., tak se kód prodejce přenese do záznamů.
+Pokud jste v okně **Prodejci/Nákupčí** nastavili prodejce, můžete jej vybrat v poli **Kód prodejce** na všech relevantních záznamech, jako je hlavní kniha, zákazníci, dodavatelé, kontakty a kampaně. Poté, když účtujete nebo vytváříte faktury, dobropisy, deníkové lístky, finanční poplatky apod., tak se kód prodejce přenese do záznamů.
 
 ## <a name="to-set-up-a-salesperson-code"></a>Nastavení Kódu prodejce
-1. V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Prodejci/Nákupčí** a poté vyberte příslušný odkaz.
-2. V okně **Prodejci/Nákupčí** zvolte **Nový**.
+1. Zvolte ikonu ![Vyhledat stránku nebo sestavu](media/ui-search/search_small.png "Ikona Vyhledat stránku nebo sestavu"), zadejte **Prodejci** a pak vyberte související odkaz.
+2. V okně **Prodejci** zvolte **Nový**.
 
-## <a name="see-also"></a>Viz také  
+Prodejce můžete využít v různých vztazích řízení a marketingové práce. Můžete například přiřadit úkoly prodejcům, aby byly úkoly začleněny do prodejních příležitostí, které jsou prodejci přiděleny. Další informace naleznete v [Návod: Nastavení cyklů prodejních příležitostí a fází](marketing-how-setup-opportunity-sales-cycles-stages.md).
+
+## <a name="see-also"></a>Viz také
 [Nastavení prodeje](sales-setup-sales.md)  
-[Správa prodeje](sales-manage-sales.md)
+[Prodej](sales-manage-sales.md)  
+[Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 
