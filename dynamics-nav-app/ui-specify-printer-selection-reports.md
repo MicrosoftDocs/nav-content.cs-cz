@@ -1,40 +1,51 @@
 ---
-title: "Zadání výběru tiskáren pro sestavy"
+title: "nastavení Nastavení sestav k tisku na dané tiskárně"
+description: "Naučte se specifikovat tiskárnu pro tisk sestav a použít výběr tiskárny."
+documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: online printing
+ms.date: 03/29/2017
+ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: 56a5c1428651162293e56d71e2369fe55d291594
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 4c31738da8ca833c06d976d26b9cb170a05fd46e
 ms.contentlocale: cs-cz
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-    
-# <a name="specify-printer-selection-for-reports"></a><span data-ttu-id="691a2-102">Zadání výběru tiskáren pro sestavy</span><span class="sxs-lookup"><span data-stu-id="691a2-102">Specify Printer Selection for Reports</span></span>
-<span data-ttu-id="691a2-103">Můžete nastavit sestavy tak, aby byly vytištěny na konkrétní tiskárně.</span><span class="sxs-lookup"><span data-stu-id="691a2-103">You can set up reports so that they must be printed on a specific printer.</span></span> <span data-ttu-id="691a2-104">Níže jsou uvedeny některé způsoby použití výběru tiskárny:</span><span class="sxs-lookup"><span data-stu-id="691a2-104">The following are some uses of printer selection:</span></span> 
+# <a name="specify-printer-selection-for-reports"></a><span data-ttu-id="e35c5-103">Výběr specifické tiskárny pro sestavy</span><span class="sxs-lookup"><span data-stu-id="e35c5-103">Specify Printer Selection for Reports</span></span>
+<span data-ttu-id="e35c5-104">Tato stránka je prázdná protože nebůžete nastavit specifickou tiskárnu pro specifickou sestavu.</span><span class="sxs-lookup"><span data-stu-id="e35c5-104">This page is empty because you cannot yet set up specific printers for specific reports.</span></span> <span data-ttu-id="e35c5-105">Pracujeme na vyřešení problému..</span><span class="sxs-lookup"><span data-stu-id="e35c5-105">We are working on solving this.</span></span>
 
-- <span data-ttu-id="691a2-105">Můžete tisknout sestavy se speciálními hlavičkami společnosti. </span><span class="sxs-lookup"><span data-stu-id="691a2-105">You can print reports on special company letterhead.</span></span>
-- <span data-ttu-id="691a2-106">Můžete tisknout sestavy na různě velké papíry.</span><span class="sxs-lookup"><span data-stu-id="691a2-106">You can print reports on different paper sizes.</span></span>
-- <span data-ttu-id="691a2-107">Můžete vytisknout sestavy na výchozí tiskárně konkrétního zaměstnance.</span><span class="sxs-lookup"><span data-stu-id="691a2-107">You can print reports on the default printer of a specified employee.</span></span>
+<span data-ttu-id="e35c5-106">Mezitím, pokud budete chtít tisknout sestavu, musíte stáhnout sestavu jako PDF dokument a kliknout na tlačítko **Odeslat do**.</span><span class="sxs-lookup"><span data-stu-id="e35c5-106">In the meantime, when you want to print a report, you have to download the report as a PDF document first by choosing the **Send to** button.</span></span> <span data-ttu-id="e35c5-107">Poté vyberete jaký typ formátu sestavy chcete stáhnout a zde kliknete na **PDF dokument**.</span><span class="sxs-lookup"><span data-stu-id="e35c5-107">Then you select the type of file to download the report as, and here you should pick **PDF Document**.</span></span> <span data-ttu-id="e35c5-108">Nyní můžete otevřít PDF dokument a rovnou ho vytisknout nebo uložit na pozdější tisk.</span><span class="sxs-lookup"><span data-stu-id="e35c5-108">Now, you can either open the PDF document right-away and print it, or save it and print it later.</span></span>
 
-<span data-ttu-id="691a2-108">V okně **Výběr tiskárny** můžete nastavit různé hodnoty pro získání odlišného výstupu.</span><span class="sxs-lookup"><span data-stu-id="691a2-108">You use the **Printer Selections** window to set different values to obtain different output.</span></span> <span data-ttu-id="691a2-109">Pokud nastavíte konkrétní výběr tiskárny, bude mít přednost před obecnějším výběrem tiskárny.</span><span class="sxs-lookup"><span data-stu-id="691a2-109">If you set a specific printer selection, then it takes precedence over a more general printer selection.</span></span> <span data-ttu-id="691a2-110">Můžete například nastavit výběr tiskárny, který obsahuje hodnoty v poli **ID uživatele**, **ID sestavy** a **Název tiskárny**.</span><span class="sxs-lookup"><span data-stu-id="691a2-110">For example, you can set a printer selection that has values in the **User ID**, **Report ID**, and **Printer Name** fields.</span></span> <span data-ttu-id="691a2-111">Tato volba tiskárny má přednost před volbou tiskárny s prázdnými položkami v polích **ID uživatele**, nebo **ID sestavy**.</span><span class="sxs-lookup"><span data-stu-id="691a2-111">This printer selection takes precedence over a printer selection that has blank entries in the **User ID** or **Report ID** fields.</span></span> 
+<!--
 
-<span data-ttu-id="691a2-112">Následující tabulka popisuje kombinaci hodnot určených pro nastavení výběru tiskárny pro sestavu.</span><span class="sxs-lookup"><span data-stu-id="691a2-112">The following table describes the combination of values to specify when you set up printer selections for a report.</span></span>
+You can set up reports so that they must be printed on a specific printer. The following are some uses of printer selection:
 
-|<span data-ttu-id="691a2-113">K</span><span class="sxs-lookup"><span data-stu-id="691a2-113">To</span></span>                                                 |<span data-ttu-id="691a2-114">Nastavení následujících hodnot</span><span class="sxs-lookup"><span data-stu-id="691a2-114">Set the following values</span></span>                                             |
+- You can print reports on special company letterhead.
+- You can print reports on different paper sizes.
+- You can print reports on the default printer of a specified employee.
+
+You use the **Printer Selections** window to set different values to obtain different output. If you set a specific printer selection, then it takes precedence over a more general printer selection. For example, you can set a printer selection that has values in the **User ID**, **Report ID**, and **Printer Name** fields. This printer selection takes precedence over a printer selection that has blank entries in the **User ID** or **Report ID** fields.
+
+The following table describes the combination of values to specify when you set up printer selections for a report.
+
+|To                                                 |Set the following values                                             |
 |---------------------------------------------------|---------------------------------------------------------------------|
-|<span data-ttu-id="691a2-115">Vytiskněte sestavu na konkrétní tiskárně pro všechny uživatele</span><span class="sxs-lookup"><span data-stu-id="691a2-115">Print a report to a specific printer for all users</span></span> |<span data-ttu-id="691a2-116">Určete hodnoty v polích **ID sestavy** a **Název tiskárny** a pole **ID uživatele** nechejte prázdné.</span><span class="sxs-lookup"><span data-stu-id="691a2-116">Specify values in the **Report ID** and **Printer Name** fields and leave the **User ID** field blank.</span></span>|
-|<span data-ttu-id="691a2-117">Vytiskněte všechny sestavy na konkrétní tiskárně pro konkrétního uživatele</span><span class="sxs-lookup"><span data-stu-id="691a2-117">Print all reports to a specific printer for a specific user</span></span>|<span data-ttu-id="691a2-118">Zadejte hodnoty v polích **ID uživatele** a **Název tiskárny** a pole **ID sestavy** nechejte prázdné.</span><span class="sxs-lookup"><span data-stu-id="691a2-118">Specify values in the **User ID** and **Printer Name** fields and leave the **Report ID** field blank.</span></span>|
-|<span data-ttu-id="691a2-119">Nastavte výchozí tiskárnu pro všechny sestavy</span><span class="sxs-lookup"><span data-stu-id="691a2-119">Set the default printer for all reports</span></span>|<span data-ttu-id="691a2-120">Zadejte hodnotu v poli **Název tiskárny** a pole **ID uživatele** a **ID sestavy** nechte prázdné.</span><span class="sxs-lookup"><span data-stu-id="691a2-120">Specify a value in the **Printer Name** field and leave the **User ID** and **Report ID** fields blank.</span></span>|
-|<span data-ttu-id="691a2-121">Vytiskněte konkrétní sestavu na výchozí tiskárně uživatele</span><span class="sxs-lookup"><span data-stu-id="691a2-121">Print a specific report to the user’s default printer</span></span>|<span data-ttu-id="691a2-122">Zadejte hodnotu v poli **ID sestavy** a pole **Název tiskárny** a **ID uživatele** nechejte prázdné.</span><span class="sxs-lookup"><span data-stu-id="691a2-122">Specify a value in the **Report ID** field and leave the **Printer Name** and **User ID** fields blank.</span></span>|
-|<span data-ttu-id="691a2-123">Vytiskněte konkrétní sestavu na konkrétní tiskárně pro konkrétního uživatele</span><span class="sxs-lookup"><span data-stu-id="691a2-123">Print a specific report to a specific printer for a specific user</span></span>|<span data-ttu-id="691a2-124">Určete hodnoty ve všech třech polích.</span><span class="sxs-lookup"><span data-stu-id="691a2-124">Specify values in all three fields.</span></span>|
+|Print a report to a specific printer for all users |Specify values in the **Report ID** and **Printer Name** fields and leave the **User ID** field blank.|
+|Print all reports to a specific printer for a specific user|Specify values in the **User ID** and **Printer Name** fields and leave the **Report ID** field blank.|
+|Set the default printer for all reports|Specify a value in the **Printer Name** field and leave the **User ID** and **Report ID** fields blank.|
+|Print a specific report to the user’s default printer|Specify a value in the **Report ID** field and leave the **Printer Name** and **User ID** fields blank.|
+|Print a specific report to a specific printer for a specific user|Specify values in all three fields.|
+-->
 
-## <a name="see-also"></a><span data-ttu-id="691a2-125">Viz také</span><span class="sxs-lookup"><span data-stu-id="691a2-125">See Also</span></span>
-<span data-ttu-id="691a2-126">[Práce s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="691a2-126">[Work with Dynamics NAV](ui-work-product.md)</span></span>
+## <a name="see-also"></a><span data-ttu-id="e35c5-109">Viz také</span><span class="sxs-lookup"><span data-stu-id="e35c5-109">See Also</span></span>
+<span data-ttu-id="e35c5-110">[Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="e35c5-110">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
+[<span data-ttu-id="e35c5-111">Návod: Spuštění dávkových úloh</span><span class="sxs-lookup"><span data-stu-id="e35c5-111">How to: Run Batch Jobs</span></span>](ui-how-run-batch-jobs.md)  
+[<span data-ttu-id="e35c5-112">Návod: Odesílání dokladů e-mailem</span><span class="sxs-lookup"><span data-stu-id="e35c5-112">How to: Send Documents by Email</span></span>](ui-how-send-documents-email.md)  
 

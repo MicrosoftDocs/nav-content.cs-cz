@@ -1,56 +1,65 @@
 ---
-title: "Návod: Nastavení pojištění dlouhodobého majetku"
+title: "Nastavení pojištění DM"
+description: "Nastavte kartu pojištění a informace o všeobecných pojistných smlouvách ke správě pojistného krytí dlouhodobého majetku."
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 44bb5f20702a01d9fbbc025889ec2bc3191813be
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: policy, coverage
+ms.date: 06/02/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 0c0b553adee7df5979352999c60549b280501926
 ms.contentlocale: cs-cz
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="how-to-set-up-fixed-asset-insurance"></a><span data-ttu-id="d18a8-103">Návod: Nastavení pojištění dlouhodobého majetku</span><span class="sxs-lookup"><span data-stu-id="d18a8-103">How to: Set Up Fixed Asset Insurance</span></span>
+<span data-ttu-id="d18a8-104">Ke správě pokrytí pojištění dlouhodobého majetku musíte nejprve nastavit obecné informace o pojištění a kartě pojištění dle určitých zásad.</span><span class="sxs-lookup"><span data-stu-id="d18a8-104">To manage fixed asset insurance coverage, you must first set up some general insurance information and an insurance card per policy.</span></span>
 
-# <a name="how-to-set-up-fixed-asset-insurance"></a><span data-ttu-id="0c824-102">Návod: Nastavení pojištění dlouhodobého majetku</span><span class="sxs-lookup"><span data-stu-id="0c824-102">How to: Set Up Fixed Asset Insurance</span></span>
-<span data-ttu-id="0c824-103">Ke správě pokrytí pojištění dlouhodobého majetku musíte nejprve nastavit obecné informace o pojištění a kartě pojištění dle určitých zásad.</span><span class="sxs-lookup"><span data-stu-id="0c824-103">To manage fixed asset insurance coverage, you must first set up some general insurance information and an insurance card per policy.</span></span>
+## <a name="to-set-up-general-insurance-information"></a><span data-ttu-id="d18a8-105">Nastavení obecných informací o pojištění</span><span class="sxs-lookup"><span data-stu-id="d18a8-105">To set up general insurance information</span></span>
+<span data-ttu-id="d18a8-106">K používání pojišťovacích funkcí v [!INCLUDE[d365fin](includes/d365fin_md.md)] musíte nastavit obecné informace o pojištění.</span><span class="sxs-lookup"><span data-stu-id="d18a8-106">To use the insurance features in [!INCLUDE[d365fin](includes/d365fin_md.md)], you must set up some general insurance information.</span></span>  
 
-## <a name="to-set-up-general-insurance-information"></a><span data-ttu-id="0c824-104">Nastavení obecných informací o pojištění</span><span class="sxs-lookup"><span data-stu-id="0c824-104">To set up general insurance information</span></span>  
-<span data-ttu-id="0c824-105">K používání pojišťovacích funkcí v [!INCLUDE[navnow](includes/navnow_md.md)] musíte nastavit obecné informace o pojištění.</span><span class="sxs-lookup"><span data-stu-id="0c824-105">To use the insurance features in Dynamics NAV, you must set up some general insurance information.</span></span>  
-1. <span data-ttu-id="0c824-106">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zvolte **Nastavení DM**, a zvolte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="0c824-106">In the top right corner, choose the **Search for Page or Report** icon, enter **FA Setups**, and then choose the related link.</span></span>  
-2. <span data-ttu-id="0c824-107">Vyplňte pole dle potřeby.</span><span class="sxs-lookup"><span data-stu-id="0c824-107">Fill in the fields as necessary.</span></span> <span data-ttu-id="0c824-108">Vyberte pole k zobrazení krátkého popisu pole nebo odkaz pro více informací.</span><span class="sxs-lookup"><span data-stu-id="0c824-108">Choose a field to read a short description of the field or link to more information.</span></span>  
+1. <span data-ttu-id="d18a8-107">Zvolte ikonu ![Vyhledat stránku nebo sestavu](media/ui-search/search_small.png "Ikona Vyhledat stránku nebo sestavu"), zadejte **Nastavení DM** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="d18a8-107">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **FA Setups**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="d18a8-108">Vyplňte pole dle potřeby.</span><span class="sxs-lookup"><span data-stu-id="d18a8-108">Fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 
-## <a name="to-set-up-insurance-types"></a><span data-ttu-id="0c824-109">Nastavení typů pojištění</span><span class="sxs-lookup"><span data-stu-id="0c824-109">To set up insurance types</span></span>  
-<span data-ttu-id="0c824-110">Můžete seskupit vaše zásady pojištění do kategorií, např. pojištění proti krádeži nebo pojištění proti požáru.</span><span class="sxs-lookup"><span data-stu-id="0c824-110">You can group your insurance policies into categories, such as insurance against theft or fire insurance.</span></span> <span data-ttu-id="0c824-111">Typy pojištění jsou používány na kartě pojištění.</span><span class="sxs-lookup"><span data-stu-id="0c824-111">The insurance types are used on the insurance card.</span></span>
-1. <span data-ttu-id="0c824-112">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, vyberte **Typy pojištění** a zvolte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="0c824-112">In the top right corner, choose the **Search for Page or Report** icon, enter **Insurance Types**, and then choose the related link.</span></span>  
-2. <span data-ttu-id="0c824-113">Vyplňte pole dle potřeby.</span><span class="sxs-lookup"><span data-stu-id="0c824-113">Fill in the fields as necessary.</span></span>
+## <a name="to-set-up-insurance-types"></a><span data-ttu-id="d18a8-109">Nastavení typů pojištění</span><span class="sxs-lookup"><span data-stu-id="d18a8-109">To set up insurance types</span></span>
+<span data-ttu-id="d18a8-110">Můžete seskupit vaše zásady pojištění do kategorií, např. pojištění proti krádeži nebo pojištění proti požáru.</span><span class="sxs-lookup"><span data-stu-id="d18a8-110">You can group your insurance policies into categories, such as insurance against theft or fire insurance.</span></span> <span data-ttu-id="d18a8-111">Typy pojištění jsou používány na kartě pojištění.</span><span class="sxs-lookup"><span data-stu-id="d18a8-111">The insurance types are used on the insurance card.</span></span>
 
-## <a name="to-set-up-insurance-cards"></a><span data-ttu-id="0c824-114">Nastavení karty pojištění</span><span class="sxs-lookup"><span data-stu-id="0c824-114">To set up insurance cards</span></span>  
-<span data-ttu-id="0c824-115">Na kartě pojištění můžete shromažďovat informace o každé pojišťovací zásadě.</span><span class="sxs-lookup"><span data-stu-id="0c824-115">You may accumulate information about each insurance policy on the insurance card.</span></span>  
-1. <span data-ttu-id="0c824-116">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zvolte **Pojištění** a zvolte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="0c824-116">In the top right corner, choose the **Search for Page or Report** icon, enter **Insurance**, and then choose the related link.</span></span>  
-2. <span data-ttu-id="0c824-117">V okně **Pojištění** vyberte akci **Nový** na vytvoření nové pojišťovací karty.</span><span class="sxs-lookup"><span data-stu-id="0c824-117">In the **Insurance** window, choose the **New** action to create a  new insurance card.</span></span>  
-3. <span data-ttu-id="0c824-118">Vyplňte pole dle potřeby.</span><span class="sxs-lookup"><span data-stu-id="0c824-118">Fill in the fields as necessary.</span></span>
+1. <span data-ttu-id="d18a8-112">Zvolte ikonu ![Vyhledat stránku nebo sestavu](media/ui-search/search_small.png "Ikona Vyhledat stránku nebo sestavu"), zadejte **Typy pojištění** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="d18a8-112">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Insurance Types**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="d18a8-113">Vyplňte pole dle potřeby.</span><span class="sxs-lookup"><span data-stu-id="d18a8-113">Fill in the fields as necessary.</span></span>
 
-## <a name="to-set-up-insurance-journal-templates"></a><span data-ttu-id="0c824-119">Nastavení šablon deníku pojištění</span><span class="sxs-lookup"><span data-stu-id="0c824-119">To set up insurance journal templates</span></span>  
-<span data-ttu-id="0c824-120">[!INCLUDE[navnow](includes/navnow_md.md)] automaticky vytvoří šablonu deníku pojištění při prvním otevření okna **Deníky pojištění**, ale můžete nastavit i další šablony deníku pojištění.</span><span class="sxs-lookup"><span data-stu-id="0c824-120">Dynamics NAV automatically creates an insurance journal template the first time that you open the **Insurance Journal** window, but you can set up additional journal templates.</span></span> <span data-ttu-id="0c824-121">Pro další informace se podívejte na [Práce s finančními deníky](ui-work-general-journals.md).</span><span class="sxs-lookup"><span data-stu-id="0c824-121">For more information, see [Work with General Journals](ui-work-general-journals.md).</span></span>  
-1. <span data-ttu-id="0c824-122">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zvolte **Šablony deníku pojištění** a zvolte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="0c824-122">In the top right corner, choose the **Search for Page or Report** icon, enter **Insurance Journal Templates**, and then choose the related link.</span></span>  
-2. <span data-ttu-id="0c824-123">Vyplňte pole dle potřeby.</span><span class="sxs-lookup"><span data-stu-id="0c824-123">Fill in the fields as necessary.</span></span>
+## <a name="to-set-up-insurance-cards"></a><span data-ttu-id="d18a8-114">Nastavení karty pojištění</span><span class="sxs-lookup"><span data-stu-id="d18a8-114">To set up insurance cards</span></span>
+<span data-ttu-id="d18a8-115">Na kartě pojištění můžete shromažďovat informace o každé pojišťovací zásadě.</span><span class="sxs-lookup"><span data-stu-id="d18a8-115">You may accumulate information about each insurance policy on the insurance card.</span></span>  
 
-## <a name="to-set-up-insurance-journal-batches"></a><span data-ttu-id="0c824-124">Nastavení dávky deníku pojištění</span><span class="sxs-lookup"><span data-stu-id="0c824-124">To set up insurance journal batches</span></span>  
-<span data-ttu-id="0c824-125">Můžete nastavit dávky v šabloně deníku pojištění.</span><span class="sxs-lookup"><span data-stu-id="0c824-125">You can set up batches in an insurance journal template.</span></span> <span data-ttu-id="0c824-126">Hodnoty v dávce deníku jsou používány jako výchozí hodnoty, pokud pole není vyplněno na řádku deníku.</span><span class="sxs-lookup"><span data-stu-id="0c824-126">The values in the journal batch are used as default values if the fields are not filled in on the journal lines.</span></span> <span data-ttu-id="0c824-127">Pro další informace se podívejte na [Práce s finančními deníky](ui-work-general-journals.md)</span><span class="sxs-lookup"><span data-stu-id="0c824-127">For more information, see [Work with General Journals](ui-work-general-journals.md)</span></span>  
-1. <span data-ttu-id="0c824-128">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zvolte **Šablony deníku pojištění** a zvolte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="0c824-128">In the top right corner, choose the **Search for Page or Report** icon, enter **Insurance Journal Templates**, and then choose the related link.</span></span>  
-2. <span data-ttu-id="0c824-129">Vyberte šablonu deníku pojištění a pak vyberte akci **Listy**.</span><span class="sxs-lookup"><span data-stu-id="0c824-129">Select an insurance journal template, and then choose the **Batches** action.</span></span>
-3. <span data-ttu-id="0c824-130">V okně **Listy deníku pojištění** vyplňte pole podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="0c824-130">In the **Insurance Journal Batches** window, fill in the fields as necessary.</span></span>
+1. <span data-ttu-id="d18a8-116">Zvolte ikonu ![Vyhledat stránku nebo sestavu](media/ui-search/search_small.png "Ikona Vyhledat stránku nebo sestavu"), zadejte **Pojištění** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="d18a8-116">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Insurance**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="d18a8-117">V okně **Pojištění** vyberte akci **Nový** na vytvoření nové pojišťovací karty.</span><span class="sxs-lookup"><span data-stu-id="d18a8-117">In the **Insurance** window, choose the **New** action to create a  new insurance card.</span></span>  
+3. <span data-ttu-id="d18a8-118">Vyplňte pole dle potřeby.</span><span class="sxs-lookup"><span data-stu-id="d18a8-118">Fill in the fields as necessary.</span></span>
 
-<span data-ttu-id="0c824-131">**POZNÁMKA**: Čísla mají v názvech deníků zvláštní funkci.</span><span class="sxs-lookup"><span data-stu-id="0c824-131">**NOTE**: Numbers have a special function in journal names.</span></span> <span data-ttu-id="0c824-132">Pokud šablona nebo list deníku obsahuje číslo, číslo je automaticky inkrementováno o jedna pokaždé, když je deník účtován.</span><span class="sxs-lookup"><span data-stu-id="0c824-132">If a journal template name or journal batch name contains a number, the number automatically advances by one every time that the journal is posted.</span></span> <span data-ttu-id="0c824-133">Např. pokud HH1 je zvoleno v poli **Název**, název deníku se změní na HH2 potom, co deník HH1 byl zaúčtován.</span><span class="sxs-lookup"><span data-stu-id="0c824-133">For example, if HH1 is entered in the **Name** field, the journal name will change to HH2 after the journal named HH1 has been posted.</span></span>
+## <a name="to-set-up-insurance-journal-templates"></a><span data-ttu-id="d18a8-119">Nastavení šablon deníku pojištění</span><span class="sxs-lookup"><span data-stu-id="d18a8-119">To set up insurance journal templates</span></span>
+[!INCLUDE[d365fin](includes/d365fin_md.md)]<span data-ttu-id="d18a8-120"> automaticky vytvoří šablonu deníku pojištění při prvním otevření okna **Deníky pojištění**, ale můžete nastavit i další šablony deníku pojištění.</span><span class="sxs-lookup"><span data-stu-id="d18a8-120"> automatically creates an insurance journal template the first time that you open the **Insurance Journal** window, but you can set up additional journal templates.</span></span> <span data-ttu-id="d18a8-121">Pro další informace se podívejte na [Práce s finančními deníky](ui-work-general-journals.md).</span><span class="sxs-lookup"><span data-stu-id="d18a8-121">For more information, see [Working with General Journals](ui-work-general-journals.md).</span></span>  
 
-## <a name="see-also"></a><span data-ttu-id="0c824-134">Viz také</span><span class="sxs-lookup"><span data-stu-id="0c824-134">See Also</span></span>
-[<span data-ttu-id="0c824-135">Nastavení dlouhodobého majetku</span><span class="sxs-lookup"><span data-stu-id="0c824-135">Set Up Fixed Assets</span></span>](fa-setup.md)  
-[<span data-ttu-id="0c824-136">Správa dlouhodobého majetku</span><span class="sxs-lookup"><span data-stu-id="0c824-136">Manage Fixed Assets</span></span>](fa-manage.md)  
-[<span data-ttu-id="0c824-137">Finance</span><span class="sxs-lookup"><span data-stu-id="0c824-137">Finance</span></span>](finance-setup.md)  
-<span data-ttu-id="0c824-138">[Vítejte v [!INCLUDE[navnow](includes/navnow_md.md)]](across-get-started.md)</span><span class="sxs-lookup"><span data-stu-id="0c824-138">[Welcome to Dynamics NAV](across-get-started.md)</span></span>
+1. <span data-ttu-id="d18a8-122">Zvolte ikonu ![Vyhledat stránku nebo sestavu](media/ui-search/search_small.png "Ikona Vyhledat stránku nebo sestavu"), zadejte **Šablony deníku pojištění** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="d18a8-122">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Insurance Journal Templates**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="d18a8-123">Vyplňte pole dle potřeby.</span><span class="sxs-lookup"><span data-stu-id="d18a8-123">Fill in the fields as necessary.</span></span>
+
+## <a name="to-set-up-insurance-journal-batches"></a><span data-ttu-id="d18a8-124">Nastavení dávky deníku pojištění</span><span class="sxs-lookup"><span data-stu-id="d18a8-124">To set up insurance journal batches</span></span>
+<span data-ttu-id="d18a8-125">Můžete nastavit dávky v šabloně deníku pojištění.</span><span class="sxs-lookup"><span data-stu-id="d18a8-125">You can set up batches in an insurance journal template.</span></span> <span data-ttu-id="d18a8-126">Hodnoty v dávce deníku jsou používány jako výchozí hodnoty, pokud pole není vyplněno na řádku deníku.</span><span class="sxs-lookup"><span data-stu-id="d18a8-126">The values in the journal batch are used as default values if the fields are not filled in on the journal lines.</span></span> <span data-ttu-id="d18a8-127">Pro další informace se podívejte na [Práce s finančními deníky](ui-work-general-journals.md)</span><span class="sxs-lookup"><span data-stu-id="d18a8-127">For more information, see [Work with General Journals](ui-work-general-journals.md)</span></span>  
+
+1. <span data-ttu-id="d18a8-128">Zvolte ikonu ![Vyhledat stránku nebo sestavu](media/ui-search/search_small.png "Ikona Vyhledat stránku nebo sestavu"), zadejte **Šablony deníku pojištění** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="d18a8-128">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Insurance Journal Templates**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="d18a8-129">Vyberte šablonu deníku pojištění a pak vyberte akci **Listy**.</span><span class="sxs-lookup"><span data-stu-id="d18a8-129">Select an insurance journal template, and then choose the **Batches** action.</span></span>
+3. <span data-ttu-id="d18a8-130">V okně **Listy deníku pojištění** vyplňte pole podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="d18a8-130">In the **Insurance Journal Batches** window, fill in the fields as necessary.</span></span>
+
+> [!NOTE]  
+>   <span data-ttu-id="d18a8-131">Čísla mají v názvech deníků zvláštní funkci.</span><span class="sxs-lookup"><span data-stu-id="d18a8-131">Numbers have a special function in journal names.</span></span> <span data-ttu-id="d18a8-132">Pokud šablona nebo list deníku obsahuje číslo, je automaticky inkrementováno o jedna pokaždé, když je deník účtován.</span><span class="sxs-lookup"><span data-stu-id="d18a8-132">If a journal template name or journal batch name contains a number, the number automatically advances by one every time that the journal is posted.</span></span> <span data-ttu-id="d18a8-133">Např. pokud HH1 je zvoleno v poli **Název**, název deníku se změní na HH2 potom, co deník HH1 byl zaúčtován.</span><span class="sxs-lookup"><span data-stu-id="d18a8-133">For example, if HH1 is entered in the **Name** field, the journal name will change to HH2 after the journal named HH1 has been posted.</span></span>
+
+## <a name="see-also"></a><span data-ttu-id="d18a8-134">Viz také</span><span class="sxs-lookup"><span data-stu-id="d18a8-134">See Also</span></span>
+[<span data-ttu-id="d18a8-135">Nastavení DM</span><span class="sxs-lookup"><span data-stu-id="d18a8-135">Setting Up Fixed Assets</span></span>](fa-setup.md)  
+[<span data-ttu-id="d18a8-136">Dlouhodobý majetek</span><span class="sxs-lookup"><span data-stu-id="d18a8-136">Fixed Assets</span></span>](fa-manage.md)  
+[<span data-ttu-id="d18a8-137">Finance</span><span class="sxs-lookup"><span data-stu-id="d18a8-137">Finance</span></span>](finance.md)  
+<span data-ttu-id="d18a8-138">[Vítejte v [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)</span><span class="sxs-lookup"><span data-stu-id="d18a8-138">[Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)</span></span>  
+<span data-ttu-id="d18a8-139">[Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="d18a8-139">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
 

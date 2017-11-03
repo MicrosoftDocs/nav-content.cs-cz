@@ -1,5 +1,5 @@
 ---
-title: "Použití funkce Hledat stránku nebo sestavu "
+title: "Použití funkce Hledat stránku nebo sestavu"
 author: SusanneWindfeldPedersen
 ms.custom: na
 ms.date: 09/22/2016
@@ -9,19 +9,23 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: HT
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: b4f0039d740823fac0270e44b254a35d1bcdba72
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 85904d4cbe69b82eb79963d4afadfe6db2b7c3f1
 ms.contentlocale: cs-cz
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
-# <a name="using-search-for-page-or-report"></a><span data-ttu-id="15f65-102">Použití funkce Hledat stránku nebo sestavu</span><span class="sxs-lookup"><span data-stu-id="15f65-102">Using Search for Page or Report</span></span>
-<span data-ttu-id="15f65-103">Můžete najít libovolnou stránku, sestavu nebo zobrazení pomocí ikony **Hledat stránku nebo sestavu** v pravém horním rohu adresního panelu.</span><span class="sxs-lookup"><span data-stu-id="15f65-103">You can find any page, report, or view by using the **Search for Page or Report** icon in the top right corner of the address bar.</span></span>
-<span data-ttu-id="15f65-104">Když začnete psát znaky, rozevírací seznam zobrazuje názvy stránek, které obsahují znaky, které zadáváte.</span><span class="sxs-lookup"><span data-stu-id="15f65-104">When you start typing characters, a drop-down list shows page names containing the character(s) you type.</span></span> <span data-ttu-id="15f65-105">Rozbalovací seznam se mění, jak zadáváte více znaků a z tohoto seznamu můžete vybrat správnou stránku jakmile se zobrazí. </span><span class="sxs-lookup"><span data-stu-id="15f65-105">The drop-down list changes as you type more characters, and you can select the correct page from the list when it is displayed.</span></span> <span data-ttu-id="15f65-106">Druhý sloupec v rozevíracím seznamu zobrazuje navigační cesty k nalezeným stránkám.</span><span class="sxs-lookup"><span data-stu-id="15f65-106">The second column in the drop-down list shows the navigation paths to the found pages.</span></span>
+# <a name="using-search-for-page-or-report"></a><span data-ttu-id="01695-102">Použití funkce Hledat stránku nebo sestavu</span><span class="sxs-lookup"><span data-stu-id="01695-102">Using Search for Page or Report</span></span>
+<span data-ttu-id="01695-103">Můžete hledat stránku, sestavu pomocí ikony **Hledat stránku nebo sestavu** v pravém horním rohu adresního panelu.</span><span class="sxs-lookup"><span data-stu-id="01695-103">You can find pages and reports by choosing the **Search for Page or Report** field in the top right corner of the address bar.</span></span>
 
-<span data-ttu-id="15f65-107">**Poznámka**: **Hledat stránku nebo sestavu** neprohledává data, například jména zákazníků, adresy nebo transakce.</span><span class="sxs-lookup"><span data-stu-id="15f65-107">**Note**: The **Search for Page or Report** does not search through data, such as customer names, addresses, or transactions.</span></span> <span data-ttu-id="15f65-108">Chcete-li vyhledat data, můžete použít vyhledávání spojené se stránkou. To je znázorněno symbolem lupy umístěném v pravém horním rohu stránky.</span><span class="sxs-lookup"><span data-stu-id="15f65-108">To search for data, you can use the search associated with the page; this is illustrated with the magnifier symbol placed in the page top right corner.</span></span> <span data-ttu-id="15f65-109">Další informace o používání tohoto typu vyhledávání naleznete v části [Zadávání kritérií ve filtrech](ui-enter-criteria-filters.md).</span><span class="sxs-lookup"><span data-stu-id="15f65-109">For information on using this type of search, see [Entering Criteria in Filters](ui-enter-criteria-filters.md).</span></span>
+<span data-ttu-id="01695-104">Pokud používáte [!INCLUDE[d365fin](includes/d365fin_md.md)] v prohlížeči, hledejte ikonu **Hledat stránku nebo sestavu**.</span><span class="sxs-lookup"><span data-stu-id="01695-104">If you use [!INCLUDE[d365fin](includes/d365fin_md.md)] in a browser, look for the **Search for Page or Report** icon instead.</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="15f65-110">Viz také</span><span class="sxs-lookup"><span data-stu-id="15f65-110">See Also</span></span>
-<span data-ttu-id="15f65-111">[Pracujte s [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="15f65-111">[Work with Dynamics NAV](ui-work-product.md)</span></span>
+<span data-ttu-id="01695-105">Když začnete psát znaky, rozevírací seznam zobrazuje názvy stránek, které obsahují znaky, které zadáváte.</span><span class="sxs-lookup"><span data-stu-id="01695-105">When you start typing characters, a drop-down list shows page names containing the character(s) you type.</span></span> <span data-ttu-id="01695-106">Rozbalovací seznam se mění, jak zadáváte více znaků a z tohoto seznamu můžete vybrat správnou stránku jakmile se zobrazí.</span><span class="sxs-lookup"><span data-stu-id="01695-106">The drop-down list changes as you type more characters, and you can select the correct page from the list when it is displayed.</span></span> <span data-ttu-id="01695-107">Druhý sloupec v rozevíracím seznamu zobrazuje navigační cesty k nalezeným stránkám.</span><span class="sxs-lookup"><span data-stu-id="01695-107">The second column in the drop-down list shows the navigation paths to the found pages.</span></span> <span data-ttu-id="01695-108">K dispozici je také odkaz, který umožňuje vyhledávat nápovědu pro zadané znaky.</span><span class="sxs-lookup"><span data-stu-id="01695-108">There is also a link that enables you to search the help for the characters that you typed.</span></span>
+
+> [!NOTE]  
+>   <span data-ttu-id="01695-109">Funkce **Hledat stránku nebo sestavu** neprohledává data, například jména zákazníků, adresy nebo transakce.</span><span class="sxs-lookup"><span data-stu-id="01695-109">The **Search for Page or Report** function does not search through data, such as customer names, addresses, or transactions.</span></span> <span data-ttu-id="01695-110">Namísto toho můžete vyhledat údaje v seznamu stránek pomocí symbolu lupy v pravém rohu záhlaví seznamu.</span><span class="sxs-lookup"><span data-stu-id="01695-110">Instead, you can search for data in list pages by choosing the magnifier symbol in the right corner of the list header.</span></span> <span data-ttu-id="01695-111">Vyhledávání funguje pouze na seznamech, které si právě prohlížíte.</span><span class="sxs-lookup"><span data-stu-id="01695-111">The search applies only to the list you are viewing.</span></span> <span data-ttu-id="01695-112">Pro více informací běžte na: [Vkládání kriterií do filtrů](ui-enter-criteria-filters.md).</span><span class="sxs-lookup"><span data-stu-id="01695-112">For more information, see [Entering Criteria in Filters](ui-enter-criteria-filters.md).</span></span>  
+
+## <a name="see-also"></a><span data-ttu-id="01695-113">Viz také</span><span class="sxs-lookup"><span data-stu-id="01695-113">See Also</span></span>
+[<span data-ttu-id="01695-114">Pracujte s Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="01695-114">Work with Dynamics NAV</span></span>](ui-work-product.md)
 

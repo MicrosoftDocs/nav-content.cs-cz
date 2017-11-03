@@ -1,31 +1,57 @@
 ---
-title: "Návod: Nastavení bankovních účtů"
+title: "Nastavení bankovních účtů"
+description: "Můžete odsouhlasit bankovní účty v Dynamics NAV s výpisy z bank."
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: 10fe32d2153d92aea0f9e6db8ebfb0e465fc04f4
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: feed, stream
+ms.date: 09/26/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 3581615fe94006aa9245f5e66fe6cf475b22acfb
 ms.contentlocale: cs-cz
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="how-to-set-up-bank-accounts"></a><span data-ttu-id="21ead-103">Návod: Nastavení bankovních účtů</span><span class="sxs-lookup"><span data-stu-id="21ead-103">How to: Set Up Bank Accounts</span></span>
+<span data-ttu-id="21ead-104">Použijte bankovní účty v [!INCLUDE[d365fin](includes/d365fin_md.md)], které slouží ke sledování vašich bankovních transakcí.</span><span class="sxs-lookup"><span data-stu-id="21ead-104">You use bank accounts in the [!INCLUDE[d365fin](includes/d365fin_md.md)] to keep track of your banking transactions.</span></span> <span data-ttu-id="21ead-105">Účty mohou být denominovány v místní měně nebo v cizí měně.</span><span class="sxs-lookup"><span data-stu-id="21ead-105">Accounts can be denominated in your local currency or in a foreign currency.</span></span> <span data-ttu-id="21ead-106">Po nastavení bankovních účtů můžete použít také možnost kontroly tisku.</span><span class="sxs-lookup"><span data-stu-id="21ead-106">After you have set up bank accounts, you can also use the check printing option.</span></span>
 
-# <a name="how-to-set-up-bank-accounts"></a><span data-ttu-id="b8526-102">Návod: Nastavení bankovních účtů</span><span class="sxs-lookup"><span data-stu-id="b8526-102">How to: Set Up Bank Accounts</span></span>
-<span data-ttu-id="b8526-103">Použijte bankovní účty v [!INCLUDE[navnow](includes/navnow_md.md)], které slouží ke sledování vašich bankovních transakcí.</span><span class="sxs-lookup"><span data-stu-id="b8526-103">You use bank accounts in the Dynamics NAV to keep track of your banking transactions.</span></span> <span data-ttu-id="b8526-104">Účty mohou být denominovány v místní měně nebo v cizí měně.</span><span class="sxs-lookup"><span data-stu-id="b8526-104">Accounts can be denominated in your local currency or in a foreign currency.</span></span> <span data-ttu-id="b8526-105">Po nastavení bankovních účtů můžete použít také možnost kontroly tisku.</span><span class="sxs-lookup"><span data-stu-id="b8526-105">After you have set up bank accounts, you can also use the check printing option.</span></span>
+## <a name="to-set-up-bank-accounts"></a><span data-ttu-id="21ead-107">Nastavení bankovních účtů</span><span class="sxs-lookup"><span data-stu-id="21ead-107">To set up bank accounts</span></span>
+1. <span data-ttu-id="21ead-108">Zvolte ikonu ![Vyhledat stránku nebo sestavu](media/ui-search/search_small.png "Ikona Vyhledat stránku nebo sestavu"), zadejte **Bankovní účty** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="21ead-108">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Bank Accounts**, and then choose the related link.</span></span>
+2. <span data-ttu-id="21ead-109">V okně **Bankovní účty** zvolte akci **Nový**.</span><span class="sxs-lookup"><span data-stu-id="21ead-109">In the **Bank Accounts** window, choose the **New** action.</span></span>
+3. <span data-ttu-id="21ead-110">Vyplňte pole dle potřeby.</span><span class="sxs-lookup"><span data-stu-id="21ead-110">Fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
-1. <span data-ttu-id="b8526-106">V pravém horním rohu zvolte ikonu **Vyhledat stránku nebo sestavu**, zadejte **Bankovní účty** a pak vyberte související odkaz. </span><span class="sxs-lookup"><span data-stu-id="b8526-106">In the top right corner, choose the **Search for Page or Report** icon, enter **Bank Accounts**, and then choose the related link.</span></span>
-2. <span data-ttu-id="b8526-107">V okně **Bankovní účty** zvolte akci **Nový**.</span><span class="sxs-lookup"><span data-stu-id="b8526-107">In the **Bank Accounts** window, choose the **New** action.</span></span>
-3. <span data-ttu-id="b8526-108">Vyplňte pole podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="b8526-108">Fill in the fields as necessary.</span></span> <span data-ttu-id="b8526-109">Vyberte pole a přečtěte si krátký popis pole nebo klikněte na odkaz pro další informace.</span><span class="sxs-lookup"><span data-stu-id="b8526-109">Choose a field to read a short description of the field or link to more information.</span></span>
+> [!NOTE]
+> <span data-ttu-id="21ead-111">K vyplnění pole **Zůstatek** s počátečním zůstatkem, musíte zaúčtovat položku bankovního účtu s příslušnou částkou.</span><span class="sxs-lookup"><span data-stu-id="21ead-111">To fill in the **Balance** field with an opening balance, you must post a bank account ledger entry with the amount in question.</span></span> <span data-ttu-id="21ead-112">Můžete to provést pomocí odsouhlasení bankovního účtu.</span><span class="sxs-lookup"><span data-stu-id="21ead-112">You can do this by performing a bank account reconciliation.</span></span> <span data-ttu-id="21ead-113">Další informace naleznete v tématu [Návod: Odsouhlasení bankovních účtů zvlášť](bank-how-reconcile-bank-accounts-separately.md).</span><span class="sxs-lookup"><span data-stu-id="21ead-113">For more information, see [How to: Reconcile Bank Accounts Separately](bank-how-reconcile-bank-accounts-separately.md).</span></span> <span data-ttu-id="21ead-114">Případně můžete provést počáteční zůstatek jako část tvorby obecných dat v nových společnostech pomocí nastavení **Migrovat obchodní data**.</span><span class="sxs-lookup"><span data-stu-id="21ead-114">Alternatively, you can implement the opening balance as a part of general data creation in new companies by using the **Migrate Business Data** assisted setup.</span></span> <span data-ttu-id="21ead-115">Další informace naleznete v [Vítejte v [!INCLUDE[d365fin](includes/d365fin_md.md)](index.md).</span><span class="sxs-lookup"><span data-stu-id="21ead-115">For more information, see [Welcome to [!INCLUDE[d365fin](includes/d365fin_md.md)](index.md).</span></span>
 
-<span data-ttu-id="b8526-110">**Poznámka**: Pole v záložce s náhledem **Převod** se týkají importu/exportu bankovních prostředků a souborů.</span><span class="sxs-lookup"><span data-stu-id="b8526-110">**Note**: Fields on the **Transfer** FastTab are related to import/export of bank feeds and files.</span></span> <span data-ttu-id="b8526-111">Další informace naleznete v [Návod: Nastavení služby převodu bankovních dat](bank-how-setup-bank-data-conversion-service.md).</span><span class="sxs-lookup"><span data-stu-id="b8526-111">For more information, see [How to: Set Up the Bank Data Conversion Service](bank-how-setup-bank-data-conversion-service.md).</span></span>
+## <a name="to-set-up-your-bank-account-for-import-or-export-of-bank-files"></a><span data-ttu-id="21ead-116">Nastavení bankovního účtu pro import nebo export bankovních souborů</span><span class="sxs-lookup"><span data-stu-id="21ead-116">To set up your bank account for import or export of bank files</span></span>
+<span data-ttu-id="21ead-117">Pole v záložce s náhledem **Převod** v okně **Karta bankovního účtu** se týkají importu a exportu bankovních prostředků a souborů.</span><span class="sxs-lookup"><span data-stu-id="21ead-117">Fields on the **Transfer** FastTab in the **Bank Account Card** window are related to import and export of bank feeds and files.</span></span> <span data-ttu-id="21ead-118">Další informace naleznete v tématu [Návod: Nastavení služby převodu bankovních dat](bank-how-setup-bank-data-conversion-service.md).</span><span class="sxs-lookup"><span data-stu-id="21ead-118">For more information, see [How to: Set Up the Bank Data Conversion Service](bank-how-setup-bank-data-conversion-service.md).</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="b8526-112">Viz také</span><span class="sxs-lookup"><span data-stu-id="b8526-112">See Also</span></span>  
-[<span data-ttu-id="b8526-113">Nastavení bankovnictví</span><span class="sxs-lookup"><span data-stu-id="b8526-113">Set Up Banking</span></span>](bank-setup-banking.md)  
-[<span data-ttu-id="b8526-114">Správa bankovních účtů</span><span class="sxs-lookup"><span data-stu-id="b8526-114">Manage Bank Accounts</span></span>](bank-manage-bank-accounts.md)
+1. <span data-ttu-id="21ead-119">Zvolte ikonu ![Vyhledat stránku nebo sestavu](media/ui-search/search_small.png "Ikona Vyhledat stránku nebo sestavu"), zadejte **Bankovní účty** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="21ead-119">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Bank Accounts**, and then choose the related link.</span></span>
+2. <span data-ttu-id="21ead-120">Otevřete kartu pro bankovní účet, který budete exportovat nebo importovat pro bankovní soubory.</span><span class="sxs-lookup"><span data-stu-id="21ead-120">Open the card for a bank account that you will export or import bank files for.</span></span>
+3. <span data-ttu-id="21ead-121">Na záložce s náhledem **Převod** vyplňte pole podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="21ead-121">On the **Transfer** FastTab, fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+
+> [!NOTE]  
+>   <span data-ttu-id="21ead-122">Různé služby exportu souborů a jejich formáty vyžadují různé hodnoty nastavení v okně **Karta bankovního účtu**.</span><span class="sxs-lookup"><span data-stu-id="21ead-122">Different file export services and their formats require different setup values in the **Bank Account Card** window.</span></span> <span data-ttu-id="21ead-123">Během exportu souboru budete informováni o nesprávných nebo chybějících hodnotách nastavení.</span><span class="sxs-lookup"><span data-stu-id="21ead-123">You will be informed about wrong or missing setup values as you try to export the file.</span></span> <span data-ttu-id="21ead-124">Takže si pečlivě přečtěte krátké popisy polí nebo se podívejte na příslušná témata.</span><span class="sxs-lookup"><span data-stu-id="21ead-124">So read the short descriptions of the fields carefully or refer to the related procedure topics.</span></span> <span data-ttu-id="21ead-125">Například při exportu platebního souboru pro přenos elektronických peněz v Severní Americe (EFT) je třeba vyplňovat pole **Číslo poslední úhrady** a pole **Číslo převodu**.</span><span class="sxs-lookup"><span data-stu-id="21ead-125">For example, exporting a payment file for North American electronic funds transfer (EFT) requires that both the **Last Remittance Advice No.** field and the **Transit No.** field are filled in.</span></span> <span data-ttu-id="21ead-126">Další informace naleznete v tématu [Návod: Export plateb do bankovního souboru](payables-how-export-payments-bank-file.md).</span><span class="sxs-lookup"><span data-stu-id="21ead-126">For more information, see [How to: Export Payments to a Bank File](payables-how-export-payments-bank-file.md).</span></span>
+
+## <a name="to-set-up-vendor-bank-accounts-for-export-of-bank-files"></a><span data-ttu-id="21ead-127">Nastavení bankovních účtů dodavatele pro export bankovních souborů</span><span class="sxs-lookup"><span data-stu-id="21ead-127">To set up vendor bank accounts for export of bank files</span></span>
+<span data-ttu-id="21ead-128">Pole na záložce s náhledem **Převod** v okně **Karta bankovního účtu dodavatele** je připojena k exportu bankovních prostředků a souborů.</span><span class="sxs-lookup"><span data-stu-id="21ead-128">Fields on the **Transfer** FastTab in the **Vendor Bank Account Card** window are related to export of bank feeds and files.</span></span> <span data-ttu-id="21ead-129">Další informace naleznete v tématu [Návod: Nastavení služby převodu bankovních dat](bank-how-setup-bank-data-conversion-service.md) a [Návod: Export plateb do bankovního souboru](payables-how-export-payments-bank-file.md).</span><span class="sxs-lookup"><span data-stu-id="21ead-129">For more information, see [How to: Set Up the Bank Data Conversion Service](bank-how-setup-bank-data-conversion-service.md) and [How to: Export Payments to a Bank File](payables-how-export-payments-bank-file.md).</span></span>
+
+1. <span data-ttu-id="21ead-130">Zvolte ikonu ![Vyhledat stránku nebo sestavu](media/ui-search/search_small.png "Ikona Vyhledat stránku nebo sestavu"), zadejte **Dodavatelé** a pak vyberte související odkaz.</span><span class="sxs-lookup"><span data-stu-id="21ead-130">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Vendors**, and then choose the related link.</span></span>
+2. <span data-ttu-id="21ead-131">Otevřete kartu pro dodavatele, jehož bankovní účet budete exportovat do platebních souborů banky.</span><span class="sxs-lookup"><span data-stu-id="21ead-131">Open the card for a vendor whose bank account you will export payment bank files to.</span></span>
+3. <span data-ttu-id="21ead-132">Zvolte akci **Bankovní účty**.</span><span class="sxs-lookup"><span data-stu-id="21ead-132">Choose the **Bank Accounts** action.</span></span>
+3. <span data-ttu-id="21ead-133">V okně **Karta bankovního účtu dodavatele** na záložce s náhledem **Převod** vyplňte pole podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="21ead-133">In the **Vendor Bank Account Card** window, on the **Transfer** FastTab, fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+
+## <a name="to-set-the-opening-balance-on-new-bank-accounts"></a><span data-ttu-id="21ead-134">Nastavení počátečních zůstatků na novém bankovním účtu</span><span class="sxs-lookup"><span data-stu-id="21ead-134">To set the opening balance on new bank accounts</span></span>
+
+
+## <a name="see-also"></a><span data-ttu-id="21ead-135">Viz také</span><span class="sxs-lookup"><span data-stu-id="21ead-135">See Also</span></span>
+[<span data-ttu-id="21ead-136">Nastavení bankovnictví</span><span class="sxs-lookup"><span data-stu-id="21ead-136">Setting Up Banking</span></span>](bank-setup-banking.md)  
+[<span data-ttu-id="21ead-137">Správa bankovních účtů</span><span class="sxs-lookup"><span data-stu-id="21ead-137">Managing Bank Accounts</span></span>](bank-manage-bank-accounts.md)  
+<span data-ttu-id="21ead-138">[Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="21ead-138">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
 

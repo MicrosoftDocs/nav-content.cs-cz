@@ -8,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: setup wizard
-ms.date: 08/23/2017
+ms.date: 02/11/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 3162ca9bc53f862c1602f96ddf5eb7e9c7125005
+ms.sourcegitcommit: 3554bd08bf30f5faca43b4308a91f3c66e1baded
+ms.openlocfilehash: 30a9b0a3a283660359702788423811f756c94955
 ms.contentlocale: cs-cz
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 11/02/2017
 
 ---
 # <a name="welcome-to-included365finlongincludesd365finlongmdmd"></a>Vítejte v [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
@@ -44,7 +44,7 @@ Každá domovská stránka poskytuje tlačítko **Nastavení a rozšíření**. 
 | Migrovat obchodní data |Umožňuje importovat stávající data společnosti, jako jsou dodavatelé, zákazníci a zboží z aplikace Excel nebo Quickbooks. |
 | Nastavení mojí společnosti |Vytvořit novou zkušební společnost pro zadávání dat a vyzkoušení [!INCLUDE[d365fin](includes/d365fin_md.md)]. Pokud jste prošli prohlídkou Začínáme, je to již pravděpodobně **Dokončeno**. |
 | Nastavení prognózy CashFlow |Nastavení grafu prognózy CashFlow, abyste si mohli prohlédnout předpovídaný pohyb hotovosti v rámci vaší firmy. Graf je dostupný z **Centra role Účetní**. |
-| Nastavení schvalovacího workflow |Nastavení možnosti automaticky upozornit schvalujícího, když se uživatel pokusí vytvořit nebo změnit určité hodnoty v dokladech, řádcích deníku nebo kartách, například částku nad stanovený limit. |
+| Nastavení schvalovacích workflow |Nastavení možnosti automaticky upozornit schvalujícího, když se uživatel pokusí vytvořit nebo změnit určité hodnoty v dokladech, řádcích deníku nebo kartách, například částku nad stanovený limit. |
 | Nastavení schvalovacího workflow zákazníka |Nastavení možnosti automatického upozornění schvalujícího, když se uživatel pokusí vytvořit nebo změnit kartu zákazníka. |
 | Nastavení emailu |Nastavení možnosti přímého odesílání e-mailových zpráv např. z Prodejních objednávek nebo kontaktů v [!INCLUDE[d365fin](includes/d365fin_md.md)]. |
 | Nastavit protokolování e-mailů |Pro nastavení možnosti protokolování e-mailové korespondence v [!INCLUDE[d365fin](includes/d365fin_md.md)] sledujte následující instrukce. |
@@ -52,7 +52,7 @@ Každá domovská stránka poskytuje tlačítko **Nastavení a rozšíření**. 
 | Nastavení sestav |Nastavení dat, které můžete použít například k vytváření výkonných sestav pomocí aplikace Excel nebo Power BI. |
 | Nastavení schvalovacího workflow zboží |Nastavení možnosti odeslat oznámení schvalujícímu, když uživatel změní nebo vytvoří zboží. |
 | Nastavení schvalovacího workflow platby |Nastavení možnosti odeslat oznámení schvalujícímu, když uživatel odesílá platební řádky deníku pro schválení. |
-| Nastavení Konektoru Dynamics NAV  |Nastavení připojení k Dynamics 365 for Sales, které umožňuje synchronizovat data, například kontakty a informace o prodejní objednávce. |
+| Nastavení Konektoru Dynamics NAV |Nastavení připojení k Dynamics 365 for Sales, které umožňuje synchronizovat data, například kontakty a informace o prodejní objednávce. |
 | Nastavení prodejní daně |Nastavení výchozích daňových skupin a kódů daňových oblastí, které můžete přiřadit zákazníkům a dodavatelům, za účelem automatického výpočtu prodejní daně v prodejních nebo nákupních dokladech. |
 
 ## <a name="trying-things-out-in-your-own-company"></a>Vyzkoušejte věci ve vlastní firmě
@@ -60,22 +60,11 @@ Přemýšlíte o předplatném? Můžete snadno přejít z demonstrační spole�
 
 Chcete-li vytvořit testovací společnost, přejděte do nabídky **Moje nastavení** v pravém horním rohu a změňte společnost na **Moje firma**. Odhlaste se ze služby [!INCLUDE[d365fin](includes/d365fin_md.md)] a poté se znovu přihlaste, aby se změna projevila. Asistovaný průvodce nastavením vám pomůže poskytnout základní informace o vaší společnosti. Až to uděláte, prohlédněte si domovskou stránku a vyhledejte akci **Asistované nastavení**.  
 
-## <a name="ready-to-subscribe"></a>Připraveni k odběru?
-Pokaždé, když se přihlásíte během zkušební doby, upozornění v modrém pruhu v horní části zobrazí zbývající čas. Pokud se rozhodnete pro předplatné, použijte odkaz v oznámení a obraťte se na společnost Microsoft. Můžete také kontaktovat [!INCLUDE[d365fin](includes/d365fin_md.md)] Prodejní tým v [Microsoft Dynamics NAV](https://go.microsoft.com/fwlink/?linkid=828707).  
-
-## <a name="other-dynamics-nav-apps"></a>Další aplikace Dynamics NAV
-Přejděte na obsah o dalších aplikacích Dynamics NAV výběrem odkazu [Dynamics NAV](https://docs.microsoft.com/dynamics365) v modrém nápisu v horní části této stránky. Další informace můžete také najít na webové stránce [Dynamics NAV](https://www.microsoft.com/en-us/dynamics365/).
-
 ## <a name="see-also"></a>Viz také
 [Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [Nastavení [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
 [Finance](finance.md)  
-[Přizpůsobení [!INCLUDE[d365fin](includes/d365fin_md.md)] Pomocí rozšíření](ui-extensions.md)  
-[Použití [!INCLUDE[d365fin](includes/d365fin_md.md)] jako moje obchodní schránka v aplikaci Outlook](madeira-outlook.md)  
+[Přizpůsobení [!INCLUDE[d365fin](includes/d365fin_md.md)] pomocí rozšíření](ui-extensions.md)  
+[Použití [!INCLUDE[d365fin](includes/d365fin_md.md)] jako obchodní schránky v aplikaci Outlook](madeira-outlook.md)  
 [Získání [!INCLUDE[d365fin](includes/d365fin_md.md)] na mobilním zařízení](install-mobile-app.md)  
-[Microsoft Dynamics NAV dokumentace](https://docs.microsoft.com/en-us/dynamics365/#pivot=solutions&panel=solutions_financials)  
-[roadmap.dynamics.com](https://roadmap.dynamics.com/#edition=1#application=a56e2c12-2a92-e611-80dc-c4346bac0910#status=3a708a86-ae97-e611-80df-c4346baceb68)  
-[Microsoft Dynamics NAV](https://go.microsoft.com/fwlink/?linkid=828707)  
-
-##
 
