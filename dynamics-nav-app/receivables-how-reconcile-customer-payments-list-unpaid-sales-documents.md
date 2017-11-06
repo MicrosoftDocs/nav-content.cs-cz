@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-reconcile-customer-payments-manually-from-a-list-of-unpaid-sales-documents"></a>Návody Manuální odsouhlasení plateb zákazníka z seznamu nezaplacených prodejních dokumentů
+# <a name="how-to-reconcile-customer-payments-manually-from-a-list-of-unpaid-sales-documents"></a>Návod: Manuální odsouhlasení plateb zákazníka z seznamu nezaplacených prodejních dokumentů
 Když vaši zákazníci provedli platby na váš bankovní účet, musíte vyrovnat každou zaplacenou částku do souvisejícího prodejního dokladu a následně zaúčtovat platbu za účelem aktualizace zákazníka, hlavní knihy a položek knihy bank.
 
 > [!NOTE]  

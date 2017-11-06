@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-work-with-checks"></a>Návody Práce s šeky
+# <a name="how-to-work-with-checks"></a>Návod: Práce s šeky
 Můžete vydávat elektronické mebo ruční šeky v . Obě metody používají deník plateb k vystavení šeků dodavatelům. Můžete také anulovat šeky a zobrazit položky šeku.
 
 Proces vydávání šeků navrhuje platby, vytváří položky a tiskne počítačové šeky.
@@ -62,6 +62,6 @@ Když byla zaúčtována šeková platba, můžete zrušit (anulovat) šeky pouz
 ## <a name="see-also"></a>Viz také
 [Správa závazků](payables-manage-payables.md)  
 [Nastavení bankovnictví](bank-setup-banking.md)  
-[Návody Export souboru pozitivních plateb](finance-how-positive-pay.md)  
+[Návod: Export souboru pozitivních plateb](finance-how-positive-pay.md)  
 [Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-prioritize-vendors"></a>Návody Prioritizace dodavatelů
+# <a name="how-to-prioritize-vendors"></a>Návod: Prioritizace dodavatelů
 [!INCLUDE[d365fin](includes/d365fin_md.md)] může navrhnout různé platby dodavatelům například platby, které budou brzy splatné nebo platby, u kterých je skonto k dispozici. Další informace naleznete v tématu [Návod: Navrhnutí plateb dodavatelů ](payables-how-suggest-vendor-payments.md).
 
 Nejprve musíte upřednostnit dodavatele přiřazením čísel.

@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-purchase-items-for-a-sale"></a>Návody: Nákup zboží pro prodej
+# <a name="how-to-purchase-items-for-a-sale"></a>Návod: Nákup zboží pro prodej
 Z prodejních objednávek a prodejních faktur můžete použít funkci k rychlému vytvoření nákupních dokumentů pro chybějící množství zboží, které je potřebné pro prodej. Můžete použít dvě různé funkce odvíjející se od typu dokumentu.
 |Funkce|Popis|
 |--------|-----------|
@@ -63,8 +63,8 @@ Chcete-li vytvořit jednu nákupní fakturu pro jeden nebo více řádků v prod
 
 ## <a name="see-also"></a>Viz také
 [Nákup](purchasing-manage-purchasing.md)  
-[Návody: Zaznamenávání nákupu](purchasing-how-record-purchases.md)  
-[Návody: Prodejní faktury.](sales-how-invoice-sales.md)  
-[Návody: Registrace nového dodavatele](purchasing-how-register-new-vendors.md)  
+[Návod: Zaznamenávání nákupu](purchasing-how-record-purchases.md)  
+[Návod: Prodejní faktury.](sales-how-invoice-sales.md)  
+[Návod: Registrace nového dodavatele](purchasing-how-register-new-vendors.md)  
 [Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

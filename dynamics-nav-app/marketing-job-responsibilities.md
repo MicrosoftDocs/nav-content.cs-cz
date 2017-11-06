@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-set-up-job-responsibilities-for-contact-persons"></a>Návody Nastavení pracovních odpovědností pro kontaktní osoby
+# <a name="how-to-set-up-job-responsibilities-for-contact-persons"></a>Návod: Nastavení pracovních odpovědností pro kontaktní osoby
 Můžete přidat informace o pracovních odpovědnostech kontaktních osob, abyste uvedli, za koho odpovídá osoba v rámci jejich společnosti, například IT, řízení nebo výroby. Tyto informace můžete použít při zadávání informací o vašich kontaktech.
 
 Použití pracovních odpovědností v kontaktech je proces o dvou krocích. Nejprve definujete kód pracovní odpovědnosti. Pro každou pracovní odpovědnost musíte tento krok provést pouze jednou. Jakmile máte kód pro pracovní odpovědnosti, můžete začít přiřazovat kód ke kontaktním osobám.

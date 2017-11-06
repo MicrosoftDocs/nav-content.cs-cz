@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-create-contact-persons"></a>Návody Vytvoření kontaktních osob
+# <a name="how-to-create-contact-persons"></a>Návod: Vytvoření kontaktních osob
 Vytvořte kartu každému kontaktu, který pracuje pro společnosti, s nimiž spolupracujete. Pro každou kontaktní firmu můžete zadat tolik kontaktních osob, kolik chcete. Můžete také vytvořit karty kontaktu pro osoby, které chcete zaznamenat jako nezávislé.
 
 > [!TIP]  
@@ -39,8 +39,8 @@ Vytvořte kartu každému kontaktu, který pracuje pro společnosti, s nimiž sp
 ## <a name="see-also"></a>Viz také
 [Nastavení Správy vztahů](marketing-setup-marketing.md)  
 [Přiřazení poštovní skupiny ke kontaktu](marketing-mailing-groups.md#AssignMailGroupContact)  
-[Návody Nastavení pracovních odpovědnosti ke kontaktům](marketing-job-responsibilities.md)  
-[Návody Nastavení organizační úrovně pro kontaktní osoby](marketing-organizational-levels.md)  
+[Návod: Nastavení pracovních odpovědnosti ke kontaktům](marketing-job-responsibilities.md)  
+[Návod: Nastavení organizační úrovně pro kontaktní osoby](marketing-organizational-levels.md)  
 [Synchronizace kontaktů se zákazníky, dodavateli a bankovními účty](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)  
 [Práce s Dynamics NAV](ui-work-product.md)  
 

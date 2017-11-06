@@ -32,12 +32,12 @@ Následující tabulka popisuje sekvenci úloh s odkazy na témata, která je po
 | Viz | také |
 | --- | --- |
 |Použijte okno **Deníky plateb**, který jsou založeny na finančím deníku k účtování plateb dodavatelům nebo zaměstanancům.|[Práce s finančními deníky](ui-work-general-journals.md)|
-| Pomocí funkce navrhnout platby dodavatele podle vybraných kritérií, jako je datum splatnosti, sleva a vaše likvidita. |[Návody: Navrhnutí plateb dodavatele](payables-how-suggest-vendor-payments.md) |
-|Náhrady zaměstnancům za osobní výdaje v průběhu podnikatelské činnosti prostředníctvím plateb na jejich účty.|[Návody: Zaznamenávání a hrazení výdajů zaměstnanců](finance-how-record-reimburse-employee-expenses.md)|
-| Vystavit šeky pro platby, buď jako výtisky nebo jako počítačové šeky. Prázdné šeky před zaúčtováním nebo po něm. |[Návody: Práce s šeky](payables-how-work-checks.md) |
-| Platba dodavateli v hotovosti, šekem a účtování faktur |[Návody: Okamžité vyřízení nákupní faktury](finance-how-to-settle-purchase-invoices-promptly.md) |
-| Chcete-li se ujistit, že banka vymaže pouze ověřené šeky a částky, můžete je poslat soubor, který obsahuje informace o dodavateli, kontrole a platbě. |[Návody: Export souboru pozitivních plateb](finance-how-positive-pay.md) |
-|Exportovat platby z okna **Deník plateb** do bankovního souboru, který jste odeslali do vaší banky pro zpracování, včetně elektronického převodu peněžních prostředků (EFT) v Severní Americe. |[Návody: Export plateb do bankovního souboru.](payables-how-export-payments-bank-file.md)|  
+| Pomocí funkce navrhnout platby dodavatele podle vybraných kritérií, jako je datum splatnosti, sleva a vaše likvidita. |[Návod:: Navrhnutí plateb dodavatele](payables-how-suggest-vendor-payments.md) |
+|Náhrady zaměstnancům za osobní výdaje v průběhu podnikatelské činnosti prostředníctvím plateb na jejich účty.|[Návod:: Zaznamenávání a hrazení výdajů zaměstnanců](finance-how-record-reimburse-employee-expenses.md)|
+| Vystavit šeky pro platby, buď jako výtisky nebo jako počítačové šeky. Prázdné šeky před zaúčtováním nebo po něm. |[Návod:: Práce s šeky](payables-how-work-checks.md) |
+| Platba dodavateli v hotovosti, šekem a účtování faktur |[Návod:: Okamžité vyřízení nákupní faktury](finance-how-to-settle-purchase-invoices-promptly.md) |
+| Chcete-li se ujistit, že banka vymaže pouze ověřené šeky a částky, můžete je poslat soubor, který obsahuje informace o dodavateli, kontrole a platbě. |[Návod:: Export souboru pozitivních plateb](finance-how-positive-pay.md) |
+|Exportovat platby z okna **Deník plateb** do bankovního souboru, který jste odeslali do vaší banky pro zpracování, včetně elektronického převodu peněžních prostředků (EFT) v Severní Americe. |[Návod:: Export plateb do bankovního souboru.](payables-how-export-payments-bank-file.md)|  
 
 ## <a name="see-also"></a>Viz také
 [Správa závazků](payables-manage-payables.md)  

@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-manage-job-budgets"></a>Návody Správa rozpočtů projektu
+# <a name="how-to-manage-job-budgets"></a>Návod: Správa rozpočtů projektu
 Můžete nastavit rozpočet pro každý projekt. Rozpočet se používá k plánování zdrojů, které přidělíte projektu. Rozpočet může být buď obecný s několika položkami nebo může obsahovat více položek rozdělených do úrovní aktivit. Poté můžete porovnat rozpočtové částky se skutečnou spotřebou, jak je zaznamenáno v deníku projektů. Monitorováním rozdílů mezi skutečnou spotřebou a rozpočtovou spotřebou můžete řídit probíhající projekt a zlepšit kvalitu budoucích pracovních míst tím, že snížíte riziko podhodnocení nákladů.
 
 Následující postup popisuje, jak odhadnout rozpočtované náklady během plánování. Informace o zaznamenaném rozpočtu versus skutečné ceně a nákladům naleznete v části [Návod: Záznam spotřeby pro projekty](projects-how-record-job-usage.md).  

@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-set-up-jobs"></a>Návody Nastavení Projektů
+# <a name="how-to-set-up-jobs"></a>Návod: Nastavení Projektů
 V okně **Nastavení projektů** musíte určit, jak chcete používat určité funkce projektu.
 
 Na jednotlivých kartách projektu musíte nastavit ceny pro položky projektu, zdroje a finanční účty projektu, zároveň musíte nastavit účto skupiny projektu.

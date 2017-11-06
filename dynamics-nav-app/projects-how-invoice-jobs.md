@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-invoice-jobs"></a>Návody Fakturace projektu
+# <a name="how-to-invoice-jobs"></a>Návod: Fakturace projektu
 Během projektu se mohou hromadit projektové náklady ze spotřeby zdrojů, materiálů a nákupů souvisejících s projektem. Jak probíhá projekt, tyto transakce se zaúčtují do deníku projektu. Je důležité, aby se všechny náklady zaznamenaly do deníku projektů dříve než fakturace zákazníkovi.
 
 Můžete fakturovat celý projekt z okna **Řádky úlohy projektu** nebo pouze vyfakturovat vybrané fakturovatelné řádky z okna **Řádky plánování**. Fakturování lze provést po dokončení projektu nebo v určitých intervalech během průběhu projektu na základě fakturačního plánu.

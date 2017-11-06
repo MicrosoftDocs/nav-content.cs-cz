@@ -30,11 +30,11 @@ Následující tabulka popisuje sekvekci úloh s odkazy na témata, která je po
 | Viz | také |
 | --- | --- |
 | Nastavte si obchodní vztah, který máte s vašimi kontakty, například s potenciálním zákazníkem, bankou, poradcem a poskytovatelem služeb. |[Nastavení obchodních vztahů ke kontaktním společnostem](marketing-business-relations.md) |
-| Nastavte odvětví, do kterého patří kontakty, například maloobchod a automobilový průmysl. |[Návody Nastavení průmyslové skupiny na kontaktní společnosti](marketing-industry-groups.md) |
-| Nastavte poštovní skupiny, které můžete použít k identifikaci skupin kontaktů tak, aby získali stejné informace. |[Návody Nastavení poštovních skupin na kontaktní společnosti](marketing-mailing-groups.md) |
+| Nastavte odvětví, do kterého patří kontakty, například maloobchod a automobilový průmysl. |[Návod: Nastavení průmyslové skupiny na kontaktní společnosti](marketing-industry-groups.md) |
+| Nastavte poštovní skupiny, které můžete použít k identifikaci skupin kontaktů tak, aby získali stejné informace. |[Návod: Nastavení poštovních skupin na kontaktní společnosti](marketing-mailing-groups.md) |
 | Nastavte pracovní odpovědnosti vašich kontaktních osob. |[Nastavení pracovních odpovědnosti ke kontaktům](marketing-job-responsibilities.md) |
-| Nastavte organizační úrovně, které chcete použít pro své kontaktní osoby. |[Návody Nastavení organizační úrovně kontaktů](marketing-organizational-levels.md) |
-| Nastavte webové zdroje (vyhledávače a weby), které můžete použít při vyhledávání informací o vašich kontaktech na internetu. |[Návody Nastavení webových zdrojů pro kontakty](marketing-web-sources.md) |
+| Nastavte organizační úrovně, které chcete použít pro své kontaktní osoby. |[Návod: Nastavení organizační úrovně kontaktů](marketing-organizational-levels.md) |
+| Nastavte webové zdroje (vyhledávače a weby), které můžete použít při vyhledávání informací o vašich kontaktech na internetu. |[Návod: Nastavení webových zdrojů pro kontakty](marketing-web-sources.md) |
 
 ## <a name="see-also"></a>Viz také
 [Správa kontaktů](marketing-contacts.md)  

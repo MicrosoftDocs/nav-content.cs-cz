@@ -17,7 +17,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-reconcile-customer-payments-manually"></a>Návody: Ruční odsouhlasení plateb zákazníkům
+# <a name="how-to-reconcile-customer-payments-manually"></a>Návod: Ruční odsouhlasení plateb zákazníkům
 Když obdržíte od zákazníka doklad o hotovosti nebo provedete vrácení peněz zákazníkovi, musíte se rozhodnout, zda chcete platbu vyrovnat nebo vrátit zpět na jednu nebo více otevřených položek MD nebo Dal. Můžete určit částku, kterou chcete vyrovnat. Například, když chcete vyrovnat částečnými platbami položky zákazníka Uzavírání položek zákazníka zajišťuje, že informace jako jsou statistika zákazníka, výpisy z účtů a finanční poplatky jsou správné.
 
 > [!NOTE]  

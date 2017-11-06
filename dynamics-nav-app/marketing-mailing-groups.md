@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-set-up-mailing-groups-for-contacts"></a>Návody Nastavení poštovních skupin pro kontakty
+# <a name="how-to-set-up-mailing-groups-for-contacts"></a>Návod: Nastavení poštovních skupin pro kontakty
 Poštovní skupiny můžete použít k identifikaci skupin kontaktů, které chcete, aby obdrželi stejné informace. Můžete například nastavit poštovní skupinu pro kontakty, kterým chcete poslat oznámení o přesunu kanceláře, nebo jinou skupinu pro zasílání dárků.
 
 Použití poštovních skupin v kontaktech je proces o dvou krocích. Nejprve definujete kód poštovní skupiny. Pro každou poštovní skupinu stačí tento krok provést pouze jednou. Jakmile máte poštovní skupinu, můžete začít přiřazovat kódy ke kontaktním společnostem.

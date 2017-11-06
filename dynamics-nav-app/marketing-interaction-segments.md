@@ -44,8 +44,8 @@ V okně **Segmenty** když zvolíte **Protokol**, aplikace zaznamená interakce 
 V okně **Protokolované segmenty** se můžete rozhodnout vytvořit další segment, který bude obsahovat stejné kontakty jako segment, který jste zaznamenali.
 
 ## <a name="see-also"></a>Viz také
-[Návody Vytvoření segmentů](marketing-how-create-segment.md)  
-[Návody Vytvoření interakcí pro segmenty](marketing-how-create-interactions.md)  
+[Návod: Vytvoření segmentů](marketing-how-create-segment.md)  
+[Návod: Vytvoření interakcí pro segmenty](marketing-how-create-interactions.md)  
 [Správa segmentů](marketing-segments.md)  
 [Zaznamenávání interakcí s kontakty](marketing-interactions.md)  
 [Správa prodejních příležitostí](marketing-manage-sales-opportunities.md)  

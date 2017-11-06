@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-set-up-resources"></a>Návody Nastavení zdrojů
+# <a name="how-to-set-up-resources"></a>Návod: Nastavení zdrojů
 Chcete-li správně spravovat aktivity zdrojů, musíte nastavit zdroje a související náklady a ceny. Ceny související s projektem, slevy a nákladová pravidla jsou nastaveny na kartě projektu. Můžete specifikovat náklady a ceny jednotlivých zdrojů, skupin zdrojů nebo všech dostupných zdrojů společnosti.
 
 Když jsou zdroje využívány nebo prodávány v projektu, ceny a náklady spojené s nimi jsou získány z informací, které jste nastavili.

@@ -29,13 +29,13 @@ Následující tabulka popisuje sekvenci úloh s odkazy na témata, která je po
 
 | Viz | také |
 | --- | --- |
-| Založení kontaktu pro novou firmu, buď od začátku, nebo od zákazníka, dodavatele nebo bankovní účet. |[Návody Vytvoření kontaktních společností](marketing-how-create-contact-companies.md) |
+| Založení kontaktu pro novou firmu, buď od začátku, nebo od zákazníka, dodavatele nebo bankovní účet. |[Návod: Vytvoření kontaktních společností](marketing-how-create-contact-companies.md) |
 | Synchronizujte informace v kontaktech s běžnými informacemi v zákaznících, dodavatelích a bankovních |[Synchronizace kontaktů se zákazníky, dodavateli a bankovními účty](marketing-synchronize-contacts-customers-vendors-bank-accounts.md) |
 | Popište obchodní vztah kontaktní společnosti. |[Nastavení obchodních vztahů ke kontaktním společnostem](marketing-business-relations.md) |
-| Umístěte kontaktní společnost do příslušné průmyslové skupiny, například do maloobchodu. |[Návody Nastavení průmyslové skupiny na kontaktní společnosti](marketing-industry-groups.md) |
-| Nastavte poštovní skupiny, které můžete použít k identifikaci skupin kontaktů tak, aby získali stejné informace. |[Návody Nastavení poštovních skupin na kontaktní společnosti](marketing-mailing-groups.md) |
-| Nastavení alternativní adresy pro kontakt. |[Návody Přiřazení alternativní adresy ke kontaktu](marketing-how-assign-alternate-address.md) |
-| Přiřaďte svým kontaktům webové zdroje (vyhledávače a webové stránky), aby jste zjistili, kde na internetu můžete vyhledat informace o daných kontaktech. |[Návody Nastavení webových zdrojů pro kontakty](marketing-web-sources.md) |
+| Umístěte kontaktní společnost do příslušné průmyslové skupiny, například do maloobchodu. |[Návod: Nastavení průmyslové skupiny na kontaktní společnosti](marketing-industry-groups.md) |
+| Nastavte poštovní skupiny, které můžete použít k identifikaci skupin kontaktů tak, aby získali stejné informace. |[Návod: Nastavení poštovních skupin na kontaktní společnosti](marketing-mailing-groups.md) |
+| Nastavení alternativní adresy pro kontakt. |[Návod: Přiřazení alternativní adresy ke kontaktu](marketing-how-assign-alternate-address.md) |
+| Přiřaďte svým kontaktům webové zdroje (vyhledávače a webové stránky), aby jste zjistili, kde na internetu můžete vyhledat informace o daných kontaktech. |[Návod: Nastavení webových zdrojů pro kontakty](marketing-web-sources.md) |
 
 ## <a name="see-also"></a>Viz také
 [Vytvoření kontaktních osob](marketing-create-contact-persons.md)   

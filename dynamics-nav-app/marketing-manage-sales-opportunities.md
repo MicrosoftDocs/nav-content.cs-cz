@@ -27,8 +27,8 @@ Následující tabulka popisuje sekvenci úloh s odkazy na témata, která je po
 
 | Viz | také |
 | --- | --- |
-| Nastavte prodejní cykly, které obvykle používáte, a různé fáze v rámci každého prodejního cyklu příležitostí. |[Návody Nastavení cyklů prodejních příležitostí a fází](marketing-how-setup-opportunity-sales-cycles-stages.md) |
-| Vytvořte příležitosti prodeje, které máte od kontaktů. |[Návody Vytvoření příležitostí](marketing-how-create-opportunities.md) |
+| Nastavte prodejní cykly, které obvykle používáte, a různé fáze v rámci každého prodejního cyklu příležitostí. |[Návod: Nastavení cyklů prodejních příležitostí a fází](marketing-how-setup-opportunity-sales-cycles-stages.md) |
+| Vytvořte příležitosti prodeje, které máte od kontaktů. |[Návod: Vytvoření příležitostí](marketing-how-create-opportunities.md) |
 | Přesuňte prodejní příležitosti přes prodejní cyklus k dokončení. |[Zpracování prodejních příležitostí](marketing-processing-sales-opportunities.md) |
 
 ## <a name="see-also"></a>Viz také

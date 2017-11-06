@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-register-new-vendors"></a>Návody Registrace nového dodavatele
+# <a name="how-to-register-new-vendors"></a>Návod: Registrace nového dodavatele
 Dodavatelé poskytují produkty, které prodáváte. Každý dodavatel, od kterého jste nakoupili, musí být zaregistrován jako karta dodavatele.
 
 Než budete moci registrovat nové dodavatele, musíte nastavit různé nákupní kódy, které si můžete vybrat od okamžiku, kdy vyplníte karty dodavatele. Když jsou vytvořeny všechny požadovaná data, můžete provést dodatečnou konfiguraci dodavatele, například upřednostnit dodavatele pro platební účely a položky seznamu, které dodavatel a ostatní dodavatelé mohou dodat. Další skupinou úloh pro dodavatele je zaznamenat vaše dohody týkající se slev, cen a platebních metod. Další informace naleznete v tématu: [Nastavení nákupů](purchasing-setup-purchasing.md).
@@ -54,6 +54,6 @@ Chcete-li tuto kartu dodavatele použít jako šablonu při vytváření nových
 
 ## <a name="see-also"></a>Viz také
 [Nákup](purchasing-manage-purchasing.md)  
-[Návody Zaznamenávání nákupu](purchasing-how-record-purchases.md)   
+[Návod: Zaznamenávání nákupu](purchasing-how-record-purchases.md)   
 [Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

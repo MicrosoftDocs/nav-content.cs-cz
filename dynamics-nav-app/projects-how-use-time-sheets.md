@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-use-time-sheets-for-jobs"></a>Návody Použití pracovních výkazů pro projekty
+# <a name="how-to-use-time-sheets-for-jobs"></a>Návod: Použití pracovních výkazů pro projekty
 Používáte dávkovou úlohu **Vytvořit pracovní výkazy** pro nastavení pracovních výkazů pro určitý počet časových období nebo týdnů. Abyste mohli vytvářet pracovní výkazy, musíte mít oprávnění.
 
 Můžete kopírovat a používat své řádky plánování projektu v pracovním výkazu. Tímto způsobem musíte zadat informace pouze na jednom místě a informace o řádcích jsou vždy správné.

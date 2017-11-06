@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-record-usage-for-jobs"></a>Návody Záznam využití pro projekty
+# <a name="how-to-record-usage-for-jobs"></a>Návod: Záznam využití pro projekty
 V okně **Řádky plánování projektu** můžete prohlížet a zaznamenávat využití v různých částech vašeho projektu, které se automaticky aktualizují, když měníte a přenášíte informace mezi úlohami a deníky projektu nebo projektovými fakturami. To vyžaduje, abyste nastavili projekt tak, aby byla zapnuta možnost **Použít propojení spotřeby**. Další informace naleznete v tématu [Návod: Nastavení projektů.](projects-how-setup-jobs.md).  
 
 Například pro řádky plánování typu **Plán** můžete zadat množství zdrojů a uvést, jaké množství se má přenést do deníku projektu. Pokud je typ řádku plánování **Fakturovatelné**, můžete zadat množství zdrojů a uvést, jaké množství se má převést na fakturu. Porovnáním množství, které bylo převedeno do deníku nebo faktury se zbývajícím množstvím můžete rychle zkontrolovat informace o použití.

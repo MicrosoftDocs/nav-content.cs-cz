@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-process-sales-opportunities"></a>Návody Správa prodejních příležitostí
+# <a name="how-to-process-sales-opportunities"></a>Návod: Správa prodejních příležitostí
 Po vytvoření příležitosti existuje několik funkcí správy příležitostí a přesunutí k dokončení.
 
 ## <a name="to-view-opportunities"></a>Zobrazení příležitostí

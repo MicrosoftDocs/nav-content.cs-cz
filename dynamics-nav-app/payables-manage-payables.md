@@ -31,13 +31,13 @@ Následující tabulka popisuje sekvenci úloh v rámci závazků s odkazy na t�
 | --- | --- |
 | Generování splatných plateb dodavatele nebo náhrad zaměstnanců, příprava šekové platby a export platby do bankovního souboru při účtování |[Provedení plateb](payables-make-payments.md) |
 | Použít automaticky platby dodavatele na nezaplacené nákupní faktury importem souboru bankovního výpisu. |[Automatikcé vyrovnání plateb a odsouhlasení bankovních účtů](receivables-apply-payments-auto-reconcile-bank-accounts.md) |
-| Ručně přiřadit dodavatelské platby k nezaplaceným nákupním fakturám. |[Návody: Ruční odsouhlasení plateb dodavatelů](payables-how-apply-purchase-transactions-manually.md) |
-|Zajistěte správné ocenění zásob přidělením dodatečných nákladů, jako je poplatek, fyzická manipulace, pojištění a doprava, které vzniknou při nákupu.|[Návody: Použití poplatku za položku pro účtování dodatečných obchodních nákladů](payables-how-assign-item-charges.md)|
+| Ručně přiřadit dodavatelské platby k nezaplaceným nákupním fakturám. |[Návod:: Ruční odsouhlasení plateb dodavatelů](payables-how-apply-purchase-transactions-manually.md) |
+|Zajistěte správné ocenění zásob přidělením dodatečných nákladů, jako je poplatek, fyzická manipulace, pojištění a doprava, které vzniknou při nákupu.|[Návod:: Použití poplatku za položku pro účtování dodatečných obchodních nákladů](payables-how-assign-item-charges.md)|
 
 ## <a name="see-also"></a>Viz také
 [Nákup](purchasing-manage-purchasing.md)  
 [Správa pohledávek](receivables-manage-receivables.md)  
-[Návody: Použití poplatku za položku pro účtování dodatečných obchodních nákladů](payables-how-assign-item-charges.md)  
+[Návod:: Použití poplatku za položku pro účtování dodatečných obchodních nákladů](payables-how-assign-item-charges.md)  
 [Obecné obchodní funkce](ui-across-business-areas.md)  
 [Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

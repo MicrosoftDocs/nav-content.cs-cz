@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-create-jobs"></a>Návody Tvorba projektů
+# <a name="how-to-create-jobs"></a>Návod: Tvorba projektů
 Když spustíte nový projekt, musíte vytvořit kartu projektu s integrovanými úlohami a řádky plánování projektu, které jsou strukturované ve dvou vrstvách.  
 
 První vrstva se skládá z úloh projektu. Musíte vytvořit alespoň jednu úlohu na projektu, protože veškeré účtování se týká úloh projektu. Pokud máte alespoň jednu úlohu projektu, můžete nastavit řádky plánování projektu a účtovat spotřebu do projektu.

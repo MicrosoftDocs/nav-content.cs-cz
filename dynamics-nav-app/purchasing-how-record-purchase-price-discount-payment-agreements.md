@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-record-special-purchase-prices-and-discounts"></a>Návody: Zaznamenávání speciálních nákupních cen a slev
+# <a name="how-to-record-special-purchase-prices-and-discounts"></a>Návod: Zaznamenávání speciálních nákupních cen a slev
 Různé cenové a slevové dohody, které použijete při nákupu od různých dodavatelů musí být definovány tak, aby se dohodnuté pravidla a hodnoty použily na nákupní doklad, které vytvoříte pro dodavatele.
 
 Když zaznamenáte speciální ceny a slevy na řádcích pro nákup a prodej, [!INCLUDE[d365fin](includes/d365fin_md.md)] zajistí, že váš zisk z obchodu se zbožím je vždy optimální tím, že automaticky vypočítá nejlepší cenu na nákupních a prodejních dokumentech, projektech a řádcích deníku zboží. Pro více informací sledujte následující sekci „Výpočet nejlepší ceny“.

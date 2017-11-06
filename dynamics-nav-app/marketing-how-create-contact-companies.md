@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-create-contact-companies"></a>Návody Vytvoření kontaktních společností
+# <a name="how-to-create-contact-companies"></a>Návod: Vytvoření kontaktních společností
 Můžete vytvořit kontakt pro každou novou společnost, s níž spolupracujete, například zákazníkem, dodavatelem, potenciálním zákazníkem, bankou, advokátní kanceláří, konzultantem a dalšími.
 
 Existují dva způsoby, jak vytvořit kontakt: od začátku nebo od stávajícího zákazníka, dodavatele nebo bankovního účtu.
@@ -57,6 +57,6 @@ Pokud jste již nastavili řadu zákazníků, dodavatelů a bankovních účtů,
 [Přiřazení obchodních vztahů ke kontaktu](marketing-business-relations.md#AssignBusRelContact)  
 [Přiřazení průmyslových skupin ke kontaktu](marketing-industry-groups.md#AssignIndustryGroupContact)  
 [Přiřazení poštovních skupin ke kontaktu](marketing-mailing-groups.md#AssignMailGroupContact)  
-[Návody Vytvoření kontaktních osob](marketing-create-contact-persons.md)  
+[Návod: Vytvoření kontaktních osob](marketing-create-contact-persons.md)  
 [Práce s Dynamics NAV](ui-work-product.md)
 

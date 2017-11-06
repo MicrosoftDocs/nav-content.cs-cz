@@ -1,5 +1,5 @@
 ---
-title: "Návody Nastavení alternativní adresy pro kontakty"
+title: "Návod: Nastavení alternativní adresy pro kontakty"
 author: jswymer
 ms.custom: na
 ms.date: 09/16/2016
@@ -15,7 +15,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-set-up-alternative-addresses-for-contacts"></a>Návody Nastavení alternativní adresy pro kontakty
+# <a name="how-to-set-up-alternative-addresses-for-contacts"></a>Návod: Nastavení alternativní adresy pro kontakty
 Můžete přiřadit alternativní adresu, kam je Vašim kontaktům někdy posílána pošta a informace, například na Vaši chalupu. Můžete také přiřadit jeden nebo více rozsahů dat ke každé alternativní adrese, kterou jste zadali Vašim kontaktům, a určit, kdy je každá adresa platná.
 
 ## <a name="to-assign-an-alternative-address"></a>Přiřazení alternativní adresy

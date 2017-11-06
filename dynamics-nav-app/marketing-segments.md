@@ -30,8 +30,8 @@ Následující tabulka popisuje sekvenci úloh s odkazy na témata, která je po
 
 | Viz | také |
 | --- | --- |
-| Vytvořte segmenty, které umožňují vybrat skupinu kontaktů. Například cílenou poštu. |[Návody Vytvoření segmentů](marketing-how-create-segment.md) |
-| Spravujte kontakty, které jsou přiřazeny segmentům. |[Návody Přidání kontaktů do segmentů](marketing-add-contact-segment.md) |
+| Vytvořte segmenty, které umožňují vybrat skupinu kontaktů. Například cílenou poštu. |[Návod: Vytvoření segmentů](marketing-how-create-segment.md) |
+| Spravujte kontakty, které jsou přiřazeny segmentům. |[Návod: Přidání kontaktů do segmentů](marketing-add-contact-segment.md) |
 | Informace o používání interakcí a segmentů, včetně protokolování. |[Správa interakcí a segmenty](marketing-interaction-segments.md) |
 
 ## <a name="see-also"></a>Viz také

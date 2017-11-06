@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-set-up-purchasers"></a>Návody: Nastavení nákupčích
+# <a name="how-to-set-up-purchasers"></a>Návod: Nastavení nákupčích
 Pokud ve vaší společnosti pracuje více nákupčích, můžete je v okně nastavit a přiřadit každému kód. Kódy pak můžete použít k přípravě statistik a k filtrování informací v tištěných sestavách.
 
 ## <a name="to-set-up-purchasers"></a>Nastavení nákupčích

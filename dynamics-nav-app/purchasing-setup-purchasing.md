@@ -29,10 +29,10 @@ Nastavení nákupu souvisejícího s financemi, jako jsou způsoby platby a měn
 
 | Viz | také |
 | --- | --- |
-| Vytvořte kartu dodavatele pro každého dodavatele, od kterého jste nakupovali|[Návody: Registrace nového dodavatele](purchasing-how-register-new-vendors.md) |
-| Zadejte různé slevy a alternativní ceny, které vám dodavatelé poskytují v závislosti na zboží, množství a/nebo datu |[Návody: Záznam nákupní ceny, slevy a platebních dohod](purchasing-how-record-purchase-price-discount-payment-agreements.md) |
-| Prioritizace dodavatelů. |[Návody: Prioritizace dodavatelů](purchasing-how-prioritize-vendors.md) |
-| Nastavení nákupčích |[Návody: Nastavení nákupčích](purchasing-how-setup-purchasers.md) |
+| Vytvořte kartu dodavatele pro každého dodavatele, od kterého jste nakupovali|[Návod: Registrace nového dodavatele](purchasing-how-register-new-vendors.md) |
+| Zadejte různé slevy a alternativní ceny, které vám dodavatelé poskytují v závislosti na zboží, množství a/nebo datu |[Návod: Záznam nákupní ceny, slevy a platebních dohod](purchasing-how-record-purchase-price-discount-payment-agreements.md) |
+| Prioritizace dodavatelů. |[Návod: Prioritizace dodavatelů](purchasing-how-prioritize-vendors.md) |
+| Nastavení nákupčích |[Návod: Nastavení nákupčích](purchasing-how-setup-purchasers.md) |
 
 ## <a name="see-also"></a>Viz také
 [Nákup](purchasing-manage-purchasing.md)  

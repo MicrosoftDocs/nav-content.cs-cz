@@ -29,10 +29,10 @@ Následující tabulka popisuje sekvenci úkolů s odkazy na téma, která je po
 
 | Viz | také |
 | --- | --- |
-| Uhradit platby k otevřeným položkám zákazníka nebo dodavatele importem bankovního výpisu a odsouhlasit bankovní účet při uhrazení všech plateb. |[Návody: Odsouhlasení plateb pomocí automatického vyrovnání](receivables-how-reconcile-payments-auto-application.md) |
-| Ručně uhradit platby zobrazením podrobných informací o shodných datech a návrzích pro kandidátské otevřené položky, které mají být uhrazeny. |[Návody: Přezkoumání nebo uhrazení plateb po automatické aplikaci](receivables-how-review-apply-payments-auto-application.md) |
-| Vyřešte platby, které nelze automaticky vyrovnat na jejich související otevřené položky. Například se částky liší nebo proto, že související položka neexistuje. |[Návody: Odsouhlasení plateb, které nelze vyrovnat automaticky](receivables-how-reconcile-payments-cannot-apply-auto.md) |
-| Odkazovat text na platbách na konkrétního zákazníka, dodavatele nebo účet hlavní knihy, aby došlo vždy po zaúčtování periodických pokladních příjmů nebo výdajů na tyto účty, pokud neexistují žádné doklady pro vyrovnání. |[Návody: Mapování textu periodických plateb na účtech pro automatické odsouhlasení](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md) |
+| Uhradit platby k otevřeným položkám zákazníka nebo dodavatele importem bankovního výpisu a odsouhlasit bankovní účet při uhrazení všech plateb. |[Návod:: Odsouhlasení plateb pomocí automatického vyrovnání](receivables-how-reconcile-payments-auto-application.md) |
+| Ručně uhradit platby zobrazením podrobných informací o shodných datech a návrzích pro kandidátské otevřené položky, které mají být uhrazeny. |[Návod:: Přezkoumání nebo uhrazení plateb po automatické aplikaci](receivables-how-review-apply-payments-auto-application.md) |
+| Vyřešte platby, které nelze automaticky vyrovnat na jejich související otevřené položky. Například se částky liší nebo proto, že související položka neexistuje. |[Návod:: Odsouhlasení plateb, které nelze vyrovnat automaticky](receivables-how-reconcile-payments-cannot-apply-auto.md) |
+| Odkazovat text na platbách na konkrétního zákazníka, dodavatele nebo účet hlavní knihy, aby došlo vždy po zaúčtování periodických pokladních příjmů nebo výdajů na tyto účty, pokud neexistují žádné doklady pro vyrovnání. |[Návod:: Mapování textu periodických plateb na účtech pro automatické odsouhlasení](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md) |
 
 ## <a name="see-also"></a>Viz také
 [Správa pohledávek](receivables-manage-receivables.md)  

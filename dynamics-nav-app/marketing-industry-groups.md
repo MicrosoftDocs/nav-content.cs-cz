@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-set-up-industry-groups-for-contact-companies"></a>Návody Nastavení průmyslové skupiny pro kontaktní společnosti
+# <a name="how-to-set-up-industry-groups-for-contact-companies"></a>Návod: Nastavení průmyslové skupiny pro kontaktní společnosti
 Používáte průmyslové skupiny k označení typu průmyslu, ke kterému patří vaše kontakty, například maloobchod nebo automobilový průmysl.
 
 Použití průmyslových skupin v kontaktech je proces o dvou krocích. Nejprve definujete kód průmyslové skupiny. Pro každou průmyslovou skupinu stačí tento krok provést pouze jednou. Jakmile máte průmyslovou skupinu, můžete začít přiřazovat kódy ke kontaktním společnostem.

@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-create-a-customer-vendor-or-bank-account-from-a-contact"></a>Návody Vytvoření zákazníka, dodavatele nebo bankovního účtu z kontaktu
+# <a name="how-to-create-a-customer-vendor-or-bank-account-from-a-contact"></a>Návod: Vytvoření zákazníka, dodavatele nebo bankovního účtu z kontaktu
 Možná budete chtít zaznamenat některé vaše stávající kontakty jako zákazníky, dodavatele nebo bankovní účty. Vytvoření zákazníka, dodavatele nebo bankovního účtu z kontaktu umožňuje použít stávající data. Když vytvoříte zákazníka, dodavatele nebo bankovní účet tímto způsobem, synchronizuje se s kontaktem. Synchronizace vytváří stejné informace, které jsou společné mezi kontakty a zákazníky, dodavateli nebo bankovním účtem.
 
 Než budete moci zaznamenat kontaktní společnosti tímto způsobem, musíte zadat kód obchodních vztahů pro zákazníky, dodavatele a bankovní účty v okně **Nastavení marketingu**. Pokud budete zaznamenávat kontakty jako bankovní účty, musíte také zadat řadu čísel pro bankovní účty v okně **Nastavení financí**.
@@ -32,11 +32,11 @@ Než budete moci zaznamenat kontaktní společnosti tímto způsobem, musíte za
 Kontaktní informace jsou přeneseny z karty **Kontakt** na kartu **Bankovní účet**, kartu **Zákazník** nebo na kartu **Dodavatel**. Možná budete chtít přidat konkrétní informace ke každé kartě, například fakturační a platební údaje.
 
 ## <a name="see-also"></a>Viz také
-[Návody Vytvoření kontaktních společností](marketing-create-contact-companies.md)  
-[Návody Vytvoření kontaktních osob](marketing-create-contact-persons.md)  
+[Návod: Vytvoření kontaktních společností](marketing-create-contact-companies.md)  
+[Návod: Vytvoření kontaktních osob](marketing-create-contact-persons.md)  
 [Nastavení Správy vztahů](marketing-setup-marketing.md)  
 [Synchronizace kontaktů se zákazníky, dodavateli a bankovními účty](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)  
-[Návody Propojení Kontaktů s existujícími Zákazníky, Dodavateli nebo Bankovními účty](marketing-how-link-contact.md)  
+[Návod: Propojení Kontaktů s existujícími Zákazníky, Dodavateli nebo Bankovními účty](marketing-how-link-contact.md)  
 [Přiřazení obchodních vztahů ke kontaktu](marketing-business-relations.md#AssignBusRelContact)  
 [Práce s Dynamics NAV](ui-work-product.md)
 

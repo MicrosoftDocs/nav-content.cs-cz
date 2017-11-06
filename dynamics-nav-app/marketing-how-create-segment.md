@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-create-segments"></a>Návody Vytvoření segmentů
+# <a name="how-to-create-segments"></a>Návod: Vytvoření segmentů
 Segmenty můžete vytvořit pro výběr skupiny kontaktů, například chcete-li vytvořit interakci zahrnující několik kontaktů, jakou je například přímá pošta.
 
 ## <a name="to-create-a-segment"></a>Vytvoření segmentu

@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-set-up-web-sources-for-contact-companies"></a>Návody Nastavení webových zdrojů pro kontaktní společnosti
+# <a name="how-to-set-up-web-sources-for-contact-companies"></a>Návod: Nastavení webových zdrojů pro kontaktní společnosti
 Můžete použít webové zdroje se svými kontaktními společnostmi například k identifikaci vyhledávačů a webových stránek na internetu, které chcete použít k vyhledání informací o kontaktech. Při přiřazování webových zdrojů určíte vyhledávač a vyhledávací slovo, které aplikace použije k vyhledání požadovaných informací.
 
 Použití webových zdrojů v kontaktech je proces o dvou krocích. Nejprve definujete kód webových zdrojů. Pro každý webový zdroj stačí tento krok provést pouze jednou. Jakmile máte kód pro webové zdroje, můžete začít přiřazovat kód ke kontaktním osobám.

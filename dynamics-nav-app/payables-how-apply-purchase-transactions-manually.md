@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-reconcile-vendor-payments-manually"></a>Návody Ruční odsouhlasení plateb dodavatelů
+# <a name="how-to-reconcile-vendor-payments-manually"></a>Návod: Ruční odsouhlasení plateb dodavatelů
 Když odešlete platbu nebo obdržíte od dodavatele refundaci, musíte se rozhodnout, zda bude platit nebo refundovat na jednu nebo více otevřených položek. Můžete zadat přesnou částku, kterou chcete použít na doklad o platbě nebo refundaci, a pak jen částečně použít položky dodavatele. Musíte použít všechny záznamy v registru dodavatelů, abyste získali správné statistiky dodavatelů a přehledy výpisů z účtu a poplatků za nastavení finančních prostředků.
 
 > [!NOTE]  

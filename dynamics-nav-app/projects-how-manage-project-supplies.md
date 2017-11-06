@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-manage-job-supplies"></a>Návody Správa projektových zásob
+# <a name="how-to-manage-job-supplies"></a>Návod: Správa projektových zásob
 Řízení projektových dodávek zboží, služeb a nákladů je nedílnou a kritickou stránkou výkonu všech projektů. Můžete použít inventární množství nebo udělat specifický projektový nákup pro danou zakázku pomocí nákupních objednávek nebo nákupních faktur. Například projektová služba ohledně počítače vyžaduje nový disk. Vytvořte nákupní fakturu pro zakoupení nového disku a zaznamenejte projekt, na který bude použita.
 
 Pokud proces nákupu nevyžaduje, aby byla fyzická transakce zaznamenána samostatně, může být nákup zpracován v okně **Finanční deník projektu**. Další informace naleznete v tématu [Návod: Záznam spotřeby pro projekty](projects-how-record-job-usage.md).

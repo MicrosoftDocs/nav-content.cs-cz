@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-use-resources-for-jobs"></a>Návody Použití zdroje pro projekty
+# <a name="how-to-use-resources-for-jobs"></a>Návod: Použití zdroje pro projekty
 Zaznamenáváte využití zdrojů v deníku projektu, abyste sledovali náklady, ceny a typy práce, které jsou spojeny s projektem. Další informace naleznete v tématu [Návod: Záznam spotřeby pro projekty](projects-how-record-job-usage.md).
 
 Můžete také účtovat využití zdroje v deníku zdrojů. Položky zaúčtované v deníku zdrojů nemají vliv na finance.

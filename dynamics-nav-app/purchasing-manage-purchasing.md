@@ -33,17 +33,17 @@ Následující tabulka popisuje sekvenci úloh s odkazy na témata, která je po
 
 | Viz | také |
 | --- | --- |
-| Vytvořte nákupní fakturu, která zaznamená vaši dohodu s dodavatelem o nákupu produktů za určitých dodacích a platebních podmínek. |[Návody Zaznamenávání nákupu](purchasing-how-record-purchases.md) |
-|Vytvoření nákupní nabídky, která odráží požadavek na nabídku od dodavatele, která může později přejít na objednávku.|[Návody Požadované nabídky](purchasing-how-request-quotes.md)|
-| Vytvořte nákupní fakturu pro všechny nebo vybrané řádky na prodejní faktuře. |[Návody Nákup zboží pro prodej](purchasing-how-purchase-products-sale.md) |
-| Provedení akce na nezaplacené účtované nákupní faktuře k automatickému vytvoření dobropisu a zrušení faktury, nebo opětovnému vytvoření, abyste mohli provést změny. |[Návody Opravit nebo zrušit nezaplacené prodejní faktury](purchasing-how-correct-cancel-unpaid-purchase-invoices.md) |
-| Vytvořte nákupní dobropis pro vrácení konkrétní zaúčtované faktury k zobrazení, které produkty vracíte dodavateli a jakou částku platby budete vybírat. |[Návody Zpracování vratek nebo zrušení nákupů](purchasing-how-register-new-vendors.md) |
-|Příprava  na jednorázovou fakturaci více účtenek od jednoho dodavatele kombinací účtenek na jedné faktuře.|[Návody Kombinace účtenek a jedné faktury](purchasing-how-to-combine-receipts.md)|
+| Vytvořte nákupní fakturu, která zaznamená vaši dohodu s dodavatelem o nákupu produktů za určitých dodacích a platebních podmínek. |[Návod: Zaznamenávání nákupu](purchasing-how-record-purchases.md) |
+|Vytvoření nákupní nabídky, která odráží požadavek na nabídku od dodavatele, která může později přejít na objednávku.|[Návod: Požadované nabídky](purchasing-how-request-quotes.md)|
+| Vytvořte nákupní fakturu pro všechny nebo vybrané řádky na prodejní faktuře. |[Návod: Nákup zboží pro prodej](purchasing-how-purchase-products-sale.md) |
+| Provedení akce na nezaplacené účtované nákupní faktuře k automatickému vytvoření dobropisu a zrušení faktury, nebo opětovnému vytvoření, abyste mohli provést změny. |[Návod: Opravit nebo zrušit nezaplacené prodejní faktury](purchasing-how-correct-cancel-unpaid-purchase-invoices.md) |
+| Vytvořte nákupní dobropis pro vrácení konkrétní zaúčtované faktury k zobrazení, které produkty vracíte dodavateli a jakou částku platby budete vybírat. |[Návod: Zpracování vratek nebo zrušení nákupů](purchasing-how-register-new-vendors.md) |
+|Příprava  na jednorázovou fakturaci více účtenek od jednoho dodavatele kombinací účtenek na jedné faktuře.|[Návod: Kombinace účtenek a jedné faktury](purchasing-how-to-combine-receipts.md)|
 | Zjistěte, jak [!INCLUDE[d365fin](includes/d365fin_md.md)] vypočítává, pokud musíte objednat položku, aby byla přijata k určitému datu.|[Výpočet data nákupu](purchasing-date-calculation-for-purchases.md)|
 
 ## <a name="see-also"></a>Viz také
 [Nastavení nákupu](purchasing-setup-purchasing.md)  
-[Návody Registrace nového dodavatele](purchasing-how-register-new-vendors.md)  
+[Návod: Registrace nového dodavatele](purchasing-how-register-new-vendors.md)  
 [Správa závazků](payables-manage-payables.md)  
 [Správa projektů](projects-manage-projects.md)    
 [Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  

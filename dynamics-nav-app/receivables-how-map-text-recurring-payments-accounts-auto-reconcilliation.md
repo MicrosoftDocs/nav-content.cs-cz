@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-map-text-on-recurring-payments-to-accounts-for-automatic-reconciliation"></a>Návody: Mapování textu periodických plateb na účtech pro automatické odsouhlasení
+# <a name="how-to-map-text-on-recurring-payments-to-accounts-for-automatic-reconciliation"></a>Návod: Mapování textu periodických plateb na účtech pro automatické odsouhlasení
 V okně **Textové mapování účtů**, které otevřete z okna **Deníky odsouhlasení plateb**, můžete nastavit mapování mezi textem plateb a konkrétními Dal, MD a zůstatkovými účty tak, aby tyto platby byly účtovány na určené účty, když účtujete deník odsouhlasení plateb.
 
 > [!NOTE]  
@@ -63,7 +63,7 @@ Chcete-li vždy zaúčtovat výdaje za pohonné hmoty vzniklé u čerpacích sta
 ## <a name="see-also"></a>Viz také
 [Správa pohledávek](receivables-manage-receivables.md)  
 [Prodej](sales-manage-sales.md)  
-[Návody: Nastavení služby převodu bankovních dat](bank-how-setup-bank-data-conversion-service.md)    
+[Návod: Nastavení služby převodu bankovních dat](bank-how-setup-bank-data-conversion-service.md)    
 [Přizpůsobení [!INCLUDE[d365fin](includes/d365fin_md.md)] Pomocí rozšíření](ui-extensions.md)  
 [Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

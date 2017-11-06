@@ -18,13 +18,13 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-export-payments-to-a-bank-file"></a>Návody: Export plateb do bankovního souboru.
+# <a name="how-to-export-payments-to-a-bank-file"></a>Návod: Export plateb do bankovního souboru.
 Když jste připraveni provést platby dodavateli, použijte okno **Deníky plateb**, kde můžete exportovat soubor s informacemi o platbách na řádcích deníku. Pak můžete soubor nahrát do elektronické banky a zpracovat příslušné převody peněz.
 
 V generické verzi [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] je nastaven globální poskytovatel služeb pro převod bankovních dat do libovolného formátu souborů, který vaše banka vyžaduje. V severoamerických verzích může být stejná služba použita k odesílání platebních souborů jako elektronický převod prostředků (EFT), avšak s trochu jiným procesem. Podívejte se na krok 6 v sekci „Exportování platby do bankovního souboru“    
 
 > [!NOTE]  
->   Předtím než budete moci vyexportovat platební soubory z deníku plateb, musíte specifikovat elektronický formát pro zvolenou bankovní účet a také službu převodu bankovních dat. Další informace naleznete v tématu [Návod: Nastavení bankovních účtů](bank-how-setup-bank-accounts.md) a [Návody:  Nastavení služby převodu bankovních dat.](bank-how-setup-bank-data-conversion-service.md). Navíc musíte vybrat **Povolit export plateb** v okně **Listy finančního deníku**, Pro další informace se podívejte na [Práce s finančními deníky](ui-work-general-journals.md).  
+>   Předtím než budete moci vyexportovat platební soubory z deníku plateb, musíte specifikovat elektronický formát pro zvolenou bankovní účet a také službu převodu bankovních dat. Další informace naleznete v tématu [Návod: Nastavení bankovních účtů](bank-how-setup-bank-accounts.md) a [Návod:  Nastavení služby převodu bankovních dat.](bank-how-setup-bank-data-conversion-service.md). Navíc musíte vybrat **Povolit export plateb** v okně **Listy finančního deníku**, Pro další informace se podívejte na [Práce s finančními deníky](ui-work-general-journals.md).  
 
 K zobrazení platebních souborů, které byly exportovány z deníku plateb, použijete okno **Bezhotovostní převody**. Z tohoto okna můžete také znovu exportovat platební soubory v případě technických chyb nebo změn souborů. Všimněte si, že exportované soubory EFT se v tomto okně nezobrazují a nelze je znovu exportovat.  
 

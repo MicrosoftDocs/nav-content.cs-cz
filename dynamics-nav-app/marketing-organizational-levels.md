@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-set-up-organizational-levels-for-contact-persons"></a>Návody Nastavení organizační úrovně pro kontaktní osoby
+# <a name="how-to-set-up-organizational-levels-for-contact-persons"></a>Návod: Nastavení organizační úrovně pro kontaktní osoby
 U svých kontaktů můžete použít organizační úrovně, abyste určili, jakou pozici mají ve společnosti, například top management. Tyto informace můžete použít při zadávání informací o vašich kontaktech.
 
 Použití organizačních úrovní v kontaktech je proces o dvou krocích. Nejprve definujete kód organizační úrovně. Pro každou organizační úroveň stačí tento krok provést pouze jednou. Jakmile máte kód organizační úrovně, můžete začít přiřazovat kód ke kontaktním osobám.

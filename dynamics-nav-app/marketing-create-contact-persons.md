@@ -31,10 +31,10 @@ Následující tabulka popisuje sekvenci úloh s odkazy na témata, která je po
 
 | Viz | také |
 | --- | --- |
-| Poskytujte informace o kontaktní osobě. |[Návody Vytvoření kontaktních osob](marketing-how-create-contact-persons.md) |
-| Nastavení alternativní adresy pro kontakt. |[Návody Přiřazení alternativní adresy](marketing-how-assign-alternate-address.md) |
-| Popište obchodní vztah kontaktní společnosti. |[Návody Nastavení pracovních odpovědnosti ke kontaktům](marketing-job-responsibilities.md) |
-| Popište organizační úroveň vašich kontaktů. |[Návody Nastavení organizační úrovně pro kontaktní osoby](marketing-organizational-levels.md) |
+| Poskytujte informace o kontaktní osobě. |[Návod: Vytvoření kontaktních osob](marketing-how-create-contact-persons.md) |
+| Nastavení alternativní adresy pro kontakt. |[Návod: Přiřazení alternativní adresy](marketing-how-assign-alternate-address.md) |
+| Popište obchodní vztah kontaktní společnosti. |[Návod: Nastavení pracovních odpovědnosti ke kontaktům](marketing-job-responsibilities.md) |
+| Popište organizační úroveň vašich kontaktů. |[Návod: Nastavení organizační úrovně pro kontaktní osoby](marketing-organizational-levels.md) |
 | Přiřaďte poštovní skupiny k vašim kontaktům |[Přiřazení poštovní skupiny ke kontaktu](marketing-mailing-groups.md) |
 
 ## <a name="see-also"></a>Viz také

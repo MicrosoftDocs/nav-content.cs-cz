@@ -27,9 +27,9 @@ Následující tabulka popisuje sekvenci úloh s odkazy na témata, která je po
 
 | Viz | také |
 | --- | --- |
-| Nastavte své zdroje a související náklady a ceny buď pro jednotlivé zdroje, skupiny zdrojů nebo pro všechny dostupné zdroje společnosti. |[Návody Nastavení zdrojů](projects-how-setup-resources.md) |
-| Povolte zdroje pro oznamování využití času jednotlivce nebo stroje a povolte správci, aby zkontroloval využití a jeho přidělení. |[Návody Nastavení pracovních výkazů](projects-how-setup-time-sheets.md) |
-| Vytvořte pracovní karty a připravte pracovní úkoly. Nastavte ceny za položky projektu a zdroje projektu a definujte účetní skupiny projektu. |[Návody Nastavení Projektů](projects-how-setup-jobs.md) |
+| Nastavte své zdroje a související náklady a ceny buď pro jednotlivé zdroje, skupiny zdrojů nebo pro všechny dostupné zdroje společnosti. |[Návod: Nastavení zdrojů](projects-how-setup-resources.md) |
+| Povolte zdroje pro oznamování využití času jednotlivce nebo stroje a povolte správci, aby zkontroloval využití a jeho přidělení. |[Návod: Nastavení pracovních výkazů](projects-how-setup-time-sheets.md) |
+| Vytvořte pracovní karty a připravte pracovní úkoly. Nastavte ceny za položky projektu a zdroje projektu a definujte účetní skupiny projektu. |[Návod: Nastavení Projektů](projects-how-setup-jobs.md) |
 
 ## <a name="see-also"></a>Viz také
 [Správa projektů](projects-manage-projects.md)  

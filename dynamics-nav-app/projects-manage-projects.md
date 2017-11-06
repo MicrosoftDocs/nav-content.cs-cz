@@ -27,15 +27,15 @@ Následující tabulka popisuje sekvenci úloh s odkazy na témata, která je po
 
 | Viz | také |
 | --- | --- |
-| Vytvářet projekty, přiřazovat úlohy projektu a připravovat řádky plánování projektu. |[Návody Tvorba projektů](projects-how-create-jobs.md) |
-| Přidělení zdrojů na projekty a řízení cen zdrojů. |[Návody Použití zdroje pro projekty](projects-how-use-resources.md) |
-| Vytvořit pracovní výkaz s integrovanými úlohami projektu, plánovacími řádky a účtovanými řádky pracovního výkazu v deníku projektu. |[Návody Použití pracovních výkazů pro projekty](projects-how-use-time-sheets.md) |
-| Rozpočet na zdroje, které mají být použity v projektech a srovnání skutečného využití položek a zdrojů s rozpočtem, aby se zlepšila kvalita a nákladová efektivita budoucích projektů. |[Návody Správa rozpočtů projektu](projects-how-manage-budgets.md) |
-| Zkontrolujte a zaznamenávejte využití na různých částech vašeho projektu, které se automaticky aktualizují, když měníte a přenášíte informace z řádku plánování projektu do deníků projektu nebo faktur projektu za účelem účtování. |[Návody Využití záznamu pro projekty](projects-how-record-job-usage.md) |
-| Zakoupit spotřební materiál pro daný projekt a to, buď na nákupních objednávkách nebo fakturách a zaznamenávat položky a časové využití. |[Návody Správa projektových zásob](projects-how-manage-project-supplies.md) |
+| Vytvářet projekty, přiřazovat úlohy projektu a připravovat řádky plánování projektu. |[Návod: Tvorba projektů](projects-how-create-jobs.md) |
+| Přidělení zdrojů na projekty a řízení cen zdrojů. |[Návod: Použití zdroje pro projekty](projects-how-use-resources.md) |
+| Vytvořit pracovní výkaz s integrovanými úlohami projektu, plánovacími řádky a účtovanými řádky pracovního výkazu v deníku projektu. |[Návod: Použití pracovních výkazů pro projekty](projects-how-use-time-sheets.md) |
+| Rozpočet na zdroje, které mají být použity v projektech a srovnání skutečného využití položek a zdrojů s rozpočtem, aby se zlepšila kvalita a nákladová efektivita budoucích projektů. |[Návod: Správa rozpočtů projektu](projects-how-manage-budgets.md) |
+| Zkontrolujte a zaznamenávejte využití na různých částech vašeho projektu, které se automaticky aktualizují, když měníte a přenášíte informace z řádku plánování projektu do deníků projektu nebo faktur projektu za účelem účtování. |[Návod: Využití záznamu pro projekty](projects-how-record-job-usage.md) |
+| Zakoupit spotřební materiál pro daný projekt a to, buď na nákupních objednávkách nebo fakturách a zaznamenávat položky a časové využití. |[Návod: Správa projektových zásob](projects-how-manage-project-supplies.md) |
 | Další informace o NV (Nedokončená výroba), což je funkce, která zajišťuje správné finanční výkazy a umožňuje odhadnout finanční hodnotu probíhajících projektů. |[Porozumění Metodám NV](projects-understanding-wip.md) |
-| Zaúčtujte spotřebu materiálu, zdrojů a dalších výdajů projektu nedokončené výroby (NV), abyste sledovali její finanční hodnotu a udržovali správné finanční výkazy, i když vyúčtujete projektové výdaje před fakturací projektu. |[Návody Monitorování pokroku a výkonu projektu](projects-how-monitor-progress-performance.md) |
-| Zaznamenat náklady projektu pro využití zdrojů, materiálů a nákupů souvisejících s projektem a faktury zákazníka buď po dokončení projektu nebo podle fakturačního plánu. |[Návody Fakturace projektu](projects-how-invoice-jobs.md) |
+| Zaúčtujte spotřebu materiálu, zdrojů a dalších výdajů projektu nedokončené výroby (NV), abyste sledovali její finanční hodnotu a udržovali správné finanční výkazy, i když vyúčtujete projektové výdaje před fakturací projektu. |[Návod: Monitorování pokroku a výkonu projektu](projects-how-monitor-progress-performance.md) |
+| Zaznamenat náklady projektu pro využití zdrojů, materiálů a nákupů souvisejících s projektem a faktury zákazníka buď po dokončení projektu nebo podle fakturačního plánu. |[Návod: Fakturace projektu](projects-how-invoice-jobs.md) |
 
 ## <a name="see-also"></a>Viz také
 [Nastavení Správy vztahů](projects-setup-projects.md)  

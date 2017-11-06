@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-record-purchases"></a>Návody Zaznamenávání nákupu
+# <a name="how-to-record-purchases"></a>Návod: Zaznamenávání nákupu
 Vytvořte nákupní fakturu nebo nákupní objednávku k zaznamenání nákladů za nákupy a ke sledování závazků. Pokud potřebujete kontrolovat zásoby, nákupní faktury a pokud jsou nákupní objednávky také používány k dynamickému aktualizování úrovní zásob, můžete minimalizovat náklady zásob a poskytovat lepší služby zákazníkům. Náklady na nákup, včetně nákladů na služby a hodnoty zásob, které jsou výsledkem účtování nákupních faktur nebo objednávek, přispívají k hodnotám zisku a k dalším finančním ukazatelům KPI na vaší domovské stránce.
 
 > [!NOTE]  
@@ -74,9 +74,9 @@ Nákup se nyní odráží v zásobách a finančních záznamech a aktivuje se p
 ## <a name="see-also"></a>Viz také
 [Nákup](purchasing-manage-purchasing.md)  
 [Nastavení nákupu](purchasing-setup-purchasing.md)  
-[Návody Požadované nabídky](purchasing-how-request-quotes.md)  
-[Návody Nákup zboží pro prodej](purchasing-how-purchase-products-sale.md)  
-[Návody Registrace nového dodavatele](purchasing-how-register-new-vendors.md)  
-[Návody Příprava přímé dodávky zboží](sales-how-drop-shipment.md)  
+[Návod: Požadované nabídky](purchasing-how-request-quotes.md)  
+[Návod: Nákup zboží pro prodej](purchasing-how-purchase-products-sale.md)  
+[Návod: Registrace nového dodavatele](purchasing-how-register-new-vendors.md)  
+[Návod: Příprava přímé dodávky zboží](sales-how-drop-shipment.md)  
 [Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-set-up-time-sheets"></a>Návody Nastavení pracovních výkazů
+# <a name="how-to-set-up-time-sheets"></a>Návod: Nastavení pracovních výkazů
 Pracovní výkazy v [!INCLUDE[d365fin](includes/d365fin_md.md)] zaznamenávejte v týdenních přírůstcích po sedmi dnech. Používáte je ke sledování času použitého na projektech a můžete je použít k záznamu jednoduché registrace času. Než budete moci používat pracovní výkazy, musíte určit, jak chcete, aby byly nastaveny a nakonfigurovány.
 
 Jakmile nastavíte, jak bude vaše organizace používat pracovní výkazy, můžete určit, zda a jak jsou schvalovány. V závislosti na potřebách vaší organizace můžete určit:

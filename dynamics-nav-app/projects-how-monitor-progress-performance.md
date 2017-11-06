@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-monitor-job-progress-and-performance"></a>Návody Monitorování pokroku a výkonu projektu
+# <a name="how-to-monitor-job-progress-and-performance"></a>Návod: Monitorování pokroku a výkonu projektu
 Jak postupuje projekt, materiály, zdroje a další výdaje jsou spotřebovány a musí být zaúčtovány k projektu. Nedokončená výroba (NV) je funkce, která umožňuje odhadnout finanční hodnotu projektů v hlavní knize, zatímco projekty probíhají. V mnoha případech můžete zaúčtovat výdaje za práci před fakturací projektu. Pokud byly zaúčtovány pouze výdaje, vaše finanční výkazy budou nepřesné. Další informace naleznete v tématu [Porozumnění Metod NV](projects-understanding-wip.md).
 
 Chcete-li sledovat hodnotu v hlavní knize, můžete vypočítat NV a zaúčtovat hodnotu do hlavní knihy.

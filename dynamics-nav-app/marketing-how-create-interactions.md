@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-create-interactions-on-contacts-and-segments"></a>Návody Vytváření interakcí s kontakty a segmenty
+# <a name="how-to-create-interactions-on-contacts-and-segments"></a>Návod: Vytváření interakcí s kontakty a segmenty
 Můžete vytvořit interakce pro zaznamenání všech interakcí a komunikace, které máte s kontakty a segmenty, například přímou poštou.
 
 Než vytvoříte interakce, musíte nastavit šablony interakcí. Další informace naleznete v tématu [Nastavení šablon interakcí](marketing-interactions.md).

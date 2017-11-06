@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-link-contacts-with-customers-vendors-and-bank-accounts"></a>Návody Propojení kontaktů se zákazníky, dodavateli a bankovními účty
+# <a name="how-to-link-contacts-with-customers-vendors-and-bank-accounts"></a>Návod: Propojení kontaktů se zákazníky, dodavateli a bankovními účty
 Pokud máte kontakt na zákazníka, dodavatele nebo bankovní účet stejné společnosti, můžete tyto dvě entity spojit. Spojení dvou entit umožňuje synchronizovat data, která jsou společná, takže jsou stejná na obou místech.
 
 ## <a name="link-a-contact-to-an-existing-customer-vendor-or-bank-account"></a>Spojení kontaktu s existujícím zákazníkem, dodavatelem nebo bankovním účtem

@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-suggest-vendor-payments"></a>Návody: Navrhnutí plateb dodavatele
+# <a name="how-to-suggest-vendor-payments"></a>Návod: Navrhnutí plateb dodavatele
 V okně **Deník plateb**, můžete použít dávkové úlohy **Navrhnout platby dodavateli**k návrhu řádků deníku. Na základě vašich nastavení jsou navrženy řádky pro platby, které jsou brzy splatné, nebo platby, u kterých je k dispozici sleva.
 
 Chcete-li plně využít funkce na navrhnutí řádku, musíte nejdříve upřednostnit dodavatele. Další informace naleznete v tématu [Návod: Určení priority dodavatelů.](purchasing-how-prioritize-vendors.md)  

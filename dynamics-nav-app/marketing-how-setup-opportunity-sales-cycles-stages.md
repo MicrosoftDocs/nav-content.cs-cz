@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-set-up-opportunity-sales-cycles-and-cycle-stages"></a>Návody: Nastavení cyklů prodejních příležitostí a fází prodejních cyklů
+# <a name="how-to-set-up-opportunity-sales-cycles-and-cycle-stages"></a>Návod: Nastavení cyklů prodejních příležitostí a fází prodejních cyklů
 Než začnete využívat prodejní příležitosti, musíte nastavit prodejní cykly a fáze prodejního cyklu. Prodejní cyklus se skládá ze série fází, které jdou od počátečního kontaktu až k uzavření prodeje. Každá fáze může mít určité požadavky, které musí být splněny, jako je požadavek na prodejní nabídku, než může jít příležitost do další fáze. Můžete také určit, zda je možné přeskočit fázi. Můžete nastavit tolik prodejních cyklů, kolik potřebujete, a můžete nastavit tolik fází prodejních cyklů, kolik bude potřeba v rámci prodejního cyklu.
 
 Implementace příležitostných prodejních cyklů zahrnuje nastavení prodejního cyklu, definování jednotlivých fází cyklu a následné zařazení cyklu do příležitostí. Součástí nastavení prodejního cyklu také může být přiřazení příslušné aktivity nebo úkoly k příležitosti.

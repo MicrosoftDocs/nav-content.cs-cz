@@ -18,7 +18,7 @@ ms.contentlocale: cs-cz
 ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="how-to-create-sales-opportunities"></a>Návody Vytvoření prodejních příležitostí
+# <a name="how-to-create-sales-opportunities"></a>Návod: Vytvoření prodejních příležitostí
 Můžete vytvářet příležitosti pro prodejní příležitosti, které máte ve svých kontaktech. Všechny příležitosti musí být přiřazeny prodejci nebo nákupčímu a musí mít kontakt.
 
 Příležitosti můžete vytvořit v okně **Přehled příležitostí**. Ale typicky vytvoříte příležitosti od konkrétního kontaktu nebo obchodníků.
