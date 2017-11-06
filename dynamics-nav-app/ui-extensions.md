@@ -67,7 +67,6 @@ Společnost Microsoft poskytuje následující rozšíření:
 ## <a name="see-also"></a>Viz také
 [Návod: Povolení plateb zákazníka pomocí PayPalu](sales-how-enable-payment-service-extensions.md)  
 [migrování obchodních dat z jiných finančních systémů](upload-data.md)  
-[Nastavení GetAddress.io UK Postal Code extension](LocalFunctionality/UnitedKingdom/uk-setup-postal-code-service.md)  
 [[!INCLUDE[d365fin](includes/d365fin_md.md)] Rozšíření od jiných poskytovatelů](ui-extensions-other.md)  
 [Vítejte v [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
 
