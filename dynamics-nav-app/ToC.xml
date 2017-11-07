@@ -379,10 +379,4 @@
     <Node Name="" DisplayName="Podrobnosti návrhu: Sledování zboží" Page="design-details-item-tracking.html"/>
     <Node Name="" DisplayName="Podrobnosti návrhu: Řádek finančního deníku" Page="design-details-general-journal-post-line.html"/>
   </Node>
-  <Node Name="" DisplayName="Lokální funkčnosti" Page="index.html">
-    <Node Name="" DisplayName="Kanada" Page="LocalFunctionality/Canada/canada-local-functionality.html"/>
-    <Node Name="" DisplayName="Dánsko" Page="LocalFunctionality/Denmark/denmark-local-functionality.html"/>
-    <Node Name="" DisplayName="Velká Británie" Page="LocalFunctionality/UnitedKingdom/united-kingdom-local-functionality.html"/>
-    <Node Name="" DisplayName="USA" Page="LocalFunctionality/UnitedStates/united-states-local-functionality.html"/>
-  </Node>
 </Node>
