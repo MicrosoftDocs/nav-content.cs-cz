@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Node Name="" DisplayName="Nápověda" Page="index.html">
   <Node Name="" DisplayName="Začínáme" Page="index.html">
-    <Node Name="" DisplayName="Přehled obchodní funčnosti" Page="madeira-business-functionality.html"/>
+    <Node Name="" DisplayName="Přehled obchodní funkcionality" Page="madeira-business-functionality.html"/>
     <Node Name="" DisplayName="Import obchodních dat z jiných finančních systémů" Page="upload-data.html"/>
     <Node Name="" DisplayName="Získání Dynamics NAV na vašem mobilním zařízení" Page="install-mobile-app.html"/>
     <Node Name="" DisplayName="Použití Dynamics NAV jako vaší doručené pošty v aplikaci Outlook" Page="across-outlook.html"/>
@@ -285,7 +285,7 @@
     <Node Name="" DisplayName="Návod: Správa absencí zaměstnanců" Page="hr-how-manage-absence.html"/>
   </Node>
   <Node Name="" DisplayName="Plánování" Page="production-planning.html">
-    <Node Name="" DisplayName="O funkčnosti plánování" Page="production-about-planning-functionality.html"/>
+    <Node Name="" DisplayName="O funkcionalitě plánování" Page="production-about-planning-functionality.html"/>
     <Node Name="" DisplayName="Návod: Subdodávky výroby" Page="production-how-to-subcontract-manufacturing.html"/>
     <Node Name="" DisplayName="Plánování s nebo bez lokací" Page="production-planning-with-without-locations.html"/>
     <Node Name="" DisplayName="Návod: Vytváření předpovědí" Page="production-how-to-create-a-forecast.html"/>
