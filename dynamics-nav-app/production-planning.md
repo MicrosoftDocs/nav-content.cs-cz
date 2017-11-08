@@ -1,56 +1,60 @@
 ---
-    title: Supply Planning 
-    description: Prepare a detailed executable plan and the final-assembly production schedule for sales and production demand.
-    
-    documentationcenter: ''
-    author: SorenGP
-
-    ms.prod: "dynamics-nav-2017"
-    ms.topic: article
-    ms.devlang: na
-    ms.tgt_pltfrm: na
-    ms.workload: na
-    ms.search.keywords:
-    ms.date: 09/14/2017
-    ms.author: sgroespe
+title: "Plánování dodávky"
+description: "Připravte si podrobný spustitelný plán a výrobní plán konečné montáže pro prodej a poptávku produkce."
+documentationcenter: 
+author: SorenGP
+ms.prod: dynamics-nav-2017
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: 
+ms.date: 09/14/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: b904d539509c005f3d00b41a3724d1e70523059e
+ms.contentlocale: cs-cz
+ms.lasthandoff: 10/16/2017
 
 ---
-# Planning
-The production operations required to transform inputs into finished goods must be planned daily or weekly depending on the volume and nature of the products. [!INCLUDE[d365fin](includes/d365fin_md.md)] offers features to supply for anticipated and actual demand from sale, assembly, and production as well as features for distribution planning using stockkeeping units and location transfers.
+# <a name="planning"></a>Plánování
+Výrobní operace potřebné k přeměně vstupů na hotové výrobky musí být plánovány denně nebo týdně v závislosti na objemu a povaze výrobků. [!INCLUDE[d365fin](includes/d365fin_md.md)] nabízí funkce k dodávce pro očekávanou a aktuální poptávku z prodeje, montáže a výroby, jakož i funkce pro plánování distribuce s využitím skladových jednotek a převodů umístění.
 
 > [!NOTE]
-> This topic mainly describes planning for companies involved in manufacturing or assembly management where the resulting supply orders can be either production, assembly, transfer, or purchase orders. The main interface for this planning work is the **Planning Worksheet** window.
+> Toto téma popisuje především plánování pro společnosti zabývající se výrobou nebo montážním řízením, kde výsledné prodejní objednávky mohou být buď výroba, montáž, převod nebo nákupní objednávky. Hlavním rozhraním pro toto plánování práce je okno **Plánovací sešit**.
 
-> [!INCLUDE[d365fin](includes/d365fin_md.md)] also supports supply planning for wholesale companies where the resulting supply orders can only be transfer and purchase orders. The main interface for this planning work is the **Requisition Worksheet** window, which is described indirectly in this topic as most planning functionality applies to both worksheets.
+> [!INCLUDE[d365fin](includes/d365fin_md.md)] také podporuje plánování dodávek pro velkoobchodní společnosti, jejichž výsledkem dodací objednávky mohou být pouze převody a nákupní objednávky. Hlavním rozhraním pro toto plánování práce je okno **Sešit požadavků**, který je v tomto tématu nepřímo popsán, jelikož většina funkcí plánování se týká obou sešitů.
 
-Before you can plan and execute production orders, you must configure production capacities, such as creating shop calendars, routings, production BOMs, and machine centers. For more information, see [Setting Up Manufacturing](production-configure-production-processes.md).
+Než budete moci naplánovat a provádět výrobní zakázky, musíte nakonfigurovat výrobní kapacity, například vytvořit obchodní kalendář, směrování, výrobní kusovníky a strojní centra. Další informace naleznete v tématu: [Nastavení výroby](production-configure-production-processes.md).
 
-Planning can be seen as the preparation required supply orders in the assembly or manufacturing departments to fulfill demand. For more information, see [Assembly Management](assembly-assemble-items.md) and [Manufacturing](production-manage-manufacturing.md).
+Plánování lze považovat za požadovanou přípravu dodacích objednávek v montážních nebo výrobních odděleních, které splňují poptávku. Další informace naleznete v tématu: [Správa montáže](assembly-assemble-items.md) a [Výroba](production-manage-manufacturing.md).
 
-The following table describes a sequence of tasks, with links to the topics that describe them.   
+Následující tabulka popisuje sekvenci úloh s odkazy na témata, která je popisují.   
 
-|**To**|**See**|  
+|**Pro**|**Odkaz**|  
 |------------|-------------|  
-|Get a brief introduction to how the planning system can be used to detect and prioritize demand and suggest a balanced supply plan.|[About Planning Functionality](production-about-planning-functionality.md)|
-|Understand how all aspects of the planning system works and how to adjust the algorithms to meet planning requirements in different environments.|[Design Details: Supply Planning](design-details-supply-planning.md)|
-|Learn how the planning logic differentiates between demand at locations according to the SKU setup and demand without location codes.|[Planning With or Without Locations](production-planning-with-without-locations.md)|
-|Forecast production demand presented by expected sales and production orders.|[How to: Create a Production Forecast](production-how-to-create-a-forecast.md)|  
-|Create one-to-one production orders automatically from a sales order to cover the exact demand of that sales order line.|[How to: Create Production Orders from Sales Orders](production-how-to-create-production-orders-from-sales-orders.md)|
-|Create a project production order directly from a multiline sales order representing a production project.|[How to: Plan Project Orders](production-how-to-plan-project-orders.md)|
-|Use the **Order Planning** window to manually plan for sales or production demand one production BOM level at a time.|[How to: Plan for New Demand Order by Order](production-how-to-plan-for-new-demand.md)|
-|Use the **Planning Worksheet** window to run both the MPS and MRP options to automatically create either a high-level or detailed supply plan at all item levels.|[How to: Run Full Planning, MPS or MRP](production-how-to-run-mps-and-mrp.md)|
-|Run the requisition worksheet to automatically create a detailed supply plan to cover demand for items that are replenished by purchase or transfer only.|**Requisition Worksheet** page|  
-|Initiate or update a production order as rough-scheduled operations in the master production schedule.|[How to: Replan or Refresh Production Orders Directly](production-how-to-replan-refresh-production-orders.md)|
-|Recalculate work or machine center calendars due to planning changes.|"To calculate a work center calendar" section in [How to: Set Up Shop Calendars](production-how-to-create-work-center-calendars.md)|
-|Track the order demand (tracked quantity), forecast, blanket sales order, or planning parameter (untracked quantity) that has given rise to the planning line in question.|[How to: Track Relations Between Demand and Supply](production-how-track-demand-supply.md)|
-|View an item's projected available inventory by different views and see which gross requirements, planned order receipts, and other events influence it over time.|[How to: View the Availability of Items](inventory-how-availability-overview.md)|  
-|Perform selected planning activities, such as changing or adding planning worksheet lines, in a graphical view of the supply plan.|[How to: Modify Planning Suggestions in a Graphical View](production-how-to-modify-planning-suggestions-in-a-graphical-view.md)|
+|Získejte stručný přehled o tom, jak lze plánovací systém použít k odhalení a stanovení priority poptávky a navrhnout vyrovnaný plán dodání.|[O plánovacích funkcionalitách](production-about-planning-functionality.md)|
+|Porozumění, jak fungují všechny aspekty plánovacího systému a jak nastavit algoritmy tak, aby splňovaly požadavky na plánování v různých prostředích.|[Podrobnosti návrhu: Plánování dodávky](design-details-supply-planning.md)|
+|Zjistěte, jak logika plánování rozlišuje mezi poptávkou v umístění podle nastavení SKU a poptávkou bez kódů umístění.|[Plánování s nebo bez umístění](production-planning-with-without-locations.md)|
+|Prognóza poptávka po výrobě předvedená očekávanou prodejní a výrobní zakázkou.|[Návod: Vytvoření prognózy po výrobě](production-how-to-create-a-forecast.md)|  
+|Vytvoření individuální výrobní zakázky automaticky z prodejní objednávky k pokrytí přesné poptávky z tohoto řádku prodejní objednávky.|[Návod: Vytvoření výrobní zakázky z prodejní objednávky](production-how-to-create-production-orders-from-sales-orders.md)|
+|Vytvořte výrobní zakázku projektu přímo z víceřádkové prodejní objednávky představující výrobní projekt.|[Návod: Plánování projektových objednávek](production-how-to-plan-project-orders.md)|
+|Použijte okno **Plánování objednávek** k manuálnímu plánování prodeje nebo poptávky po výrobě v jedné úrovni kusovníku.|[Návod: Plánování pro novou poptávku objednávky k objednávce](production-how-to-plan-for-new-demand.md)|
+|Použijte okno **Plánovací sešit** pro spuštění obou možností MPS a MRP, které automaticky vytvoří buď vysokoúrovňový nebo podrobný plán poptávky na všech úrovních zboží.|[Návod: Spuštění plánování, MPS nebo MRP](production-how-to-run-mps-and-mrp.md)|
+|Spusťte sešit požadavků k automatickému vytvoření podrobného plánu dodávky k pokrytí poptávky pro zboží, které jsou doplněny pouze nákupem nebo převodem.|Stránka **Sešit požadavků**|  
+|Vyvolání nebo aktualizace výrobní zakázky jako hrubé plánované operace v hlavním výrobním plánu.|[Návod: Přeplánování nebo obnovení výrobní zakázky přímo](production-how-to-replan-refresh-production-orders.md)|
+|Přepočítání pracovního kalendáře nebo kalendáře strojů v důsledku plánovaných změn.|„K výpočtu kalendáře pracovního střediska“ téma v [Návod: Nastavení obchodního kalendáře](production-how-to-create-work-center-calendars.md)|
+|Sledujte poptávku po objednávce (sledované množství), prognózu, prodejní objednávku nebo plánovací parametr (nevyčerpané množství), které bylo dáno k dotyčnému plánovacímu řádku.|[Návod: Sledování vztahů mezi poptávkou a nabídkou](production-how-track-demand-supply.md)|
+|Zobrazte zboží dostupné v zásobách podle různých pohledů a zjistěte, které požadavky, plánované objednávky příjmu a další ovlivňující události v průběhu času.|[Návod: Zobrazit dostupnost zboží](inventory-how-availability-overview.md)|  
+|Provádějte vybrané plánovací činnosti, například změnu nebo přidání plánovacích řádků sešitu v pohledu plánu dodání.|[Návod: Upravit návrhy plánování v pohledu](production-how-to-modify-planning-suggestions-in-a-graphical-view.md)|
 
-## See Also
-[Setting Up Manufacturing](production-configure-production-processes.md)  
-[Manufacturing](production-manage-manufacturing.md)    
-[Inventory](inventory-manage-inventory.md)  
-[Purchasing](purchasing-manage-purchasing.md)  
-[Design Details: Supply Planning](design-details-supply-planning.md)   
-[Setup Best Practices: Supply Planning](setup-best-practices-supply-planning.md)  
-[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+## <a name="see-also"></a>Viz také
+[Nastavení výroby](production-configure-production-processes.md)  
+[Výroba](production-manage-manufacturing.md)    
+[Sklady](inventory-manage-inventory.md)  
+[Nákup](purchasing-manage-purchasing.md)  
+[Podrobnosti návrhu: Plánování dodávky](design-details-supply-planning.md)   
+[Nastavení nejlepšího postupu Plánování dodávky](setup-best-practices-supply-planning.md)  
+[Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+

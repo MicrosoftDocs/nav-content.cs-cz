@@ -1,11 +1,9 @@
 ---
-title: Using Human Resources Functionality
-description: You can register new personnel, edit information about existing staff, and record and analyze absence.
-
-documentationcenter: ''
+title: "Použití funkce Lidské zdroje"
+description: "Můžete registrovat nové osoby, upravit informace o existujícím personálu a zaznamenat a analyzovat absenci."
+documentationcenter: 
 author: SorenGP
-
-ms.prod: "dynamics-nav-2017"
+ms.prod: dynamics-nav-2017
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -13,23 +11,29 @@ ms.workload: na
 ms.search.keywords: personnel, people, employee, staff, HR
 ms.date: 08/09/2017
 ms.author: SorenGP
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 6d23e1c4ae20db6276ef300dde831a90e8094573
+ms.contentlocale: cs-cz
+ms.lasthandoff: 10/16/2017
 
 ---
-# Manage Human Resources
-In [!INCLUDE[d365fin](includes/d365fin_md.md)], you can keep detailed records of your employees. You can register and maintain employee information, such as employment contracts, confidential information, qualifications, and employee contacts.
+# <a name="manage-human-resources"></a>Správa Lidských zdrojů
+V [!INCLUDE[d365fin](includes/d365fin_md.md)] můžete držet záznamy o vašich zaměstnancích Můžete registrovat a udržovat informace o zaměstnanci jako zaměstanecké smlouvy, důvěrné informace, kvalifikace a kontakty
 
-You can also register employee absences, which allows you to analyze registered absences as necessary.
+Můžete také registrovat absence zaměstnanců, které vám umožní analyzovat registrovanou absenci jako nezbytnou.
 
-To start using the Human Resources functionality, you must set up employees and other basic information. You can then associate various codes to an employee, which allows you to filter information for specific employees.
+Pro první použití funkce Lidské zdroje musíte nastavit zaměstnance a ostatní základní informace. Pak můžete propojit různé kódy se zaměstnancem, což vám umožní filtr informací pro daného zaměstnance.
 
-The following table describes a sequence of tasks, with links to the topics that describe them.
+Následující tabulka popisuje sekvenci úloh s odkazy na témata, která je popisují.
 
-| To | See |
+| Popis | Odkaz |
 | --- | --- |
-| Register new employees or edit records for existing employees, and attach related information, such as contracts and articles. |[How to: Register Employees](hr-how-register-employees.md) |
-| Record employees' absence and view absence statistics by various filters. |[How to: Manage Employee Absence](hr-how-manage-absence.md) |
+| Registrujte nové zaměstnance nebo upravte stávající a připojte související informace jako smlouvy nebo články. |[Návod: Registrace zaměstnanců](hr-how-register-employees.md) |
+| Zaznamenejte absenci zaměstnanců a zobrazte absenční statistiky podle různých filtrů. |[Návod: Správa absence zaměstnanců](hr-how-manage-absence.md) |
 
-## See Also
+## <a name="see-also"></a>Viz také
 [Finance](finance.md)  
-[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
-[Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md)        
+[Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Přizpůsobení [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md)        
+

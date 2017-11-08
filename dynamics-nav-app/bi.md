@@ -1,11 +1,9 @@
 ---
 title: Business Intelligence
-description: Capture and analyze business data, such as sales figures, purchases, operational expenses, employee salaries, and budgets, that can be valuable information for business intelligence or for decision making.
-
-documentationcenter: ''
+description: "Zachytávejte a analyzujte byznys data jako jsou prodejní figury, nákupy, operační výdaje, zaměstnanecké mzdy a rozpočty, které mohou být cennou informací pro business intelligence nebo rozhodnutí."
+documentationcenter: 
 author: SorenGP
-
-ms.prod: "dynamics-nav-2017"
+ms.prod: dynamics-nav-2017
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -13,30 +11,36 @@ ms.workload: na
 ms.search.keywords: bi, power BI, analysis, KPI
 ms.date: 06/16/2017
 ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 0f0624843a925a105420ebbe9b87b34abe73d7ee
+ms.contentlocale: cs-cz
+ms.lasthandoff: 10/16/2017
 
 ---
-# Business Intelligence
-Businesses capture a tremendous amount of data through daily activity. This data, which reflects such things as the organization's sales figures, purchases, operational expenses, employee salaries, and budgets, can become valuable information, or business intelligence, for decision makers. [!INCLUDE[d365fin](includes/d365fin_md.md)] contains a number of features that help you gather, analyze, and share your company data.
+# <a name="business-intelligence"></a>Business Intelligence
+Byznysy zachytávají obrovské množství dat skrz denní aktivitu. Tyto data, jenž reflektují věci jako jsou figury prodejů organizace, nákupy, operační výdaje, zaměstnanecké mzdy a rozpočty, které mohou být cennou informací pro business intelligence nebo rozhodnutí. [!INCLUDE[d365fin](includes/d365fin_md.md)] obsahuje několik funkcí, které vám pomůžou sbírat, analyzovat a sdílet data vaší společnosti.
 
-The Dimensions functionality plays an important role in business intelligence. A dimension is data that you can add to an entry as a kind of marker. This data is used to group entries with similar characteristics, such as customers, regions, products, and salesperson, and easily retrieve these groups for analysis. Among other uses, you use dimensions  when defining analysis views and when creating account schedules for reporting. For more information, see [Working with Dimensions](finance-dimensions.md).
+Funkce Dimenze hraje důležitou roli v business intelligence. Dimenze jsou data, které mohou být přidány jako položka typu značka. Tyto data jsou používány k seskupení položek se stejnými charakteristikami jako zákazníci, oblasti, produkty a prodejci a můžou načíst tyhle skupiny pro analýzu. Můžete také použít dimenze, když definujete zobrazení analýzy a když vytváříte účetní schémata pro vytváření sestav. Další informace naleznete v tématu [Práce s Dimenzemi](finance-dimensions.md).
 
 > [!TIP]
-> As a quick way to analyze transactional data by dimensions, you can filter totals in the chart of accounts and entries in all **Entries** windows by dimensions. Look for the **Set Dimension Filter** action.  
+> Jako rychlý způsob analýzy transakčních dat podle dimenzí můžete filtrovat součty v účtové osnově a položky ve všech oknech **Položky** podle dimenzí. Najděte akci **Nastavit filtr dimenze**.  
 
-The following table describes a sequence of tasks, with links to the topics that describe them.  
+Následující tabulka popisuje sekvenci úloh s odkazy na témata, která je popisují.  
 
-| To | See |
+| Popis | Odkaz |
 | --- | --- |
-|View actual amounts compared to budgeted amounts for all accounts and for several periods.|[How to: Analyze Actual Amounts Versus Budgeted Amounts](bi-how-analyze-actual-versus-budget.md)|
-|Create new account schedules to define financial statements for reporting or for display as charts.|[How to: Work with Account Schedules](bi-how-work-account-schedule.md)|
-|Analyze your financial performance by setting up KPIs based on account schedules, which you then publish as web services. The published account-schedule KPIs can be viewed on a web site or imported to Microsoft Excel using OData web services.|[How to: Set Up and Publish KPI Web Services Based on Account Schedules](bi-how-to-set-up-and-publish-kpi-web-services-based-on-account-schedules.md)|
-|Set up analysis views to analyze data using dimensions.|[How to: Analyze Data by Dimensions](bi-how-analyze-data-dimension.md)|
-|Create new analysis reports for sales, purchases, and inventory, and set up analysis templates.|[How to: Create Analysis Reports](bi-how-create-analysis-views-reports.md)|
-|Enable global financial reporting by to international accounting organizations with the eXtensible Business Reporting Language standard.|[How to: Create Reports with XBRL](bi-create-reports-with-xbrl.md)|
+|Zobrazte aktuální částky porovnané s částkami rozpočtu pro všechny účty za několik období.|[Návod: Analýza aktuálních částek versus Částky rozpočtu](bi-how-analyze-actual-versus-budget.md)|
+|Vytvořte nové účetní schémata pro definování finančních výkazů pro generování sestav nebo zobrazení jako grafy.|[Návod: Práce s účetními schématy](bi-how-work-account-schedule.md)|
+|Analyzujte váš finanční výkon nastavením KPI založených na účetních schématech, které následně publikujete jako webové služby. Publikované KPI účetních schémat mohou být zobrazeny na webu nebo importovány do Microsoft Excelu použitím OData webových služeb.|[Návod: Nastavení publikace KPI webových služeb založených na účetních schématech](bi-how-to-set-up-and-publish-kpi-web-services-based-on-account-schedules.md)|
+|Nastavte zobrazení analýz pro analýzu dat pomocí dimenzí.|[Návod: Analýza dat dimenzemi](bi-how-analyze-data-dimension.md)|
+|Vytvořte novou sestavu analýzy pro prodej, nákup, zásoby a nastavte šablony analýzy.|[Návod: Vytvoření sestav analýzy](bi-how-create-analysis-views-reports.md)|
+|Povolte globální finanční generování sestav mezinárodním účetnickým organizacím s eXtensible Business Reporting Language.|[Návod: Vytvoření sestav s XBRL](bi-create-reports-with-xbrl.md)|
 
-## See Also
+## <a name="see-also"></a>Viz také
 [Finance](finance.md)    
-[Using Dynamics NAV as a Power BI Data Source](across-how-use-financials-data-source-powerbi.md)  
-[Closing Fiscal Periods](year-close-years-periods.md)  
-[Importing from Other Finance Systems](upload-data.md)  
-[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+[Použití Dynamics NAV jako zdroj dat Power BI](across-how-use-financials-data-source-powerbi.md)  
+[Zavření fiskálních období](year-close-years-periods.md)  
+[Import z jiných finančních systémů](upload-data.md)  
+[Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
+
