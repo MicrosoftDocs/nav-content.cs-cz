@@ -9,13 +9,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecommerce, document exchange, import invoice
-ms.date: 06/02/2017
+ms.date: 11/09/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 5d8949516771dbd1736ea6fd9472f975dd431669
+ms.sourcegitcommit: 907f3f95ed21249124ff8ab640511201acb47468
+ms.openlocfilehash: b2ea01997849dc401a641434a37bfa594de12097
 ms.contentlocale: cs-cz
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 11/09/2017
 
 ---
 # <a name="how-to-use-ocr-to-turn-pdf-and-image-files-into-electronic-documents"></a><span data-ttu-id="99062-103">Návod: Použití funkce OCR k převedení souborů PDF a obrázkových souborů do elektronických dokladů</span><span class="sxs-lookup"><span data-stu-id="99062-103">How to: Use OCR to Turn PDF and Image Files into Electronic Documents</span></span>
