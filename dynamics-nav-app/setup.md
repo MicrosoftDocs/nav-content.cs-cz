@@ -11,10 +11,10 @@ ms.search.keywords: configure, initialize
 ms.date: 09/01/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 6426940765b8de876957d5a9d50998dc7615a19d
+ms.sourcegitcommit: 2261b148d6f557a7e44e7db8d10b96c0387a5539
+ms.openlocfilehash: ff5b4dcb779745336feb1ba4f23979b9911bdf1e
 ms.contentlocale: cs-cz
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 11/22/2017
 
 ---
 # <a name="setting-up-dynamics-nav"></a><span data-ttu-id="5a7a8-103">Nastavení Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="5a7a8-103">Setting Up Dynamics NAV</span></span>
@@ -56,6 +56,4 @@ ms.lasthandoff: 10/16/2017
 <span data-ttu-id="5a7a8-150">[Práce s [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="5a7a8-150">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
 <span data-ttu-id="5a7a8-151">[Nastavení a Administrace [!INCLUDE[d365fin](includes/d365fin_md.md)]](admin-setup-and-administration.md)</span><span class="sxs-lookup"><span data-stu-id="5a7a8-151">[Setup and Administration in [!INCLUDE[d365fin](includes/d365fin_md.md)]](admin-setup-and-administration.md)</span></span>  
 <span data-ttu-id="5a7a8-152">[Vítejte v [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)</span><span class="sxs-lookup"><span data-stu-id="5a7a8-152">[Welcome to [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)</span></span>  
-
-##
 
