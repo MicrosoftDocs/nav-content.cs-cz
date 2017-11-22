@@ -57,5 +57,3 @@ Některé oblasti požadují administrátorské oprávnění ve vašem [!INCLUDE
 [Nastavení a Administrace [!INCLUDE[d365fin](includes/d365fin_md.md)]](admin-setup-and-administration.md)  
 [Vítejte v [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  
 
-##
-
