@@ -3,7 +3,7 @@ title: "Zobrazení a editace základního nastavení v Dynamics NAV"
 description: "Naučte se jak změnit některá základní nastavení v Dynamics NAV, například Centrum rolí, Společnost nebo pracovní datum."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

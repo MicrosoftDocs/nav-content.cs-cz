@@ -3,7 +3,7 @@ title: "Vyhledávání dat a vkládání kriterií filtru"
 description: "Popisuje jak vkládat a pracovat s filtry, například s rychlým filtrem, abyste upřesnili výsledky dat, které hledáte."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

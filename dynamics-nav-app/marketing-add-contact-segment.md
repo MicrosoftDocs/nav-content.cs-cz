@@ -3,7 +3,7 @@ title: Definujte kontakty v segmentu
 description: "Po vytvoření segmentu můžete do segmentu přidávat kontakty, například jako součást marketingové kampaně zaměřené na konkrétní zákazníky nebo klienty."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Pozdržení výnosů a výdajů"
 description: "Chcete-li rozpoznat výnos nebo výdaj v jiném období, než je období, ve kterém byla transakce zaúčtována, můžete použít funkci automatického pozdržení výnosů a výdajů přes stanovené specifikované schéma."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

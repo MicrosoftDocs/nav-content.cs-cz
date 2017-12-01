@@ -3,7 +3,7 @@ title: "Vytvoření nové hodnoty položek pro zboží v zásobách"
 description: "Popisuje, jak ocenit nebo odepsat hodnoty položek jednoho nebo více zboží v zásobách zaúčtováním jejich aktuální vypočtené hodnoty."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

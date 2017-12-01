@@ -3,7 +3,7 @@ title: "Správa interakcí s vašimi kontakty"
 description: "Můžete spravovat všechny typy komunikace nebo interakce mezi vaší společností a vašimi kontakty. Například: dopisy, telefonáty, meetingy a další."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

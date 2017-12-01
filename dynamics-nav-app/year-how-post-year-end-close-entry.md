@@ -3,7 +3,7 @@ title: "Zkontrolovat a  zaúčtovat položku ukončující rok"
 description: "Popisuje, jak otevřít deník, který jste zadali v dávkové úloze doložky výkazu příjmů, a poté zkontrolujte a zaúčtujte položku uzavření konce roku."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

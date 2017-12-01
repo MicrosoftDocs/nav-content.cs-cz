@@ -2,7 +2,7 @@
 title: "Import vašich starších obchodních dat do Dynamics NAV"
 description: "Můžete migrovat data o zákaznících, dodavatelích a zásobách. Například, z Excelu, QuickBooks nebo Dynamics GP do vašeho Dynamics NAV"
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

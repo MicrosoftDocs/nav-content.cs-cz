@@ -2,7 +2,7 @@
 title: "Přehled úloh pro nastavení Dynamics NAV"
 description: "Popisuje úkoly pro nastavení, inicializaci a konfiguraci Dynamics NAV podle vašich potřeb."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

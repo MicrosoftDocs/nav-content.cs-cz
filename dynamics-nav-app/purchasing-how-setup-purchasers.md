@@ -3,7 +3,7 @@ title: "NastaveníNastavení nákupčích a přiřazení nákupčích k dodavate
 description: "Pokud ve vaší organizaci pracuje několik nákupčích nebo nákupních agentů, můžete je uspořádat pro statistické analýzy."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

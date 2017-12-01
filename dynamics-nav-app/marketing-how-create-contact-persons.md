@@ -3,7 +3,7 @@ title: "Vytvoření kontaktních osob"
 description: "Popisuje jak vytvořit kontakt pro každou novou osobu nebo potenciální osobu, s níž spolupracujete nebo s níž máte vztah."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

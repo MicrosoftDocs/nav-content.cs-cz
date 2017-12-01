@@ -3,7 +3,7 @@ title: "Přehled úloh pro správu závazků"
 description: "Popisuje úlohy pro správu účetních závazků, například, placení věřitelům nebo vyrovnávání odchozích plateb na věcné položky k uzavíraní faktur nebo dobropisů."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

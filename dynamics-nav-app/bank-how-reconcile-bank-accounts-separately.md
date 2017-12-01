@@ -3,7 +3,7 @@ title: "Odsouhlasení bankovních účtů zvlášť"
 description: "Popisuje jak je vaše inventární hodnota v souladu s hlavní knihou."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

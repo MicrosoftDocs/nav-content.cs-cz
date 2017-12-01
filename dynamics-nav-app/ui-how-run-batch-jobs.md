@@ -3,7 +3,7 @@ title: "Vytvoření a spuštění dávkové úlohy"
 description: "Provádíte dávkové úlohy, abyste mohli zpracovávat data a aktualizovat informace, například provádět pravidelné účetní činnosti nebo provádět výpočty."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

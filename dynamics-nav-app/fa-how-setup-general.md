@@ -3,7 +3,7 @@ title: "Nastavení hlavní knihy DM"
 description: "Předtím, než budete pracovat s dlouhodobým majetkem, musíte nastavit výchozí finanční účty, účetní skupiny, alokační klíče, šablony deníků a dávek a kódy tříd."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Ověření automaticky vyrovnaných plateb a ručně znovu vyrovnat plat
 description: "Po automatickém vyrovnání plateb můžete zkontrolovat všechny položky pro platbu a ručně znovu vyrovnat ty, které byly vyrovnány nesprávně."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Nastavení organizační úrovně pro kontaktní osoby"
 description: "Můžete definovat organizační úrovně a přiřadit je k vašim kontaktům k indikaci a jejich pozici, kterou mají ve vaší společnosti, například vrcholný management."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -2,7 +2,7 @@
 title: "Nastavení speciálních a prodejních cen a slev pro zákazníky"
 description: "Popisuje jak definovat alternativní cenové a slevové smlouvy, které chcete použít na prodejních dokumentech když prodáváte různým dodavatelům."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

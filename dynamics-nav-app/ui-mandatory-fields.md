@@ -3,7 +3,7 @@ title: "Povinná pole k dokončení procesů"
 description: "Dozvíte se o polích označených červenou hvězdičkou, což znamená, že jsou povinné a musí být pro dokončení procesů vyplněny."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

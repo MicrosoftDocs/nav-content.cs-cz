@@ -3,7 +3,7 @@ title: "Přehled sestav, které vám pomohou připravit závěrečné prohláše
 description: "Poskytuje přehled přehledů, které můžete použít ke shromažďování informací, abyste mohli při uzavření fiskálního roku připravit závěrečné prohlášení společnosti."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

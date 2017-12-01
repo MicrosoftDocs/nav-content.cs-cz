@@ -3,7 +3,7 @@ title: "Definujte kódy obchodních vztahů v kontaktech"
 description: "Použijte obchodní vztahy v Dynamics NAV, abyste pomohli s marketingem a označili obchodní vztah, který máte s vašimi klienty a zákazníky, například s bankou nebo poskytovatelem služeb."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

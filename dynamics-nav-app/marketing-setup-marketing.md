@@ -3,7 +3,7 @@ title: "Nastavení marketingu a správy informací kontaktů"
 description: "Můžete nastavit marketing a správu kontaktů v Dynamics NAV k optimalizaci vztahů s potenciálními zákazníky nebo zákazníky a zlepšení kampaní a propagace."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Nastavení návrhů hodnot polí"
 description: "Chcete-li rychle a přesně zabránit manuálním výpočtům a dokončení úloh, můžete nastavit automatické zadávání dat tak, aby Dynamics NAV vyplňoval vybraná pole."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

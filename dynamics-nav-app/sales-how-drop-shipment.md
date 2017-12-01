@@ -3,7 +3,7 @@ title: "Vytvořit prodejní objednávku propojenou k nákupní objednávce pro p
 description: "Popisuje, jak vytvořit prodejní objednávku propojenou k nákupní objednávce k povolení dodávky přímo od dodavatele k zákazníkovi."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

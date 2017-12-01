@@ -3,7 +3,7 @@ title: "Přidání dalších řádků pro definování rozšířeného textu pro
 description: "K rozšíření standardního textu, který popisuje položku, můžete přidat další řádky."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

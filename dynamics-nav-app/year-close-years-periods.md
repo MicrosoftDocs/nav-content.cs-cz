@@ -3,7 +3,7 @@ title: "Přehled úloh, jak uzavřít fiskální rok a účetní období"
 description: "Představuje úkoly k uzavírání fiskální rok nebo účetní období, např. Ujistit se, že dokumenty a časopisy jsou zveřejněny a ověřeny bankovní zůstatky."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

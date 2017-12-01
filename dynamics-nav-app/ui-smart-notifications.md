@@ -3,7 +3,7 @@ title: "Práce s chytrými oznámení a specifikování, kdy jde chcete vidět"
 description: "Můžete obdržet notifikaci, která vás upozorní o změne stavu nebo událostech, jako jsou například splatné saldo nebo nízký stav zásob."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

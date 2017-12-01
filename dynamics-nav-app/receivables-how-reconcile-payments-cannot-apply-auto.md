@@ -2,7 +2,7 @@
 title: "Použití rozdílu přenosu na funkční účet k odsouhlasení plateb"
 description: "Popisuje, jak proces plateb, který nemůže být vyrovnán na doklad, např. když směnný kurz způsobuje rozdílné částky."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

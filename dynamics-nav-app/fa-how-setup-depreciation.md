@@ -3,7 +3,7 @@ title: "Nastavení odpisu DM"
 description: "Uvádíte v odpisové knize, jak chcete, aby byl dlouhodobý majetek odpisován nebo odepsán."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

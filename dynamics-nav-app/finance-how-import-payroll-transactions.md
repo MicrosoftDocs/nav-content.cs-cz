@@ -3,7 +3,7 @@ title: "Import mzdových transakcí"
 description: "Ke správě platů importujte a zaúčtujte finanční transakce od svého poskytovatele mzdových plateb do hlavní knihy pomocí rozšíření o mzdy, jako jsou například Ceridian nebo Quickbooks."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

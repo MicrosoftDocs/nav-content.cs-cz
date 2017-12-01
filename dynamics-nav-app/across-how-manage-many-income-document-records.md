@@ -3,7 +3,7 @@ title: "Definujte, které došlé doklady chcete vidět"
 description: "Upravte výchozí zobrazení došlých dokladů, jako například e-faktur, abyste zlepšili přehled o zpracovaných a nezpracovaných záznamech."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

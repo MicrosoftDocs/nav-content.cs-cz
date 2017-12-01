@@ -3,7 +3,7 @@ title: "Práce s Dimenzemi"
 description: "Používejte dimenze pro kategorizaci položek, například podle oddělení nebo projektu, takže můžete snadno sledovat a analyzovat data."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

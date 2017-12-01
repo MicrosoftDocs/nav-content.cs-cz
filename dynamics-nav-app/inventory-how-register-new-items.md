@@ -3,7 +3,7 @@ title: "Vytváření karty zboží pro zboží a služby"
 description: "Můžete vytvořit kartu zboží pro fyzické zboží nebo služby, které prodáváte v hodinách. Například, sestavení produktů, hotové zboží, komponenty a suroviny, které můžete prodávat ze skladu."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

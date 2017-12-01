@@ -3,7 +3,7 @@ title: "Přehled předběžných závěrek o ověření přesnosti účtu"
 description: "Poskytuje přehled zpráv, které lze použít k ověření přesnosti účtů před uzavřením knih na konci roku nebo období."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

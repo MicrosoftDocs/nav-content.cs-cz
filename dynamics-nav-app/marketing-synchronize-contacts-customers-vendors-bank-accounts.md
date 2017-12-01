@@ -3,7 +3,7 @@ title: "Synchronizace kontaktů se zákazníky a dodavateli"
 description: "Spojte nebo synchronizujte informace o kontaktech, kteří jsou také zákazníci, dodavatelé nebo bankovními účty. Informace aktualizujte na jednom místě. "
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Porozumění, jak účtovat nákupní doklady"
 description: "Informace o různých funkcích přidávání dokumentů k nákupu."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

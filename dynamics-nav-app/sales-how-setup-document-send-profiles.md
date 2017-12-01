@@ -3,7 +3,7 @@ title: "Nastavení preferovaných metod posílání prodejních dokladů"
 description: "Popisuje, jak nastavit preferovanou metodu zasílání prodejních dokumentů pro každého zákazníka, například e-mail, PDF, elektronický dokument atd."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

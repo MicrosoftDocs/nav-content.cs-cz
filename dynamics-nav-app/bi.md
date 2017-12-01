@@ -3,7 +3,7 @@ title: Business Intelligence
 description: "Zachytávejte a analyzujte byznys data jako jsou prodejní figury, nákupy, operační výdaje, zaměstnanecké mzdy a rozpočty, které mohou být cennou informací pro business intelligence nebo rozhodnutí."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

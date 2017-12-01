@@ -3,7 +3,7 @@ title: "Nastavení průmyslové skupiny pro kontaktní společnosti"
 description: "Popisuje jak definovat průmyslové skupiny a přiřadit je ke společnosti, například maloobchodní průmysl nebo automobilový průmysl."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Nastavení atributů zboží a přiřazení je ke zboží"
 description: "Popisuje, jak nastavit hodnoty atributu zboží, například, které lze použít jako vyhledávací slova, a přiřadit je ke zboží a kategoriím zboží."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

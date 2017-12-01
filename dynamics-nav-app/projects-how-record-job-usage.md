@@ -3,7 +3,7 @@ title: "Záznam účtovatelných a rozpočtových využití zdrojů projektu"
 description: "Popisuje jak zaznamenat spotřebu nebo využití položek zdrojů na projektu k usnadnění jeho řízení."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

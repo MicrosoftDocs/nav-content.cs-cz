@@ -3,7 +3,7 @@ title: "Práce s vlastními a vestavěnými rozloženími pro sestavy a doklady"
 description: "Pomocí rozvržení sestav můžete přizpůsobit dokumenty, například přizpůsobit nastavení písma, loga nebo stránky souborů PDF, které posíláte zákazníkům."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

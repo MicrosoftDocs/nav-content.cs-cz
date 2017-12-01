@@ -3,7 +3,7 @@ title: "Nastavení nákladů zdrojů, cen a kapacity"
 description: "Chcete-li použít zdroje a usnadnit správu projektů, specifikujete náklady a ceny jednotlivých zdrojů nebo skupin zdrojů a nastavte kapacitu zdrojů."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

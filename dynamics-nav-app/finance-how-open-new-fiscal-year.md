@@ -2,7 +2,7 @@
 title: "Vytvoření účetního období a fiskálního roku"
 description: "Musíte otevřít fiskální rok a definovat účetní období předtím, než můžete zaúčtovat fiskální rok."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

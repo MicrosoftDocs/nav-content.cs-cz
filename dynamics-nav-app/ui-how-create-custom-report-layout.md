@@ -3,7 +3,7 @@ title: "Vytvoření a úprava vlastních rozložení pro sestavy a doklady"
 description: "Přečtěte si, jak vytvořit vlastní přizpůsobené rozložení pro přizpůsobení vzhledu sestavy při jejím prohlížení, tisku nebo uložení."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Správa montáže"
 description: "Podporované společnosti, které dodávají produkty svým zákazníkům tím, že kombinují komponenty v jednoduchých procesech bez nutnosti výrobních funkcí, ale s funkcemi pro montáž zboží, které se integrují s existujícími funkcemi, jako je prodej, plánování, rezervace a skladování."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

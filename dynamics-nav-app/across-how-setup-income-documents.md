@@ -3,7 +3,7 @@ title: "Nastavení došlých dokladů"
 description: "Pomocí funkce došlých dokladů můžete vytvářet elektronické doklady, spravovat úlohy OCR, importovat faktury a převádět obrazové soubory."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

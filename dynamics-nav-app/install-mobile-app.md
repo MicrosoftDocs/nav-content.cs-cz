@@ -3,7 +3,7 @@ title: "Použití Dynamics NAV na svém mobilním zařízení"
 description: "Můžete zobrazit a upravit vaše data Dynamics NAV na vašem tabletu nebo mobilu."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

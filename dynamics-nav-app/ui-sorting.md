@@ -3,7 +3,7 @@ title: "Uspořádání dat pomocí funkce řazení"
 description: "Pomocí funkce třídění můžete získat přehled o svých datech. Například můžete řadit zákazníky podle měnového kódu, abyste získali vybranou ukázku zákazníků."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

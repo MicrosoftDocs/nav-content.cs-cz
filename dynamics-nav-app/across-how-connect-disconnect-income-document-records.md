@@ -3,7 +3,7 @@ title: "Vytvoření došlých dokladů z dokumentů"
 description: "Můžete vytvořit záznam došlého dokladu jako například elektronické faktury a řízení úkolů OCR, eCommerce a výměny dokumentů."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

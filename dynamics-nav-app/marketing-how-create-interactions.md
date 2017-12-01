@@ -3,7 +3,7 @@ title: "Vytváření interakcí s kontakty a segmenty"
 description: "Popisuje jak vytvořit interakce pro komunikaci, kterou máte s vašimi kontakty a segmenty v Dynamics NAV, například: přímá pošta."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Správa prodejních příležitostí a vedení"
 description: "Popisuje řízení veškerých příchozích zákaznických a prodejních příležitostí v Dynamics NAV a spojuje příležitost s prodejcem, aby sledoval potenciální prodej."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

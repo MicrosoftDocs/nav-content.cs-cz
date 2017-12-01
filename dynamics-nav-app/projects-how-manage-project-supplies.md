@@ -3,7 +3,7 @@ title: "Nákup zboží nebo servisu pro projekty a správa zásob"
 description: "Popisuje jak spravovat zásoby a nákup materiálu a servisu pro projekty."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

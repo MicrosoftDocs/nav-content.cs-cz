@@ -3,7 +3,7 @@ title: "Kontrola zkušebního protokol před odesláním dokladu o prodeji nebo 
 description: "Než zaúčtujete dokument, například objednávku nebo dobropis, můžete jej otestovat a zkontrolovat, abyste si ověřili chyby, které by mohly blokovat účtování."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

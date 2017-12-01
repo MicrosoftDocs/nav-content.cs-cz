@@ -3,7 +3,7 @@ title: "Nastavení pracovních výkazů a jejich schválení"
 description: "Můžete nastavit pracovní výkazy ke sledování využitého času na projektech a využití zdrojů. Toto vám pomůže s projektovým řízením, personální obsazení a kapacitami."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

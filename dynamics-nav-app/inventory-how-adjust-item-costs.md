@@ -3,7 +3,7 @@ title: "Ruční upravení nákladů zboží"
 description: "Můžete upravit hodnotu zboží pomocí metod FIFO nebo průměrných nákladů, například když se náklady zboží mění z jiných důvodů než transakce."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

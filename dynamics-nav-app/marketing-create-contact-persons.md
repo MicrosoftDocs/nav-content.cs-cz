@@ -3,7 +3,7 @@ title: "Vytvoření kontaktních osob"
 description: "Popisuje úkoly pro vytvoření kontaktní karty pro osobu, například pro průzkum nebo dodavatele, což pomáhá definovat vztah a přizpůsobit komunikaci."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

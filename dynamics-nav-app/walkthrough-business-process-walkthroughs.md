@@ -3,7 +3,7 @@ title: "Návody obchodního procesu"
 description: "Tento výběr návodů jsou poskytnuty jako krok za krokem pro obchodní procesy end-to-end, který můžete provést pomocí demonstrační společsnoti CRONUS. Návody se skládají z několika procedur, z nichž jsou některé obvykle prováděny jedním uživatelem, zatímco jiné obsahují několik různých uživatelských rolí. Aby bylo možné simulovat pracovní prostředí, některé návody obsahují kroky potřebné k nastavení aby bylo cvičení splněno, jak je popsáno. Tyto kroky mohou poskytnout přehled o tom, jaké informace uživatelé potřebují sdílet se svými IT profesionály."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

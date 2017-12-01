@@ -3,7 +3,7 @@ title: "Export plateb do elektronického platebního souboru."
 description: "Chcete-li uskutečnit platby dodavatele, povolte službu převodu bankovních dat, export bankovních souborů a nahrajte soubory do vašeho elektronického bankovnictví k uskutečnění převodu peněz."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

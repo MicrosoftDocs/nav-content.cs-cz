@@ -3,7 +3,7 @@ title: "Nastavení cyklů prodejních příležitostí a fází prodejních cykl
 description: "Popisuje jak definovat prodejní fáze, od založení kontaktu až po uzavření, vytvoření prodejního cyklu a přiřazení příležitostem v Dynamics NAV."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

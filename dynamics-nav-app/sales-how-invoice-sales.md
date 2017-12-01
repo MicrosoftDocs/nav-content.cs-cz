@@ -3,7 +3,7 @@ title: "Vytvoření prodejní faktury nebo prodejní objednávky"
 description: "Popisuje, jak vytvořit prodejní doklad nebo prodejní fakturu nebo objednávku prodeje, abyste zaznamenali vaši dohodu se zákazníkem o prodeji produktů za určitých podmínek."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Vydání, Tisk, Zrušení šeku "
 description: "Popisuje jak vydávat šeky pomocí deníku plateb, tisk šeků a zrušení nebo zobrazení položek šeků v Dynamics NAV."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

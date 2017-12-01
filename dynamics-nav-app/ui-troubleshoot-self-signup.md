@@ -3,7 +3,7 @@ title: "Způsoby řešení potíží nebo práce kolem problémů se samoobsluž
 description: "Informace o nejčastějších příčinách, proč pravděpodobně nebudete moci dokončit registraci do služby Dynamics NAV, a způsoby, jak se nimi vypořádat."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Použití funkce dávkové úlohy Návrh platby dodavateli"
 description: "Můžete zadat nastavení plateb dodavatelů získat podněty a návrhy na platby, které jsou splatné dříve nebo pokud je k dispozici sleva"
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

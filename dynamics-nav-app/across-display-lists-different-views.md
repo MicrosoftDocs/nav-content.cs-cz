@@ -3,7 +3,7 @@ title: "Upravte množství detailů, které vidíte v seznamech."
 description: "Můžete zobrazit seznamy v podrobných náhledech, které poskytují více informací nebo jako dlaždice, které lze snadno vizuálně skenovat."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

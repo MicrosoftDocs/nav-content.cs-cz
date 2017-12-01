@@ -3,7 +3,7 @@ title: "nastavení Nastavení sestav k tisku na dané tiskárně"
 description: "Naučte se specifikovat tiskárnu pro tisk sestav a použít výběr tiskárny."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

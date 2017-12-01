@@ -3,7 +3,7 @@ title: "Práce s pracovními výkazy pro projekty"
 description: "Popisuje jak vytvořit pracovní výkaz pro projekt, jak do nich kopírovat řádky plánování, definovat typ práce, vyplňovat rozvrh a odesílat odsouhlasení."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

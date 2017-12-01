@@ -3,7 +3,7 @@ title: "Plánování dodávky"
 description: "Připravte si podrobný spustitelný plán a výrobní plán konečné montáže pro prodej a poptávku produkce."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

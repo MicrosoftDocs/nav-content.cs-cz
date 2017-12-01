@@ -3,7 +3,7 @@ title: "Změna způsobu, jak vypadá sestava, výběrem jiného rozvržení"
 description: "Pro sestavu můžete použít různé rozvržení a přepínat mezi rozvrženími, abyste změnili, jak vypadá sestava."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

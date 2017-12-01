@@ -3,7 +3,7 @@ title: "Použití rozšíření předpovědi prodeje a zásob pro správu zásob
 description: "Toto rozšíření vám pomůže předpovídat tržby, získat přehled o očekávaných zásobách a dokonce vám pomůže vytvářet požadavky dodavatelů na doplňování."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

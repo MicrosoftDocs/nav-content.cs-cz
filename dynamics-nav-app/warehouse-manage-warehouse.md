@@ -3,7 +3,7 @@ title: "Skladové aktivity"
 description: "Potom, co je zboží obdrženo, ale nedodáno, uskuteční se série vnitřních skladových aktivit k zajištění efektivního toku skrz sklad a organizaci a údržby zásob společnosti."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

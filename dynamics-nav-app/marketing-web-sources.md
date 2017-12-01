@@ -3,7 +3,7 @@ title: "Nastavení webových zdrojů pro kontaktní společnosti"
 description: "Můžete definovat internetové nebo webové zdroje přiřazené ke kontaktní společnosti jako pomoc pro identifikaci, informací o kontaktech, které chcete."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

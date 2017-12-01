@@ -3,7 +3,7 @@ title: "Proces došlých dokladů"
 description: "Chcete-li v aplikaci Dynamics NAV zaznamenat externí doklad, jako je PDF, musíte nejprve vytvořit nebo dokončit záznam došlého dokladu."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

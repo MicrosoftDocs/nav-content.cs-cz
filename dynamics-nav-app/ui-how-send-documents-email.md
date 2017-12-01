@@ -3,7 +3,7 @@ title: "Nastavení obsahu určitého dokladu a příloh pro e-mailové zprávy"
 description: "Můžete definovat obsah, který chcete vložit do těla e-mailové zprávy, například odkaz PayPal. Dokumenty můžete také připojit k e-mailovým zprávám."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

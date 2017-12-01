@@ -3,7 +3,7 @@ title: "Spuštění výroby"
 description: "Když je naplánována poptávka a materiál byl vydán podle výrobních kusovníků, mohou se skutečné výrobní operace spustit a provádět v pořadí definovaném podle směrování výrobní zakázky."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

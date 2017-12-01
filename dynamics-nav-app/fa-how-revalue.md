@@ -3,7 +3,7 @@ title: "Přecenění dlouhodobého majetku"
 description: "Zjistěte, jak upravit hodnotu dlouhodobého majetku, zaznamenat nové částky jako snížení hodnoty nebo zhodnocení a zaúčtovat další pořizovací náklady."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

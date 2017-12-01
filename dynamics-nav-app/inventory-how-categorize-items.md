@@ -3,7 +3,7 @@ title: "Uspořádání zboží v kategoriích"
 description: "Pro pomoc při vyhledání zboží můžete přiřadit zboží atributy a uspořádat zboží v kategoriích."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
