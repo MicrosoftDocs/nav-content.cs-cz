@@ -2,7 +2,7 @@
 title: "Nastavení prodejce"
 description: "Můžete nastavit identifikátor pro každého prodejce, abyste mohli sledovat výkon jednotlivce nebo přiřadit k němu prodejce."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords: sales rep
 ms.date: 09/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 3c2dab0512c8e8965d7751bfda50559844ebcf69
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 4e818508b8d7e411e925aa8d69e80660dc00bcb4
 ms.contentlocale: cs-cz
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-salespeople"></a><span data-ttu-id="ba8fc-103">Návod: Nastavení prodejců</span><span class="sxs-lookup"><span data-stu-id="ba8fc-103">How to: Set Up Salespeople</span></span>

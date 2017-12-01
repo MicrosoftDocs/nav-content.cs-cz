@@ -3,7 +3,7 @@ title: "Nastavení pojištění DM"
 description: "Nastavte kartu pojištění a informace o všeobecných pojistných smlouvách ke správě pojistného krytí dlouhodobého majetku."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: policy, coverage
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 0c0b553adee7df5979352999c60549b280501926
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 6ebc0c4499de32e8284ab7399a3aace347e1d6f5
 ms.contentlocale: cs-cz
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-fixed-asset-insurance"></a><span data-ttu-id="d18a8-103">Návod: Nastavení pojištění dlouhodobého majetku</span><span class="sxs-lookup"><span data-stu-id="d18a8-103">How to: Set Up Fixed Asset Insurance</span></span>

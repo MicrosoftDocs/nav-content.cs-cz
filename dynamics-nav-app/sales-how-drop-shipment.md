@@ -3,7 +3,7 @@ title: "Vytvořit prodejní objednávku propojenou k nákupní objednávce pro p
 description: "Popisuje, jak vytvořit prodejní objednávku propojenou k nákupní objednávce k povolení dodávky přímo od dodavatele k zákazníkovi."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: direct shipment
 ms.date: 03/29/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 6a8210808532ff8945660c23f0bf91719e2f2963
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 6be69a96ad6df401b3fedf5e0b81df870a1eedfc
 ms.contentlocale: cs-cz
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-make-drop-shipments"></a><span data-ttu-id="a0b5f-103">Návod: Vytvoření přímé dodávky</span><span class="sxs-lookup"><span data-stu-id="a0b5f-103">How to: Make Drop Shipments</span></span>

@@ -3,7 +3,7 @@ title: "Přehled předběžných závěrek o ověření přesnosti účtu"
 description: "Poskytuje přehled zpráv, které lze použít k ověření přesnosti účtů před uzavřením knih na konci roku nebo období."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.workload: na
 ms.date: 06/02/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: e6bb6a16046d15ac3adb97c24e3d8827be0c213f
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 6a57c5a37e5dd561343ce08fafd8593462eff514
 ms.contentlocale: cs-cz
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="using-pre-closing-reports"></a><span data-ttu-id="1ce51-103">Použití  předběžých závěrek seszav</span><span class="sxs-lookup"><span data-stu-id="1ce51-103">Using Pre-Closing Reports</span></span>

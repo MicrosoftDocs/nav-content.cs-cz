@@ -3,7 +3,7 @@ title: "Uzavřít účty výsledovky"
 description: "Při ukončení roku musíte spustit dávkovou úlohu výkazu zisku a ztráty a uzavřít účetní období, které tvoří fiskální rok."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: year closing, close accounting period, close fiscal year, ba
 ms.date: 06/02/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 5f004a835ce5b7b55326bdb08a78cb36d430fd45
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 37299655cdddb34c5ac09e066aa219e2df2c0d86
 ms.contentlocale: cs-cz
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-close-income-statement-accounts"></a><span data-ttu-id="eff5c-103">Návod: Uzavřít účty výsledovky</span><span class="sxs-lookup"><span data-stu-id="eff5c-103">How to: Close Income Statement Accounts</span></span>

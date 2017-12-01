@@ -3,7 +3,7 @@ title: "Nastavení cen a účtoskupin projektů"
 description: "Popisuje jak nastavit hlavní informace o projektu a nastavení cen za zboží, zdroj, účet a účto skupiny projektů."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: project management
 ms.date: 06/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 6a1c4c6f6b90d3e721d545f86841472ba3a71388
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 2e560f5b1852208ec81c19e06742b4a572d684d2
 ms.contentlocale: cs-cz
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-jobs"></a><span data-ttu-id="62a44-103">Návod: Nastavení Projektů</span><span class="sxs-lookup"><span data-stu-id="62a44-103">How to: Set Up Jobs</span></span>

@@ -3,7 +3,7 @@ title: "Ruční upravení nákladů zboží"
 description: "Můžete upravit hodnotu zboží pomocí metod FIFO nebo průměrných nákladů, například když se náklady zboží mění z jiných důvodů než transakce."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: cost adjustment, cost forwarding, costing method, inventory 
 ms.date: 08/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 40647e0263b7c21c1f085cd6dde449f8210ede10
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: d70ff6bcc05dd7775402b608fdc5d66a4b7ef074
 ms.contentlocale: cs-cz
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-adjust-item-costs"></a><span data-ttu-id="ddcc1-103">Návod: Upravení nákladů zboží</span><span class="sxs-lookup"><span data-stu-id="ddcc1-103">How to: Adjust Item Costs</span></span>

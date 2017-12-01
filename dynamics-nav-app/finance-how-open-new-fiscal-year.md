@@ -2,7 +2,7 @@
 title: "Vytvoření účetního období a fiskálního roku"
 description: "Musíte otevřít fiskální rok a definovat účetní období předtím, než můžete zaúčtovat fiskální rok."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords: accounting year, fiscal period
 ms.date: 07/17/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 617d5c27b0f9914f36c7149e6119843454fd3a4d
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 42d0ff974c2106f5d856e2db3d61208f13d94cbe
 ms.contentlocale: cs-cz
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-open-a-new-fiscal-year-and-create-accounting-periods"></a><span data-ttu-id="06481-103">Návod: Otevření nového fiskálního roku a vytvoření účetního období</span><span class="sxs-lookup"><span data-stu-id="06481-103">How to: Open a New Fiscal Year and Create Accounting Periods</span></span>

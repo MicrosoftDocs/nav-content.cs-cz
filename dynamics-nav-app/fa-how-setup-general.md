@@ -3,7 +3,7 @@ title: "Nastavení hlavní knihy DM"
 description: "Předtím, než budete pracovat s dlouhodobým majetkem, musíte nastavit výchozí finanční účty, účetní skupiny, alokační klíče, šablony deníků a dávek a kódy tříd."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.workload: na
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: ecdb1c85526bf9c2583ed5936c2fcc55a27bcb5d
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: d809a9f0fbdce628d46aa2cfe3ab4c72cd057df6
 ms.contentlocale: cs-cz
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-general-fixed-assets-information"></a><span data-ttu-id="eb36f-103">Návod: Nastavení obecných informací dlouhodobého majetku</span><span class="sxs-lookup"><span data-stu-id="eb36f-103">How to: Set Up General Fixed Assets Information</span></span>

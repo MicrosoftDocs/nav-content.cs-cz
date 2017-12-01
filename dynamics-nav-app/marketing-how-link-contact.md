@@ -3,7 +3,7 @@ title: "Spojování kontaktů se zákazníky a dodavateli"
 description: "Popisuje jak propojit kontakt s zákazníkem, dodavatel nebo bankovním účtem ze stejné společnosti tak, že můžete synchronizovat běžná data."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 9e77d890117a6c6ae4dae502e6de48b7b8e53985
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 156312e68f82f51ade4832557cbea96a80f08ebf
 ms.contentlocale: cs-cz
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-link-contacts-with-customers-vendors-and-bank-accounts"></a><span data-ttu-id="676a4-103">Návod: Propojení kontaktů se zákazníky, dodavateli a bankovními účty</span><span class="sxs-lookup"><span data-stu-id="676a4-103">How to: Link Contacts With Customers, Vendors, and Bank Accounts</span></span>

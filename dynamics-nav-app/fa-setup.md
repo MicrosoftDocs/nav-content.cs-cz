@@ -3,7 +3,7 @@ title: "Nastavení dlouhodobého majetku"
 description: "Naučte se o posloupnosti úkolů, které musíte provést k nastavení dlouhodobého majetku, jako jsou stroje nebo budovy."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: machinery, buildings
 ms.date: 08/15/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: aa0f26de4911611d9326de3bbdbf0bb150bd3875
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 8acd04f0a4b990f11f192f27b1fde302725c7a48
 ms.contentlocale: cs-cz
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="setting-up-fixed-assets"></a><span data-ttu-id="c3b05-103">Nastavení dlouhodobého majetku</span><span class="sxs-lookup"><span data-stu-id="c3b05-103">Setting Up Fixed Assets</span></span>

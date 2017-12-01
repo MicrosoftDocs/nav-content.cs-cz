@@ -3,7 +3,7 @@ title: "Procesní prodejní příležitosti v prodejních cyklech"
 description: "Můžete zobrazit, zavřít nebo smazat prodejní příležitosti, ale také můžete vytvářet prodejní nabídky a objednávky pro příležitosti a posunout příležitost přes etapy prodejního cyklu."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 9fe0bd97f7493d9acf4ab99a771fd5f6219027f8
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: b626047e997363b15f7a322f37b544e04993def2
 ms.contentlocale: cs-cz
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-process-sales-opportunities"></a><span data-ttu-id="9afda-103">Návod: Správa prodejních příležitostí</span><span class="sxs-lookup"><span data-stu-id="9afda-103">How to: Process Sales Opportunities</span></span>

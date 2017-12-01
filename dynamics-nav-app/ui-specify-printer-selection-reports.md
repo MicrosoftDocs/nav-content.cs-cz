@@ -3,7 +3,7 @@ title: "nastavení Nastavení sestav k tisku na dané tiskárně"
 description: "Naučte se specifikovat tiskárnu pro tisk sestav a použít výběr tiskárny."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: online printing
 ms.date: 03/29/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 4c31738da8ca833c06d976d26b9cb170a05fd46e
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 18c1e4691f2cb5133610920d1a23d1f8a6b877f8
 ms.contentlocale: cs-cz
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="specify-printer-selection-for-reports"></a><span data-ttu-id="e35c5-103">Výběr specifické tiskárny pro sestavy</span><span class="sxs-lookup"><span data-stu-id="e35c5-103">Specify Printer Selection for Reports</span></span>

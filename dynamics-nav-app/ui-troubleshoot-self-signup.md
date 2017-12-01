@@ -3,7 +3,7 @@ title: "Způsoby řešení potíží nebo práce kolem problémů se samoobsluž
 description: "Informace o nejčastějších příčinách, proč pravděpodobně nebudete moci dokončit registraci do služby Dynamics NAV, a způsoby, jak se nimi vypořádat."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.workload: na
 ms.date: 06/02/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 24cee72ab3e6769d885f294c2e52fa01e192d384
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 42352938aff5ddffbc170310db0ba41b63770b34
 ms.contentlocale: cs-cz
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="troubleshooting-self-service-sign-up"></a><span data-ttu-id="a75f6-103">Řešení problémů s registrací do samoobslužné služby</span><span class="sxs-lookup"><span data-stu-id="a75f6-103">Troubleshooting Self-Service Sign-Up</span></span>

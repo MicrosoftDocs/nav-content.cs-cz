@@ -3,7 +3,7 @@ title: "Vyrovnání plateb k nezaplaceným prodejním dokumentům"
 description: "Můžete vyrovnat sumy placené zákazníkem k souvisejícím prodejním dokumentům a účtovat platby k aktualizaci zákazníka, hlavní knihy a položek banky."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: payment process, cash receipts, customer payment
 ms.date: 09/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: c39a45d513ef6d5f6d4da7a052888a051d9f06d6
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: e26c1df91b7a67a5ef3a6f56ed2af02a238e76da
 ms.contentlocale: cs-cz
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-reconcile-customer-payments-manually-from-a-list-of-unpaid-sales-documents"></a><span data-ttu-id="903bd-103">Návod: Manuální odsouhlasení plateb zákazníka z seznamu nezaplacených prodejních dokumentů</span><span class="sxs-lookup"><span data-stu-id="903bd-103">How to: Reconcile Customer Payments Manually From a List of Unpaid Sales Documents</span></span>

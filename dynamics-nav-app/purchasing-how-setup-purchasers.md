@@ -3,7 +3,7 @@ title: "NastaveníNastavení nákupčích a přiřazení nákupčích k dodavate
 description: "Pokud ve vaší organizaci pracuje několik nákupčích nebo nákupních agentů, můžete je uspořádat pro statistické analýzy."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: purchasing agent
 ms.date: 03/29/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 9368509b8892f23a25acaaf74410ff9279ba52d7
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: adf316cb8966fd25bead8cc0edab3a3fa011e2af
 ms.contentlocale: cs-cz
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-purchasers"></a><span data-ttu-id="3b930-103">Návod: Nastavení nákupčích</span><span class="sxs-lookup"><span data-stu-id="3b930-103">How to: Set Up Purchasers</span></span>

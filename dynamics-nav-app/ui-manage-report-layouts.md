@@ -3,7 +3,7 @@ title: "Práce s vlastními a vestavěnými rozloženími pro sestavy a doklady"
 description: "Pomocí rozvržení sestav můžete přizpůsobit dokumenty, například přizpůsobit nastavení písma, loga nebo stránky souborů PDF, které posíláte zákazníkům."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: customized report, document layout, logo, personalize
 ms.date: 03/29/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 11abe8b3375bca1515602143830d4c9963058172
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: c4542e968dcdc0f9cee156022397d7c3f4402782
 ms.contentlocale: cs-cz
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="managing-report-and-document-layouts"></a><span data-ttu-id="0e799-103">Správa rozložení sestav a dokladů</span><span class="sxs-lookup"><span data-stu-id="0e799-103">Managing Report and Document Layouts</span></span>

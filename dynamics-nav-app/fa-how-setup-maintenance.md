@@ -3,7 +3,7 @@ title: "Nastavení údržby DM"
 description: "Ke správě oprav a servisu dlouhodobého majetku, specifikujte všeobecné informace o údržbě, kódy pro typ práce a zaúčtovací účty pro náklady."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: repair, service
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: cb437985793e7fa4330d5bd8301d2808b5deafcc
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: b3776a34dc6ff46a4b7d9260c57164cf29aca709
 ms.contentlocale: cs-cz
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-fixed-asset-maintenance"></a><span data-ttu-id="b6120-103">Návod: Nastavení údržby dlouhodobého majetku</span><span class="sxs-lookup"><span data-stu-id="b6120-103">How to: Set Up Fixed Asset Maintenance</span></span>

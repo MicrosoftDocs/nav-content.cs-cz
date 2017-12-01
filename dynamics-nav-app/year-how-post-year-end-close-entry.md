@@ -3,7 +3,7 @@ title: "Zkontrolovat a  zaúčtovat položku ukončující rok"
 description: "Popisuje, jak otevřít deník, který jste zadali v dávkové úloze doložky výkazu příjmů, a poté zkontrolujte a zaúčtujte položku uzavření konce roku."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: year closing, close accounting period, close fiscal year, ba
 ms.date: 03/29/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: eeffd585b18c2b839db7be3f89d19497080b10ef
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 4711b6cac5e853adf8006febcfc7ef008d82d7d4
 ms.contentlocale: cs-cz
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-post-the-year-end-closing-entry"></a><span data-ttu-id="25fce-103">Návod: Zaúčtování položky ukončující rok</span><span class="sxs-lookup"><span data-stu-id="25fce-103">How to: Post the Year-End Closing Entry</span></span>

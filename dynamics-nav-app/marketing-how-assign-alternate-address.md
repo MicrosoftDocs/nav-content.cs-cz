@@ -3,7 +3,7 @@ title: "Přiřazení různých kontaktních adres"
 description: "Popisuje jak přiřadit alternativní adresu pro váš kontakt, kterých chcete posílat posílat informace."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 58c5b131768b4cef389d31ce533b29598cf1606a
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 34fd9fcc775507cf2464196151fb5c6f016aadc0
 ms.contentlocale: cs-cz
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-alternative-addresses-for-contacts"></a><span data-ttu-id="facc4-103">Návody Nastavení alternativní adresy pro kontakty</span><span class="sxs-lookup"><span data-stu-id="facc4-103">How to: Set Up Alternative Addresses for Contacts</span></span>
